@@ -1,0 +1,186 @@
+[
+  {
+    "matchId": "0022500999",
+    "matchTime": 1773792000,
+    "homeTeam": "BOS",
+    "awayTeam": "GSW",
+    "homeName": "Boston Celtics",
+    "awayName": "Golden State Warriors"
+  },
+  {
+    "matchId": "0022501000",
+    "matchTime": 1773792000,
+    "homeTeam": "BKN",
+    "awayTeam": "OKC",
+    "homeName": "Brooklyn Nets",
+    "awayName": "Oklahoma City Thunder"
+  },
+  {
+    "matchId": "0022501001",
+    "matchTime": 1773792000,
+    "homeTeam": "IND",
+    "awayTeam": "POR",
+    "homeName": "Indiana Pacers",
+    "awayName": "Portland Trail Blazers"
+  },
+  {
+    "matchId": "0022501002",
+    "matchTime": 1773792000,
+    "homeTeam": "CHI",
+    "awayTeam": "TOR",
+    "homeName": "Chicago Bulls",
+    "awayName": "Toronto Raptors"
+  },
+  {
+    "matchId": "0022501004",
+    "matchTime": 1773792000,
+    "homeTeam": "MIN",
+    "awayTeam": "UTA",
+    "homeName": "Minnesota Timberwolves",
+    "awayName": "Utah Jazz"
+  },
+  {
+    "matchId": "0022501005",
+    "matchTime": 1773792000,
+    "homeTeam": "NOP",
+    "awayTeam": "LAC",
+    "homeName": "New Orleans Pelicans",
+    "awayName": "Los Angeles Clippers"
+  },
+  {
+    "matchId": "0022500651",
+    "matchTime": 1773792000,
+    "homeTeam": "MEM",
+    "awayTeam": "DEN",
+    "homeName": "Memphis Grizzlies",
+    "awayName": "Denver Nuggets"
+  },
+  {
+    "matchId": "0022501006",
+    "matchTime": 1773792000,
+    "homeTeam": "DAL",
+    "awayTeam": "ATL",
+    "homeName": "Dallas Mavericks",
+    "awayName": "Atlanta Hawks"
+  },
+  {
+    "matchId": "0022501007",
+    "matchTime": 1773792000,
+    "homeTeam": "HOU",
+    "awayTeam": "LAL",
+    "homeName": "Houston Rockets",
+    "awayName": "Los Angeles Lakers"
+  },
+  {
+    "matchId": "0022501008",
+    "matchTime": 1773878400,
+    "homeTeam": "CHA",
+    "awayTeam": "ORL",
+    "homeName": "Charlotte Hornets",
+    "awayName": "Orlando Magic"
+  },
+  {
+    "matchId": "0022501009",
+    "matchTime": 1773878400,
+    "homeTeam": "WAS",
+    "awayTeam": "DET",
+    "homeName": "Washington Wizards",
+    "awayName": "Detroit Pistons"
+  },
+  {
+    "matchId": "0022501010",
+    "matchTime": 1773878400,
+    "homeTeam": "MIA",
+    "awayTeam": "LAL",
+    "homeName": "Miami Heat",
+    "awayName": "Los Angeles Lakers"
+  },
+  {
+    "matchId": "0022501011",
+    "matchTime": 1773878400,
+    "homeTeam": "CHI",
+    "awayTeam": "CLE",
+    "homeName": "Chicago Bulls",
+    "awayName": "Cleveland Cavaliers"
+  },
+  {
+    "matchId": "0022501012",
+    "matchTime": 1773878400,
+    "homeTeam": "NOP",
+    "awayTeam": "LAC",
+    "homeName": "New Orleans Pelicans",
+    "awayName": "Los Angeles Clippers"
+  },
+  {
+    "matchId": "0022501013",
+    "matchTime": 1773878400,
+    "homeTeam": "SAS",
+    "awayTeam": "PHX",
+    "homeName": "San Antonio Spurs",
+    "awayName": "Phoenix Suns"
+  },
+  {
+    "matchId": "0022501014",
+    "matchTime": 1773878400,
+    "homeTeam": "UTA",
+    "awayTeam": "MIL",
+    "homeName": "Utah Jazz",
+    "awayName": "Milwaukee Bucks"
+  },
+  {
+    "matchId": "0022501015",
+    "matchTime": 1773878400,
+    "homeTeam": "SAC",
+    "awayTeam": "PHI",
+    "homeName": "Sacramento Kings",
+    "awayName": "Philadelphia 76ers"
+  },
+  {
+    "matchId": "0022501016",
+    "matchTime": 1773964800,
+    "homeTeam": "BKN",
+    "awayTeam": "NYK",
+    "homeName": "Brooklyn Nets",
+    "awayName": "New York Knicks"
+  },
+  {
+    "matchId": "0022501017",
+    "matchTime": 1773964800,
+    "homeTeam": "DET",
+    "awayTeam": "GSW",
+    "homeName": "Detroit Pistons",
+    "awayName": "Golden State Warriors"
+  },
+  {
+    "matchId": "0022501018",
+    "matchTime": 1773964800,
+    "homeTeam": "HOU",
+    "awayTeam": "ATL",
+    "homeName": "Houston Rockets",
+    "awayName": "Atlanta Hawks"
+  },
+  {
+    "matchId": "0022501019",
+    "matchTime": 1773964800,
+    "homeTeam": "MEM",
+    "awayTeam": "BOS",
+    "homeName": "Memphis Grizzlies",
+    "awayName": "Boston Celtics"
+  },
+  {
+    "matchId": "0022501020",
+    "matchTime": 1773964800,
+    "homeTeam": "MIN",
+    "awayTeam": "POR",
+    "homeName": "Minnesota Timberwolves",
+    "awayName": "Portland Trail Blazers"
+  },
+  {
+    "matchId": "0022501021",
+    "matchTime": 1773964800,
+    "homeTeam": "DEN",
+    "awayTeam": "TOR",
+    "homeName": "Denver Nuggets",
+    "awayName": "Toronto Raptors"
+  }
+]

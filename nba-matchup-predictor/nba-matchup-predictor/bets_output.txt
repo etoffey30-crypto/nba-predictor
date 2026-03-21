@@ -1,0 +1,88 @@
+{
+  "matchup": "PHI @ BOS",
+  "projected_score": "BOS 54.9 - PHI 54.7",
+  "spread": "BOS -0.2",
+  "total": "109.6",
+  "win_prob_home": "50.8%",
+  "form": "BOS 4-W, PHI 3-W",
+  "key_shap": [
+    [
+      "p_ast",
+      -0.059309804794925536
+    ],
+    [
+      "p_pts",
+      -0.028658039054747685
+    ],
+    [
+      "adj_ortg_5",
+      0.02142103106600444
+    ]
+  ]
+}
+{
+  "matchup": "OKC @ DAL",
+  "projected_score": "DAL 57.0 - OKC 49.2",
+  "spread": "DAL -7.8",
+  "total": "106.3",
+  "win_prob_home": "82.5%",
+  "form": "DAL 2-W, OKC 4-W",
+  "key_shap": [
+    [
+      "p_ast",
+      -0.018275418832143557
+    ],
+    [
+      "adj_pace_5",
+      -0.01686188504638163
+    ],
+    [
+      "adj_drtg_5",
+      -0.016829616839237897
+    ]
+  ]
+}
+{
+  "matchup": "NOP @ LAC",
+  "projected_score": "LAC 50.1 - NOP 54.1",
+  "spread": "LAC +3.9",
+  "total": "104.2",
+  "win_prob_home": "31.4%",
+  "form": "LAC 2-W, NOP 4-W",
+  "key_shap": [
+    [
+      "adj_ortg_5",
+      -0.05286902229512379
+    ],
+    [
+      "p_stl",
+      0.0314992236032646
+    ],
+    [
+      "p_ast",
+      -0.02166090135157716
+    ]
+  ]
+}
+{
+  "matchup": "SAC @ LAL",
+  "projected_score": "LAL 45.0 - SAC 49.4",
+  "spread": "LAL +4.4",
+  "total": "94.4",
+  "win_prob_home": "29.1%",
+  "form": "LAL 2-W, SAC 2-W",
+  "key_shap": [
+    [
+      "p_ast",
+      -0.06599628170975541
+    ],
+    [
+      "p_pts",
+      -0.02180375699980389
+    ],
+    [
+      "p_tov",
+      -0.012915816695593565
+    ]
+  ]
+}

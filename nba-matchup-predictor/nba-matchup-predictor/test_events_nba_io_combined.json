@@ -1,0 +1,4265 @@
+[
+  {
+    "id": 62924877,
+    "home": "Boston Celtics",
+    "away": "Golden State Warriors",
+    "homeId": 3422,
+    "awayId": 3428,
+    "date": "2026-03-18T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "settled",
+    "scores": {
+      "home": 120,
+      "away": 99
+    }
+  },
+  {
+    "id": 62926113,
+    "home": "Indiana Pacers",
+    "away": "Portland Trail Blazers",
+    "homeId": 3419,
+    "awayId": 3414,
+    "date": "2026-03-18T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "settled",
+    "scores": {
+      "home": 119,
+      "away": 127
+    }
+  },
+  {
+    "id": 62926403,
+    "home": "Brooklyn Nets",
+    "away": "Oklahoma City Thunder",
+    "homeId": 3436,
+    "awayId": 3418,
+    "date": "2026-03-18T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "settled",
+    "scores": {
+      "home": 92,
+      "away": 121
+    }
+  },
+  {
+    "id": 62925053,
+    "home": "Minnesota Timberwolves",
+    "away": "Utah Jazz",
+    "homeId": 3426,
+    "awayId": 3434,
+    "date": "2026-03-19T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "settled",
+    "scores": {
+      "home": 147,
+      "away": 111
+    }
+  },
+  {
+    "id": 62925209,
+    "home": "New Orleans Pelicans",
+    "away": "LA Clippers",
+    "homeId": 5539,
+    "awayId": 3425,
+    "date": "2026-03-19T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "settled",
+    "scores": {
+      "home": 124,
+      "away": 109
+    }
+  },
+  {
+    "id": 62925215,
+    "home": "Chicago Bulls",
+    "away": "Toronto Raptors",
+    "homeId": 3409,
+    "awayId": 3433,
+    "date": "2026-03-19T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "settled",
+    "scores": {
+      "home": 109,
+      "away": 139
+    }
+  },
+  {
+    "id": 62926503,
+    "home": "Dallas Mavericks",
+    "away": "Atlanta Hawks",
+    "homeId": 3411,
+    "awayId": 3423,
+    "date": "2026-03-19T00:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "settled",
+    "scores": {
+      "home": 120,
+      "away": 135
+    }
+  },
+  {
+    "id": 68385424,
+    "home": "Memphis Grizzlies",
+    "away": "Denver Nuggets",
+    "homeId": 3415,
+    "awayId": 3417,
+    "date": "2026-03-19T00:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "settled",
+    "scores": {
+      "home": 125,
+      "away": 118
+    }
+  },
+  {
+    "id": 62925055,
+    "home": "Houston Rockets",
+    "away": "Los Angeles Lakers",
+    "homeId": 3412,
+    "awayId": 3427,
+    "date": "2026-03-19T01:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "settled",
+    "scores": {
+      "home": 116,
+      "away": 124
+    }
+  },
+  {
+    "id": 62924737,
+    "home": "Washington Wizards",
+    "away": "Detroit Pistons",
+    "homeId": 3431,
+    "awayId": 3424,
+    "date": "2026-03-19T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "settled",
+    "scores": {
+      "home": 95,
+      "away": 117
+    }
+  },
+  {
+    "id": 62926287,
+    "home": "Charlotte Hornets",
+    "away": "Orlando Magic",
+    "homeId": 3430,
+    "awayId": 3437,
+    "date": "2026-03-19T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "settled",
+    "scores": {
+      "home": 130,
+      "away": 111
+    }
+  },
+  {
+    "id": 62924609,
+    "home": "Miami Heat",
+    "away": "Los Angeles Lakers",
+    "homeId": 3435,
+    "awayId": 3427,
+    "date": "2026-03-20T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "settled",
+    "scores": {
+      "home": 126,
+      "away": 134
+    }
+  },
+  {
+    "id": 62924761,
+    "home": "Chicago Bulls",
+    "away": "Cleveland Cavaliers",
+    "homeId": 3409,
+    "awayId": 3432,
+    "date": "2026-03-20T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "settled",
+    "scores": {
+      "home": 110,
+      "away": 115
+    }
+  },
+  {
+    "id": 62926243,
+    "home": "New Orleans Pelicans",
+    "away": "LA Clippers",
+    "homeId": 5539,
+    "awayId": 3425,
+    "date": "2026-03-20T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "settled",
+    "scores": {
+      "home": 105,
+      "away": 99
+    }
+  },
+  {
+    "id": 62926531,
+    "home": "San Antonio Spurs",
+    "away": "Phoenix Suns",
+    "homeId": 3429,
+    "awayId": 3416,
+    "date": "2026-03-20T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "settled",
+    "scores": {
+      "home": 101,
+      "away": 100
+    }
+  },
+  {
+    "id": 62926033,
+    "home": "Utah Jazz",
+    "away": "Milwaukee Bucks",
+    "homeId": 3434,
+    "awayId": 3410,
+    "date": "2026-03-20T01:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "settled",
+    "scores": {
+      "home": 128,
+      "away": 96
+    }
+  },
+  {
+    "id": 62924613,
+    "home": "Sacramento Kings",
+    "away": "Philadelphia 76ers",
+    "homeId": 3413,
+    "awayId": 3420,
+    "date": "2026-03-20T02:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "settled",
+    "scores": {
+      "home": 118,
+      "away": 139
+    }
+  },
+  {
+    "id": 62924493,
+    "home": "Detroit Pistons",
+    "away": "Golden State Warriors",
+    "homeId": 3424,
+    "awayId": 3428,
+    "date": "2026-03-20T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925461,
+    "home": "Brooklyn Nets",
+    "away": "New York Knicks",
+    "homeId": 3436,
+    "awayId": 3421,
+    "date": "2026-03-20T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925113,
+    "home": "Minnesota Timberwolves",
+    "away": "Portland Trail Blazers",
+    "homeId": 3426,
+    "awayId": 3414,
+    "date": "2026-03-21T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925351,
+    "home": "Memphis Grizzlies",
+    "away": "Boston Celtics",
+    "homeId": 3415,
+    "awayId": 3422,
+    "date": "2026-03-21T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925999,
+    "home": "Houston Rockets",
+    "away": "Atlanta Hawks",
+    "homeId": 3412,
+    "awayId": 3423,
+    "date": "2026-03-21T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925629,
+    "home": "Denver Nuggets",
+    "away": "Toronto Raptors",
+    "homeId": 3417,
+    "awayId": 3433,
+    "date": "2026-03-21T01:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925909,
+    "home": "Washington Wizards",
+    "away": "Oklahoma City Thunder",
+    "homeId": 3431,
+    "awayId": 3418,
+    "date": "2026-03-21T21:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924651,
+    "home": "Orlando Magic",
+    "away": "Los Angeles Lakers",
+    "homeId": 3437,
+    "awayId": 3427,
+    "date": "2026-03-21T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925581,
+    "home": "Charlotte Hornets",
+    "away": "Memphis Grizzlies",
+    "homeId": 3430,
+    "awayId": 3415,
+    "date": "2026-03-21T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926353,
+    "home": "New Orleans Pelicans",
+    "away": "Cleveland Cavaliers",
+    "homeId": 5539,
+    "awayId": 3432,
+    "date": "2026-03-21T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924515,
+    "home": "San Antonio Spurs",
+    "away": "Indiana Pacers",
+    "homeId": 3429,
+    "awayId": 3419,
+    "date": "2026-03-22T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925265,
+    "home": "Houston Rockets",
+    "away": "Miami Heat",
+    "homeId": 3412,
+    "awayId": 3435,
+    "date": "2026-03-22T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926139,
+    "home": "Atlanta Hawks",
+    "away": "Golden State Warriors",
+    "homeId": 3423,
+    "awayId": 3428,
+    "date": "2026-03-22T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925429,
+    "home": "Dallas Mavericks",
+    "away": "LA Clippers",
+    "homeId": 3411,
+    "awayId": 3425,
+    "date": "2026-03-22T00:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925463,
+    "home": "Utah Jazz",
+    "away": "Philadelphia 76ers",
+    "homeId": 3434,
+    "awayId": 3420,
+    "date": "2026-03-22T01:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926537,
+    "home": "Phoenix Suns",
+    "away": "Milwaukee Bucks",
+    "homeId": 3416,
+    "awayId": 3410,
+    "date": "2026-03-22T02:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926029,
+    "home": "Denver Nuggets",
+    "away": "Portland Trail Blazers",
+    "homeId": 3417,
+    "awayId": 3414,
+    "date": "2026-03-22T21:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925857,
+    "home": "Sacramento Kings",
+    "away": "Brooklyn Nets",
+    "homeId": 3413,
+    "awayId": 3436,
+    "date": "2026-03-22T22:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926275,
+    "home": "New York Knicks",
+    "away": "Washington Wizards",
+    "homeId": 3421,
+    "awayId": 3431,
+    "date": "2026-03-22T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925475,
+    "home": "Boston Celtics",
+    "away": "Minnesota Timberwolves",
+    "homeId": 3422,
+    "awayId": 3426,
+    "date": "2026-03-23T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925927,
+    "home": "Phoenix Suns",
+    "away": "Toronto Raptors",
+    "homeId": 3416,
+    "awayId": 3433,
+    "date": "2026-03-23T01:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924307,
+    "home": "Philadelphia 76ers",
+    "away": "Oklahoma City Thunder",
+    "homeId": 3420,
+    "awayId": 3418,
+    "date": "2026-03-23T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925961,
+    "home": "Detroit Pistons",
+    "away": "Los Angeles Lakers",
+    "homeId": 3424,
+    "awayId": 3427,
+    "date": "2026-03-23T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926435,
+    "home": "Miami Heat",
+    "away": "San Antonio Spurs",
+    "homeId": 3435,
+    "awayId": 3429,
+    "date": "2026-03-23T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926479,
+    "home": "Orlando Magic",
+    "away": "Indiana Pacers",
+    "homeId": 3437,
+    "awayId": 3419,
+    "date": "2026-03-23T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925293,
+    "home": "Atlanta Hawks",
+    "away": "Memphis Grizzlies",
+    "homeId": 3423,
+    "awayId": 3415,
+    "date": "2026-03-23T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924975,
+    "home": "Chicago Bulls",
+    "away": "Houston Rockets",
+    "homeId": 3409,
+    "awayId": 3412,
+    "date": "2026-03-24T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924885,
+    "home": "Utah Jazz",
+    "away": "Toronto Raptors",
+    "homeId": 3434,
+    "awayId": 3433,
+    "date": "2026-03-24T01:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924577,
+    "home": "Dallas Mavericks",
+    "away": "Golden State Warriors",
+    "homeId": 3411,
+    "awayId": 3428,
+    "date": "2026-03-24T01:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925335,
+    "home": "Portland Trail Blazers",
+    "away": "Brooklyn Nets",
+    "homeId": 3414,
+    "awayId": 3436,
+    "date": "2026-03-24T02:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925513,
+    "home": "LA Clippers",
+    "away": "Milwaukee Bucks",
+    "homeId": 3425,
+    "awayId": 3410,
+    "date": "2026-03-24T02:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926105,
+    "home": "Charlotte Hornets",
+    "away": "Sacramento Kings",
+    "homeId": 3430,
+    "awayId": 3413,
+    "date": "2026-03-24T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926349,
+    "home": "New York Knicks",
+    "away": "New Orleans Pelicans",
+    "homeId": 3421,
+    "awayId": 5539,
+    "date": "2026-03-24T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925729,
+    "home": "Cleveland Cavaliers",
+    "away": "Orlando Magic",
+    "homeId": 3432,
+    "awayId": 3437,
+    "date": "2026-03-25T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924773,
+    "home": "Phoenix Suns",
+    "away": "Denver Nuggets",
+    "homeId": 3416,
+    "awayId": 3417,
+    "date": "2026-03-25T03:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924927,
+    "home": "Indiana Pacers",
+    "away": "Los Angeles Lakers",
+    "homeId": 3419,
+    "awayId": 3427,
+    "date": "2026-03-25T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925381,
+    "home": "Philadelphia 76ers",
+    "away": "Chicago Bulls",
+    "homeId": 3420,
+    "awayId": 3409,
+    "date": "2026-03-25T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925699,
+    "home": "Detroit Pistons",
+    "away": "Atlanta Hawks",
+    "homeId": 3424,
+    "awayId": 3423,
+    "date": "2026-03-25T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925147,
+    "home": "Boston Celtics",
+    "away": "Oklahoma City Thunder",
+    "homeId": 3422,
+    "awayId": 3418,
+    "date": "2026-03-25T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925947,
+    "home": "Cleveland Cavaliers",
+    "away": "Miami Heat",
+    "homeId": 3432,
+    "awayId": 3435,
+    "date": "2026-03-25T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925595,
+    "home": "Memphis Grizzlies",
+    "away": "San Antonio Spurs",
+    "homeId": 3415,
+    "awayId": 3429,
+    "date": "2026-03-26T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925153,
+    "home": "Utah Jazz",
+    "away": "Washington Wizards",
+    "homeId": 3434,
+    "awayId": 3431,
+    "date": "2026-03-26T01:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924677,
+    "home": "Minnesota Timberwolves",
+    "away": "Houston Rockets",
+    "homeId": 3426,
+    "awayId": 3412,
+    "date": "2026-03-26T01:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925123,
+    "home": "Golden State Warriors",
+    "away": "Brooklyn Nets",
+    "homeId": 3428,
+    "awayId": 3436,
+    "date": "2026-03-26T02:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926095,
+    "home": "Portland Trail Blazers",
+    "away": "Milwaukee Bucks",
+    "homeId": 3414,
+    "awayId": 3410,
+    "date": "2026-03-26T02:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926319,
+    "home": "Denver Nuggets",
+    "away": "Dallas Mavericks",
+    "homeId": 3417,
+    "awayId": 3411,
+    "date": "2026-03-26T02:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925277,
+    "home": "LA Clippers",
+    "away": "Toronto Raptors",
+    "homeId": 3425,
+    "awayId": 3433,
+    "date": "2026-03-26T02:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924911,
+    "home": "Orlando Magic",
+    "away": "Sacramento Kings",
+    "homeId": 3437,
+    "awayId": 3413,
+    "date": "2026-03-26T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925747,
+    "home": "Detroit Pistons",
+    "away": "New Orleans Pelicans",
+    "homeId": 3424,
+    "awayId": 5539,
+    "date": "2026-03-26T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925931,
+    "home": "Charlotte Hornets",
+    "away": "New York Knicks",
+    "homeId": 3430,
+    "awayId": 3421,
+    "date": "2026-03-26T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924959,
+    "home": "Indiana Pacers",
+    "away": "LA Clippers",
+    "homeId": 3419,
+    "awayId": 3425,
+    "date": "2026-03-27T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925593,
+    "home": "Boston Celtics",
+    "away": "Atlanta Hawks",
+    "homeId": 3422,
+    "awayId": 3423,
+    "date": "2026-03-27T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925673,
+    "home": "Cleveland Cavaliers",
+    "away": "Miami Heat",
+    "homeId": 3432,
+    "awayId": 3435,
+    "date": "2026-03-27T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925261,
+    "home": "Oklahoma City Thunder",
+    "away": "Chicago Bulls",
+    "homeId": 3418,
+    "awayId": 3409,
+    "date": "2026-03-28T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926523,
+    "home": "Memphis Grizzlies",
+    "away": "Houston Rockets",
+    "homeId": 3415,
+    "awayId": 3412,
+    "date": "2026-03-28T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926205,
+    "home": "Toronto Raptors",
+    "away": "New Orleans Pelicans",
+    "homeId": 3433,
+    "awayId": 5539,
+    "date": "2026-03-28T00:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925213,
+    "home": "Denver Nuggets",
+    "away": "Utah Jazz",
+    "homeId": 3417,
+    "awayId": 3434,
+    "date": "2026-03-28T01:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924537,
+    "home": "Portland Trail Blazers",
+    "away": "Dallas Mavericks",
+    "homeId": 3414,
+    "awayId": 3411,
+    "date": "2026-03-28T02:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925241,
+    "home": "Golden State Warriors",
+    "away": "Washington Wizards",
+    "homeId": 3428,
+    "awayId": 3431,
+    "date": "2026-03-28T02:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924907,
+    "home": "Los Angeles Lakers",
+    "away": "Brooklyn Nets",
+    "homeId": 3427,
+    "awayId": 3436,
+    "date": "2026-03-28T02:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926485,
+    "home": "Milwaukee Bucks",
+    "away": "San Antonio Spurs",
+    "homeId": 3410,
+    "awayId": 3429,
+    "date": "2026-03-28T19:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926153,
+    "home": "Minnesota Timberwolves",
+    "away": "Detroit Pistons",
+    "homeId": 3426,
+    "awayId": 3424,
+    "date": "2026-03-28T21:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926505,
+    "home": "Charlotte Hornets",
+    "away": "Philadelphia 76ers",
+    "homeId": 3430,
+    "awayId": 3420,
+    "date": "2026-03-28T22:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924359,
+    "home": "Atlanta Hawks",
+    "away": "Sacramento Kings",
+    "homeId": 3423,
+    "awayId": 3413,
+    "date": "2026-03-28T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926021,
+    "home": "Memphis Grizzlies",
+    "away": "Chicago Bulls",
+    "homeId": 3415,
+    "awayId": 3409,
+    "date": "2026-03-29T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924695,
+    "home": "Phoenix Suns",
+    "away": "Utah Jazz",
+    "homeId": 3416,
+    "awayId": 3434,
+    "date": "2026-03-29T02:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926051,
+    "home": "Milwaukee Bucks",
+    "away": "LA Clippers",
+    "homeId": 3410,
+    "awayId": 3425,
+    "date": "2026-03-29T19:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925869,
+    "home": "Indiana Pacers",
+    "away": "Miami Heat",
+    "homeId": 3419,
+    "awayId": 3435,
+    "date": "2026-03-29T21:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924415,
+    "home": "Portland Trail Blazers",
+    "away": "Washington Wizards",
+    "homeId": 3414,
+    "awayId": 3431,
+    "date": "2026-03-29T22:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925169,
+    "home": "Charlotte Hornets",
+    "away": "Boston Celtics",
+    "homeId": 3430,
+    "awayId": 3422,
+    "date": "2026-03-29T22:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925221,
+    "home": "Toronto Raptors",
+    "away": "Orlando Magic",
+    "homeId": 3433,
+    "awayId": 3437,
+    "date": "2026-03-29T22:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925465,
+    "home": "Brooklyn Nets",
+    "away": "Sacramento Kings",
+    "homeId": 3436,
+    "awayId": 3413,
+    "date": "2026-03-29T22:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924739,
+    "home": "New Orleans Pelicans",
+    "away": "Houston Rockets",
+    "homeId": 5539,
+    "awayId": 3412,
+    "date": "2026-03-29T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924499,
+    "home": "Oklahoma City Thunder",
+    "away": "New York Knicks",
+    "homeId": 3418,
+    "awayId": 3421,
+    "date": "2026-03-29T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924821,
+    "home": "Denver Nuggets",
+    "away": "Golden State Warriors",
+    "homeId": 3417,
+    "awayId": 3428,
+    "date": "2026-03-30T02:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926441,
+    "home": "Miami Heat",
+    "away": "Philadelphia 76ers",
+    "homeId": 3435,
+    "awayId": 3420,
+    "date": "2026-03-30T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924519,
+    "home": "Atlanta Hawks",
+    "away": "Boston Celtics",
+    "homeId": 3423,
+    "awayId": 3422,
+    "date": "2026-03-30T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924889,
+    "home": "Memphis Grizzlies",
+    "away": "Phoenix Suns",
+    "homeId": 3415,
+    "awayId": 3416,
+    "date": "2026-03-31T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925911,
+    "home": "San Antonio Spurs",
+    "away": "Chicago Bulls",
+    "homeId": 3429,
+    "awayId": 3409,
+    "date": "2026-03-31T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925813,
+    "home": "Dallas Mavericks",
+    "away": "Minnesota Timberwolves",
+    "homeId": 3411,
+    "awayId": 3426,
+    "date": "2026-03-31T00:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925561,
+    "home": "Utah Jazz",
+    "away": "Cleveland Cavaliers",
+    "homeId": 3434,
+    "awayId": 3432,
+    "date": "2026-03-31T01:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926423,
+    "home": "Oklahoma City Thunder",
+    "away": "Detroit Pistons",
+    "homeId": 3418,
+    "awayId": 3424,
+    "date": "2026-03-31T01:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925443,
+    "home": "Los Angeles Lakers",
+    "away": "Washington Wizards",
+    "homeId": 3427,
+    "awayId": 3431,
+    "date": "2026-03-31T02:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925501,
+    "home": "Orlando Magic",
+    "away": "Phoenix Suns",
+    "homeId": 3437,
+    "awayId": 3416,
+    "date": "2026-03-31T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924497,
+    "home": "Brooklyn Nets",
+    "away": "Charlotte Hornets",
+    "homeId": 3436,
+    "awayId": 3430,
+    "date": "2026-03-31T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924863,
+    "home": "Houston Rockets",
+    "away": "New York Knicks",
+    "homeId": 3412,
+    "awayId": 3421,
+    "date": "2026-04-01T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925149,
+    "home": "Detroit Pistons",
+    "away": "Toronto Raptors",
+    "homeId": 3424,
+    "awayId": 3433,
+    "date": "2026-04-01T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 68385426,
+    "home": "Milwaukee Bucks",
+    "away": "Dallas Mavericks",
+    "homeId": 3410,
+    "awayId": 3411,
+    "date": "2026-04-01T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925551,
+    "home": "Los Angeles Lakers",
+    "away": "Cleveland Cavaliers",
+    "homeId": 3427,
+    "awayId": 3432,
+    "date": "2026-04-01T02:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924441,
+    "home": "LA Clippers",
+    "away": "Portland Trail Blazers",
+    "homeId": 3425,
+    "awayId": 3414,
+    "date": "2026-04-01T03:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925929,
+    "home": "Washington Wizards",
+    "away": "Philadelphia 76ers",
+    "homeId": 3431,
+    "awayId": 3420,
+    "date": "2026-04-01T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925189,
+    "home": "Orlando Magic",
+    "away": "Atlanta Hawks",
+    "homeId": 3437,
+    "awayId": 3423,
+    "date": "2026-04-01T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925799,
+    "home": "Miami Heat",
+    "away": "Boston Celtics",
+    "homeId": 3435,
+    "awayId": 3422,
+    "date": "2026-04-01T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924491,
+    "home": "Memphis Grizzlies",
+    "away": "New York Knicks",
+    "homeId": 3415,
+    "awayId": 3421,
+    "date": "2026-04-02T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924645,
+    "home": "Houston Rockets",
+    "away": "Milwaukee Bucks",
+    "homeId": 3412,
+    "awayId": 3410,
+    "date": "2026-04-02T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925641,
+    "home": "Chicago Bulls",
+    "away": "Indiana Pacers",
+    "homeId": 3409,
+    "awayId": 3419,
+    "date": "2026-04-02T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925789,
+    "home": "Toronto Raptors",
+    "away": "Sacramento Kings",
+    "homeId": 3433,
+    "awayId": 3413,
+    "date": "2026-04-02T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924753,
+    "home": "Utah Jazz",
+    "away": "Denver Nuggets",
+    "homeId": 3434,
+    "awayId": 3417,
+    "date": "2026-04-02T01:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925021,
+    "home": "Golden State Warriors",
+    "away": "San Antonio Spurs",
+    "homeId": 3428,
+    "awayId": 3429,
+    "date": "2026-04-02T02:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924939,
+    "home": "Charlotte Hornets",
+    "away": "Phoenix Suns",
+    "homeId": 3430,
+    "awayId": 3416,
+    "date": "2026-04-02T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925235,
+    "home": "Detroit Pistons",
+    "away": "Minnesota Timberwolves",
+    "homeId": 3424,
+    "awayId": 3426,
+    "date": "2026-04-02T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926481,
+    "home": "Oklahoma City Thunder",
+    "away": "Los Angeles Lakers",
+    "homeId": 3418,
+    "awayId": 3427,
+    "date": "2026-04-03T01:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924689,
+    "home": "Golden State Warriors",
+    "away": "Cleveland Cavaliers",
+    "homeId": 3428,
+    "awayId": 3432,
+    "date": "2026-04-03T02:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925203,
+    "home": "Portland Trail Blazers",
+    "away": "New Orleans Pelicans",
+    "homeId": 3414,
+    "awayId": 5539,
+    "date": "2026-04-03T02:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925247,
+    "home": "LA Clippers",
+    "away": "San Antonio Spurs",
+    "homeId": 3425,
+    "awayId": 3429,
+    "date": "2026-04-03T02:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924697,
+    "home": "Charlotte Hornets",
+    "away": "Indiana Pacers",
+    "homeId": 3430,
+    "awayId": 3419,
+    "date": "2026-04-03T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925945,
+    "home": "Philadelphia 76ers",
+    "away": "Minnesota Timberwolves",
+    "homeId": 3420,
+    "awayId": 3426,
+    "date": "2026-04-03T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924593,
+    "home": "New York Knicks",
+    "away": "Chicago Bulls",
+    "homeId": 3421,
+    "awayId": 3409,
+    "date": "2026-04-03T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925477,
+    "home": "Brooklyn Nets",
+    "away": "Atlanta Hawks",
+    "homeId": 3436,
+    "awayId": 3423,
+    "date": "2026-04-03T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924483,
+    "home": "Memphis Grizzlies",
+    "away": "Toronto Raptors",
+    "homeId": 3415,
+    "awayId": 3433,
+    "date": "2026-04-04T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924705,
+    "home": "Houston Rockets",
+    "away": "Utah Jazz",
+    "homeId": 3412,
+    "awayId": 3434,
+    "date": "2026-04-04T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924855,
+    "home": "Milwaukee Bucks",
+    "away": "Boston Celtics",
+    "homeId": 3410,
+    "awayId": 3422,
+    "date": "2026-04-04T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925871,
+    "home": "Dallas Mavericks",
+    "away": "Orlando Magic",
+    "homeId": 3411,
+    "awayId": 3437,
+    "date": "2026-04-04T00:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925111,
+    "home": "Sacramento Kings",
+    "away": "New Orleans Pelicans",
+    "homeId": 3413,
+    "awayId": 5539,
+    "date": "2026-04-04T02:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924365,
+    "home": "Miami Heat",
+    "away": "Washington Wizards",
+    "homeId": 3435,
+    "awayId": 3431,
+    "date": "2026-04-04T19:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925583,
+    "home": "Denver Nuggets",
+    "away": "San Antonio Spurs",
+    "homeId": 3417,
+    "awayId": 3429,
+    "date": "2026-04-04T19:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925719,
+    "home": "Philadelphia 76ers",
+    "away": "Detroit Pistons",
+    "homeId": 3420,
+    "awayId": 3424,
+    "date": "2026-04-04T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924423,
+    "home": "Chicago Bulls",
+    "away": "Phoenix Suns",
+    "homeId": 3409,
+    "awayId": 3416,
+    "date": "2026-04-05T19:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924847,
+    "home": "Milwaukee Bucks",
+    "away": "Memphis Grizzlies",
+    "homeId": 3410,
+    "awayId": 3415,
+    "date": "2026-04-05T19:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925495,
+    "home": "Boston Celtics",
+    "away": "Toronto Raptors",
+    "homeId": 3422,
+    "awayId": 3433,
+    "date": "2026-04-05T19:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925525,
+    "home": "Brooklyn Nets",
+    "away": "Washington Wizards",
+    "homeId": 3436,
+    "awayId": 3431,
+    "date": "2026-04-05T19:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925759,
+    "home": "Cleveland Cavaliers",
+    "away": "Indiana Pacers",
+    "homeId": 3432,
+    "awayId": 3419,
+    "date": "2026-04-05T22:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925297,
+    "home": "Oklahoma City Thunder",
+    "away": "Utah Jazz",
+    "homeId": 3418,
+    "awayId": 3434,
+    "date": "2026-04-05T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925407,
+    "home": "Minnesota Timberwolves",
+    "away": "Charlotte Hornets",
+    "homeId": 3426,
+    "awayId": 3430,
+    "date": "2026-04-05T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926101,
+    "home": "New Orleans Pelicans",
+    "away": "Orlando Magic",
+    "homeId": 5539,
+    "awayId": 3437,
+    "date": "2026-04-05T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925727,
+    "home": "Dallas Mavericks",
+    "away": "Los Angeles Lakers",
+    "homeId": 3411,
+    "awayId": 3427,
+    "date": "2026-04-05T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926151,
+    "home": "Sacramento Kings",
+    "away": "LA Clippers",
+    "homeId": 3413,
+    "awayId": 3425,
+    "date": "2026-04-06T01:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926121,
+    "home": "Golden State Warriors",
+    "away": "Houston Rockets",
+    "homeId": 3428,
+    "awayId": 3412,
+    "date": "2026-04-06T02:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924303,
+    "home": "Atlanta Hawks",
+    "away": "New York Knicks",
+    "homeId": 3423,
+    "awayId": 3421,
+    "date": "2026-04-06T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925589,
+    "home": "Orlando Magic",
+    "away": "Detroit Pistons",
+    "homeId": 3437,
+    "awayId": 3424,
+    "date": "2026-04-06T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924943,
+    "home": "San Antonio Spurs",
+    "away": "Philadelphia 76ers",
+    "homeId": 3429,
+    "awayId": 3420,
+    "date": "2026-04-07T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925225,
+    "home": "Memphis Grizzlies",
+    "away": "Cleveland Cavaliers",
+    "homeId": 3415,
+    "awayId": 3432,
+    "date": "2026-04-07T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924745,
+    "home": "Denver Nuggets",
+    "away": "Portland Trail Blazers",
+    "homeId": 3417,
+    "awayId": 3414,
+    "date": "2026-04-07T01:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925131,
+    "home": "Washington Wizards",
+    "away": "Chicago Bulls",
+    "homeId": 3431,
+    "awayId": 3409,
+    "date": "2026-04-07T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924521,
+    "home": "Toronto Raptors",
+    "away": "Miami Heat",
+    "homeId": 3433,
+    "awayId": 3435,
+    "date": "2026-04-07T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925397,
+    "home": "Brooklyn Nets",
+    "away": "Milwaukee Bucks",
+    "homeId": 3436,
+    "awayId": 3410,
+    "date": "2026-04-07T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925701,
+    "home": "Boston Celtics",
+    "away": "Charlotte Hornets",
+    "homeId": 3422,
+    "awayId": 3430,
+    "date": "2026-04-07T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924763,
+    "home": "Indiana Pacers",
+    "away": "Minnesota Timberwolves",
+    "homeId": 3419,
+    "awayId": 3426,
+    "date": "2026-04-08T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925125,
+    "home": "New Orleans Pelicans",
+    "away": "Utah Jazz",
+    "homeId": 5539,
+    "awayId": 3434,
+    "date": "2026-04-08T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925959,
+    "home": "Golden State Warriors",
+    "away": "Sacramento Kings",
+    "homeId": 3428,
+    "awayId": 3413,
+    "date": "2026-04-08T02:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924355,
+    "home": "Los Angeles Lakers",
+    "away": "Oklahoma City Thunder",
+    "homeId": 3427,
+    "awayId": 3418,
+    "date": "2026-04-08T02:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925491,
+    "home": "LA Clippers",
+    "away": "Dallas Mavericks",
+    "homeId": 3425,
+    "awayId": 3411,
+    "date": "2026-04-08T02:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924915,
+    "home": "Phoenix Suns",
+    "away": "Houston Rockets",
+    "homeId": 3416,
+    "awayId": 3412,
+    "date": "2026-04-08T03:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925337,
+    "home": "Detroit Pistons",
+    "away": "Milwaukee Bucks",
+    "homeId": 3424,
+    "awayId": 3410,
+    "date": "2026-04-08T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925917,
+    "home": "Cleveland Cavaliers",
+    "away": "Atlanta Hawks",
+    "homeId": 3432,
+    "awayId": 3423,
+    "date": "2026-04-08T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926197,
+    "home": "Orlando Magic",
+    "away": "Minnesota Timberwolves",
+    "homeId": 3437,
+    "awayId": 3426,
+    "date": "2026-04-08T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924731,
+    "home": "Denver Nuggets",
+    "away": "Memphis Grizzlies",
+    "homeId": 3417,
+    "awayId": 3415,
+    "date": "2026-04-09T01:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926225,
+    "home": "San Antonio Spurs",
+    "away": "Portland Trail Blazers",
+    "homeId": 3429,
+    "awayId": 3414,
+    "date": "2026-04-09T01:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925045,
+    "home": "Phoenix Suns",
+    "away": "Dallas Mavericks",
+    "homeId": 3416,
+    "awayId": 3411,
+    "date": "2026-04-09T02:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925057,
+    "home": "LA Clippers",
+    "away": "Oklahoma City Thunder",
+    "homeId": 3425,
+    "awayId": 3418,
+    "date": "2026-04-09T02:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925635,
+    "home": "Toronto Raptors",
+    "away": "Miami Heat",
+    "homeId": 3433,
+    "awayId": 3435,
+    "date": "2026-04-09T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926263,
+    "home": "Washington Wizards",
+    "away": "Chicago Bulls",
+    "homeId": 3431,
+    "awayId": 3409,
+    "date": "2026-04-09T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924729,
+    "home": "Brooklyn Nets",
+    "away": "Indiana Pacers",
+    "homeId": 3436,
+    "awayId": 3419,
+    "date": "2026-04-09T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925333,
+    "home": "New York Knicks",
+    "away": "Boston Celtics",
+    "homeId": 3421,
+    "awayId": 3422,
+    "date": "2026-04-09T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926239,
+    "home": "Houston Rockets",
+    "away": "Philadelphia 76ers",
+    "homeId": 3412,
+    "awayId": 3420,
+    "date": "2026-04-10T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924913,
+    "home": "Golden State Warriors",
+    "away": "Los Angeles Lakers",
+    "homeId": 3428,
+    "awayId": 3427,
+    "date": "2026-04-10T02:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924389,
+    "home": "Charlotte Hornets",
+    "away": "Detroit Pistons",
+    "homeId": 3430,
+    "awayId": 3424,
+    "date": "2026-04-10T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925175,
+    "home": "Washington Wizards",
+    "away": "Miami Heat",
+    "homeId": 3431,
+    "awayId": 3435,
+    "date": "2026-04-10T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925323,
+    "home": "Atlanta Hawks",
+    "away": "Cleveland Cavaliers",
+    "homeId": 3423,
+    "awayId": 3432,
+    "date": "2026-04-10T23:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925529,
+    "home": "Indiana Pacers",
+    "away": "Philadelphia 76ers",
+    "homeId": 3419,
+    "awayId": 3420,
+    "date": "2026-04-10T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926073,
+    "home": "Boston Celtics",
+    "away": "New Orleans Pelicans",
+    "homeId": 3422,
+    "awayId": 5539,
+    "date": "2026-04-10T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926109,
+    "home": "New York Knicks",
+    "away": "Toronto Raptors",
+    "homeId": 3421,
+    "awayId": 3433,
+    "date": "2026-04-10T23:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924313,
+    "home": "Milwaukee Bucks",
+    "away": "Brooklyn Nets",
+    "homeId": 3410,
+    "awayId": 3436,
+    "date": "2026-04-11T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925851,
+    "home": "Chicago Bulls",
+    "away": "Orlando Magic",
+    "homeId": 3409,
+    "awayId": 3437,
+    "date": "2026-04-11T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926175,
+    "home": "San Antonio Spurs",
+    "away": "Dallas Mavericks",
+    "homeId": 3429,
+    "awayId": 3411,
+    "date": "2026-04-11T00:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924781,
+    "home": "Denver Nuggets",
+    "away": "Oklahoma City Thunder",
+    "homeId": 3417,
+    "awayId": 3418,
+    "date": "2026-04-11T01:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924819,
+    "home": "Utah Jazz",
+    "away": "Memphis Grizzlies",
+    "homeId": 3434,
+    "awayId": 3415,
+    "date": "2026-04-11T01:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926035,
+    "home": "Houston Rockets",
+    "away": "Minnesota Timberwolves",
+    "homeId": 3412,
+    "awayId": 3426,
+    "date": "2026-04-11T01:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924883,
+    "home": "Sacramento Kings",
+    "away": "Golden State Warriors",
+    "homeId": 3413,
+    "awayId": 3428,
+    "date": "2026-04-11T02:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925661,
+    "home": "Portland Trail Blazers",
+    "away": "LA Clippers",
+    "homeId": 3414,
+    "awayId": 3425,
+    "date": "2026-04-11T02:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924905,
+    "home": "Los Angeles Lakers",
+    "away": "Phoenix Suns",
+    "homeId": 3427,
+    "awayId": 3416,
+    "date": "2026-04-11T02:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924421,
+    "home": "Cleveland Cavaliers",
+    "away": "Washington Wizards",
+    "homeId": 3432,
+    "awayId": 3431,
+    "date": "2026-04-12T22:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924465,
+    "home": "Toronto Raptors",
+    "away": "Brooklyn Nets",
+    "homeId": 3433,
+    "awayId": 3436,
+    "date": "2026-04-12T22:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924509,
+    "home": "Miami Heat",
+    "away": "Atlanta Hawks",
+    "homeId": 3435,
+    "awayId": 3423,
+    "date": "2026-04-12T22:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924647,
+    "home": "Boston Celtics",
+    "away": "Orlando Magic",
+    "homeId": 3422,
+    "awayId": 3437,
+    "date": "2026-04-12T22:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924865,
+    "home": "New York Knicks",
+    "away": "Charlotte Hornets",
+    "homeId": 3421,
+    "awayId": 3430,
+    "date": "2026-04-12T22:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925317,
+    "home": "Philadelphia 76ers",
+    "away": "Milwaukee Bucks",
+    "homeId": 3420,
+    "awayId": 3410,
+    "date": "2026-04-12T22:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926529,
+    "home": "Indiana Pacers",
+    "away": "Detroit Pistons",
+    "homeId": 3419,
+    "awayId": 3424,
+    "date": "2026-04-12T22:00:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924881,
+    "home": "San Antonio Spurs",
+    "away": "Denver Nuggets",
+    "homeId": 3429,
+    "awayId": 3417,
+    "date": "2026-04-13T00:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924965,
+    "home": "Dallas Mavericks",
+    "away": "Chicago Bulls",
+    "homeId": 3411,
+    "awayId": 3409,
+    "date": "2026-04-13T00:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62924969,
+    "home": "Portland Trail Blazers",
+    "away": "Sacramento Kings",
+    "homeId": 3414,
+    "awayId": 3413,
+    "date": "2026-04-13T00:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925167,
+    "home": "Oklahoma City Thunder",
+    "away": "Phoenix Suns",
+    "homeId": 3418,
+    "awayId": 3416,
+    "date": "2026-04-13T00:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925321,
+    "home": "LA Clippers",
+    "away": "Golden State Warriors",
+    "homeId": 3425,
+    "awayId": 3428,
+    "date": "2026-04-13T00:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62925349,
+    "home": "Houston Rockets",
+    "away": "Memphis Grizzlies",
+    "homeId": 3412,
+    "awayId": 3415,
+    "date": "2026-04-13T00:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926373,
+    "home": "Los Angeles Lakers",
+    "away": "Utah Jazz",
+    "homeId": 3427,
+    "awayId": 3434,
+    "date": "2026-04-13T00:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 62926451,
+    "home": "Minnesota Timberwolves",
+    "away": "New Orleans Pelicans",
+    "homeId": 3426,
+    "awayId": 5539,
+    "date": "2026-04-13T00:30:00Z",
+    "sport": {
+      "name": "Basketball",
+      "slug": "basketball"
+    },
+    "league": {
+      "name": "USA - NBA",
+      "slug": "usa-nba"
+    },
+    "status": "pending",
+    "scores": {
+      "home": 0,
+      "away": 0
+    }
+  }
+]

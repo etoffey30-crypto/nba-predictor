@@ -1,0 +1,912 @@
+[
+  {
+    "name": "Argentina - Liga Argentina",
+    "slug": "argentina-liga-argentina",
+    "eventsCount": 34
+  },
+  {
+    "name": "Argentina - Liga Nacional, Women",
+    "slug": "argentina-liga-nacional-women",
+    "eventsCount": 16
+  },
+  {
+    "name": "Argentina - LNB",
+    "slug": "argentina-lnb",
+    "eventsCount": 63
+  },
+  {
+    "name": "Australia - Big V",
+    "slug": "australia-big-v",
+    "eventsCount": 6
+  },
+  {
+    "name": "Australia - Big V, Women",
+    "slug": "australia-big-v-women",
+    "eventsCount": 18
+  },
+  {
+    "name": "Australia - NBL",
+    "slug": "australia-nbl",
+    "eventsCount": 3
+  },
+  {
+    "name": "Australia - NBL1, Central",
+    "slug": "australia-nbl1-central",
+    "eventsCount": 26
+  },
+  {
+    "name": "Australia - NBL1 Central, Women",
+    "slug": "australia-nbl1-central-women",
+    "eventsCount": 26
+  },
+  {
+    "name": "Australia - NBL1, East",
+    "slug": "australia-nbl1-east",
+    "eventsCount": 32
+  },
+  {
+    "name": "Australia - NBL1 East, Women",
+    "slug": "australia-nbl1-east-women",
+    "eventsCount": 32
+  },
+  {
+    "name": "Australia - NBL1, North",
+    "slug": "australia-nbl1-north",
+    "eventsCount": 99
+  },
+  {
+    "name": "Australia - NBL1 North, Women",
+    "slug": "australia-nbl1-north-women",
+    "eventsCount": 100
+  },
+  {
+    "name": "Australia - NBL1, South",
+    "slug": "australia-nbl1-south",
+    "eventsCount": 47
+  },
+  {
+    "name": "Australia - NBL1 South, Women",
+    "slug": "australia-nbl1-south-women",
+    "eventsCount": 47
+  },
+  {
+    "name": "Australia - NBL1, West",
+    "slug": "australia-nbl1-west",
+    "eventsCount": 31
+  },
+  {
+    "name": "Australia - NBL1 West, Women",
+    "slug": "australia-nbl1-west-women",
+    "eventsCount": 26
+  },
+  {
+    "name": "Austria - Superliga",
+    "slug": "austria-superliga",
+    "eventsCount": 25
+  },
+  {
+    "name": "Austria - Superliga, Women",
+    "slug": "austria-superliga-women",
+    "eventsCount": 3
+  },
+  {
+    "name": "Austria - Zweite Liga",
+    "slug": "austria-zweite-liga",
+    "eventsCount": 8
+  },
+  {
+    "name": "Belarus - Vysshaya League",
+    "slug": "belarus-vysshaya-league",
+    "eventsCount": 27
+  },
+  {
+    "name": "Belgium - Belgium Cup",
+    "slug": "belgium-belgium-cup",
+    "eventsCount": 1
+  },
+  {
+    "name": "Belgium - Top Division 1",
+    "slug": "belgium-top-division-1",
+    "eventsCount": 39
+  },
+  {
+    "name": "Bosnia & Herzegovina - 1. Division, Women",
+    "slug": "bosnia-&-herzegovina-1-division-women",
+    "eventsCount": 18
+  },
+  {
+    "name": "Bosnia & Herzegovina - 1st Division",
+    "slug": "bosnia-&-herzegovina-1st-division",
+    "eventsCount": 33
+  },
+  {
+    "name": "Brazil - LBF, Women",
+    "slug": "brazil-lbf-women",
+    "eventsCount": 4
+  },
+  {
+    "name": "Brazil - NBB",
+    "slug": "brazil-nbb",
+    "eventsCount": 67
+  },
+  {
+    "name": "Bulgaria - BBL",
+    "slug": "bulgaria-bbl",
+    "eventsCount": 5
+  },
+  {
+    "name": "Bulgaria - NBL",
+    "slug": "bulgaria-nbl",
+    "eventsCount": 31
+  },
+  {
+    "name": "Canada - Basketball Super League",
+    "slug": "canada-basketball-super-league",
+    "eventsCount": 8
+  },
+  {
+    "name": "Chile - Liga Dos",
+    "slug": "chile-liga-dos",
+    "eventsCount": 14
+  },
+  {
+    "name": "China - CBA",
+    "slug": "china-cba",
+    "eventsCount": 146
+  },
+  {
+    "name": "China - NBL",
+    "slug": "china-nbl",
+    "eventsCount": 7
+  },
+  {
+    "name": "China - WCBA",
+    "slug": "china-wcba",
+    "eventsCount": 20
+  },
+  {
+    "name": "Chinese Taipei - P League",
+    "slug": "chinese-taipei-p-league",
+    "eventsCount": 9
+  },
+  {
+    "name": "Chinese Taipei - SBL",
+    "slug": "chinese-taipei-sbl",
+    "eventsCount": 30
+  },
+  {
+    "name": "Chinese Taipei - TPBL",
+    "slug": "chinese-taipei-tpbl",
+    "eventsCount": 24
+  },
+  {
+    "name": "Chinese Taipei - WSBL, Women",
+    "slug": "chinese-taipei-wsbl-women",
+    "eventsCount": 16
+  },
+  {
+    "name": "Croatia - A1 Liga Women",
+    "slug": "croatia-a1-liga-women",
+    "eventsCount": 24
+  },
+  {
+    "name": "Croatia - Premijer liga",
+    "slug": "croatia-premijer-liga",
+    "eventsCount": 6
+  },
+  {
+    "name": "Croatia - Prva Liga",
+    "slug": "croatia-prva-liga",
+    "eventsCount": 21
+  },
+  {
+    "name": "Cyprus - Division A",
+    "slug": "cyprus-division-a",
+    "eventsCount": 3
+  },
+  {
+    "name": "Czech Republic - 1. Liga",
+    "slug": "czech-republic-1-liga",
+    "eventsCount": 18
+  },
+  {
+    "name": "Czech Republic - NBL",
+    "slug": "czech-republic-nbl",
+    "eventsCount": 35
+  },
+  {
+    "name": "Czech Republic - ZBL",
+    "slug": "czech-republic-zbl",
+    "eventsCount": 8
+  },
+  {
+    "name": "Denmark - Basketligaen",
+    "slug": "denmark-basketligaen",
+    "eventsCount": 35
+  },
+  {
+    "name": "El Salvador - Liga Mayor de Baloncesto Femenino",
+    "slug": "el-salvador-liga-mayor-de-baloncesto-femenino",
+    "eventsCount": 7
+  },
+  {
+    "name": "England - SLB",
+    "slug": "england-slb",
+    "eventsCount": 26
+  },
+  {
+    "name": "England - SLB Cup",
+    "slug": "england-slb-cup",
+    "eventsCount": 1
+  },
+  {
+    "name": "England - SLB Cup, Women",
+    "slug": "england-slb-cup-women",
+    "eventsCount": 1
+  },
+  {
+    "name": "England - SLB, Women",
+    "slug": "england-slb-women",
+    "eventsCount": 19
+  },
+  {
+    "name": "Finland - 1 Division",
+    "slug": "finland-1-division",
+    "eventsCount": 9
+  },
+  {
+    "name": "Finland - 1. Division B",
+    "slug": "finland-1-division-b",
+    "eventsCount": 7
+  },
+  {
+    "name": "Finland - 1. Division, Women",
+    "slug": "finland-1-division-women",
+    "eventsCount": 17
+  },
+  {
+    "name": "Finland - Korisliiga, Women",
+    "slug": "finland-korisliiga-women",
+    "eventsCount": 8
+  },
+  {
+    "name": "France - LFB, Women",
+    "slug": "france-lfb-women",
+    "eventsCount": 12
+  },
+  {
+    "name": "France - Nationale 1",
+    "slug": "france-nationale-1",
+    "eventsCount": 84
+  },
+  {
+    "name": "France - Pro A",
+    "slug": "france-pro-a",
+    "eventsCount": 37
+  },
+  {
+    "name": "France - Pro B",
+    "slug": "france-pro-b",
+    "eventsCount": 60
+  },
+  {
+    "name": "France - Trophee du Futur",
+    "slug": "france-trophee-du-futur",
+    "eventsCount": 40
+  },
+  {
+    "name": "Georgia - Superleague",
+    "slug": "georgia-superleague",
+    "eventsCount": 24
+  },
+  {
+    "name": "Germany - 1. DBBL",
+    "slug": "germany-1-dbbl",
+    "eventsCount": 10
+  },
+  {
+    "name": "Germany - BBL",
+    "slug": "germany-bbl",
+    "eventsCount": 53
+  },
+  {
+    "name": "Germany - Pro A",
+    "slug": "germany-pro-a",
+    "eventsCount": 45
+  },
+  {
+    "name": "Germany - Pro B",
+    "slug": "germany-pro-b",
+    "eventsCount": 26
+  },
+  {
+    "name": "Greece - A1, Women",
+    "slug": "greece-a1-women",
+    "eventsCount": 6
+  },
+  {
+    "name": "Greece - Cup, Women",
+    "slug": "greece-cup-women",
+    "eventsCount": 2
+  },
+  {
+    "name": "Greece - Elite League",
+    "slug": "greece-elite-league",
+    "eventsCount": 22
+  },
+  {
+    "name": "Greece - Greek Basketball League",
+    "slug": "greece-greek-basketball-league",
+    "eventsCount": 27
+  },
+  {
+    "name": "Hungary - NB I. A",
+    "slug": "hungary-nb-i-a",
+    "eventsCount": 27
+  },
+  {
+    "name": "Hungary - NB I. A, Women",
+    "slug": "hungary-nb-i-a-women",
+    "eventsCount": 16
+  },
+  {
+    "name": "Iceland - Urvalsdeild",
+    "slug": "iceland-urvalsdeild",
+    "eventsCount": 8
+  },
+  {
+    "name": "Iceland - Urvalsdeild, Women",
+    "slug": "iceland-urvalsdeild-women",
+    "eventsCount": 8
+  },
+  {
+    "name": "Indonesia - IBL",
+    "slug": "indonesia-ibl",
+    "eventsCount": 15
+  },
+  {
+    "name": "International - ABA Liga 2",
+    "slug": "international-aba-liga-2",
+    "eventsCount": 4
+  },
+  {
+    "name": "International - Baltic Basketball League, Women",
+    "slug": "international-baltic-basketball-league-women",
+    "eventsCount": 7
+  },
+  {
+    "name": "International - Basketball Africa League",
+    "slug": "international-basketball-africa-league",
+    "eventsCount": 15
+  },
+  {
+    "name": "International - BNXT League",
+    "slug": "international-bnxt-league",
+    "eventsCount": 57
+  },
+  {
+    "name": "International - Champions League Asia - East",
+    "slug": "international-champions-league-asia-east",
+    "eventsCount": 21
+  },
+  {
+    "name": "International - Estonian-Latvian League",
+    "slug": "international-estonian-latvian-league",
+    "eventsCount": 6
+  },
+  {
+    "name": "International - Eurocup, Women",
+    "slug": "international-eurocup-women",
+    "eventsCount": 2
+  },
+  {
+    "name": "International - Euroleague",
+    "slug": "international-euroleague",
+    "eventsCount": 64
+  },
+  {
+    "name": "International - Euroleague Women",
+    "slug": "international-euroleague-women",
+    "eventsCount": 2
+  },
+  {
+    "name": "International - European North Basketball League",
+    "slug": "international-european-north-basketball-league",
+    "eventsCount": 4
+  },
+  {
+    "name": "International - Europe Cup",
+    "slug": "international-europe-cup",
+    "eventsCount": 4
+  },
+  {
+    "name": "International - FIBA Americup, Qualifiers",
+    "slug": "international-fiba-americup-qualifiers",
+    "eventsCount": 5
+  },
+  {
+    "name": "International - Liga ABA",
+    "slug": "international-liga-aba",
+    "eventsCount": 39
+  },
+  {
+    "name": "International - United Cup",
+    "slug": "international-united-cup",
+    "eventsCount": 2
+  },
+  {
+    "name": "International - United League",
+    "slug": "international-united-league",
+    "eventsCount": 37
+  },
+  {
+    "name": "International - United Youth League",
+    "slug": "international-united-youth-league",
+    "eventsCount": 16
+  },
+  {
+    "name": "International - WABA Liga, Women",
+    "slug": "international-waba-liga-women",
+    "eventsCount": 2
+  },
+  {
+    "name": "International - World Cup Qualification, Africa",
+    "slug": "international-world-cup-qualification-africa",
+    "eventsCount": 24
+  },
+  {
+    "name": "International - World Cup Qualification, Americas",
+    "slug": "international-world-cup-qualification-americas",
+    "eventsCount": 16
+  },
+  {
+    "name": "International - World Cup Qualification, Asia & Oceania",
+    "slug": "international-world-cup-qualification-asia-&-oceania",
+    "eventsCount": 16
+  },
+  {
+    "name": "International - World Cup Qualification, Europe",
+    "slug": "international-world-cup-qualification-europe",
+    "eventsCount": 32
+  },
+  {
+    "name": "Israel - National League",
+    "slug": "israel-national-league",
+    "eventsCount": 48
+  },
+  {
+    "name": "Israel - Super League",
+    "slug": "israel-super-league",
+    "eventsCount": 35
+  },
+  {
+    "name": "Italy - A1 Women",
+    "slug": "italy-a1-women",
+    "eventsCount": 1
+  },
+  {
+    "name": "Italy - Serie A",
+    "slug": "italy-serie-a",
+    "eventsCount": 28
+  },
+  {
+    "name": "Italy - Serie A2",
+    "slug": "italy-serie-a2",
+    "eventsCount": 57
+  },
+  {
+    "name": "Italy - Serie A2, Women",
+    "slug": "italy-serie-a2-women",
+    "eventsCount": 40
+  },
+  {
+    "name": "Italy - Serie B",
+    "slug": "italy-serie-b",
+    "eventsCount": 97
+  },
+  {
+    "name": "Japan - B1 League",
+    "slug": "japan-b1-league",
+    "eventsCount": 143
+  },
+  {
+    "name": "Japan - B2 League",
+    "slug": "japan-b2-league",
+    "eventsCount": 73
+  },
+  {
+    "name": "Japan - W League",
+    "slug": "japan-w-league",
+    "eventsCount": 5
+  },
+  {
+    "name": "Jordan - Premier League",
+    "slug": "jordan-premier-league",
+    "eventsCount": 8
+  },
+  {
+    "name": "Kazakhstan - National League",
+    "slug": "kazakhstan-national-league",
+    "eventsCount": 8
+  },
+  {
+    "name": "Kosovo - Superliga",
+    "slug": "kosovo-superliga",
+    "eventsCount": 16
+  },
+  {
+    "name": "Latvia - LSBL, Women",
+    "slug": "latvia-lsbl-women",
+    "eventsCount": 1
+  },
+  {
+    "name": "Latvia - NBL",
+    "slug": "latvia-nbl",
+    "eventsCount": 2
+  },
+  {
+    "name": "Lithuania - LKL",
+    "slug": "lithuania-lkl",
+    "eventsCount": 18
+  },
+  {
+    "name": "Lithuania - Moteru Lyga, Division B, Women",
+    "slug": "lithuania-moteru-lyga-division-b-women",
+    "eventsCount": 2
+  },
+  {
+    "name": "Lithuania - NKL",
+    "slug": "lithuania-nkl",
+    "eventsCount": 6
+  },
+  {
+    "name": "Malta - BOV Division 1",
+    "slug": "malta-bov-division-1",
+    "eventsCount": 2
+  },
+  {
+    "name": "Malta - National League, Women",
+    "slug": "malta-national-league-women",
+    "eventsCount": 3
+  },
+  {
+    "name": "Mexico - LNBP, Women",
+    "slug": "mexico-lnbp-women",
+    "eventsCount": 37
+  },
+  {
+    "name": "Moldova - Divizia Nationala",
+    "slug": "moldova-divizia-nationala",
+    "eventsCount": 4
+  },
+  {
+    "name": "Moldova - Divizia Nationala, Women",
+    "slug": "moldova-divizia-nationala-women",
+    "eventsCount": 2
+  },
+  {
+    "name": "Montenegro - I A MCKL",
+    "slug": "montenegro-i-a-mckl",
+    "eventsCount": 21
+  },
+  {
+    "name": "Montenegro - I B MCKL",
+    "slug": "montenegro-i-b-mckl",
+    "eventsCount": 15
+  },
+  {
+    "name": "Netherlands - Basketball Cup",
+    "slug": "netherlands-basketball-cup",
+    "eventsCount": 1
+  },
+  {
+    "name": "New Zealand - NBL",
+    "slug": "new-zealand-nbl",
+    "eventsCount": 13
+  },
+  {
+    "name": "North Macedonia - First League",
+    "slug": "north-macedonia-first-league",
+    "eventsCount": 18
+  },
+  {
+    "name": "Norway - BLNO",
+    "slug": "norway-blno",
+    "eventsCount": 6
+  },
+  {
+    "name": "Norway - BLNO, Women",
+    "slug": "norway-blno-women",
+    "eventsCount": 4
+  },
+  {
+    "name": "Philippines - MPBL, Preseason",
+    "slug": "philippines-mpbl-preseason",
+    "eventsCount": 1
+  },
+  {
+    "name": "Philippines - PBA, Commissioner Cup",
+    "slug": "philippines-pba-commissioner-cup",
+    "eventsCount": 36
+  },
+  {
+    "name": "Poland - 1. Liga",
+    "slug": "poland-1-liga",
+    "eventsCount": 41
+  },
+  {
+    "name": "Poland - Basket Liga, Women",
+    "slug": "poland-basket-liga-women",
+    "eventsCount": 8
+  },
+  {
+    "name": "Poland - PLK",
+    "slug": "poland-plk",
+    "eventsCount": 39
+  },
+  {
+    "name": "Portugal - Campeonato Nacional Liga Feminina",
+    "slug": "portugal-campeonato-nacional-liga-feminina",
+    "eventsCount": 6
+  },
+  {
+    "name": "Portugal - LPB",
+    "slug": "portugal-lpb",
+    "eventsCount": 30
+  },
+  {
+    "name": "Portugal - Proliga",
+    "slug": "portugal-proliga",
+    "eventsCount": 28
+  },
+  {
+    "name": "Portugal - Taca da Liga",
+    "slug": "portugal-taca-da-liga",
+    "eventsCount": 5
+  },
+  {
+    "name": "Portugal - Taca de Portugal, Women",
+    "slug": "portugal-taca-de-portugal-women",
+    "eventsCount": 2
+  },
+  {
+    "name": "Puerto Rico - BSN",
+    "slug": "puerto-rico-bsn",
+    "eventsCount": 3
+  },
+  {
+    "name": "Republic of Korea - KBL",
+    "slug": "republic-of-korea-kbl",
+    "eventsCount": 32
+  },
+  {
+    "name": "Republic of Korea - WKBL",
+    "slug": "republic-of-korea-wkbl",
+    "eventsCount": 9
+  },
+  {
+    "name": "Romania - Liga I",
+    "slug": "romania-liga-i",
+    "eventsCount": 4
+  },
+  {
+    "name": "Romania - Liga Nationala",
+    "slug": "romania-liga-nationala",
+    "eventsCount": 48
+  },
+  {
+    "name": "Romania - LNB, Women",
+    "slug": "romania-lnb-women",
+    "eventsCount": 8
+  },
+  {
+    "name": "Russia - Premier League Women",
+    "slug": "russia-premier-league-women",
+    "eventsCount": 4
+  },
+  {
+    "name": "Russia - Superleague, 1st Division",
+    "slug": "russia-superleague-1st-division",
+    "eventsCount": 12
+  },
+  {
+    "name": "Serbia - 1. ZLS, Women",
+    "slug": "serbia-1-zls-women",
+    "eventsCount": 12
+  },
+  {
+    "name": "Serbia - 2. MLS",
+    "slug": "serbia-2-mls",
+    "eventsCount": 40
+  },
+  {
+    "name": "Serbia - KLS",
+    "slug": "serbia-kls",
+    "eventsCount": 40
+  },
+  {
+    "name": "Serbia - Serbian Cup, Women",
+    "slug": "serbia-serbian-cup-women",
+    "eventsCount": 2
+  },
+  {
+    "name": "Slovakia - Extraliga",
+    "slug": "slovakia-extraliga",
+    "eventsCount": 26
+  },
+  {
+    "name": "Slovakia - Extraliga, Women",
+    "slug": "slovakia-extraliga-women",
+    "eventsCount": 5
+  },
+  {
+    "name": "Slovenia - 1. A SKL",
+    "slug": "slovenia-1-a-skl",
+    "eventsCount": 20
+  },
+  {
+    "name": "Slovenia - 1. SKL, Women",
+    "slug": "slovenia-1-skl-women",
+    "eventsCount": 5
+  },
+  {
+    "name": "Spain - Copa de la Reina, Women",
+    "slug": "spain-copa-de-la-reina-women",
+    "eventsCount": 4
+  },
+  {
+    "name": "Spain - Liga ACB",
+    "slug": "spain-liga-acb",
+    "eventsCount": 43
+  },
+  {
+    "name": "Spain - Liga Femenina",
+    "slug": "spain-liga-femenina",
+    "eventsCount": 39
+  },
+  {
+    "name": "Spain - Liga Femenina Challenge, Women",
+    "slug": "spain-liga-femenina-challenge-women",
+    "eventsCount": 9
+  },
+  {
+    "name": "Spain - Primera FEB",
+    "slug": "spain-primera-feb",
+    "eventsCount": 38
+  },
+  {
+    "name": "Spain - Segunda FEB",
+    "slug": "spain-segunda-feb",
+    "eventsCount": 70
+  },
+  {
+    "name": "Sweden - SBL",
+    "slug": "sweden-sbl",
+    "eventsCount": 12
+  },
+  {
+    "name": "Sweden - SBL, Women",
+    "slug": "sweden-sbl-women",
+    "eventsCount": 7
+  },
+  {
+    "name": "Sweden - Superettan",
+    "slug": "sweden-superettan",
+    "eventsCount": 18
+  },
+  {
+    "name": "Switzerland - Coupe de Suisse",
+    "slug": "switzerland-coupe-de-suisse",
+    "eventsCount": 1
+  },
+  {
+    "name": "Switzerland - Coupe de Suisse, Women",
+    "slug": "switzerland-coupe-de-suisse-women",
+    "eventsCount": 1
+  },
+  {
+    "name": "Switzerland - NLB",
+    "slug": "switzerland-nlb",
+    "eventsCount": 15
+  },
+  {
+    "name": "Switzerland - SB League",
+    "slug": "switzerland-sb-league",
+    "eventsCount": 15
+  },
+  {
+    "name": "Switzerland - SB League, Women",
+    "slug": "switzerland-sb-league-women",
+    "eventsCount": 8
+  },
+  {
+    "name": "Tunisia - National A League",
+    "slug": "tunisia-national-a-league",
+    "eventsCount": 1
+  },
+  {
+    "name": "Turkiye - 1. Lig, Women",
+    "slug": "turkiye-1-lig-women",
+    "eventsCount": 31
+  },
+  {
+    "name": "Turkiye - Super Lig",
+    "slug": "turkiye-super-lig",
+    "eventsCount": 40
+  },
+  {
+    "name": "Turkiye - Super Lig, Women",
+    "slug": "turkiye-super-lig-women",
+    "eventsCount": 2
+  },
+  {
+    "name": "Turkiye - TB2L",
+    "slug": "turkiye-tb2l",
+    "eventsCount": 8
+  },
+  {
+    "name": "Turkiye - TBL",
+    "slug": "turkiye-tbl",
+    "eventsCount": 48
+  },
+  {
+    "name": "Ukraine - FBU Superleague",
+    "slug": "ukraine-fbu-superleague",
+    "eventsCount": 6
+  },
+  {
+    "name": "Uruguay - LUB",
+    "slug": "uruguay-lub",
+    "eventsCount": 19
+  },
+  {
+    "name": "USA - College Basketball Crown",
+    "slug": "usa-college-basketball-crown",
+    "eventsCount": 4
+  },
+  {
+    "name": "USA - National Invitation Tournament",
+    "slug": "usa-national-invitation-tournament",
+    "eventsCount": 8
+  },
+  {
+    "name": "USA - NBA",
+    "slug": "usa-nba",
+    "eventsCount": 186
+  },
+  {
+    "name": "USA - NBA G League",
+    "slug": "usa-nba-g-league",
+    "eventsCount": 64
+  },
+  {
+    "name": "USA - NCAA Division II National Championship",
+    "slug": "usa-ncaa-division-ii-national-championship",
+    "eventsCount": 4
+  },
+  {
+    "name": "USA - NCAA Division I National Championship",
+    "slug": "usa-ncaa-division-i-national-championship",
+    "eventsCount": 24
+  },
+  {
+    "name": "USA - NCAA Division I National Championship, Women",
+    "slug": "usa-ncaa-division-i-national-championship-women",
+    "eventsCount": 32
+  },
+  {
+    "name": "USA - Womens National Invitation Tournament",
+    "slug": "usa-womens-national-invitation-tournament",
+    "eventsCount": 16
+  },
+  {
+    "name": "Venezuela - SuperLiga",
+    "slug": "venezuela-superliga",
+    "eventsCount": 107
+  },
+  {
+    "name": "Venezuela - Superliga, Women",
+    "slug": "venezuela-superliga-women",
+    "eventsCount": 1
+  }
+]

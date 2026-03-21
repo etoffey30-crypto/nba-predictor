@@ -1,0 +1,5 @@
+{
+  "success": false,
+  "status": "INVALID_KEY",
+  "msg": "API key is not valid. Get an API key at https://the-odds-api.com"
+}

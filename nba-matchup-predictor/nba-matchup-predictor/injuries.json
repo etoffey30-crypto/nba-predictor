@@ -1,0 +1,530 @@
+[
+  {
+    "player": "Steven Adams",
+    "team": "HOU",
+    "status": "Out For Season",
+    "injury": "Ankle"
+  },
+  {
+    "player": "Santi Aldama",
+    "team": "MEM",
+    "status": "Out For Season",
+    "injury": "Knee"
+  },
+  {
+    "player": "Jarrett Allen",
+    "team": "CLE",
+    "status": "Out",
+    "injury": "Knee"
+  },
+  {
+    "player": "Grayson Allen",
+    "team": "PHX",
+    "status": "Questionable",
+    "injury": "Knee"
+  },
+  {
+    "player": "Giannis Antetokounmpo",
+    "team": "MIL",
+    "status": "Out",
+    "injury": "Knee"
+  },
+  {
+    "player": "Bradley Beal",
+    "team": "LAC",
+    "status": "Out For Season",
+    "injury": "Hip"
+  },
+  {
+    "player": "Anthony Black",
+    "team": "ORL",
+    "status": "Doubtful",
+    "injury": "Abdomen"
+  },
+  {
+    "player": "Leaky Black",
+    "team": "WAS",
+    "status": "Questionable",
+    "injury": "Ankle"
+  },
+  {
+    "player": "Dillon Brooks",
+    "team": "PHX",
+    "status": "Out",
+    "injury": "Hand"
+  },
+  {
+    "player": "Johni Broome",
+    "team": "PHI",
+    "status": "Out",
+    "injury": "Knee"
+  },
+  {
+    "player": "Jimmy Butler",
+    "team": "GSW",
+    "status": "Out For Season",
+    "injury": "Knee"
+  },
+  {
+    "player": "Kentavious Caldwell-Pope",
+    "team": "MEM",
+    "status": "Out For Season",
+    "injury": "Finger"
+  },
+  {
+    "player": "Branden Carlson",
+    "team": "OKC",
+    "status": "Doubtful",
+    "injury": "Back"
+  },
+  {
+    "player": "Zach Edey",
+    "team": "MEM",
+    "status": "Out For Season",
+    "injury": "Ankle"
+  },
+  {
+    "player": "Anthony Edwards",
+    "team": "MIN",
+    "status": "Out",
+    "injury": "Knee"
+  },
+  {
+    "player": "Joel Embiid",
+    "team": "PHI",
+    "status": "Questionable",
+    "injury": "Oblique"
+  },
+  {
+    "player": "Noa Essengue",
+    "team": "CHI",
+    "status": "Out For Season",
+    "injury": "Shoulder"
+  },
+  {
+    "player": "Drew Eubanks",
+    "team": "SAC",
+    "status": "Out For Season",
+    "injury": "Thumb"
+  },
+  {
+    "player": "Johnny Furphy",
+    "team": "IND",
+    "status": "Out For Season",
+    "injury": "Knee"
+  },
+  {
+    "player": "Paul George",
+    "team": "PHI",
+    "status": "Out",
+    "injury": "Suspension"
+  },
+  {
+    "player": "Keyonte George",
+    "team": "UTA",
+    "status": "Out",
+    "injury": "Hamstring"
+  },
+  {
+    "player": "Kyshawn George",
+    "team": "WAS",
+    "status": "Out",
+    "injury": "Elbow"
+  },
+  {
+    "player": "Taj Gibson",
+    "team": "MEM",
+    "status": "Doubtful",
+    "injury": "Foot"
+  },
+  {
+    "player": "Tyrese Haliburton",
+    "team": "IND",
+    "status": "Out For Season",
+    "injury": "Achilles"
+  },
+  {
+    "player": "Josh Hart",
+    "team": "NYK",
+    "status": "Out",
+    "injury": "Knee"
+  },
+  {
+    "player": "Chucky Hepburn",
+    "team": "TOR",
+    "status": "Out",
+    "injury": "Knee"
+  },
+  {
+    "player": "Haywood Highsmith",
+    "team": "PHX",
+    "status": "Questionable",
+    "injury": "Knee"
+  },
+  {
+    "player": "Al Horford",
+    "team": "GSW",
+    "status": "Out",
+    "injury": "Calf"
+  },
+  {
+    "player": "De'Andre Hunter",
+    "team": "SAC",
+    "status": "Out For Season",
+    "injury": "Eye"
+  },
+  {
+    "player": "Kyrie Irving",
+    "team": "DAL",
+    "status": "Out For Season",
+    "injury": "Knee"
+  },
+  {
+    "player": "Jonathan Isaac",
+    "team": "ORL",
+    "status": "Out",
+    "injury": "Knee"
+  },
+  {
+    "player": "Jaden Ivey",
+    "team": "CHI",
+    "status": "Doubtful",
+    "injury": "Knee"
+  },
+  {
+    "player": "GG Jackson",
+    "team": "MEM",
+    "status": "Doubtful",
+    "injury": "Knee"
+  },
+  {
+    "player": "Jaren Jackson",
+    "team": "UTA",
+    "status": "Out For Season",
+    "injury": "Knee"
+  },
+  {
+    "player": "Jaime Jaquez",
+    "team": "MIA",
+    "status": "Questionable",
+    "injury": "Hip"
+  },
+  {
+    "player": "Jonathan Kuminga",
+    "team": "ATL",
+    "status": "Out",
+    "injury": "Knee"
+  },
+  {
+    "player": "Zach LaVine",
+    "team": "SAC",
+    "status": "Out For Season",
+    "injury": "Finger"
+  },
+  {
+    "player": "Kawhi Leonard",
+    "team": "LAC",
+    "status": "Questionable",
+    "injury": "Ankle"
+  },
+  {
+    "player": "Damian Lillard",
+    "team": "POR",
+    "status": "Out For Season",
+    "injury": "Achilles"
+  },
+  {
+    "player": "Dereck Lively",
+    "team": "DAL",
+    "status": "Out For Season",
+    "injury": "Foot"
+  },
+  {
+    "player": "Lauri Markkanen",
+    "team": "UTA",
+    "status": "Out",
+    "injury": "Hip"
+  },
+  {
+    "player": "Caleb Martin",
+    "team": "DAL",
+    "status": "Questionable",
+    "injury": "Foot"
+  },
+  {
+    "player": "Jahmai Mashack",
+    "team": "MEM",
+    "status": "Out",
+    "injury": "Ankle"
+  },
+  {
+    "player": "Bennedict Mathurin",
+    "team": "LAC",
+    "status": "Out",
+    "injury": "Toe"
+  },
+  {
+    "player": "Tyrese Maxey",
+    "team": "PHI",
+    "status": "Out",
+    "injury": "Finger"
+  },
+  {
+    "player": "Miles McBride",
+    "team": "NYK",
+    "status": "Out",
+    "injury": "Pelvis"
+  },
+  {
+    "player": "Bryce McGowens",
+    "team": "NOP",
+    "status": "Questionable",
+    "injury": "Toe"
+  },
+  {
+    "player": "Donovan Mitchell",
+    "team": "CLE",
+    "status": "Questionable",
+    "injury": "Eye"
+  },
+  {
+    "player": "Malik Monk",
+    "team": "SAC",
+    "status": "Questionable",
+    "injury": "Shoulder"
+  },
+  {
+    "player": "Moses Moody",
+    "team": "GSW",
+    "status": "Out",
+    "injury": "Wrist"
+  },
+  {
+    "player": "Wendell Moore",
+    "team": "DET",
+    "status": "Out",
+    "injury": "Knee"
+  },
+  {
+    "player": "Ja Morant",
+    "team": "MEM",
+    "status": "Out",
+    "injury": "Elbow"
+  },
+  {
+    "player": "Keegan Murray",
+    "team": "SAC",
+    "status": "Out",
+    "injury": "Ankle"
+  },
+  {
+    "player": "Collin Murray-Boyles",
+    "team": "TOR",
+    "status": "Doubtful",
+    "injury": "Thumb"
+  },
+  {
+    "player": "Andrew Nembhard",
+    "team": "IND",
+    "status": "Questionable",
+    "injury": "Calf"
+  },
+  {
+    "player": "Yanic Konan Niederhauser",
+    "team": "LAC",
+    "status": "Out For Season",
+    "injury": "Foot"
+  },
+  {
+    "player": "Jusuf Nurkic",
+    "team": "UTA",
+    "status": "Out For Season",
+    "injury": "Nose"
+  },
+  {
+    "player": "Royce O'Neale",
+    "team": "PHX",
+    "status": "Questionable",
+    "injury": "Knee"
+  },
+  {
+    "player": "Quinten Post",
+    "team": "GSW",
+    "status": "Questionable",
+    "injury": "Foot"
+  },
+  {
+    "player": "Micah Potter",
+    "team": "IND",
+    "status": "Questionable",
+    "injury": "Triceps"
+  },
+  {
+    "player": "Tyrese Proctor",
+    "team": "CLE",
+    "status": "Out",
+    "injury": "Quadriceps"
+  },
+  {
+    "player": "Naz Reid",
+    "team": "MIN",
+    "status": "Questionable",
+    "injury": "Ankle"
+  },
+  {
+    "player": "Terry Rozier",
+    "team": "MIA",
+    "status": "Out",
+    "injury": "Not Injury Related"
+  },
+  {
+    "player": "D'Angelo Russell",
+    "team": "WAS",
+    "status": "Out",
+    "injury": "Not Injury Related"
+  },
+  {
+    "player": "Domantas Sabonis",
+    "team": "SAC",
+    "status": "Out For Season",
+    "injury": "Knee"
+  },
+  {
+    "player": "Tidjane Salaun",
+    "team": "CHA",
+    "status": "Questionable",
+    "injury": "Calf"
+  },
+  {
+    "player": "Olivier Sarr",
+    "team": "CLE",
+    "status": "Questionable",
+    "injury": "Calf"
+  },
+  {
+    "player": "Brice Sensabaugh",
+    "team": "UTA",
+    "status": "Questionable",
+    "injury": "Illness"
+  },
+  {
+    "player": "Shaedon Sharpe",
+    "team": "POR",
+    "status": "Out",
+    "injury": "Calf"
+  },
+  {
+    "player": "Day'ron Sharpe",
+    "team": "BKN",
+    "status": "Out For Season",
+    "injury": "Thumb"
+  },
+  {
+    "player": "Pascal Siakam",
+    "team": "IND",
+    "status": "Out",
+    "injury": "Knee"
+  },
+  {
+    "player": "Anfernee Simons",
+    "team": "CHI",
+    "status": "Out",
+    "injury": "Wrist"
+  },
+  {
+    "player": "Thomas Sorber",
+    "team": "OKC",
+    "status": "Out For Season",
+    "injury": "Knee"
+  },
+  {
+    "player": "Isaiah Stewart",
+    "team": "DET",
+    "status": "Out",
+    "injury": "Calf"
+  },
+  {
+    "player": "Jae'Sean Tate",
+    "team": "HOU",
+    "status": "Out",
+    "injury": "Knee"
+  },
+  {
+    "player": "Obi Toppin",
+    "team": "IND",
+    "status": "Questionable",
+    "injury": "Foot"
+  },
+  {
+    "player": "Gary Trent",
+    "team": "MIL",
+    "status": "Questionable",
+    "injury": "Thigh"
+  },
+  {
+    "player": "Fred VanVleet",
+    "team": "HOU",
+    "status": "Out",
+    "injury": "Knee"
+  },
+  {
+    "player": "Nikola Vucevic",
+    "team": "BOS",
+    "status": "Out",
+    "injury": "Finger"
+  },
+  {
+    "player": "Franz Wagner",
+    "team": "ORL",
+    "status": "Doubtful",
+    "injury": "Ankle"
+  },
+  {
+    "player": "Cam Whitmore",
+    "team": "WAS",
+    "status": "Out For Season",
+    "injury": "Shoulder"
+  },
+  {
+    "player": "Andrew Wiggins",
+    "team": "MIA",
+    "status": "Questionable",
+    "injury": "Toe"
+  },
+  {
+    "player": "Brandon Williams",
+    "team": "DAL",
+    "status": "Questionable",
+    "injury": "Concussion"
+  },
+  {
+    "player": "Ziaire Williams",
+    "team": "BKN",
+    "status": "Questionable",
+    "injury": "Foot"
+  },
+  {
+    "player": "Jalen Williams",
+    "team": "OKC",
+    "status": "Doubtful",
+    "injury": "Hamstring"
+  },
+  {
+    "player": "Mark Williams",
+    "team": "PHX",
+    "status": "Out",
+    "injury": "Foot"
+  },
+  {
+    "player": "Trae Young",
+    "team": "WAS",
+    "status": "Questionable",
+    "injury": "Quadriceps"
+  },
+  {
+    "player": "Ivica Zubac",
+    "team": "IND",
+    "status": "Questionable",
+    "injury": "Head"
+  }
+]

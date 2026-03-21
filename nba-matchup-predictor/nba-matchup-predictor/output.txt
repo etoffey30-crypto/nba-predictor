@@ -1,0 +1,5 @@
+=== PIPELINE COMPLETE ===
+Data processed with rolling metrics + Elo ratings.
+
+=== MATCHUP PREDICTION ===
+{'teamA': 'TeamA', 'teamB': 'TeamB', 'proj_margin': np.float64(1.0230084137834652), 'proj_ptsA': np.float64(53.21858779795254), 'proj_ptsB': np.float64(52.19557938416907), 'win_prob_A': np.float64(0.5339689582163181)}

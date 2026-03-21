@@ -1,0 +1,47 @@
+[
+  {
+    "eventId": 62924493,
+    "home": "Detroit Pistons",
+    "away": "Golden State Warriors",
+    "date": "2026-03-20T23:30:00Z",
+    "odds": {
+      "error": "Missing bookmakers"
+    }
+  },
+  {
+    "eventId": 62925461,
+    "home": "Brooklyn Nets",
+    "away": "New York Knicks",
+    "date": "2026-03-20T23:30:00Z",
+    "odds": {
+      "error": "Missing bookmakers"
+    }
+  },
+  {
+    "eventId": 62925113,
+    "home": "Minnesota Timberwolves",
+    "away": "Portland Trail Blazers",
+    "date": "2026-03-21T00:00:00Z",
+    "odds": {
+      "error": "Missing bookmakers"
+    }
+  },
+  {
+    "eventId": 62925351,
+    "home": "Memphis Grizzlies",
+    "away": "Boston Celtics",
+    "date": "2026-03-21T00:00:00Z",
+    "odds": {
+      "error": "Missing bookmakers"
+    }
+  },
+  {
+    "eventId": 62925999,
+    "home": "Houston Rockets",
+    "away": "Atlanta Hawks",
+    "date": "2026-03-21T00:00:00Z",
+    "odds": {
+      "error": "Missing bookmakers"
+    }
+  }
+]

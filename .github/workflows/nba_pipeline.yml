@@ -1,0 +1,45 @@
+name: NBA Predictor Daily Pipeline
+
+on:
+  schedule:
+    # Run at 10:00 AM UTC (approx. 6:00 AM ET) daily
+    - cron: '0 10 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  build-and-predict:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r nba-matchup-predictor/nba-matchup-predictor/requirements.txt
+
+    - name: Run NBA Pipeline
+      env:
+        SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL }}
+        # Add other API keys if needed
+        # NBA_API_KEY: ${{ secrets.NBA_API_KEY }}
+      run: |
+        cd nba-matchup-predictor/nba-matchup-predictor
+        python pipeline_scheduler.py --now
+
+    - name: Commit and Push dashboard data
+      run: |
+        git config --global user.name "NBA Predictor Bot"
+        git config --global user.email "bot@nba-predictor.com"
+        git add nba-matchup-predictor/nba-matchup-predictor/data.js
+        git add nba-matchup-predictor/nba-matchup-predictor/standings.json
+        git add nba-matchup-predictor/nba-matchup-predictor/upcoming.json
+        git commit -m "Automated Data Update: $(date +'%Y-%m-%d')" || echo "No changes to commit"
+        git push
