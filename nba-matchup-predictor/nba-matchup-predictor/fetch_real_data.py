@@ -31,25 +31,31 @@ def fetch_and_save_data(seasons=['2025-26'], games_filename="real_games.csv", pl
             df_teams = log.get_data_frames()[0]
             
             # 1b. Fetch Real Quarter Scores (LineScores) via ScoreboardV3
-            # We'll fetch daily for the whole season to get period scores
-            print("Fetching real quarter scores (LineScore)... This may take a moment.")
+            # Optimize: Only fetch last 3 days to prevent rate limiting & long runs
+            print("Fetching real quarter scores (LineScore) for recent days...")
             all_line_scores = []
-            temp_date = season_start
-            total_days = (current_date - season_start).days + 1
+            
+            # Start from 3 days ago instead of season_start
+            temp_date = current_date - timedelta(days=3)
+            # Ensure we don't go before season_start
+            if temp_date < season_start: temp_date = season_start
+            
+            total_days = (current_date - temp_date).days + 1
             day_count = 0
             while temp_date <= current_date:
                 try:
                     day_count += 1
-                    if day_count % 10 == 0:
+                    if day_count % 2 == 0:
                         print(f"  Syncing Scores: Day {day_count}/{total_days}...")
                     date_str = temp_date.strftime('%Y-%m-%d')
-                    sb = scoreboardv2.ScoreboardV2(game_date=date_str)
+                    sb = scoreboardv2.ScoreboardV2(game_date=date_str, timeout=10)
                     ls = sb.line_score.get_data_frame()
                     if not ls.empty:
                         all_line_scores.append(ls)
                     temp_date += timedelta(days=1)
-                    time.sleep(0.5) # Prevent rate limiting
-                except:
+                    time.sleep(1) # Prevent rate limiting
+                except Exception as e:
+                    print(f"  Skipping {temp_date.strftime('%Y-%m-%d')} due to error: {e}")
                     temp_date += timedelta(days=1)
                     continue
             
@@ -118,12 +124,18 @@ def fetch_and_save_data(seasons=['2025-26'], games_filename="real_games.csv", pl
                 }
                 games_clean.append(row1)
                 
-                # DB Insert with upsert logic (OVERWRITE existing to ensure real data)
+                # DB Insert with upsert logic
+                # Only update if we actually got Real Line Scores, OR if it's new
                 stmt = insert(Game).values(**row1)
-                stmt = stmt.on_conflict_do_update(
-                    index_elements=['game_id', 'team'],
-                    set_={c.name: c for c in stmt.excluded if c.name not in ['game_id', 'team']}
-                )
+                if not t1_line.empty and not t2_line.empty:
+                    # We have real quarter scores, safe to update everything
+                    stmt = stmt.on_conflict_do_update(
+                        index_elements=['game_id', 'team'],
+                        set_={c.name: c for c in stmt.excluded if c.name not in ['game_id', 'team']}
+                    )
+                else:
+                    # We only generated fake quarter scores doing a fallback, so just ignore if it exists
+                    stmt = stmt.on_conflict_do_nothing(index_elements=['game_id', 'team'])
                 session.execute(stmt)
                 
                 # Row for Team 2
@@ -147,10 +159,13 @@ def fetch_and_save_data(seasons=['2025-26'], games_filename="real_games.csv", pl
                 games_clean.append(row2)
                 
                 stmt = insert(Game).values(**row2)
-                stmt = stmt.on_conflict_do_update(
-                    index_elements=['game_id', 'team'],
-                    set_={c.name: c for c in stmt.excluded if c.name not in ['game_id', 'team']}
-                )
+                if not t1_line.empty and not t2_line.empty:
+                    stmt = stmt.on_conflict_do_update(
+                        index_elements=['game_id', 'team'],
+                        set_={c.name: c for c in stmt.excluded if c.name not in ['game_id', 'team']}
+                    )
+                else:
+                    stmt = stmt.on_conflict_do_nothing(index_elements=['game_id', 'team'])
                 session.execute(stmt)
 
             all_games.extend(games_clean)
