@@ -2,8 +2,8 @@ name: NBA Predictor Daily Pipeline
 
 on:
   schedule:
-    # Run at 10:00 AM UTC (approx. 6:00 AM ET) daily
-    - cron: '0 10 * * *'
+    # Run at 6:15 AM UTC daily
+    - cron: '15 6 * * *'
   workflow_dispatch: # Allow manual trigger
 
 jobs:
