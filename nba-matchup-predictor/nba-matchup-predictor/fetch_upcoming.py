@@ -67,6 +67,9 @@ def fetch_upcoming_matches(target_date=None, output_file="upcoming.json"):
                         if p == 'pm' and h < 12: h += 12
                         if p == 'am' and h == 12: h = 0
                         match_dt = match_dt.replace(hour=h, minute=m)
+                        # Times from the API are in ET. Convert to UTC by adding 4 hours (EDT = UTC-4).
+                        # This ensures correct timestamps regardless of server timezone (e.g. GitHub Actions runs in UTC).
+                        match_dt = match_dt + timedelta(hours=4)
                     
                     match_ts = int(match_dt.timestamp())
                 except Exception as e:
