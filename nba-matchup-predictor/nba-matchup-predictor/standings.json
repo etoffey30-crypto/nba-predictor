@@ -3,9 +3,9 @@
     "TeamID": 1610612760,
     "TeamAbbreviation": "OKC",
     "TeamName": "Thunder",
-    "WINS": 55,
+    "WINS": 56,
     "LOSSES": 15,
-    "WinPCT": 0.786,
+    "WinPCT": 0.789,
     "Conference": "West",
     "PlayoffRank": 1
   },
@@ -23,9 +23,9 @@
     "TeamID": 1610612759,
     "TeamAbbreviation": "SAS",
     "TeamName": "Spurs",
-    "WINS": 52,
+    "WINS": 53,
     "LOSSES": 18,
-    "WinPCT": 0.743,
+    "WinPCT": 0.746,
     "Conference": "West",
     "PlayoffRank": 2
   },
@@ -43,9 +43,9 @@
     "TeamID": 1610612747,
     "TeamAbbreviation": "LAL",
     "TeamName": "Lakers",
-    "WINS": 45,
+    "WINS": 46,
     "LOSSES": 25,
-    "WinPCT": 0.643,
+    "WinPCT": 0.648,
     "Conference": "West",
     "PlayoffRank": 3
   },
@@ -63,9 +63,9 @@
     "TeamID": 1610612739,
     "TeamAbbreviation": "CLE",
     "TeamName": "Cavaliers",
-    "WINS": 43,
+    "WINS": 44,
     "LOSSES": 27,
-    "WinPCT": 0.614,
+    "WinPCT": 0.62,
     "Conference": "East",
     "PlayoffRank": 4
   },
@@ -73,9 +73,9 @@
     "TeamID": 1610612745,
     "TeamAbbreviation": "HOU",
     "TeamName": "Rockets",
-    "WINS": 42,
+    "WINS": 43,
     "LOSSES": 27,
-    "WinPCT": 0.609,
+    "WinPCT": 0.614,
     "Conference": "West",
     "PlayoffRank": 4
   },
@@ -100,12 +100,12 @@
     "PlayoffRank": 5
   },
   {
-    "TeamID": 1610612753,
-    "TeamAbbreviation": "ORL",
-    "TeamName": "Magic",
-    "WINS": 38,
-    "LOSSES": 31,
-    "WinPCT": 0.551,
+    "TeamID": 1610612737,
+    "TeamAbbreviation": "ATL",
+    "TeamName": "Hawks",
+    "WINS": 39,
+    "LOSSES": 32,
+    "WinPCT": 0.549,
     "Conference": "East",
     "PlayoffRank": 6
   },
@@ -120,12 +120,12 @@
     "PlayoffRank": 6
   },
   {
-    "TeamID": 1610612737,
-    "TeamAbbreviation": "ATL",
-    "TeamName": "Hawks",
-    "WINS": 38,
+    "TeamID": 1610612755,
+    "TeamAbbreviation": "PHI",
+    "TeamName": "76ers",
+    "WINS": 39,
     "LOSSES": 32,
-    "WinPCT": 0.543,
+    "WinPCT": 0.549,
     "Conference": "East",
     "PlayoffRank": 7
   },
@@ -134,10 +134,30 @@
     "TeamAbbreviation": "PHX",
     "TeamName": "Suns",
     "WINS": 39,
-    "LOSSES": 31,
-    "WinPCT": 0.557,
+    "LOSSES": 32,
+    "WinPCT": 0.549,
     "Conference": "West",
     "PlayoffRank": 7
+  },
+  {
+    "TeamID": 1610612746,
+    "TeamAbbreviation": "LAC",
+    "TeamName": "Clippers",
+    "WINS": 35,
+    "LOSSES": 36,
+    "WinPCT": 0.493,
+    "Conference": "West",
+    "PlayoffRank": 8
+  },
+  {
+    "TeamID": 1610612753,
+    "TeamAbbreviation": "ORL",
+    "TeamName": "Magic",
+    "WINS": 38,
+    "LOSSES": 32,
+    "WinPCT": 0.543,
+    "Conference": "East",
+    "PlayoffRank": 8
   },
   {
     "TeamID": 1610612757,
@@ -147,36 +167,16 @@
     "LOSSES": 36,
     "WinPCT": 0.493,
     "Conference": "West",
-    "PlayoffRank": 8
+    "PlayoffRank": 9
   },
   {
     "TeamID": 1610612748,
     "TeamAbbreviation": "MIA",
     "TeamName": "Heat",
     "WINS": 38,
-    "LOSSES": 32,
-    "WinPCT": 0.543,
+    "LOSSES": 33,
+    "WinPCT": 0.535,
     "Conference": "East",
-    "PlayoffRank": 8
-  },
-  {
-    "TeamID": 1610612755,
-    "TeamAbbreviation": "PHI",
-    "TeamName": "76ers",
-    "WINS": 38,
-    "LOSSES": 32,
-    "WinPCT": 0.543,
-    "Conference": "East",
-    "PlayoffRank": 9
-  },
-  {
-    "TeamID": 1610612746,
-    "TeamAbbreviation": "LAC",
-    "TeamName": "Clippers",
-    "WINS": 34,
-    "LOSSES": 36,
-    "WinPCT": 0.486,
-    "Conference": "West",
     "PlayoffRank": 9
   },
   {
@@ -184,8 +184,8 @@
     "TeamAbbreviation": "GSW",
     "TeamName": "Warriors",
     "WINS": 33,
-    "LOSSES": 37,
-    "WinPCT": 0.471,
+    "LOSSES": 38,
+    "WinPCT": 0.465,
     "Conference": "West",
     "PlayoffRank": 10
   },
@@ -193,9 +193,9 @@
     "TeamID": 1610612766,
     "TeamAbbreviation": "CHA",
     "TeamName": "Hornets",
-    "WINS": 36,
+    "WINS": 37,
     "LOSSES": 34,
-    "WinPCT": 0.514,
+    "WinPCT": 0.521,
     "Conference": "East",
     "PlayoffRank": 10
   },
@@ -204,8 +204,8 @@
     "TeamAbbreviation": "NOP",
     "TeamName": "Pelicans",
     "WINS": 25,
-    "LOSSES": 46,
-    "WinPCT": 0.352,
+    "LOSSES": 47,
+    "WinPCT": 0.347,
     "Conference": "West",
     "PlayoffRank": 11
   },
@@ -213,9 +213,9 @@
     "TeamID": 1610612749,
     "TeamAbbreviation": "MIL",
     "TeamName": "Bucks",
-    "WINS": 28,
+    "WINS": 29,
     "LOSSES": 41,
-    "WinPCT": 0.406,
+    "WinPCT": 0.414,
     "Conference": "East",
     "PlayoffRank": 11
   },
@@ -234,8 +234,8 @@
     "TeamAbbreviation": "MEM",
     "TeamName": "Grizzlies",
     "WINS": 24,
-    "LOSSES": 45,
-    "WinPCT": 0.348,
+    "LOSSES": 46,
+    "WinPCT": 0.343,
     "Conference": "West",
     "PlayoffRank": 12
   },
@@ -244,8 +244,8 @@
     "TeamAbbreviation": "DAL",
     "TeamName": "Mavericks",
     "WINS": 23,
-    "LOSSES": 47,
-    "WinPCT": 0.329,
+    "LOSSES": 48,
+    "WinPCT": 0.324,
     "Conference": "West",
     "PlayoffRank": 13
   },
@@ -264,8 +264,8 @@
     "TeamAbbreviation": "WAS",
     "TeamName": "Wizards",
     "WINS": 16,
-    "LOSSES": 53,
-    "WinPCT": 0.232,
+    "LOSSES": 54,
+    "WinPCT": 0.229,
     "Conference": "East",
     "PlayoffRank": 14
   },
@@ -274,10 +274,20 @@
     "TeamAbbreviation": "UTA",
     "TeamName": "Jazz",
     "WINS": 21,
-    "LOSSES": 49,
-    "WinPCT": 0.3,
+    "LOSSES": 50,
+    "WinPCT": 0.296,
     "Conference": "West",
     "PlayoffRank": 14
+  },
+  {
+    "TeamID": 1610612754,
+    "TeamAbbreviation": "IND",
+    "TeamName": "Pacers",
+    "WINS": 15,
+    "LOSSES": 56,
+    "WinPCT": 0.211,
+    "Conference": "East",
+    "PlayoffRank": 15
   },
   {
     "TeamID": 1610612758,
@@ -287,16 +297,6 @@
     "LOSSES": 53,
     "WinPCT": 0.254,
     "Conference": "West",
-    "PlayoffRank": 15
-  },
-  {
-    "TeamID": 1610612754,
-    "TeamAbbreviation": "IND",
-    "TeamName": "Pacers",
-    "WINS": 15,
-    "LOSSES": 55,
-    "WinPCT": 0.214,
-    "Conference": "East",
     "PlayoffRank": 15
   }
 ]

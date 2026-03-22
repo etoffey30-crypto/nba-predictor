@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from datetime import datetime
+from datetime import datetime, timezone
 from scipy.stats import norm, poisson, nbinom, genextreme
 import json
 import os
@@ -901,8 +901,8 @@ def export_data(df, elo_df, df_p, upcoming=None, filename="data.js", odds_data=N
     if os.path.exists("prediction_model.joblib"):
         model = joblib.load("prediction_model.joblib")
 
-    # Get start of today (midnight) for filtering
-    start_of_today = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+    # Get start of today (midnight) for filtering in UTC
+    start_of_today = datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0)
     start_of_today_ts = int(start_of_today.timestamp())
     
     for match in upcoming:
