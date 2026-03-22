@@ -223,41 +223,5 @@
     "awayTeam": "MIL",
     "homeName": "Los Angeles Clippers",
     "awayName": "Milwaukee Bucks"
-  },
-  {
-    "matchId": "0022501047",
-    "matchTime": 1774393200,
-    "gameStatus": "7:00 pm ET",
-    "homeTeam": "CHA",
-    "awayTeam": "SAC",
-    "homeName": "Charlotte Hornets",
-    "awayName": "Sacramento Kings"
-  },
-  {
-    "matchId": "0022501048",
-    "matchTime": 1774395000,
-    "gameStatus": "7:30 pm ET",
-    "homeTeam": "NYK",
-    "awayTeam": "NOP",
-    "homeName": "New York Knicks",
-    "awayName": "New Orleans Pelicans"
-  },
-  {
-    "matchId": "0022501049",
-    "matchTime": 1774396800,
-    "gameStatus": "8:00 pm ET",
-    "homeTeam": "CLE",
-    "awayTeam": "ORL",
-    "homeName": "Cleveland Cavaliers",
-    "awayName": "Orlando Magic"
-  },
-  {
-    "matchId": "0022501050",
-    "matchTime": 1774407600,
-    "gameStatus": "11:00 pm ET",
-    "homeTeam": "PHX",
-    "awayTeam": "DEN",
-    "homeName": "Phoenix Suns",
-    "awayName": "Denver Nuggets"
   }
 ]

@@ -26,9 +26,8 @@ def fetch_upcoming_matches(target_date=None, output_file="upcoming.json"):
     upcoming_nba_matches = []
     seen_game_ids = set()
 
-    # Fetch for 4 days (Yesterday, Today, +2 Days) to ensure no matches are missed at day-roll boundaries
-    # We start from yesterday (-1) to today and future
-    for i in range(-1, 3):
+    # Fetch for 3 days (Yesterday, Today, Tomorrow) as requested
+    for i in range(-1, 2):
         current_date = start_date + timedelta(days=i)
         date_str = current_date.strftime('%Y-%m-%d')
         print(f"Fetching NBA schedule for {date_str} using ScoreboardV2...")

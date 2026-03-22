@@ -35,28 +35,375 @@
   },
   "Brooklyn Nets @ Sacramento Kings": {
     "ml": {
-      "home": "1.51",
-      "away": "2.64"
+      "home": "1.41",
+      "away": "3.00"
     },
     "spread": {
-      "hdp": -4.5,
-      "home": "1.89",
-      "away": "1.93"
+      "hdp": 1.5,
+      "home": "1.34",
+      "away": "3.09"
     },
     "total": {
-      "hdp": 218.5,
-      "over": "1.91",
-      "under": "1.91"
+      "hdp": 196.5,
+      "over": "1.09",
+      "under": "6.37"
     },
     "props": [
       {
+        "label": "DeMar DeRozan (Assists)",
+        "hdp": 4.5,
+        "over": "1.93",
+        "under": "1.82"
+      },
+      {
+        "label": "Ben Saraf (Assists)",
+        "hdp": 3.5,
+        "over": "1.71",
+        "under": "2.06"
+      },
+      {
+        "label": "Nique Clifford (Assists)",
+        "hdp": 4.5,
+        "over": "2.03",
+        "under": "1.74"
+      },
+      {
+        "label": "Danny Wolf (Assists)",
+        "hdp": 2.5,
+        "over": "1.88",
+        "under": "1.85"
+      },
+      {
+        "label": "Nolan Traore (Assists)",
+        "hdp": 3.5,
+        "over": "1.63",
+        "under": "2.21"
+      },
+      {
+        "label": "Ochai Agbaji (Rebounds)",
+        "hdp": 3.5,
+        "over": "2.24",
+        "under": "1.61"
+      },
+      {
+        "label": "Maxime Raynaud (Rebounds)",
+        "hdp": 9.5,
+        "over": "1.80",
+        "under": "1.95"
+      },
+      {
+        "label": "DeMar DeRozan (Rebounds)",
+        "hdp": 2.5,
+        "over": "1.69",
+        "under": "2.10"
+      },
+      {
+        "label": "Nique Clifford (Rebounds)",
+        "hdp": 5.5,
+        "over": "2.14",
+        "under": "1.67"
+      },
+      {
+        "label": "Dylan Cardwell (Rebounds)",
+        "hdp": 7.5,
+        "over": "1.83",
+        "under": "1.92"
+      },
+      {
+        "label": "Ben Saraf (Rebounds)",
+        "hdp": 2.5,
+        "over": "1.84",
+        "under": "1.90"
+      },
+      {
+        "label": "Josh Minott (Rebounds)",
+        "hdp": 4.5,
+        "over": "1.98",
+        "under": "1.78"
+      },
+      {
+        "label": "Danny Wolf (Rebounds)",
+        "hdp": 7.5,
+        "over": "2.06",
+        "under": "1.71"
+      },
+      {
+        "label": "Ziaire Williams (Rebounds)",
+        "hdp": 2.5,
+        "over": "1.72",
+        "under": "2.05"
+      },
+      {
+        "label": "Drake Powell (Rebounds)",
+        "hdp": 2.5,
+        "over": "2.34",
+        "under": "1.56"
+      },
+      {
+        "label": "Drake Powell (Points)",
+        "hdp": 7.5,
+        "over": "1.79",
+        "under": "2.00"
+      },
+      {
+        "label": "Nique Clifford (Points)",
+        "hdp": 13.5,
+        "over": "1.88",
+        "under": "1.89"
+      },
+      {
+        "label": "Danny Wolf (Points)",
+        "hdp": 12.5,
+        "over": "1.82",
+        "under": "1.96"
+      },
+      {
+        "label": "Ochai Agbaji (Points)",
+        "hdp": 7.5,
+        "over": "1.75",
+        "under": "2.05"
+      },
+      {
+        "label": "Doug McDermott (Points)",
+        "hdp": 7.5,
+        "over": "1.76",
+        "under": "2.03"
+      },
+      {
+        "label": "Dylan Cardwell (Points)",
+        "hdp": 5.5,
+        "over": "1.77",
+        "under": "2.02"
+      },
+      {
+        "label": "Ben Saraf (Points)",
+        "hdp": 9.5,
+        "over": "1.88",
+        "under": "1.89"
+      },
+      {
+        "label": "DeMar DeRozan (Points)",
+        "hdp": 18.5,
+        "over": "1.83",
+        "under": "1.93"
+      },
+      {
+        "label": "Maxime Raynaud (Points)",
+        "hdp": 18.5,
+        "over": "1.96",
+        "under": "1.82"
+      },
+      {
+        "label": "Nolan Traore (Points)",
+        "hdp": 11.5,
+        "over": "1.88",
+        "under": "1.89"
+      },
+      {
+        "label": "Ziaire Williams (Points)",
+        "hdp": 9.5,
+        "over": "1.84",
+        "under": "1.93"
+      },
+      {
+        "label": "Josh Minott (Points)",
+        "hdp": 11.5,
+        "over": "1.85",
+        "under": "1.93"
+      },
+      {
+        "label": "Nique Clifford (Steals)",
+        "hdp": 1.5,
+        "over": "2.34",
+        "under": "1.56"
+      },
+      {
+        "label": "Doug McDermott (3 Point FG)",
+        "hdp": 2.5,
+        "over": "2.45",
+        "under": "1.52"
+      },
+      {
         "label": "Nique Clifford (3 Point FG)",
         "hdp": 1.5,
-        "over": "1.87",
+        "over": "1.91",
+        "under": "1.83"
+      },
+      {
+        "label": "Josh Minott (3 Point FG)",
+        "hdp": 1.5,
+        "over": "1.58",
+        "under": "2.30"
+      },
+      {
+        "label": "Ochai Agbaji (3 Point FG)",
+        "hdp": 1.5,
+        "over": "2.46",
+        "under": "1.52"
+      },
+      {
+        "label": "Ziaire Williams (3 Point FG)",
+        "hdp": 1.5,
+        "over": "2.37",
+        "under": "1.55"
+      },
+      {
+        "label": "Danny Wolf (3 Point FG)",
+        "hdp": 1.5,
+        "over": "2.05",
+        "under": "1.72"
+      },
+      {
+        "label": "Ben Saraf (Pts+Asts)",
+        "hdp": 13.5,
+        "over": "1.85",
+        "under": "1.90"
+      },
+      {
+        "label": "DeMar DeRozan (Pts+Asts)",
+        "hdp": 23.5,
+        "over": "1.86",
         "under": "1.88"
       },
       {
+        "label": "Nique Clifford (Pts+Asts)",
+        "hdp": 18.5,
+        "over": "1.94",
+        "under": "1.81"
+      },
+      {
+        "label": "Danny Wolf (Pts+Asts)",
+        "hdp": 15.5,
+        "over": "1.85",
+        "under": "1.90"
+      },
+      {
+        "label": "Nolan Traore (Pts+Asts)",
+        "hdp": 15.5,
+        "over": "1.79",
+        "under": "1.96"
+      },
+      {
+        "label": "Nique Clifford (Rebs+Asts)",
+        "hdp": 9.5,
+        "over": "1.85",
+        "under": "1.90"
+      },
+      {
+        "label": "Danny Wolf (Rebs+Asts)",
+        "hdp": 9.5,
+        "over": "1.79",
+        "under": "1.96"
+      },
+      {
+        "label": "Ben Saraf (Rebs+Asts)",
+        "hdp": 6.5,
+        "over": "1.90",
+        "under": "1.85"
+      },
+      {
+        "label": "DeMar DeRozan (Rebs+Asts)",
+        "hdp": 7.5,
+        "over": "1.93",
+        "under": "1.81"
+      },
+      {
+        "label": "Danny Wolf (Pts+Rebs+Asts)",
+        "hdp": 22.5,
+        "over": "1.81",
+        "under": "1.94"
+      },
+      {
+        "label": "Ben Saraf (Pts+Rebs+Asts)",
+        "hdp": 16.5,
+        "over": "1.93",
+        "under": "1.82"
+      },
+      {
+        "label": "Nique Clifford (Pts+Rebs+Asts)",
+        "hdp": 23.5,
+        "over": "1.91",
+        "under": "1.84"
+      },
+      {
+        "label": "DeMar DeRozan (Pts+Rebs+Asts)",
+        "hdp": 26.5,
+        "over": "1.87",
+        "under": "1.87"
+      },
+      {
+        "label": "Josh Minott (Pts+Rebs)",
+        "hdp": 16.5,
+        "over": "1.94",
+        "under": "1.81"
+      },
+      {
+        "label": "Drake Powell (Pts+Rebs)",
+        "hdp": 10.5,
+        "over": "1.98",
+        "under": "1.78"
+      },
+      {
+        "label": "Ochai Agbaji (Pts+Rebs)",
+        "hdp": 11.5,
+        "over": "1.93",
+        "under": "1.81"
+      },
+      {
+        "label": "DeMar DeRozan (Pts+Rebs)",
+        "hdp": 21.5,
+        "over": "1.82",
+        "under": "1.93"
+      },
+      {
+        "label": "Ziaire Williams (Pts+Rebs)",
+        "hdp": 12.5,
+        "over": "1.86",
+        "under": "1.88"
+      },
+      {
+        "label": "Doug McDermott (Pts+Rebs)",
+        "hdp": 10.5,
+        "over": "1.98",
+        "under": "1.78"
+      },
+      {
+        "label": "Dylan Cardwell (Pts+Rebs)",
+        "hdp": 13.5,
+        "over": "1.87",
+        "under": "1.87"
+      },
+      {
+        "label": "Nique Clifford (Pts+Rebs)",
+        "hdp": 18.5,
+        "over": "1.81",
+        "under": "1.94"
+      },
+      {
+        "label": "Maxime Raynaud (Pts+Rebs)",
+        "hdp": 28.5,
+        "over": "1.91",
+        "under": "1.83"
+      },
+      {
+        "label": "Danny Wolf (Pts+Rebs)",
+        "hdp": 20.5,
+        "over": "1.92",
+        "under": "1.83"
+      },
+      {
+        "label": "Ben Saraf (Pts+Rebs)",
+        "hdp": 12.5,
+        "over": "1.95",
+        "under": "1.80"
+      },
+      {
         "label": "Maxime Raynaud (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Dylan Cardwell (Double+Double)",
         "over": "N/A",
         "under": "N/A"
       },
@@ -66,27 +413,12 @@
         "under": "N/A"
       },
       {
-        "label": "Ben Saraf (Double+Double)",
-        "over": "N/A",
-        "under": "N/A"
-      },
-      {
-        "label": "Ziaire Williams (Double+Double)",
-        "over": "N/A",
-        "under": "N/A"
-      },
-      {
-        "label": "Drake Powell (Double+Double)",
+        "label": "Josh Minott (Double+Double)",
         "over": "N/A",
         "under": "N/A"
       },
       {
         "label": "Danny Wolf (Double+Double)",
-        "over": "N/A",
-        "under": "N/A"
-      },
-      {
-        "label": "Malik Monk (Double+Double)",
         "over": "N/A",
         "under": "N/A"
       },
@@ -104,28 +436,375 @@
   },
   "Sacramento Kings vs Brooklyn Nets": {
     "ml": {
-      "home": "1.51",
-      "away": "2.64"
+      "home": "1.41",
+      "away": "3.00"
     },
     "spread": {
-      "hdp": -4.5,
-      "home": "1.89",
-      "away": "1.93"
+      "hdp": 1.5,
+      "home": "1.34",
+      "away": "3.09"
     },
     "total": {
-      "hdp": 218.5,
-      "over": "1.91",
-      "under": "1.91"
+      "hdp": 196.5,
+      "over": "1.09",
+      "under": "6.37"
     },
     "props": [
       {
+        "label": "DeMar DeRozan (Assists)",
+        "hdp": 4.5,
+        "over": "1.93",
+        "under": "1.82"
+      },
+      {
+        "label": "Ben Saraf (Assists)",
+        "hdp": 3.5,
+        "over": "1.71",
+        "under": "2.06"
+      },
+      {
+        "label": "Nique Clifford (Assists)",
+        "hdp": 4.5,
+        "over": "2.03",
+        "under": "1.74"
+      },
+      {
+        "label": "Danny Wolf (Assists)",
+        "hdp": 2.5,
+        "over": "1.88",
+        "under": "1.85"
+      },
+      {
+        "label": "Nolan Traore (Assists)",
+        "hdp": 3.5,
+        "over": "1.63",
+        "under": "2.21"
+      },
+      {
+        "label": "Ochai Agbaji (Rebounds)",
+        "hdp": 3.5,
+        "over": "2.24",
+        "under": "1.61"
+      },
+      {
+        "label": "Maxime Raynaud (Rebounds)",
+        "hdp": 9.5,
+        "over": "1.80",
+        "under": "1.95"
+      },
+      {
+        "label": "DeMar DeRozan (Rebounds)",
+        "hdp": 2.5,
+        "over": "1.69",
+        "under": "2.10"
+      },
+      {
+        "label": "Nique Clifford (Rebounds)",
+        "hdp": 5.5,
+        "over": "2.14",
+        "under": "1.67"
+      },
+      {
+        "label": "Dylan Cardwell (Rebounds)",
+        "hdp": 7.5,
+        "over": "1.83",
+        "under": "1.92"
+      },
+      {
+        "label": "Ben Saraf (Rebounds)",
+        "hdp": 2.5,
+        "over": "1.84",
+        "under": "1.90"
+      },
+      {
+        "label": "Josh Minott (Rebounds)",
+        "hdp": 4.5,
+        "over": "1.98",
+        "under": "1.78"
+      },
+      {
+        "label": "Danny Wolf (Rebounds)",
+        "hdp": 7.5,
+        "over": "2.06",
+        "under": "1.71"
+      },
+      {
+        "label": "Ziaire Williams (Rebounds)",
+        "hdp": 2.5,
+        "over": "1.72",
+        "under": "2.05"
+      },
+      {
+        "label": "Drake Powell (Rebounds)",
+        "hdp": 2.5,
+        "over": "2.34",
+        "under": "1.56"
+      },
+      {
+        "label": "Drake Powell (Points)",
+        "hdp": 7.5,
+        "over": "1.79",
+        "under": "2.00"
+      },
+      {
+        "label": "Nique Clifford (Points)",
+        "hdp": 13.5,
+        "over": "1.88",
+        "under": "1.89"
+      },
+      {
+        "label": "Danny Wolf (Points)",
+        "hdp": 12.5,
+        "over": "1.82",
+        "under": "1.96"
+      },
+      {
+        "label": "Ochai Agbaji (Points)",
+        "hdp": 7.5,
+        "over": "1.75",
+        "under": "2.05"
+      },
+      {
+        "label": "Doug McDermott (Points)",
+        "hdp": 7.5,
+        "over": "1.76",
+        "under": "2.03"
+      },
+      {
+        "label": "Dylan Cardwell (Points)",
+        "hdp": 5.5,
+        "over": "1.77",
+        "under": "2.02"
+      },
+      {
+        "label": "Ben Saraf (Points)",
+        "hdp": 9.5,
+        "over": "1.88",
+        "under": "1.89"
+      },
+      {
+        "label": "DeMar DeRozan (Points)",
+        "hdp": 18.5,
+        "over": "1.83",
+        "under": "1.93"
+      },
+      {
+        "label": "Maxime Raynaud (Points)",
+        "hdp": 18.5,
+        "over": "1.96",
+        "under": "1.82"
+      },
+      {
+        "label": "Nolan Traore (Points)",
+        "hdp": 11.5,
+        "over": "1.88",
+        "under": "1.89"
+      },
+      {
+        "label": "Ziaire Williams (Points)",
+        "hdp": 9.5,
+        "over": "1.84",
+        "under": "1.93"
+      },
+      {
+        "label": "Josh Minott (Points)",
+        "hdp": 11.5,
+        "over": "1.85",
+        "under": "1.93"
+      },
+      {
+        "label": "Nique Clifford (Steals)",
+        "hdp": 1.5,
+        "over": "2.34",
+        "under": "1.56"
+      },
+      {
+        "label": "Doug McDermott (3 Point FG)",
+        "hdp": 2.5,
+        "over": "2.45",
+        "under": "1.52"
+      },
+      {
         "label": "Nique Clifford (3 Point FG)",
         "hdp": 1.5,
-        "over": "1.87",
+        "over": "1.91",
+        "under": "1.83"
+      },
+      {
+        "label": "Josh Minott (3 Point FG)",
+        "hdp": 1.5,
+        "over": "1.58",
+        "under": "2.30"
+      },
+      {
+        "label": "Ochai Agbaji (3 Point FG)",
+        "hdp": 1.5,
+        "over": "2.46",
+        "under": "1.52"
+      },
+      {
+        "label": "Ziaire Williams (3 Point FG)",
+        "hdp": 1.5,
+        "over": "2.37",
+        "under": "1.55"
+      },
+      {
+        "label": "Danny Wolf (3 Point FG)",
+        "hdp": 1.5,
+        "over": "2.05",
+        "under": "1.72"
+      },
+      {
+        "label": "Ben Saraf (Pts+Asts)",
+        "hdp": 13.5,
+        "over": "1.85",
+        "under": "1.90"
+      },
+      {
+        "label": "DeMar DeRozan (Pts+Asts)",
+        "hdp": 23.5,
+        "over": "1.86",
         "under": "1.88"
       },
       {
+        "label": "Nique Clifford (Pts+Asts)",
+        "hdp": 18.5,
+        "over": "1.94",
+        "under": "1.81"
+      },
+      {
+        "label": "Danny Wolf (Pts+Asts)",
+        "hdp": 15.5,
+        "over": "1.85",
+        "under": "1.90"
+      },
+      {
+        "label": "Nolan Traore (Pts+Asts)",
+        "hdp": 15.5,
+        "over": "1.79",
+        "under": "1.96"
+      },
+      {
+        "label": "Nique Clifford (Rebs+Asts)",
+        "hdp": 9.5,
+        "over": "1.85",
+        "under": "1.90"
+      },
+      {
+        "label": "Danny Wolf (Rebs+Asts)",
+        "hdp": 9.5,
+        "over": "1.79",
+        "under": "1.96"
+      },
+      {
+        "label": "Ben Saraf (Rebs+Asts)",
+        "hdp": 6.5,
+        "over": "1.90",
+        "under": "1.85"
+      },
+      {
+        "label": "DeMar DeRozan (Rebs+Asts)",
+        "hdp": 7.5,
+        "over": "1.93",
+        "under": "1.81"
+      },
+      {
+        "label": "Danny Wolf (Pts+Rebs+Asts)",
+        "hdp": 22.5,
+        "over": "1.81",
+        "under": "1.94"
+      },
+      {
+        "label": "Ben Saraf (Pts+Rebs+Asts)",
+        "hdp": 16.5,
+        "over": "1.93",
+        "under": "1.82"
+      },
+      {
+        "label": "Nique Clifford (Pts+Rebs+Asts)",
+        "hdp": 23.5,
+        "over": "1.91",
+        "under": "1.84"
+      },
+      {
+        "label": "DeMar DeRozan (Pts+Rebs+Asts)",
+        "hdp": 26.5,
+        "over": "1.87",
+        "under": "1.87"
+      },
+      {
+        "label": "Josh Minott (Pts+Rebs)",
+        "hdp": 16.5,
+        "over": "1.94",
+        "under": "1.81"
+      },
+      {
+        "label": "Drake Powell (Pts+Rebs)",
+        "hdp": 10.5,
+        "over": "1.98",
+        "under": "1.78"
+      },
+      {
+        "label": "Ochai Agbaji (Pts+Rebs)",
+        "hdp": 11.5,
+        "over": "1.93",
+        "under": "1.81"
+      },
+      {
+        "label": "DeMar DeRozan (Pts+Rebs)",
+        "hdp": 21.5,
+        "over": "1.82",
+        "under": "1.93"
+      },
+      {
+        "label": "Ziaire Williams (Pts+Rebs)",
+        "hdp": 12.5,
+        "over": "1.86",
+        "under": "1.88"
+      },
+      {
+        "label": "Doug McDermott (Pts+Rebs)",
+        "hdp": 10.5,
+        "over": "1.98",
+        "under": "1.78"
+      },
+      {
+        "label": "Dylan Cardwell (Pts+Rebs)",
+        "hdp": 13.5,
+        "over": "1.87",
+        "under": "1.87"
+      },
+      {
+        "label": "Nique Clifford (Pts+Rebs)",
+        "hdp": 18.5,
+        "over": "1.81",
+        "under": "1.94"
+      },
+      {
+        "label": "Maxime Raynaud (Pts+Rebs)",
+        "hdp": 28.5,
+        "over": "1.91",
+        "under": "1.83"
+      },
+      {
+        "label": "Danny Wolf (Pts+Rebs)",
+        "hdp": 20.5,
+        "over": "1.92",
+        "under": "1.83"
+      },
+      {
+        "label": "Ben Saraf (Pts+Rebs)",
+        "hdp": 12.5,
+        "over": "1.95",
+        "under": "1.80"
+      },
+      {
         "label": "Maxime Raynaud (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Dylan Cardwell (Double+Double)",
         "over": "N/A",
         "under": "N/A"
       },
@@ -135,27 +814,12 @@
         "under": "N/A"
       },
       {
-        "label": "Ben Saraf (Double+Double)",
-        "over": "N/A",
-        "under": "N/A"
-      },
-      {
-        "label": "Ziaire Williams (Double+Double)",
-        "over": "N/A",
-        "under": "N/A"
-      },
-      {
-        "label": "Drake Powell (Double+Double)",
+        "label": "Josh Minott (Double+Double)",
         "over": "N/A",
         "under": "N/A"
       },
       {
         "label": "Danny Wolf (Double+Double)",
-        "over": "N/A",
-        "under": "N/A"
-      },
-      {
-        "label": "Malik Monk (Double+Double)",
         "over": "N/A",
         "under": "N/A"
       },
@@ -174,19 +838,115 @@
   "Washington Wizards @ New York Knicks": {
     "ml": {
       "home": "1.04",
-      "away": "13.00"
+      "away": "14.00"
     },
     "spread": {
-      "hdp": -20.5,
-      "home": "1.95",
-      "away": "1.87"
+      "hdp": -3.5,
+      "home": "1.05",
+      "away": "8.40"
     },
     "total": {
-      "hdp": 227.5,
-      "over": "1.87",
-      "under": "1.95"
+      "hdp": 205.5,
+      "over": "1.11",
+      "under": "5.84"
     },
     "props": [
+      {
+        "label": "Jalen Brunson (Assists)",
+        "hdp": 7.5,
+        "over": "1.84",
+        "under": "1.91"
+      },
+      {
+        "label": "Mikal Bridges (Assists)",
+        "hdp": 3.5,
+        "over": "2.07",
+        "under": "1.71"
+      },
+      {
+        "label": "Will Riley (Assists)",
+        "hdp": 2.5,
+        "over": "1.90",
+        "under": "1.84"
+      },
+      {
+        "label": "Jose Alvarado (Assists)",
+        "hdp": 4.5,
+        "over": "2.18",
+        "under": "1.64"
+      },
+      {
+        "label": "Josh Hart (Assists)",
+        "hdp": 5.5,
+        "over": "1.71",
+        "under": "2.06"
+      },
+      {
+        "label": "Bilal Coulibaly (Assists)",
+        "hdp": 2.5,
+        "over": "1.78",
+        "under": "1.98"
+      },
+      {
+        "label": "Karl-Anthony Towns (Rebounds)",
+        "hdp": 11.5,
+        "over": "1.71",
+        "under": "2.07"
+      },
+      {
+        "label": "Carlton Carrington (Rebounds)",
+        "hdp": 3.5,
+        "over": "1.76",
+        "under": "2.00"
+      },
+      {
+        "label": "Jalen Brunson (Rebounds)",
+        "hdp": 3.5,
+        "over": "1.91",
+        "under": "1.83"
+      },
+      {
+        "label": "Mikal Bridges (Rebounds)",
+        "hdp": 4.5,
+        "over": "2.25",
+        "under": "1.60"
+      },
+      {
+        "label": "Mitchell Robinson (Rebounds)",
+        "hdp": 8.5,
+        "over": "1.72",
+        "under": "2.06"
+      },
+      {
+        "label": "Josh Hart (Rebounds)",
+        "hdp": 7.5,
+        "over": "1.93",
+        "under": "1.82"
+      },
+      {
+        "label": "Will Riley (Rebounds)",
+        "hdp": 3.5,
+        "over": "1.63",
+        "under": "2.21"
+      },
+      {
+        "label": "OG Anunoby (Rebounds)",
+        "hdp": 5.5,
+        "over": "2.04",
+        "under": "1.73"
+      },
+      {
+        "label": "Bilal Coulibaly (Rebounds)",
+        "hdp": 4.5,
+        "over": "2.22",
+        "under": "1.62"
+      },
+      {
+        "label": "Tristan Vukcevic (Rebounds)",
+        "hdp": 4.5,
+        "over": "2.06",
+        "under": "1.71"
+      },
       {
         "label": "Mitchell Robinson (Points)",
         "hdp": 5.5,
@@ -196,26 +956,26 @@
       {
         "label": "OG Anunoby (Points)",
         "hdp": 17.5,
-        "over": "1.82",
-        "under": "1.96"
+        "over": "1.81",
+        "under": "1.97"
       },
       {
         "label": "Jalen Brunson (Points)",
-        "hdp": 25.5,
-        "over": "1.88",
-        "under": "1.88"
+        "hdp": 24.5,
+        "over": "1.84",
+        "under": "1.93"
       },
       {
         "label": "Mohamed Diawara (Points)",
-        "hdp": 6.5,
-        "over": "1.78",
-        "under": "2.01"
+        "hdp": 7.5,
+        "over": "2.01",
+        "under": "1.78"
       },
       {
         "label": "Josh Hart (Points)",
-        "hdp": 13.5,
-        "over": "2.00",
-        "under": "1.78"
+        "hdp": 12.5,
+        "over": "1.81",
+        "under": "1.96"
       },
       {
         "label": "Mikal Bridges (Points)",
@@ -226,86 +986,104 @@
       {
         "label": "Carlton Carrington (Points)",
         "hdp": 10.5,
-        "over": "1.79",
-        "under": "1.99"
-      },
-      {
-        "label": "Bilal Coulibaly (Points)",
-        "hdp": 12.5,
         "over": "1.81",
         "under": "1.97"
       },
       {
+        "label": "Bilal Coulibaly (Points)",
+        "hdp": 12.5,
+        "over": "1.97",
+        "under": "1.81"
+      },
+      {
         "label": "Will Riley (Points)",
         "hdp": 14.5,
-        "over": "1.92",
-        "under": "1.85"
+        "over": "1.88",
+        "under": "1.88"
       },
       {
         "label": "Karl-Anthony Towns (Points)",
-        "hdp": 21.5,
-        "over": "1.83",
-        "under": "1.93"
+        "hdp": 22.5,
+        "over": "1.95",
+        "under": "1.83"
       },
       {
         "label": "Tristan Vukcevic (Points)",
         "hdp": 10.5,
-        "over": "1.91",
-        "under": "1.86"
+        "over": "1.88",
+        "under": "1.88"
+      },
+      {
+        "label": "Jose Alvarado (Points)",
+        "hdp": 6.5,
+        "over": "1.80",
+        "under": "1.98"
       },
       {
         "label": "Tre Johnson (Points)",
         "hdp": 12.5,
-        "over": "1.99",
-        "under": "1.79"
+        "over": "1.95",
+        "under": "1.83"
       },
       {
-        "label": "Josh Hart (3 Point FG)",
+        "label": "OG Anunoby (Steals)",
         "hdp": 1.5,
-        "over": "2.53",
-        "under": "1.49"
+        "over": "1.85",
+        "under": "1.88"
       },
       {
-        "label": "Tristan Vukcevic (3 Point FG)",
+        "label": "Mikal Bridges (Steals)",
         "hdp": 1.5,
         "over": "2.66",
         "under": "1.45"
       },
       {
+        "label": "Josh Hart (3 Point FG)",
+        "hdp": 1.5,
+        "over": "2.60",
+        "under": "1.47"
+      },
+      {
+        "label": "Tristan Vukcevic (3 Point FG)",
+        "hdp": 1.5,
+        "over": "2.69",
+        "under": "1.44"
+      },
+      {
         "label": "Carlton Carrington (3 Point FG)",
         "hdp": 1.5,
-        "over": "1.53",
-        "under": "2.41"
+        "over": "1.55",
+        "under": "2.38"
       },
       {
         "label": "Will Riley (3 Point FG)",
         "hdp": 1.5,
-        "over": "1.90",
-        "under": "1.85"
+        "over": "1.93",
+        "under": "1.81"
       },
       {
         "label": "Karl-Anthony Towns (3 Point FG)",
         "hdp": 1.5,
-        "over": "1.92",
-        "under": "1.83"
+        "over": "1.93",
+        "under": "1.81"
       },
       {
         "label": "Bilal Coulibaly (3 Point FG)",
         "hdp": 1.5,
-        "over": "2.29",
-        "under": "1.58"
+        "over": "2.33",
+        "under": "1.57"
       },
       {
         "label": "OG Anunoby (3 Point FG)",
         "hdp": 2.5,
-        "over": "2.35",
-        "under": "1.56"
+        "over": "2.39",
+        "under": "1.54"
       },
       {
         "label": "Jalen Brunson (3 Point FG)",
         "hdp": 2.5,
-        "over": "2.11",
-        "under": "1.68"
+        "over": "2.15",
+        "under": "1.66"
       },
       {
         "label": "Mohamed Diawara (3 Point FG)",
@@ -316,33 +1094,358 @@
       {
         "label": "Mikal Bridges (3 Point FG)",
         "hdp": 1.5,
-        "over": "1.90",
-        "under": "1.85"
+        "over": "1.91",
+        "under": "1.83"
       },
       {
         "label": "Tre Johnson (3 Point FG)",
         "hdp": 1.5,
         "over": "1.61",
         "under": "2.25"
+      },
+      {
+        "label": "Carlton Carrington (Pts+Asts)",
+        "hdp": 15.5,
+        "over": "1.87",
+        "under": "1.88"
+      },
+      {
+        "label": "Will Riley (Pts+Asts)",
+        "hdp": 17.5,
+        "over": "1.93",
+        "under": "1.81"
+      },
+      {
+        "label": "Jalen Brunson (Pts+Asts)",
+        "hdp": 32.5,
+        "over": "1.84",
+        "under": "1.91"
+      },
+      {
+        "label": "Jose Alvarado (Pts+Asts)",
+        "hdp": 11.5,
+        "over": "1.93",
+        "under": "1.82"
+      },
+      {
+        "label": "Mikal Bridges (Pts+Asts)",
+        "hdp": 15.5,
+        "over": "1.76",
+        "under": "1.99"
+      },
+      {
+        "label": "Bilal Coulibaly (Pts+Asts)",
+        "hdp": 14.5,
+        "over": "1.77",
+        "under": "1.98"
+      },
+      {
+        "label": "Josh Hart (Pts+Asts)",
+        "hdp": 18.5,
+        "over": "1.82",
+        "under": "1.93"
+      },
+      {
+        "label": "Will Riley (Rebs+Asts)",
+        "hdp": 6.5,
+        "over": "1.84",
+        "under": "1.91"
+      },
+      {
+        "label": "Mikal Bridges (Rebs+Asts)",
+        "hdp": 7.5,
+        "over": "1.91",
+        "under": "1.84"
+      },
+      {
+        "label": "Jalen Brunson (Rebs+Asts)",
+        "hdp": 11.5,
+        "over": "1.97",
+        "under": "1.79"
+      },
+      {
+        "label": "Carlton Carrington (Rebs+Asts)",
+        "hdp": 8.5,
+        "over": "1.99",
+        "under": "1.77"
+      },
+      {
+        "label": "Bilal Coulibaly (Rebs+Asts)",
+        "hdp": 6.5,
+        "over": "1.74",
+        "under": "2.03"
+      },
+      {
+        "label": "Josh Hart (Rebs+Asts)",
+        "hdp": 13.5,
+        "over": "1.93",
+        "under": "1.82"
+      },
+      {
+        "label": "Mikal Bridges (Pts+Rebs+Asts)",
+        "hdp": 20.5,
+        "over": "1.91",
+        "under": "1.84"
+      },
+      {
+        "label": "Jalen Brunson (Pts+Rebs+Asts)",
+        "hdp": 36.5,
+        "over": "1.88",
+        "under": "1.85"
+      },
+      {
+        "label": "Will Riley (Pts+Rebs+Asts)",
+        "hdp": 21.5,
+        "over": "1.90",
+        "under": "1.85"
+      },
+      {
+        "label": "Carlton Carrington (Pts+Rebs+Asts)",
+        "hdp": 19.5,
+        "over": "1.88",
+        "under": "1.86"
+      },
+      {
+        "label": "Josh Hart (Pts+Rebs+Asts)",
+        "hdp": 26.5,
+        "over": "1.87",
+        "under": "1.88"
+      },
+      {
+        "label": "Bilal Coulibaly (Pts+Rebs+Asts)",
+        "hdp": 19.5,
+        "over": "1.93",
+        "under": "1.81"
+      },
+      {
+        "label": "Jalen Brunson (Pts+Rebs)",
+        "hdp": 28.5,
+        "over": "1.87",
+        "under": "1.87"
+      },
+      {
+        "label": "Tristan Vukcevic (Pts+Rebs)",
+        "hdp": 14.5,
+        "over": "1.79",
+        "under": "1.96"
+      },
+      {
+        "label": "Josh Hart (Pts+Rebs)",
+        "hdp": 20.5,
+        "over": "1.89",
+        "under": "1.85"
+      },
+      {
+        "label": "OG Anunoby (Pts+Rebs)",
+        "hdp": 23.5,
+        "over": "1.92",
+        "under": "1.83"
+      },
+      {
+        "label": "Will Riley (Pts+Rebs)",
+        "hdp": 18.5,
+        "over": "1.84",
+        "under": "1.91"
+      },
+      {
+        "label": "Mitchell Robinson (Pts+Rebs)",
+        "hdp": 15.5,
+        "over": "1.93",
+        "under": "1.82"
+      },
+      {
+        "label": "Mikal Bridges (Pts+Rebs)",
+        "hdp": 16.5,
+        "over": "1.79",
+        "under": "1.95"
+      },
+      {
+        "label": "Carlton Carrington (Pts+Rebs)",
+        "hdp": 14.5,
+        "over": "1.79",
+        "under": "1.96"
+      },
+      {
+        "label": "Karl-Anthony Towns (Pts+Rebs)",
+        "hdp": 34.5,
+        "over": "1.92",
+        "under": "1.83"
+      },
+      {
+        "label": "Bilal Coulibaly (Pts+Rebs)",
+        "hdp": 16.5,
+        "over": "1.90",
+        "under": "1.84"
+      },
+      {
+        "label": "Carlton Carrington (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Jalen Brunson (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "OG Anunoby (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Mitchell Robinson (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Mikal Bridges (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Karl-Anthony Towns (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Tristan Vukcevic (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Bilal Coulibaly (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Josh Hart (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Will Riley (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Josh Hart (Triple+Double)",
+        "over": "N/A",
+        "under": "N/A"
       }
     ]
   },
   "New York Knicks vs Washington Wizards": {
     "ml": {
       "home": "1.04",
-      "away": "13.00"
+      "away": "14.00"
     },
     "spread": {
-      "hdp": -20.5,
-      "home": "1.95",
-      "away": "1.87"
+      "hdp": -3.5,
+      "home": "1.05",
+      "away": "8.40"
     },
     "total": {
-      "hdp": 227.5,
-      "over": "1.87",
-      "under": "1.95"
+      "hdp": 205.5,
+      "over": "1.11",
+      "under": "5.84"
     },
     "props": [
+      {
+        "label": "Jalen Brunson (Assists)",
+        "hdp": 7.5,
+        "over": "1.84",
+        "under": "1.91"
+      },
+      {
+        "label": "Mikal Bridges (Assists)",
+        "hdp": 3.5,
+        "over": "2.07",
+        "under": "1.71"
+      },
+      {
+        "label": "Will Riley (Assists)",
+        "hdp": 2.5,
+        "over": "1.90",
+        "under": "1.84"
+      },
+      {
+        "label": "Jose Alvarado (Assists)",
+        "hdp": 4.5,
+        "over": "2.18",
+        "under": "1.64"
+      },
+      {
+        "label": "Josh Hart (Assists)",
+        "hdp": 5.5,
+        "over": "1.71",
+        "under": "2.06"
+      },
+      {
+        "label": "Bilal Coulibaly (Assists)",
+        "hdp": 2.5,
+        "over": "1.78",
+        "under": "1.98"
+      },
+      {
+        "label": "Karl-Anthony Towns (Rebounds)",
+        "hdp": 11.5,
+        "over": "1.71",
+        "under": "2.07"
+      },
+      {
+        "label": "Carlton Carrington (Rebounds)",
+        "hdp": 3.5,
+        "over": "1.76",
+        "under": "2.00"
+      },
+      {
+        "label": "Jalen Brunson (Rebounds)",
+        "hdp": 3.5,
+        "over": "1.91",
+        "under": "1.83"
+      },
+      {
+        "label": "Mikal Bridges (Rebounds)",
+        "hdp": 4.5,
+        "over": "2.25",
+        "under": "1.60"
+      },
+      {
+        "label": "Mitchell Robinson (Rebounds)",
+        "hdp": 8.5,
+        "over": "1.72",
+        "under": "2.06"
+      },
+      {
+        "label": "Josh Hart (Rebounds)",
+        "hdp": 7.5,
+        "over": "1.93",
+        "under": "1.82"
+      },
+      {
+        "label": "Will Riley (Rebounds)",
+        "hdp": 3.5,
+        "over": "1.63",
+        "under": "2.21"
+      },
+      {
+        "label": "OG Anunoby (Rebounds)",
+        "hdp": 5.5,
+        "over": "2.04",
+        "under": "1.73"
+      },
+      {
+        "label": "Bilal Coulibaly (Rebounds)",
+        "hdp": 4.5,
+        "over": "2.22",
+        "under": "1.62"
+      },
+      {
+        "label": "Tristan Vukcevic (Rebounds)",
+        "hdp": 4.5,
+        "over": "2.06",
+        "under": "1.71"
+      },
       {
         "label": "Mitchell Robinson (Points)",
         "hdp": 5.5,
@@ -352,26 +1455,26 @@
       {
         "label": "OG Anunoby (Points)",
         "hdp": 17.5,
-        "over": "1.82",
-        "under": "1.96"
+        "over": "1.81",
+        "under": "1.97"
       },
       {
         "label": "Jalen Brunson (Points)",
-        "hdp": 25.5,
-        "over": "1.88",
-        "under": "1.88"
+        "hdp": 24.5,
+        "over": "1.84",
+        "under": "1.93"
       },
       {
         "label": "Mohamed Diawara (Points)",
-        "hdp": 6.5,
-        "over": "1.78",
-        "under": "2.01"
+        "hdp": 7.5,
+        "over": "2.01",
+        "under": "1.78"
       },
       {
         "label": "Josh Hart (Points)",
-        "hdp": 13.5,
-        "over": "2.00",
-        "under": "1.78"
+        "hdp": 12.5,
+        "over": "1.81",
+        "under": "1.96"
       },
       {
         "label": "Mikal Bridges (Points)",
@@ -382,86 +1485,104 @@
       {
         "label": "Carlton Carrington (Points)",
         "hdp": 10.5,
-        "over": "1.79",
-        "under": "1.99"
-      },
-      {
-        "label": "Bilal Coulibaly (Points)",
-        "hdp": 12.5,
         "over": "1.81",
         "under": "1.97"
       },
       {
+        "label": "Bilal Coulibaly (Points)",
+        "hdp": 12.5,
+        "over": "1.97",
+        "under": "1.81"
+      },
+      {
         "label": "Will Riley (Points)",
         "hdp": 14.5,
-        "over": "1.92",
-        "under": "1.85"
+        "over": "1.88",
+        "under": "1.88"
       },
       {
         "label": "Karl-Anthony Towns (Points)",
-        "hdp": 21.5,
-        "over": "1.83",
-        "under": "1.93"
+        "hdp": 22.5,
+        "over": "1.95",
+        "under": "1.83"
       },
       {
         "label": "Tristan Vukcevic (Points)",
         "hdp": 10.5,
-        "over": "1.91",
-        "under": "1.86"
+        "over": "1.88",
+        "under": "1.88"
+      },
+      {
+        "label": "Jose Alvarado (Points)",
+        "hdp": 6.5,
+        "over": "1.80",
+        "under": "1.98"
       },
       {
         "label": "Tre Johnson (Points)",
         "hdp": 12.5,
-        "over": "1.99",
-        "under": "1.79"
+        "over": "1.95",
+        "under": "1.83"
       },
       {
-        "label": "Josh Hart (3 Point FG)",
+        "label": "OG Anunoby (Steals)",
         "hdp": 1.5,
-        "over": "2.53",
-        "under": "1.49"
+        "over": "1.85",
+        "under": "1.88"
       },
       {
-        "label": "Tristan Vukcevic (3 Point FG)",
+        "label": "Mikal Bridges (Steals)",
         "hdp": 1.5,
         "over": "2.66",
         "under": "1.45"
       },
       {
+        "label": "Josh Hart (3 Point FG)",
+        "hdp": 1.5,
+        "over": "2.60",
+        "under": "1.47"
+      },
+      {
+        "label": "Tristan Vukcevic (3 Point FG)",
+        "hdp": 1.5,
+        "over": "2.69",
+        "under": "1.44"
+      },
+      {
         "label": "Carlton Carrington (3 Point FG)",
         "hdp": 1.5,
-        "over": "1.53",
-        "under": "2.41"
+        "over": "1.55",
+        "under": "2.38"
       },
       {
         "label": "Will Riley (3 Point FG)",
         "hdp": 1.5,
-        "over": "1.90",
-        "under": "1.85"
+        "over": "1.93",
+        "under": "1.81"
       },
       {
         "label": "Karl-Anthony Towns (3 Point FG)",
         "hdp": 1.5,
-        "over": "1.92",
-        "under": "1.83"
+        "over": "1.93",
+        "under": "1.81"
       },
       {
         "label": "Bilal Coulibaly (3 Point FG)",
         "hdp": 1.5,
-        "over": "2.29",
-        "under": "1.58"
+        "over": "2.33",
+        "under": "1.57"
       },
       {
         "label": "OG Anunoby (3 Point FG)",
         "hdp": 2.5,
-        "over": "2.35",
-        "under": "1.56"
+        "over": "2.39",
+        "under": "1.54"
       },
       {
         "label": "Jalen Brunson (3 Point FG)",
         "hdp": 2.5,
-        "over": "2.11",
-        "under": "1.68"
+        "over": "2.15",
+        "under": "1.66"
       },
       {
         "label": "Mohamed Diawara (3 Point FG)",
@@ -472,199 +1593,416 @@
       {
         "label": "Mikal Bridges (3 Point FG)",
         "hdp": 1.5,
-        "over": "1.90",
-        "under": "1.85"
+        "over": "1.91",
+        "under": "1.83"
       },
       {
         "label": "Tre Johnson (3 Point FG)",
         "hdp": 1.5,
         "over": "1.61",
         "under": "2.25"
+      },
+      {
+        "label": "Carlton Carrington (Pts+Asts)",
+        "hdp": 15.5,
+        "over": "1.87",
+        "under": "1.88"
+      },
+      {
+        "label": "Will Riley (Pts+Asts)",
+        "hdp": 17.5,
+        "over": "1.93",
+        "under": "1.81"
+      },
+      {
+        "label": "Jalen Brunson (Pts+Asts)",
+        "hdp": 32.5,
+        "over": "1.84",
+        "under": "1.91"
+      },
+      {
+        "label": "Jose Alvarado (Pts+Asts)",
+        "hdp": 11.5,
+        "over": "1.93",
+        "under": "1.82"
+      },
+      {
+        "label": "Mikal Bridges (Pts+Asts)",
+        "hdp": 15.5,
+        "over": "1.76",
+        "under": "1.99"
+      },
+      {
+        "label": "Bilal Coulibaly (Pts+Asts)",
+        "hdp": 14.5,
+        "over": "1.77",
+        "under": "1.98"
+      },
+      {
+        "label": "Josh Hart (Pts+Asts)",
+        "hdp": 18.5,
+        "over": "1.82",
+        "under": "1.93"
+      },
+      {
+        "label": "Will Riley (Rebs+Asts)",
+        "hdp": 6.5,
+        "over": "1.84",
+        "under": "1.91"
+      },
+      {
+        "label": "Mikal Bridges (Rebs+Asts)",
+        "hdp": 7.5,
+        "over": "1.91",
+        "under": "1.84"
+      },
+      {
+        "label": "Jalen Brunson (Rebs+Asts)",
+        "hdp": 11.5,
+        "over": "1.97",
+        "under": "1.79"
+      },
+      {
+        "label": "Carlton Carrington (Rebs+Asts)",
+        "hdp": 8.5,
+        "over": "1.99",
+        "under": "1.77"
+      },
+      {
+        "label": "Bilal Coulibaly (Rebs+Asts)",
+        "hdp": 6.5,
+        "over": "1.74",
+        "under": "2.03"
+      },
+      {
+        "label": "Josh Hart (Rebs+Asts)",
+        "hdp": 13.5,
+        "over": "1.93",
+        "under": "1.82"
+      },
+      {
+        "label": "Mikal Bridges (Pts+Rebs+Asts)",
+        "hdp": 20.5,
+        "over": "1.91",
+        "under": "1.84"
+      },
+      {
+        "label": "Jalen Brunson (Pts+Rebs+Asts)",
+        "hdp": 36.5,
+        "over": "1.88",
+        "under": "1.85"
+      },
+      {
+        "label": "Will Riley (Pts+Rebs+Asts)",
+        "hdp": 21.5,
+        "over": "1.90",
+        "under": "1.85"
+      },
+      {
+        "label": "Carlton Carrington (Pts+Rebs+Asts)",
+        "hdp": 19.5,
+        "over": "1.88",
+        "under": "1.86"
+      },
+      {
+        "label": "Josh Hart (Pts+Rebs+Asts)",
+        "hdp": 26.5,
+        "over": "1.87",
+        "under": "1.88"
+      },
+      {
+        "label": "Bilal Coulibaly (Pts+Rebs+Asts)",
+        "hdp": 19.5,
+        "over": "1.93",
+        "under": "1.81"
+      },
+      {
+        "label": "Jalen Brunson (Pts+Rebs)",
+        "hdp": 28.5,
+        "over": "1.87",
+        "under": "1.87"
+      },
+      {
+        "label": "Tristan Vukcevic (Pts+Rebs)",
+        "hdp": 14.5,
+        "over": "1.79",
+        "under": "1.96"
+      },
+      {
+        "label": "Josh Hart (Pts+Rebs)",
+        "hdp": 20.5,
+        "over": "1.89",
+        "under": "1.85"
+      },
+      {
+        "label": "OG Anunoby (Pts+Rebs)",
+        "hdp": 23.5,
+        "over": "1.92",
+        "under": "1.83"
+      },
+      {
+        "label": "Will Riley (Pts+Rebs)",
+        "hdp": 18.5,
+        "over": "1.84",
+        "under": "1.91"
+      },
+      {
+        "label": "Mitchell Robinson (Pts+Rebs)",
+        "hdp": 15.5,
+        "over": "1.93",
+        "under": "1.82"
+      },
+      {
+        "label": "Mikal Bridges (Pts+Rebs)",
+        "hdp": 16.5,
+        "over": "1.79",
+        "under": "1.95"
+      },
+      {
+        "label": "Carlton Carrington (Pts+Rebs)",
+        "hdp": 14.5,
+        "over": "1.79",
+        "under": "1.96"
+      },
+      {
+        "label": "Karl-Anthony Towns (Pts+Rebs)",
+        "hdp": 34.5,
+        "over": "1.92",
+        "under": "1.83"
+      },
+      {
+        "label": "Bilal Coulibaly (Pts+Rebs)",
+        "hdp": 16.5,
+        "over": "1.90",
+        "under": "1.84"
+      },
+      {
+        "label": "Carlton Carrington (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Jalen Brunson (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "OG Anunoby (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Mitchell Robinson (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Mikal Bridges (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Karl-Anthony Towns (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Tristan Vukcevic (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Bilal Coulibaly (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Josh Hart (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Will Riley (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Josh Hart (Triple+Double)",
+        "over": "N/A",
+        "under": "N/A"
       }
     ]
   },
   "Minnesota Timberwolves @ Boston Celtics": {
     "ml": {
-      "home": "1.25",
-      "away": "4.10"
+      "home": "1.26",
+      "away": "4.00"
     },
     "spread": {
-      "hdp": -9.5,
-      "home": "1.87",
-      "away": "1.95"
+      "hdp": 1.5,
+      "home": "1.19",
+      "away": "4.31"
     },
     "total": {
-      "hdp": 219.5,
-      "over": "1.87",
-      "under": "1.95"
+      "hdp": 199.5,
+      "over": "1.10",
+      "under": "6.14"
     },
     "props": [
       {
         "label": "Payton Pritchard (Assists)",
         "hdp": 4.5,
-        "over": "1.75",
-        "under": "2.02"
+        "over": "1.71",
+        "under": "2.06"
       },
       {
         "label": "Ayo Dosunmu (Assists)",
         "hdp": 4.5,
-        "over": "1.84",
-        "under": "1.90"
-      },
-      {
-        "label": "Bones Hyland (Assists)",
-        "hdp": 2.5,
-        "over": "1.62",
-        "under": "2.23"
+        "over": "1.86",
+        "under": "1.88"
       },
       {
         "label": "Jaylen Brown (Assists)",
-        "hdp": 5.5,
-        "over": "2.08",
-        "under": "1.70"
+        "hdp": 4.5,
+        "over": "1.66",
+        "under": "2.15"
       },
       {
         "label": "Donte DiVincenzo (Assists)",
         "hdp": 3.5,
-        "over": "1.81",
-        "under": "1.94"
+        "over": "1.97",
+        "under": "1.79"
       },
       {
         "label": "Jayson Tatum (Assists)",
-        "hdp": 4.5,
-        "over": "2.20",
-        "under": "1.63"
-      },
-      {
-        "label": "Jaden McDaniels (Assists)",
-        "hdp": 2.5,
-        "over": "1.88",
-        "under": "1.87"
+        "hdp": 3.5,
+        "over": "1.67",
+        "under": "2.14"
       },
       {
         "label": "Derrick White (Assists)",
         "hdp": 4.5,
         "over": "1.72",
-        "under": "2.04"
+        "under": "2.05"
       },
       {
         "label": "Julius Randle (Assists)",
+        "hdp": 4.5,
+        "over": "1.96",
+        "under": "1.79"
+      },
+      {
+        "label": "Naz Reid (Rebounds)",
+        "hdp": 5.5,
+        "over": "2.05",
+        "under": "1.72"
+      },
+      {
+        "label": "Donte DiVincenzo (Rebounds)",
+        "hdp": 3.5,
+        "over": "1.77",
+        "under": "1.99"
+      },
+      {
+        "label": "Jayson Tatum (Rebounds)",
+        "hdp": 7.5,
+        "over": "1.83",
+        "under": "1.91"
+      },
+      {
+        "label": "Jaylen Brown (Rebounds)",
+        "hdp": 6.5,
+        "over": "2.01",
+        "under": "1.75"
+      },
+      {
+        "label": "Ayo Dosunmu (Rebounds)",
+        "hdp": 4.5,
+        "over": "2.10",
+        "under": "1.69"
+      },
+      {
+        "label": "Rudy Gobert (Rebounds)",
+        "hdp": 11.5,
+        "over": "1.93",
+        "under": "1.82"
+      },
+      {
+        "label": "Derrick White (Rebounds)",
         "hdp": 4.5,
         "over": "1.99",
         "under": "1.77"
       },
       {
-        "label": "Naz Reid (Rebounds)",
-        "hdp": 5.5,
-        "over": "1.91",
-        "under": "1.83"
-      },
-      {
-        "label": "Donte DiVincenzo (Rebounds)",
-        "hdp": 3.5,
-        "over": "1.74",
-        "under": "2.04"
-      },
-      {
-        "label": "Jayson Tatum (Rebounds)",
-        "hdp": 7.5,
-        "over": "1.77",
-        "under": "1.99"
-      },
-      {
-        "label": "Jaylen Brown (Rebounds)",
-        "hdp": 5.5,
-        "over": "1.67",
-        "under": "2.14"
-      },
-      {
-        "label": "Ayo Dosunmu (Rebounds)",
-        "hdp": 4.5,
-        "over": "1.88",
-        "under": "1.86"
-      },
-      {
-        "label": "Rudy Gobert (Rebounds)",
-        "hdp": 11.5,
-        "over": "1.75",
-        "under": "2.01"
-      },
-      {
-        "label": "Derrick White (Rebounds)",
-        "hdp": 4.5,
-        "over": "1.87",
-        "under": "1.88"
-      },
-      {
         "label": "Neemias Queta (Rebounds)",
         "hdp": 8.5,
-        "over": "1.93",
-        "under": "1.82"
+        "over": "1.85",
+        "under": "1.89"
       },
       {
         "label": "Jaden McDaniels (Rebounds)",
         "hdp": 3.5,
-        "over": "1.64",
-        "under": "2.19"
+        "over": "1.63",
+        "under": "2.21"
       },
       {
         "label": "Sam Hauser (Rebounds)",
         "hdp": 3.5,
-        "over": "2.07",
-        "under": "1.71"
+        "over": "2.02",
+        "under": "1.74"
       },
       {
         "label": "Julius Randle (Rebounds)",
         "hdp": 6.5,
-        "over": "1.87",
-        "under": "1.87"
+        "over": "1.96",
+        "under": "1.79"
       },
       {
         "label": "Payton Pritchard (Rebounds)",
         "hdp": 3.5,
-        "over": "1.95",
-        "under": "1.79"
+        "over": "2.04",
+        "under": "1.72"
       },
       {
         "label": "Jaden McDaniels (Points)",
         "hdp": 15.5,
-        "over": "1.93",
-        "under": "1.85"
+        "over": "2.00",
+        "under": "1.78"
       },
       {
         "label": "Jayson Tatum (Points)",
+        "hdp": 21.5,
+        "over": "1.83",
+        "under": "1.94"
+      },
+      {
+        "label": "Jaylen Brown (Points)",
+        "hdp": 25.5,
+        "over": "1.86",
+        "under": "1.91"
+      },
+      {
+        "label": "Julius Randle (Points)",
         "hdp": 21.5,
         "over": "1.92",
         "under": "1.85"
       },
       {
-        "label": "Jaylen Brown (Points)",
-        "hdp": 25.5,
-        "over": "1.89",
-        "under": "1.88"
-      },
-      {
-        "label": "Julius Randle (Points)",
-        "hdp": 20.5,
-        "over": "1.81",
-        "under": "1.97"
-      },
-      {
         "label": "Sam Hauser (Points)",
         "hdp": 6.5,
-        "over": "1.85",
-        "under": "1.92"
+        "over": "1.87",
+        "under": "1.91"
       },
       {
         "label": "Naz Reid (Points)",
         "hdp": 11.5,
-        "over": "1.85",
-        "under": "1.92"
+        "over": "1.78",
+        "under": "2.01"
       },
       {
         "label": "Ayo Dosunmu (Points)",
         "hdp": 16.5,
-        "over": "1.97",
+        "over": "1.96",
         "under": "1.81"
       },
       {
@@ -676,56 +2014,98 @@
       {
         "label": "Derrick White (Points)",
         "hdp": 16.5,
-        "over": "1.88",
-        "under": "1.88"
+        "over": "1.93",
+        "under": "1.85"
       },
       {
         "label": "Rudy Gobert (Points)",
         "hdp": 10.5,
-        "over": "1.83",
-        "under": "1.95"
+        "over": "1.84",
+        "under": "1.93"
       },
       {
         "label": "Payton Pritchard (Points)",
         "hdp": 15.5,
-        "over": "1.86",
-        "under": "1.91"
+        "over": "1.83",
+        "under": "1.94"
       },
       {
         "label": "Neemias Queta (Points)",
         "hdp": 9.5,
-        "over": "1.87",
-        "under": "1.90"
+        "over": "1.79",
+        "under": "1.99"
+      },
+      {
+        "label": "Derrick White (Blocks)",
+        "hdp": 1.5,
+        "over": "2.53",
+        "under": "1.49"
+      },
+      {
+        "label": "Rudy Gobert (Blocks)",
+        "hdp": 1.5,
+        "over": "2.10",
+        "under": "1.68"
+      },
+      {
+        "label": "Neemias Queta (Blocks)",
+        "hdp": 1.5,
+        "over": "2.57",
+        "under": "1.47"
+      },
+      {
+        "label": "Derrick White (Steals)",
+        "hdp": 1.5,
+        "over": "2.78",
+        "under": "1.41"
+      },
+      {
+        "label": "Jaylen Brown (Steals)",
+        "hdp": 0.5,
+        "over": "1.41",
+        "under": "2.80"
+      },
+      {
+        "label": "Julius Randle (Steals)",
+        "hdp": 1.5,
+        "over": "2.42",
+        "under": "1.52"
+      },
+      {
+        "label": "Jayson Tatum (Steals)",
+        "hdp": 1.5,
+        "over": "2.80",
+        "under": "1.41"
       },
       {
         "label": "Derrick White (3 Point FG)",
         "hdp": 2.5,
-        "over": "1.75",
-        "under": "2.01"
+        "over": "1.79",
+        "under": "1.96"
       },
       {
         "label": "Jayson Tatum (3 Point FG)",
         "hdp": 2.5,
-        "over": "1.64",
-        "under": "2.19"
+        "over": "1.63",
+        "under": "2.20"
       },
       {
         "label": "Naz Reid (3 Point FG)",
         "hdp": 1.5,
-        "over": "1.69",
-        "under": "2.10"
+        "over": "1.74",
+        "under": "2.03"
       },
       {
         "label": "Donte DiVincenzo (3 Point FG)",
         "hdp": 3.5,
-        "over": "2.24",
-        "under": "1.61"
+        "over": "2.25",
+        "under": "1.60"
       },
       {
         "label": "Jaden McDaniels (3 Point FG)",
         "hdp": 1.5,
-        "over": "2.01",
-        "under": "1.75"
+        "over": "2.00",
+        "under": "1.76"
       },
       {
         "label": "Sam Hauser (3 Point FG)",
@@ -736,8 +2116,8 @@
       {
         "label": "Payton Pritchard (3 Point FG)",
         "hdp": 2.5,
-        "over": "1.96",
-        "under": "1.79"
+        "over": "1.97",
+        "under": "1.78"
       },
       {
         "label": "Julius Randle (3 Point FG)",
@@ -748,239 +2128,237 @@
       {
         "label": "Jaylen Brown (3 Point FG)",
         "hdp": 1.5,
-        "over": "2.02",
-        "under": "1.74"
+        "over": "1.95",
+        "under": "1.80"
       },
       {
         "label": "Ayo Dosunmu (3 Point FG)",
         "hdp": 1.5,
         "over": "1.53",
-        "under": "2.41"
+        "under": "2.43"
       },
       {
         "label": "Ayo Dosunmu (Pts+Asts)",
         "hdp": 20.5,
-        "over": "1.80",
-        "under": "1.95"
+        "over": "1.79",
+        "under": "1.96"
       },
       {
         "label": "Donte DiVincenzo (Pts+Asts)",
         "hdp": 16.5,
-        "over": "1.81",
-        "under": "1.93"
+        "over": "1.84",
+        "under": "1.91"
       },
       {
         "label": "Jaylen Brown (Pts+Asts)",
         "hdp": 30.5,
-        "over": "1.81",
+        "over": "1.82",
         "under": "1.93"
       },
       {
         "label": "Derrick White (Pts+Asts)",
         "hdp": 21.5,
-        "over": "1.88",
-        "under": "1.86"
-      },
-      {
-        "label": "Jaden McDaniels (Pts+Asts)",
-        "hdp": 17.5,
-        "over": "1.78",
-        "under": "1.97"
-      },
-      {
-        "label": "Bones Hyland (Pts+Asts)",
-        "hdp": 14.5,
-        "over": "1.97",
-        "under": "1.78"
-      },
-      {
-        "label": "Payton Pritchard (Pts+Asts)",
-        "hdp": 20.5,
-        "over": "1.83",
-        "under": "1.91"
-      },
-      {
-        "label": "Julius Randle (Pts+Asts)",
-        "hdp": 25.5,
-        "over": "1.84",
-        "under": "1.90"
-      },
-      {
-        "label": "Jayson Tatum (Pts+Asts)",
-        "hdp": 25.5,
-        "over": "1.85",
-        "under": "1.89"
-      },
-      {
-        "label": "Donte DiVincenzo (Rebs+Asts)",
-        "hdp": 7.5,
-        "over": "1.90",
+        "over": "1.89",
         "under": "1.85"
       },
       {
-        "label": "Julius Randle (Rebs+Asts)",
-        "hdp": 11.5,
-        "over": "2.05",
-        "under": "1.72"
-      },
-      {
-        "label": "Jaden McDaniels (Rebs+Asts)",
-        "hdp": 6.5,
-        "over": "1.83",
-        "under": "1.92"
-      },
-      {
-        "label": "Jaylen Brown (Rebs+Asts)",
-        "hdp": 11.5,
-        "over": "1.93",
-        "under": "1.81"
-      },
-      {
-        "label": "Derrick White (Rebs+Asts)",
-        "hdp": 9.5,
-        "over": "1.93",
-        "under": "1.81"
-      },
-      {
-        "label": "Jayson Tatum (Rebs+Asts)",
-        "hdp": 11.5,
-        "over": "1.73",
-        "under": "2.04"
-      },
-      {
-        "label": "Ayo Dosunmu (Rebs+Asts)",
-        "hdp": 9.5,
-        "over": "1.98",
-        "under": "1.78"
-      },
-      {
-        "label": "Payton Pritchard (Rebs+Asts)",
-        "hdp": 8.5,
-        "over": "1.99",
-        "under": "1.76"
-      },
-      {
-        "label": "Payton Pritchard (Pts+Rebs+Asts)",
-        "hdp": 24.5,
-        "over": "1.92",
-        "under": "1.83"
-      },
-      {
-        "label": "Ayo Dosunmu (Pts+Rebs+Asts)",
-        "hdp": 25.5,
-        "over": "1.83",
-        "under": "1.91"
-      },
-      {
-        "label": "Derrick White (Pts+Rebs+Asts)",
-        "hdp": 26.5,
-        "over": "1.91",
-        "under": "1.83"
-      },
-      {
-        "label": "Donte DiVincenzo (Pts+Rebs+Asts)",
+        "label": "Payton Pritchard (Pts+Asts)",
         "hdp": 20.5,
         "over": "1.82",
         "under": "1.93"
       },
       {
-        "label": "Jayson Tatum (Pts+Rebs+Asts)",
-        "hdp": 33.5,
-        "over": "1.85",
-        "under": "1.88"
+        "label": "Julius Randle (Pts+Asts)",
+        "hdp": 25.5,
+        "over": "1.83",
+        "under": "1.93"
       },
       {
-        "label": "Jaden McDaniels (Pts+Rebs+Asts)",
-        "hdp": 22.5,
+        "label": "Jayson Tatum (Pts+Asts)",
+        "hdp": 26.5,
+        "over": "1.93",
+        "under": "1.81"
+      },
+      {
+        "label": "Donte DiVincenzo (Rebs+Asts)",
+        "hdp": 7.5,
         "over": "1.96",
         "under": "1.79"
       },
       {
+        "label": "Julius Randle (Rebs+Asts)",
+        "hdp": 10.5,
+        "over": "1.73",
+        "under": "2.04"
+      },
+      {
+        "label": "Jaylen Brown (Rebs+Asts)",
+        "hdp": 11.5,
+        "over": "1.93",
+        "under": "1.82"
+      },
+      {
+        "label": "Derrick White (Rebs+Asts)",
+        "hdp": 9.5,
+        "over": "1.97",
+        "under": "1.78"
+      },
+      {
+        "label": "Jayson Tatum (Rebs+Asts)",
+        "hdp": 11.5,
+        "over": "1.80",
+        "under": "1.94"
+      },
+      {
+        "label": "Ayo Dosunmu (Rebs+Asts)",
+        "hdp": 8.5,
+        "over": "1.75",
+        "under": "2.01"
+      },
+      {
+        "label": "Payton Pritchard (Rebs+Asts)",
+        "hdp": 8.5,
+        "over": "1.98",
+        "under": "1.78"
+      },
+      {
+        "label": "Rudy Gobert (Rebs+Asts)",
+        "hdp": 13.5,
+        "over": "1.98",
+        "under": "1.78"
+      },
+      {
+        "label": "Payton Pritchard (Pts+Rebs+Asts)",
+        "hdp": 24.5,
+        "over": "1.93",
+        "under": "1.82"
+      },
+      {
+        "label": "Ayo Dosunmu (Pts+Rebs+Asts)",
+        "hdp": 25.5,
+        "over": "1.88",
+        "under": "1.85"
+      },
+      {
+        "label": "Derrick White (Pts+Rebs+Asts)",
+        "hdp": 25.5,
+        "over": "1.80",
+        "under": "1.95"
+      },
+      {
+        "label": "Donte DiVincenzo (Pts+Rebs+Asts)",
+        "hdp": 20.5,
+        "over": "1.85",
+        "under": "1.89"
+      },
+      {
+        "label": "Jayson Tatum (Pts+Rebs+Asts)",
+        "hdp": 34.5,
+        "over": "1.94",
+        "under": "1.81"
+      },
+      {
         "label": "Jaylen Brown (Pts+Rebs+Asts)",
         "hdp": 37.5,
-        "over": "1.91",
+        "over": "1.93",
         "under": "1.83"
       },
       {
         "label": "Julius Randle (Pts+Rebs+Asts)",
         "hdp": 32.5,
-        "over": "1.88",
-        "under": "1.85"
+        "over": "1.85",
+        "under": "1.89"
+      },
+      {
+        "label": "Rudy Gobert (Pts+Rebs+Asts)",
+        "hdp": 24.5,
+        "over": "1.93",
+        "under": "1.81"
       },
       {
         "label": "Jaden McDaniels (Pts+Rebs)",
         "hdp": 19.5,
-        "over": "1.92",
-        "under": "1.83"
+        "over": "1.93",
+        "under": "1.82"
       },
       {
         "label": "Derrick White (Pts+Rebs)",
-        "hdp": 21.5,
-        "over": "1.94",
-        "under": "1.81"
+        "hdp": 20.5,
+        "over": "1.80",
+        "under": "1.95"
       },
       {
         "label": "Julius Randle (Pts+Rebs)",
         "hdp": 27.5,
-        "over": "1.81",
-        "under": "1.93"
+        "over": "1.80",
+        "under": "1.94"
       },
       {
         "label": "Donte DiVincenzo (Pts+Rebs)",
         "hdp": 16.5,
         "over": "1.79",
-        "under": "1.96"
+        "under": "1.97"
       },
       {
         "label": "Ayo Dosunmu (Pts+Rebs)",
         "hdp": 20.5,
-        "over": "1.79",
-        "under": "1.96"
+        "over": "1.82",
+        "under": "1.93"
       },
       {
         "label": "Rudy Gobert (Pts+Rebs)",
         "hdp": 22.5,
-        "over": "1.78",
-        "under": "1.97"
-      },
-      {
-        "label": "Neemias Queta (Pts+Rebs)",
-        "hdp": 18.5,
-        "over": "1.96",
-        "under": "1.79"
-      },
-      {
-        "label": "Naz Reid (Pts+Rebs)",
-        "hdp": 17.5,
-        "over": "1.93",
-        "under": "1.81"
-      },
-      {
-        "label": "Jayson Tatum (Pts+Rebs)",
-        "hdp": 29.5,
-        "over": "1.89",
-        "under": "1.85"
-      },
-      {
-        "label": "Sam Hauser (Pts+Rebs)",
-        "hdp": 10.5,
         "over": "1.88",
         "under": "1.87"
       },
       {
-        "label": "Jaylen Brown (Pts+Rebs)",
-        "hdp": 31.5,
+        "label": "Neemias Queta (Pts+Rebs)",
+        "hdp": 18.5,
+        "over": "1.86",
+        "under": "1.88"
+      },
+      {
+        "label": "Naz Reid (Pts+Rebs)",
+        "hdp": 17.5,
+        "over": "1.85",
+        "under": "1.89"
+      },
+      {
+        "label": "Jayson Tatum (Pts+Rebs)",
+        "hdp": 29.5,
         "over": "1.85",
         "under": "1.90"
       },
       {
+        "label": "Sam Hauser (Pts+Rebs)",
+        "hdp": 10.5,
+        "over": "1.85",
+        "under": "1.89"
+      },
+      {
+        "label": "Jaylen Brown (Pts+Rebs)",
+        "hdp": 31.5,
+        "over": "1.80",
+        "under": "1.95"
+      },
+      {
         "label": "Payton Pritchard (Pts+Rebs)",
         "hdp": 19.5,
-        "over": "1.91",
-        "under": "1.83"
+        "over": "1.93",
+        "under": "1.82"
       },
       {
         "label": "Julius Randle (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Derrick White (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Donte DiVincenzo (Double+Double)",
         "over": "N/A",
         "under": "N/A"
       },
@@ -1016,6 +2394,21 @@
       },
       {
         "label": "Jaylen Brown (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Jaylen Brown (Triple+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Jayson Tatum (Triple+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Julius Randle (Triple+Double)",
         "over": "N/A",
         "under": "N/A"
       }
@@ -1023,186 +2416,174 @@
   },
   "Boston Celtics vs Minnesota Timberwolves": {
     "ml": {
-      "home": "1.25",
-      "away": "4.10"
+      "home": "1.26",
+      "away": "4.00"
     },
     "spread": {
-      "hdp": -9.5,
-      "home": "1.87",
-      "away": "1.95"
+      "hdp": 1.5,
+      "home": "1.19",
+      "away": "4.31"
     },
     "total": {
-      "hdp": 219.5,
-      "over": "1.87",
-      "under": "1.95"
+      "hdp": 199.5,
+      "over": "1.10",
+      "under": "6.14"
     },
     "props": [
       {
         "label": "Payton Pritchard (Assists)",
         "hdp": 4.5,
-        "over": "1.75",
-        "under": "2.02"
+        "over": "1.71",
+        "under": "2.06"
       },
       {
         "label": "Ayo Dosunmu (Assists)",
         "hdp": 4.5,
-        "over": "1.84",
-        "under": "1.90"
-      },
-      {
-        "label": "Bones Hyland (Assists)",
-        "hdp": 2.5,
-        "over": "1.62",
-        "under": "2.23"
+        "over": "1.86",
+        "under": "1.88"
       },
       {
         "label": "Jaylen Brown (Assists)",
-        "hdp": 5.5,
-        "over": "2.08",
-        "under": "1.70"
+        "hdp": 4.5,
+        "over": "1.66",
+        "under": "2.15"
       },
       {
         "label": "Donte DiVincenzo (Assists)",
         "hdp": 3.5,
-        "over": "1.81",
-        "under": "1.94"
+        "over": "1.97",
+        "under": "1.79"
       },
       {
         "label": "Jayson Tatum (Assists)",
-        "hdp": 4.5,
-        "over": "2.20",
-        "under": "1.63"
-      },
-      {
-        "label": "Jaden McDaniels (Assists)",
-        "hdp": 2.5,
-        "over": "1.88",
-        "under": "1.87"
+        "hdp": 3.5,
+        "over": "1.67",
+        "under": "2.14"
       },
       {
         "label": "Derrick White (Assists)",
         "hdp": 4.5,
         "over": "1.72",
-        "under": "2.04"
+        "under": "2.05"
       },
       {
         "label": "Julius Randle (Assists)",
+        "hdp": 4.5,
+        "over": "1.96",
+        "under": "1.79"
+      },
+      {
+        "label": "Naz Reid (Rebounds)",
+        "hdp": 5.5,
+        "over": "2.05",
+        "under": "1.72"
+      },
+      {
+        "label": "Donte DiVincenzo (Rebounds)",
+        "hdp": 3.5,
+        "over": "1.77",
+        "under": "1.99"
+      },
+      {
+        "label": "Jayson Tatum (Rebounds)",
+        "hdp": 7.5,
+        "over": "1.83",
+        "under": "1.91"
+      },
+      {
+        "label": "Jaylen Brown (Rebounds)",
+        "hdp": 6.5,
+        "over": "2.01",
+        "under": "1.75"
+      },
+      {
+        "label": "Ayo Dosunmu (Rebounds)",
+        "hdp": 4.5,
+        "over": "2.10",
+        "under": "1.69"
+      },
+      {
+        "label": "Rudy Gobert (Rebounds)",
+        "hdp": 11.5,
+        "over": "1.93",
+        "under": "1.82"
+      },
+      {
+        "label": "Derrick White (Rebounds)",
         "hdp": 4.5,
         "over": "1.99",
         "under": "1.77"
       },
       {
-        "label": "Naz Reid (Rebounds)",
-        "hdp": 5.5,
-        "over": "1.91",
-        "under": "1.83"
-      },
-      {
-        "label": "Donte DiVincenzo (Rebounds)",
-        "hdp": 3.5,
-        "over": "1.74",
-        "under": "2.04"
-      },
-      {
-        "label": "Jayson Tatum (Rebounds)",
-        "hdp": 7.5,
-        "over": "1.77",
-        "under": "1.99"
-      },
-      {
-        "label": "Jaylen Brown (Rebounds)",
-        "hdp": 5.5,
-        "over": "1.67",
-        "under": "2.14"
-      },
-      {
-        "label": "Ayo Dosunmu (Rebounds)",
-        "hdp": 4.5,
-        "over": "1.88",
-        "under": "1.86"
-      },
-      {
-        "label": "Rudy Gobert (Rebounds)",
-        "hdp": 11.5,
-        "over": "1.75",
-        "under": "2.01"
-      },
-      {
-        "label": "Derrick White (Rebounds)",
-        "hdp": 4.5,
-        "over": "1.87",
-        "under": "1.88"
-      },
-      {
         "label": "Neemias Queta (Rebounds)",
         "hdp": 8.5,
-        "over": "1.93",
-        "under": "1.82"
+        "over": "1.85",
+        "under": "1.89"
       },
       {
         "label": "Jaden McDaniels (Rebounds)",
         "hdp": 3.5,
-        "over": "1.64",
-        "under": "2.19"
+        "over": "1.63",
+        "under": "2.21"
       },
       {
         "label": "Sam Hauser (Rebounds)",
         "hdp": 3.5,
-        "over": "2.07",
-        "under": "1.71"
+        "over": "2.02",
+        "under": "1.74"
       },
       {
         "label": "Julius Randle (Rebounds)",
         "hdp": 6.5,
-        "over": "1.87",
-        "under": "1.87"
+        "over": "1.96",
+        "under": "1.79"
       },
       {
         "label": "Payton Pritchard (Rebounds)",
         "hdp": 3.5,
-        "over": "1.95",
-        "under": "1.79"
+        "over": "2.04",
+        "under": "1.72"
       },
       {
         "label": "Jaden McDaniels (Points)",
         "hdp": 15.5,
-        "over": "1.93",
-        "under": "1.85"
+        "over": "2.00",
+        "under": "1.78"
       },
       {
         "label": "Jayson Tatum (Points)",
+        "hdp": 21.5,
+        "over": "1.83",
+        "under": "1.94"
+      },
+      {
+        "label": "Jaylen Brown (Points)",
+        "hdp": 25.5,
+        "over": "1.86",
+        "under": "1.91"
+      },
+      {
+        "label": "Julius Randle (Points)",
         "hdp": 21.5,
         "over": "1.92",
         "under": "1.85"
       },
       {
-        "label": "Jaylen Brown (Points)",
-        "hdp": 25.5,
-        "over": "1.89",
-        "under": "1.88"
-      },
-      {
-        "label": "Julius Randle (Points)",
-        "hdp": 20.5,
-        "over": "1.81",
-        "under": "1.97"
-      },
-      {
         "label": "Sam Hauser (Points)",
         "hdp": 6.5,
-        "over": "1.85",
-        "under": "1.92"
+        "over": "1.87",
+        "under": "1.91"
       },
       {
         "label": "Naz Reid (Points)",
         "hdp": 11.5,
-        "over": "1.85",
-        "under": "1.92"
+        "over": "1.78",
+        "under": "2.01"
       },
       {
         "label": "Ayo Dosunmu (Points)",
         "hdp": 16.5,
-        "over": "1.97",
+        "over": "1.96",
         "under": "1.81"
       },
       {
@@ -1214,56 +2595,98 @@
       {
         "label": "Derrick White (Points)",
         "hdp": 16.5,
-        "over": "1.88",
-        "under": "1.88"
+        "over": "1.93",
+        "under": "1.85"
       },
       {
         "label": "Rudy Gobert (Points)",
         "hdp": 10.5,
-        "over": "1.83",
-        "under": "1.95"
+        "over": "1.84",
+        "under": "1.93"
       },
       {
         "label": "Payton Pritchard (Points)",
         "hdp": 15.5,
-        "over": "1.86",
-        "under": "1.91"
+        "over": "1.83",
+        "under": "1.94"
       },
       {
         "label": "Neemias Queta (Points)",
         "hdp": 9.5,
-        "over": "1.87",
-        "under": "1.90"
+        "over": "1.79",
+        "under": "1.99"
+      },
+      {
+        "label": "Derrick White (Blocks)",
+        "hdp": 1.5,
+        "over": "2.53",
+        "under": "1.49"
+      },
+      {
+        "label": "Rudy Gobert (Blocks)",
+        "hdp": 1.5,
+        "over": "2.10",
+        "under": "1.68"
+      },
+      {
+        "label": "Neemias Queta (Blocks)",
+        "hdp": 1.5,
+        "over": "2.57",
+        "under": "1.47"
+      },
+      {
+        "label": "Derrick White (Steals)",
+        "hdp": 1.5,
+        "over": "2.78",
+        "under": "1.41"
+      },
+      {
+        "label": "Jaylen Brown (Steals)",
+        "hdp": 0.5,
+        "over": "1.41",
+        "under": "2.80"
+      },
+      {
+        "label": "Julius Randle (Steals)",
+        "hdp": 1.5,
+        "over": "2.42",
+        "under": "1.52"
+      },
+      {
+        "label": "Jayson Tatum (Steals)",
+        "hdp": 1.5,
+        "over": "2.80",
+        "under": "1.41"
       },
       {
         "label": "Derrick White (3 Point FG)",
         "hdp": 2.5,
-        "over": "1.75",
-        "under": "2.01"
+        "over": "1.79",
+        "under": "1.96"
       },
       {
         "label": "Jayson Tatum (3 Point FG)",
         "hdp": 2.5,
-        "over": "1.64",
-        "under": "2.19"
+        "over": "1.63",
+        "under": "2.20"
       },
       {
         "label": "Naz Reid (3 Point FG)",
         "hdp": 1.5,
-        "over": "1.69",
-        "under": "2.10"
+        "over": "1.74",
+        "under": "2.03"
       },
       {
         "label": "Donte DiVincenzo (3 Point FG)",
         "hdp": 3.5,
-        "over": "2.24",
-        "under": "1.61"
+        "over": "2.25",
+        "under": "1.60"
       },
       {
         "label": "Jaden McDaniels (3 Point FG)",
         "hdp": 1.5,
-        "over": "2.01",
-        "under": "1.75"
+        "over": "2.00",
+        "under": "1.76"
       },
       {
         "label": "Sam Hauser (3 Point FG)",
@@ -1274,8 +2697,8 @@
       {
         "label": "Payton Pritchard (3 Point FG)",
         "hdp": 2.5,
-        "over": "1.96",
-        "under": "1.79"
+        "over": "1.97",
+        "under": "1.78"
       },
       {
         "label": "Julius Randle (3 Point FG)",
@@ -1286,239 +2709,237 @@
       {
         "label": "Jaylen Brown (3 Point FG)",
         "hdp": 1.5,
-        "over": "2.02",
-        "under": "1.74"
+        "over": "1.95",
+        "under": "1.80"
       },
       {
         "label": "Ayo Dosunmu (3 Point FG)",
         "hdp": 1.5,
         "over": "1.53",
-        "under": "2.41"
+        "under": "2.43"
       },
       {
         "label": "Ayo Dosunmu (Pts+Asts)",
         "hdp": 20.5,
-        "over": "1.80",
-        "under": "1.95"
+        "over": "1.79",
+        "under": "1.96"
       },
       {
         "label": "Donte DiVincenzo (Pts+Asts)",
         "hdp": 16.5,
-        "over": "1.81",
-        "under": "1.93"
+        "over": "1.84",
+        "under": "1.91"
       },
       {
         "label": "Jaylen Brown (Pts+Asts)",
         "hdp": 30.5,
-        "over": "1.81",
+        "over": "1.82",
         "under": "1.93"
       },
       {
         "label": "Derrick White (Pts+Asts)",
         "hdp": 21.5,
-        "over": "1.88",
-        "under": "1.86"
-      },
-      {
-        "label": "Jaden McDaniels (Pts+Asts)",
-        "hdp": 17.5,
-        "over": "1.78",
-        "under": "1.97"
-      },
-      {
-        "label": "Bones Hyland (Pts+Asts)",
-        "hdp": 14.5,
-        "over": "1.97",
-        "under": "1.78"
-      },
-      {
-        "label": "Payton Pritchard (Pts+Asts)",
-        "hdp": 20.5,
-        "over": "1.83",
-        "under": "1.91"
-      },
-      {
-        "label": "Julius Randle (Pts+Asts)",
-        "hdp": 25.5,
-        "over": "1.84",
-        "under": "1.90"
-      },
-      {
-        "label": "Jayson Tatum (Pts+Asts)",
-        "hdp": 25.5,
-        "over": "1.85",
-        "under": "1.89"
-      },
-      {
-        "label": "Donte DiVincenzo (Rebs+Asts)",
-        "hdp": 7.5,
-        "over": "1.90",
+        "over": "1.89",
         "under": "1.85"
       },
       {
-        "label": "Julius Randle (Rebs+Asts)",
-        "hdp": 11.5,
-        "over": "2.05",
-        "under": "1.72"
-      },
-      {
-        "label": "Jaden McDaniels (Rebs+Asts)",
-        "hdp": 6.5,
-        "over": "1.83",
-        "under": "1.92"
-      },
-      {
-        "label": "Jaylen Brown (Rebs+Asts)",
-        "hdp": 11.5,
-        "over": "1.93",
-        "under": "1.81"
-      },
-      {
-        "label": "Derrick White (Rebs+Asts)",
-        "hdp": 9.5,
-        "over": "1.93",
-        "under": "1.81"
-      },
-      {
-        "label": "Jayson Tatum (Rebs+Asts)",
-        "hdp": 11.5,
-        "over": "1.73",
-        "under": "2.04"
-      },
-      {
-        "label": "Ayo Dosunmu (Rebs+Asts)",
-        "hdp": 9.5,
-        "over": "1.98",
-        "under": "1.78"
-      },
-      {
-        "label": "Payton Pritchard (Rebs+Asts)",
-        "hdp": 8.5,
-        "over": "1.99",
-        "under": "1.76"
-      },
-      {
-        "label": "Payton Pritchard (Pts+Rebs+Asts)",
-        "hdp": 24.5,
-        "over": "1.92",
-        "under": "1.83"
-      },
-      {
-        "label": "Ayo Dosunmu (Pts+Rebs+Asts)",
-        "hdp": 25.5,
-        "over": "1.83",
-        "under": "1.91"
-      },
-      {
-        "label": "Derrick White (Pts+Rebs+Asts)",
-        "hdp": 26.5,
-        "over": "1.91",
-        "under": "1.83"
-      },
-      {
-        "label": "Donte DiVincenzo (Pts+Rebs+Asts)",
+        "label": "Payton Pritchard (Pts+Asts)",
         "hdp": 20.5,
         "over": "1.82",
         "under": "1.93"
       },
       {
-        "label": "Jayson Tatum (Pts+Rebs+Asts)",
-        "hdp": 33.5,
-        "over": "1.85",
-        "under": "1.88"
+        "label": "Julius Randle (Pts+Asts)",
+        "hdp": 25.5,
+        "over": "1.83",
+        "under": "1.93"
       },
       {
-        "label": "Jaden McDaniels (Pts+Rebs+Asts)",
-        "hdp": 22.5,
+        "label": "Jayson Tatum (Pts+Asts)",
+        "hdp": 26.5,
+        "over": "1.93",
+        "under": "1.81"
+      },
+      {
+        "label": "Donte DiVincenzo (Rebs+Asts)",
+        "hdp": 7.5,
         "over": "1.96",
         "under": "1.79"
       },
       {
+        "label": "Julius Randle (Rebs+Asts)",
+        "hdp": 10.5,
+        "over": "1.73",
+        "under": "2.04"
+      },
+      {
+        "label": "Jaylen Brown (Rebs+Asts)",
+        "hdp": 11.5,
+        "over": "1.93",
+        "under": "1.82"
+      },
+      {
+        "label": "Derrick White (Rebs+Asts)",
+        "hdp": 9.5,
+        "over": "1.97",
+        "under": "1.78"
+      },
+      {
+        "label": "Jayson Tatum (Rebs+Asts)",
+        "hdp": 11.5,
+        "over": "1.80",
+        "under": "1.94"
+      },
+      {
+        "label": "Ayo Dosunmu (Rebs+Asts)",
+        "hdp": 8.5,
+        "over": "1.75",
+        "under": "2.01"
+      },
+      {
+        "label": "Payton Pritchard (Rebs+Asts)",
+        "hdp": 8.5,
+        "over": "1.98",
+        "under": "1.78"
+      },
+      {
+        "label": "Rudy Gobert (Rebs+Asts)",
+        "hdp": 13.5,
+        "over": "1.98",
+        "under": "1.78"
+      },
+      {
+        "label": "Payton Pritchard (Pts+Rebs+Asts)",
+        "hdp": 24.5,
+        "over": "1.93",
+        "under": "1.82"
+      },
+      {
+        "label": "Ayo Dosunmu (Pts+Rebs+Asts)",
+        "hdp": 25.5,
+        "over": "1.88",
+        "under": "1.85"
+      },
+      {
+        "label": "Derrick White (Pts+Rebs+Asts)",
+        "hdp": 25.5,
+        "over": "1.80",
+        "under": "1.95"
+      },
+      {
+        "label": "Donte DiVincenzo (Pts+Rebs+Asts)",
+        "hdp": 20.5,
+        "over": "1.85",
+        "under": "1.89"
+      },
+      {
+        "label": "Jayson Tatum (Pts+Rebs+Asts)",
+        "hdp": 34.5,
+        "over": "1.94",
+        "under": "1.81"
+      },
+      {
         "label": "Jaylen Brown (Pts+Rebs+Asts)",
         "hdp": 37.5,
-        "over": "1.91",
+        "over": "1.93",
         "under": "1.83"
       },
       {
         "label": "Julius Randle (Pts+Rebs+Asts)",
         "hdp": 32.5,
-        "over": "1.88",
-        "under": "1.85"
+        "over": "1.85",
+        "under": "1.89"
+      },
+      {
+        "label": "Rudy Gobert (Pts+Rebs+Asts)",
+        "hdp": 24.5,
+        "over": "1.93",
+        "under": "1.81"
       },
       {
         "label": "Jaden McDaniels (Pts+Rebs)",
         "hdp": 19.5,
-        "over": "1.92",
-        "under": "1.83"
+        "over": "1.93",
+        "under": "1.82"
       },
       {
         "label": "Derrick White (Pts+Rebs)",
-        "hdp": 21.5,
-        "over": "1.94",
-        "under": "1.81"
+        "hdp": 20.5,
+        "over": "1.80",
+        "under": "1.95"
       },
       {
         "label": "Julius Randle (Pts+Rebs)",
         "hdp": 27.5,
-        "over": "1.81",
-        "under": "1.93"
+        "over": "1.80",
+        "under": "1.94"
       },
       {
         "label": "Donte DiVincenzo (Pts+Rebs)",
         "hdp": 16.5,
         "over": "1.79",
-        "under": "1.96"
+        "under": "1.97"
       },
       {
         "label": "Ayo Dosunmu (Pts+Rebs)",
         "hdp": 20.5,
-        "over": "1.79",
-        "under": "1.96"
+        "over": "1.82",
+        "under": "1.93"
       },
       {
         "label": "Rudy Gobert (Pts+Rebs)",
         "hdp": 22.5,
-        "over": "1.78",
-        "under": "1.97"
-      },
-      {
-        "label": "Neemias Queta (Pts+Rebs)",
-        "hdp": 18.5,
-        "over": "1.96",
-        "under": "1.79"
-      },
-      {
-        "label": "Naz Reid (Pts+Rebs)",
-        "hdp": 17.5,
-        "over": "1.93",
-        "under": "1.81"
-      },
-      {
-        "label": "Jayson Tatum (Pts+Rebs)",
-        "hdp": 29.5,
-        "over": "1.89",
-        "under": "1.85"
-      },
-      {
-        "label": "Sam Hauser (Pts+Rebs)",
-        "hdp": 10.5,
         "over": "1.88",
         "under": "1.87"
       },
       {
-        "label": "Jaylen Brown (Pts+Rebs)",
-        "hdp": 31.5,
+        "label": "Neemias Queta (Pts+Rebs)",
+        "hdp": 18.5,
+        "over": "1.86",
+        "under": "1.88"
+      },
+      {
+        "label": "Naz Reid (Pts+Rebs)",
+        "hdp": 17.5,
+        "over": "1.85",
+        "under": "1.89"
+      },
+      {
+        "label": "Jayson Tatum (Pts+Rebs)",
+        "hdp": 29.5,
         "over": "1.85",
         "under": "1.90"
       },
       {
+        "label": "Sam Hauser (Pts+Rebs)",
+        "hdp": 10.5,
+        "over": "1.85",
+        "under": "1.89"
+      },
+      {
+        "label": "Jaylen Brown (Pts+Rebs)",
+        "hdp": 31.5,
+        "over": "1.80",
+        "under": "1.95"
+      },
+      {
         "label": "Payton Pritchard (Pts+Rebs)",
         "hdp": 19.5,
-        "over": "1.91",
-        "under": "1.83"
+        "over": "1.93",
+        "under": "1.82"
       },
       {
         "label": "Julius Randle (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Derrick White (Double+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Donte DiVincenzo (Double+Double)",
         "over": "N/A",
         "under": "N/A"
       },
@@ -1556,162 +2977,171 @@
         "label": "Jaylen Brown (Double+Double)",
         "over": "N/A",
         "under": "N/A"
+      },
+      {
+        "label": "Jaylen Brown (Triple+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Jayson Tatum (Triple+Double)",
+        "over": "N/A",
+        "under": "N/A"
+      },
+      {
+        "label": "Julius Randle (Triple+Double)",
+        "over": "N/A",
+        "under": "N/A"
       }
     ]
   },
   "Toronto Raptors @ Phoenix Suns": {
     "ml": {
-      "home": "2.00",
-      "away": "1.83"
+      "home": "2.24",
+      "away": "1.68"
     },
     "spread": {
       "hdp": 1.5,
-      "home": "1.91",
-      "away": "1.91"
+      "home": "2.03",
+      "away": "1.73"
     },
     "total": {
-      "hdp": 220.5,
-      "over": "1.91",
-      "under": "1.91"
+      "hdp": 198.5,
+      "over": "1.10",
+      "under": "6.19"
     },
     "props": [
       {
         "label": "Immanuel Quickley (Assists)",
         "hdp": 5.5,
-        "over": "1.79",
-        "under": "1.97"
+        "over": "1.72",
+        "under": "2.06"
       },
       {
         "label": "Devin Booker (Assists)",
         "hdp": 5.5,
-        "over": "2.07",
-        "under": "1.71"
+        "over": "2.18",
+        "under": "1.65"
       },
       {
         "label": "Collin Gillespie (Assists)",
         "hdp": 4.5,
-        "over": "1.99",
-        "under": "1.77"
+        "over": "1.96",
+        "under": "1.79"
       },
       {
         "label": "Brandon Ingram (Assists)",
         "hdp": 3.5,
-        "over": "1.68",
-        "under": "2.12"
-      },
-      {
-        "label": "Jakob Poeltl (Assists)",
-        "hdp": 2.5,
-        "over": "2.31",
-        "under": "1.57"
+        "over": "1.79",
+        "under": "1.97"
       },
       {
         "label": "Oso Ighodaro (Assists)",
         "hdp": 3.5,
-        "over": "1.95",
-        "under": "1.80"
+        "over": "2.15",
+        "under": "1.66"
       },
       {
         "label": "Jalen Green (Assists)",
         "hdp": 3.5,
-        "over": "1.85",
-        "under": "1.89"
-      },
-      {
-        "label": "RJ Barrett (Assists)",
-        "hdp": 3.5,
-        "over": "1.97",
-        "under": "1.79"
-      },
-      {
-        "label": "Scottie Barnes (Assists)",
-        "hdp": 5.5,
-        "over": "2.19",
-        "under": "1.64"
-      },
-      {
-        "label": "Brandon Ingram (Rebounds)",
-        "hdp": 5.5,
-        "over": "1.85",
-        "under": "1.90"
-      },
-      {
-        "label": "Collin Gillespie (Rebounds)",
-        "hdp": 4.5,
-        "over": "2.00",
-        "under": "1.76"
-      },
-      {
-        "label": "RJ Barrett (Rebounds)",
-        "hdp": 5.5,
-        "over": "1.86",
-        "under": "1.88"
-      },
-      {
-        "label": "Sandro Mamukelashvili (Rebounds)",
-        "hdp": 3.5,
-        "over": "1.83",
-        "under": "1.92"
-      },
-      {
-        "label": "Immanuel Quickley (Rebounds)",
-        "hdp": 3.5,
-        "over": "1.61",
-        "under": "2.24"
-      },
-      {
-        "label": "Jalen Green (Rebounds)",
-        "hdp": 4.5,
-        "over": "1.85",
-        "under": "1.89"
-      },
-      {
-        "label": "Scottie Barnes (Rebounds)",
-        "hdp": 7.5,
-        "over": "1.99",
-        "under": "1.76"
-      },
-      {
-        "label": "Oso Ighodaro (Rebounds)",
-        "hdp": 7.5,
-        "over": "2.13",
-        "under": "1.67"
-      },
-      {
-        "label": "Jakob Poeltl (Rebounds)",
-        "hdp": 8.5,
-        "over": "1.74",
-        "under": "2.03"
-      },
-      {
-        "label": "Devin Booker (Rebounds)",
-        "hdp": 4.5,
         "over": "2.17",
         "under": "1.65"
       },
       {
-        "label": "Royce O'Neale (Rebounds)",
+        "label": "RJ Barrett (Assists)",
+        "hdp": 3.5,
+        "over": "2.17",
+        "under": "1.65"
+      },
+      {
+        "label": "Scottie Barnes (Assists)",
         "hdp": 4.5,
+        "over": "1.74",
+        "under": "2.03"
+      },
+      {
+        "label": "Brandon Ingram (Rebounds)",
+        "hdp": 5.5,
         "over": "2.00",
         "under": "1.76"
       },
       {
-        "label": "Scottie Barnes (Points)",
-        "hdp": 17.5,
+        "label": "Collin Gillespie (Rebounds)",
+        "hdp": 4.5,
+        "over": "2.11",
+        "under": "1.68"
+      },
+      {
+        "label": "RJ Barrett (Rebounds)",
+        "hdp": 5.5,
+        "over": "1.76",
+        "under": "2.00"
+      },
+      {
+        "label": "Sandro Mamukelashvili (Rebounds)",
+        "hdp": 3.5,
+        "over": "1.93",
+        "under": "1.81"
+      },
+      {
+        "label": "Immanuel Quickley (Rebounds)",
+        "hdp": 3.5,
+        "over": "1.73",
+        "under": "2.04"
+      },
+      {
+        "label": "Jalen Green (Rebounds)",
+        "hdp": 4.5,
+        "over": "2.14",
+        "under": "1.66"
+      },
+      {
+        "label": "Scottie Barnes (Rebounds)",
+        "hdp": 7.5,
+        "over": "2.09",
+        "under": "1.70"
+      },
+      {
+        "label": "Oso Ighodaro (Rebounds)",
+        "hdp": 6.5,
+        "over": "1.68",
+        "under": "2.11"
+      },
+      {
+        "label": "Jakob Poeltl (Rebounds)",
+        "hdp": 8.5,
+        "over": "1.83",
+        "under": "1.91"
+      },
+      {
+        "label": "Devin Booker (Rebounds)",
+        "hdp": 3.5,
+        "over": "1.63",
+        "under": "2.21"
+      },
+      {
+        "label": "Royce O'Neale (Rebounds)",
+        "hdp": 4.5,
         "over": "1.94",
-        "under": "1.83"
+        "under": "1.80"
+      },
+      {
+        "label": "Scottie Barnes (Points)",
+        "hdp": 16.5,
+        "over": "1.81",
+        "under": "1.96"
       },
       {
         "label": "Ja'Kobe Walter (Points)",
         "hdp": 6.5,
-        "over": "1.96",
-        "under": "1.81"
+        "over": "2.03",
+        "under": "1.76"
       },
       {
         "label": "Immanuel Quickley (Points)",
-        "hdp": 16.5,
-        "over": "1.98",
-        "under": "1.79"
+        "hdp": 15.5,
+        "over": "1.82",
+        "under": "1.96"
       },
       {
         "label": "Brandon Ingram (Points)",
@@ -1721,333 +3151,351 @@
       },
       {
         "label": "Sandro Mamukelashvili (Points)",
-        "hdp": 7.5,
-        "over": "1.83",
-        "under": "1.94"
+        "hdp": 8.5,
+        "over": "2.00",
+        "under": "1.78"
       },
       {
         "label": "Jakob Poeltl (Points)",
         "hdp": 11.5,
-        "over": "1.92",
-        "under": "1.85"
+        "over": "1.85",
+        "under": "1.92"
       },
       {
         "label": "Oso Ighodaro (Points)",
-        "hdp": 7.5,
-        "over": "1.78",
-        "under": "2.00"
+        "hdp": 8.5,
+        "over": "2.02",
+        "under": "1.77"
       },
       {
         "label": "Devin Booker (Points)",
-        "hdp": 26.5,
-        "over": "1.98",
-        "under": "1.80"
+        "hdp": 25.5,
+        "over": "1.81",
+        "under": "1.97"
       },
       {
         "label": "RJ Barrett (Points)",
         "hdp": 19.5,
-        "over": "1.92",
-        "under": "1.85"
+        "over": "1.87",
+        "under": "1.91"
       },
       {
         "label": "Collin Gillespie (Points)",
         "hdp": 12.5,
-        "over": "1.86",
-        "under": "1.91"
+        "over": "1.85",
+        "under": "1.93"
       },
       {
         "label": "Jalen Green (Points)",
         "hdp": 21.5,
-        "over": "1.84",
-        "under": "1.93"
+        "over": "1.89",
+        "under": "1.88"
       },
       {
         "label": "Royce O'Neale (Points)",
         "hdp": 8.5,
-        "over": "2.02",
+        "over": "2.03",
         "under": "1.76"
       },
       {
         "label": "Grayson Allen (Points)",
-        "hdp": 14.5,
-        "over": "1.99",
-        "under": "1.79"
+        "hdp": 13.5,
+        "over": "1.82",
+        "under": "1.96"
+      },
+      {
+        "label": "Scottie Barnes (Blocks)",
+        "hdp": 1.5,
+        "over": "2.24",
+        "under": "1.61"
+      },
+      {
+        "label": "Jalen Green (Steals)",
+        "hdp": 1.5,
+        "over": "2.49",
+        "under": "1.50"
+      },
+      {
+        "label": "Scottie Barnes (Steals)",
+        "hdp": 1.5,
+        "over": "2.24",
+        "under": "1.61"
+      },
+      {
+        "label": "Immanuel Quickley (Steals)",
+        "hdp": 1.5,
+        "over": "2.21",
+        "under": "1.62"
+      },
+      {
+        "label": "Scottie Barnes (Steals+Blocks)",
+        "hdp": 2.5,
+        "over": "1.77",
+        "under": "1.98"
       },
       {
         "label": "Immanuel Quickley (3 Point FG)",
         "hdp": 2.5,
-        "over": "2.04",
-        "under": "1.73"
+        "over": "2.01",
+        "under": "1.75"
       },
       {
         "label": "RJ Barrett (3 Point FG)",
         "hdp": 1.5,
-        "over": "1.79",
-        "under": "1.96"
+        "over": "1.74",
+        "under": "2.03"
       },
       {
         "label": "Devin Booker (3 Point FG)",
         "hdp": 2.5,
-        "over": "2.21",
-        "under": "1.63"
+        "over": "2.18",
+        "under": "1.65"
       },
       {
         "label": "Collin Gillespie (3 Point FG)",
         "hdp": 2.5,
         "over": "1.63",
-        "under": "2.19"
+        "under": "2.20"
       },
       {
         "label": "Brandon Ingram (3 Point FG)",
         "hdp": 1.5,
-        "over": "1.87",
-        "under": "1.88"
-      },
-      {
-        "label": "Jalen Green (3 Point FG)",
-        "hdp": 3.5,
-        "over": "2.18",
-        "under": "1.64"
-      },
-      {
-        "label": "Grayson Allen (3 Point FG)",
-        "hdp": 2.5,
-        "over": "1.61",
-        "under": "2.24"
-      },
-      {
-        "label": "Royce O'Neale (3 Point FG)",
-        "hdp": 2.5,
-        "over": "2.23",
-        "under": "1.62"
-      },
-      {
-        "label": "Jakob Poeltl (Pts+Asts)",
-        "hdp": 13.5,
-        "over": "1.85",
-        "under": "1.89"
-      },
-      {
-        "label": "Oso Ighodaro (Pts+Asts)",
-        "hdp": 11.5,
-        "over": "1.94",
-        "under": "1.81"
-      },
-      {
-        "label": "Brandon Ingram (Pts+Asts)",
-        "hdp": 24.5,
-        "over": "1.80",
-        "under": "1.94"
-      },
-      {
-        "label": "RJ Barrett (Pts+Asts)",
-        "hdp": 22.5,
-        "over": "1.79",
-        "under": "1.96"
-      },
-      {
-        "label": "Immanuel Quickley (Pts+Asts)",
-        "hdp": 22.5,
-        "over": "1.96",
-        "under": "1.79"
-      },
-      {
-        "label": "Collin Gillespie (Pts+Asts)",
-        "hdp": 17.5,
-        "over": "1.91",
-        "under": "1.83"
-      },
-      {
-        "label": "Jalen Green (Pts+Asts)",
-        "hdp": 25.5,
-        "over": "1.86",
-        "under": "1.88"
-      },
-      {
-        "label": "Devin Booker (Pts+Asts)",
-        "hdp": 31.5,
-        "over": "1.87",
-        "under": "1.88"
-      },
-      {
-        "label": "Scottie Barnes (Pts+Asts)",
-        "hdp": 22.5,
-        "over": "1.87",
-        "under": "1.88"
-      },
-      {
-        "label": "Brandon Ingram (Rebs+Asts)",
-        "hdp": 9.5,
-        "over": "1.85",
-        "under": "1.88"
-      },
-      {
-        "label": "Immanuel Quickley (Rebs+Asts)",
-        "hdp": 9.5,
-        "over": "1.76",
-        "under": "1.99"
-      },
-      {
-        "label": "Scottie Barnes (Rebs+Asts)",
-        "hdp": 12.5,
-        "over": "1.87",
-        "under": "1.87"
-      },
-      {
-        "label": "Devin Booker (Rebs+Asts)",
-        "hdp": 9.5,
-        "over": "1.89",
-        "under": "1.85"
-      },
-      {
-        "label": "Collin Gillespie (Rebs+Asts)",
-        "hdp": 8.5,
-        "over": "1.76",
-        "under": "2.00"
-      },
-      {
-        "label": "Oso Ighodaro (Rebs+Asts)",
-        "hdp": 10.5,
-        "over": "1.85",
-        "under": "1.90"
-      },
-      {
-        "label": "Jakob Poeltl (Rebs+Asts)",
-        "hdp": 11.5,
         "over": "2.03",
         "under": "1.74"
       },
       {
-        "label": "RJ Barrett (Rebs+Asts)",
-        "hdp": 9.5,
-        "over": "2.08",
-        "under": "1.70"
+        "label": "Jalen Green (3 Point FG)",
+        "hdp": 3.5,
+        "over": "2.29",
+        "under": "1.59"
       },
       {
-        "label": "Jalen Green (Rebs+Asts)",
-        "hdp": 8.5,
-        "over": "1.99",
-        "under": "1.77"
+        "label": "Grayson Allen (3 Point FG)",
+        "hdp": 2.5,
+        "over": "1.70",
+        "under": "2.09"
       },
       {
-        "label": "Jakob Poeltl (Pts+Rebs+Asts)",
-        "hdp": 22.5,
-        "over": "1.85",
-        "under": "1.89"
+        "label": "Royce O'Neale (3 Point FG)",
+        "hdp": 2.5,
+        "over": "2.22",
+        "under": "1.62"
       },
       {
-        "label": "Jalen Green (Pts+Rebs+Asts)",
-        "hdp": 30.5,
-        "over": "1.90",
-        "under": "1.85"
+        "label": "Oso Ighodaro (Pts+Asts)",
+        "hdp": 11.5,
+        "over": "1.83",
+        "under": "1.91"
       },
       {
-        "label": "Collin Gillespie (Pts+Rebs+Asts)",
-        "hdp": 21.5,
+        "label": "Brandon Ingram (Pts+Asts)",
+        "hdp": 24.5,
         "over": "1.83",
         "under": "1.93"
       },
       {
+        "label": "RJ Barrett (Pts+Asts)",
+        "hdp": 23.5,
+        "over": "1.96",
+        "under": "1.79"
+      },
+      {
+        "label": "Immanuel Quickley (Pts+Asts)",
+        "hdp": 21.5,
+        "over": "1.79",
+        "under": "1.95"
+      },
+      {
+        "label": "Collin Gillespie (Pts+Asts)",
+        "hdp": 17.5,
+        "over": "1.93",
+        "under": "1.82"
+      },
+      {
+        "label": "Jalen Green (Pts+Asts)",
+        "hdp": 24.5,
+        "over": "1.82",
+        "under": "1.93"
+      },
+      {
+        "label": "Devin Booker (Pts+Asts)",
+        "hdp": 31.5,
+        "over": "1.89",
+        "under": "1.85"
+      },
+      {
+        "label": "Scottie Barnes (Pts+Asts)",
+        "hdp": 21.5,
+        "over": "1.84",
+        "under": "1.90"
+      },
+      {
+        "label": "Brandon Ingram (Rebs+Asts)",
+        "hdp": 9.5,
+        "over": "2.07",
+        "under": "1.71"
+      },
+      {
+        "label": "Immanuel Quickley (Rebs+Asts)",
+        "hdp": 9.5,
+        "over": "1.81",
+        "under": "1.94"
+      },
+      {
+        "label": "Scottie Barnes (Rebs+Asts)",
+        "hdp": 12.5,
+        "over": "2.03",
+        "under": "1.74"
+      },
+      {
+        "label": "Devin Booker (Rebs+Asts)",
+        "hdp": 9.5,
+        "over": "2.03",
+        "under": "1.74"
+      },
+      {
+        "label": "Collin Gillespie (Rebs+Asts)",
+        "hdp": 8.5,
+        "over": "1.81",
+        "under": "1.94"
+      },
+      {
+        "label": "Oso Ighodaro (Rebs+Asts)",
+        "hdp": 10.5,
+        "over": "1.96",
+        "under": "1.79"
+      },
+      {
+        "label": "Jakob Poeltl (Rebs+Asts)",
+        "hdp": 10.5,
+        "over": "1.75",
+        "under": "2.02"
+      },
+      {
+        "label": "RJ Barrett (Rebs+Asts)",
+        "hdp": 9.5,
+        "over": "2.07",
+        "under": "1.71"
+      },
+      {
+        "label": "Jalen Green (Rebs+Asts)",
+        "hdp": 7.5,
+        "over": "1.88",
+        "under": "1.86"
+      },
+      {
+        "label": "Jalen Green (Pts+Rebs+Asts)",
+        "hdp": 29.5,
+        "over": "1.93",
+        "under": "1.82"
+      },
+      {
+        "label": "Collin Gillespie (Pts+Rebs+Asts)",
+        "hdp": 21.5,
+        "over": "1.86",
+        "under": "1.88"
+      },
+      {
         "label": "Scottie Barnes (Pts+Rebs+Asts)",
-        "hdp": 30.5,
+        "hdp": 29.5,
         "over": "1.94",
         "under": "1.81"
       },
       {
         "label": "Immanuel Quickley (Pts+Rebs+Asts)",
-        "hdp": 26.5,
-        "over": "1.92",
-        "under": "1.83"
+        "hdp": 25.5,
+        "over": "1.81",
+        "under": "1.94"
       },
       {
         "label": "Devin Booker (Pts+Rebs+Asts)",
         "hdp": 35.5,
-        "over": "1.83",
-        "under": "1.92"
-      },
-      {
-        "label": "RJ Barrett (Pts+Rebs+Asts)",
-        "hdp": 28.5,
-        "over": "1.83",
-        "under": "1.91"
-      },
-      {
-        "label": "Oso Ighodaro (Pts+Rebs+Asts)",
-        "hdp": 18.5,
-        "over": "1.86",
-        "under": "1.88"
-      },
-      {
-        "label": "Brandon Ingram (Pts+Rebs+Asts)",
-        "hdp": 30.5,
-        "over": "1.83",
-        "under": "1.92"
-      },
-      {
-        "label": "Sandro Mamukelashvili (Pts+Rebs)",
-        "hdp": 11.5,
         "over": "1.87",
         "under": "1.88"
       },
       {
+        "label": "RJ Barrett (Pts+Rebs+Asts)",
+        "hdp": 29.5,
+        "over": "1.95",
+        "under": "1.80"
+      },
+      {
+        "label": "Oso Ighodaro (Pts+Rebs+Asts)",
+        "hdp": 18.5,
+        "over": "1.79",
+        "under": "1.96"
+      },
+      {
+        "label": "Brandon Ingram (Pts+Rebs+Asts)",
+        "hdp": 30.5,
+        "over": "1.93",
+        "under": "1.82"
+      },
+      {
+        "label": "Sandro Mamukelashvili (Pts+Rebs)",
+        "hdp": 11.5,
+        "over": "1.82",
+        "under": "1.93"
+      },
+      {
         "label": "Oso Ighodaro (Pts+Rebs)",
-        "hdp": 14.5,
-        "over": "1.78",
-        "under": "1.98"
+        "hdp": 15.5,
+        "over": "1.89",
+        "under": "1.85"
       },
       {
         "label": "Jakob Poeltl (Pts+Rebs)",
         "hdp": 20.5,
-        "over": "1.91",
-        "under": "1.83"
+        "over": "1.93",
+        "under": "1.82"
       },
       {
         "label": "RJ Barrett (Pts+Rebs)",
         "hdp": 25.5,
-        "over": "1.93",
-        "under": "1.81"
+        "over": "1.85",
+        "under": "1.89"
       },
       {
         "label": "Immanuel Quickley (Pts+Rebs)",
-        "hdp": 20.5,
-        "over": "1.93",
-        "under": "1.81"
-      },
-      {
-        "label": "Brandon Ingram (Pts+Rebs)",
-        "hdp": 26.5,
-        "over": "1.83",
-        "under": "1.92"
-      },
-      {
-        "label": "Devin Booker (Pts+Rebs)",
-        "hdp": 30.5,
-        "over": "1.91",
-        "under": "1.84"
-      },
-      {
-        "label": "Collin Gillespie (Pts+Rebs)",
-        "hdp": 17.5,
-        "over": "1.93",
-        "under": "1.83"
-      },
-      {
-        "label": "Scottie Barnes (Pts+Rebs)",
-        "hdp": 24.5,
+        "hdp": 19.5,
         "over": "1.81",
         "under": "1.93"
       },
       {
-        "label": "Jalen Green (Pts+Rebs)",
+        "label": "Brandon Ingram (Pts+Rebs)",
         "hdp": 26.5,
-        "over": "1.86",
-        "under": "1.88"
+        "over": "1.88",
+        "under": "1.86"
+      },
+      {
+        "label": "Devin Booker (Pts+Rebs)",
+        "hdp": 30.5,
+        "over": "1.93",
+        "under": "1.83"
+      },
+      {
+        "label": "Collin Gillespie (Pts+Rebs)",
+        "hdp": 17.5,
+        "over": "1.97",
+        "under": "1.79"
+      },
+      {
+        "label": "Scottie Barnes (Pts+Rebs)",
+        "hdp": 24.5,
+        "over": "1.95",
+        "under": "1.80"
+      },
+      {
+        "label": "Jalen Green (Pts+Rebs)",
+        "hdp": 25.5,
+        "over": "1.83",
+        "under": "1.92"
       },
       {
         "label": "Royce O'Neale (Pts+Rebs)",
         "hdp": 12.5,
-        "over": "1.93",
-        "under": "1.83"
+        "over": "1.89",
+        "under": "1.85"
       },
       {
         "label": "Collin Gillespie (Double+Double)",
@@ -2103,157 +3551,151 @@
   },
   "Phoenix Suns vs Toronto Raptors": {
     "ml": {
-      "home": "2.00",
-      "away": "1.83"
+      "home": "2.24",
+      "away": "1.68"
     },
     "spread": {
       "hdp": 1.5,
-      "home": "1.91",
-      "away": "1.91"
+      "home": "2.03",
+      "away": "1.73"
     },
     "total": {
-      "hdp": 220.5,
-      "over": "1.91",
-      "under": "1.91"
+      "hdp": 198.5,
+      "over": "1.10",
+      "under": "6.19"
     },
     "props": [
       {
         "label": "Immanuel Quickley (Assists)",
         "hdp": 5.5,
-        "over": "1.79",
-        "under": "1.97"
+        "over": "1.72",
+        "under": "2.06"
       },
       {
         "label": "Devin Booker (Assists)",
         "hdp": 5.5,
-        "over": "2.07",
-        "under": "1.71"
+        "over": "2.18",
+        "under": "1.65"
       },
       {
         "label": "Collin Gillespie (Assists)",
         "hdp": 4.5,
-        "over": "1.99",
-        "under": "1.77"
+        "over": "1.96",
+        "under": "1.79"
       },
       {
         "label": "Brandon Ingram (Assists)",
         "hdp": 3.5,
-        "over": "1.68",
-        "under": "2.12"
-      },
-      {
-        "label": "Jakob Poeltl (Assists)",
-        "hdp": 2.5,
-        "over": "2.31",
-        "under": "1.57"
+        "over": "1.79",
+        "under": "1.97"
       },
       {
         "label": "Oso Ighodaro (Assists)",
         "hdp": 3.5,
-        "over": "1.95",
-        "under": "1.80"
+        "over": "2.15",
+        "under": "1.66"
       },
       {
         "label": "Jalen Green (Assists)",
         "hdp": 3.5,
-        "over": "1.85",
-        "under": "1.89"
-      },
-      {
-        "label": "RJ Barrett (Assists)",
-        "hdp": 3.5,
-        "over": "1.97",
-        "under": "1.79"
-      },
-      {
-        "label": "Scottie Barnes (Assists)",
-        "hdp": 5.5,
-        "over": "2.19",
-        "under": "1.64"
-      },
-      {
-        "label": "Brandon Ingram (Rebounds)",
-        "hdp": 5.5,
-        "over": "1.85",
-        "under": "1.90"
-      },
-      {
-        "label": "Collin Gillespie (Rebounds)",
-        "hdp": 4.5,
-        "over": "2.00",
-        "under": "1.76"
-      },
-      {
-        "label": "RJ Barrett (Rebounds)",
-        "hdp": 5.5,
-        "over": "1.86",
-        "under": "1.88"
-      },
-      {
-        "label": "Sandro Mamukelashvili (Rebounds)",
-        "hdp": 3.5,
-        "over": "1.83",
-        "under": "1.92"
-      },
-      {
-        "label": "Immanuel Quickley (Rebounds)",
-        "hdp": 3.5,
-        "over": "1.61",
-        "under": "2.24"
-      },
-      {
-        "label": "Jalen Green (Rebounds)",
-        "hdp": 4.5,
-        "over": "1.85",
-        "under": "1.89"
-      },
-      {
-        "label": "Scottie Barnes (Rebounds)",
-        "hdp": 7.5,
-        "over": "1.99",
-        "under": "1.76"
-      },
-      {
-        "label": "Oso Ighodaro (Rebounds)",
-        "hdp": 7.5,
-        "over": "2.13",
-        "under": "1.67"
-      },
-      {
-        "label": "Jakob Poeltl (Rebounds)",
-        "hdp": 8.5,
-        "over": "1.74",
-        "under": "2.03"
-      },
-      {
-        "label": "Devin Booker (Rebounds)",
-        "hdp": 4.5,
         "over": "2.17",
         "under": "1.65"
       },
       {
-        "label": "Royce O'Neale (Rebounds)",
+        "label": "RJ Barrett (Assists)",
+        "hdp": 3.5,
+        "over": "2.17",
+        "under": "1.65"
+      },
+      {
+        "label": "Scottie Barnes (Assists)",
         "hdp": 4.5,
+        "over": "1.74",
+        "under": "2.03"
+      },
+      {
+        "label": "Brandon Ingram (Rebounds)",
+        "hdp": 5.5,
         "over": "2.00",
         "under": "1.76"
       },
       {
-        "label": "Scottie Barnes (Points)",
-        "hdp": 17.5,
+        "label": "Collin Gillespie (Rebounds)",
+        "hdp": 4.5,
+        "over": "2.11",
+        "under": "1.68"
+      },
+      {
+        "label": "RJ Barrett (Rebounds)",
+        "hdp": 5.5,
+        "over": "1.76",
+        "under": "2.00"
+      },
+      {
+        "label": "Sandro Mamukelashvili (Rebounds)",
+        "hdp": 3.5,
+        "over": "1.93",
+        "under": "1.81"
+      },
+      {
+        "label": "Immanuel Quickley (Rebounds)",
+        "hdp": 3.5,
+        "over": "1.73",
+        "under": "2.04"
+      },
+      {
+        "label": "Jalen Green (Rebounds)",
+        "hdp": 4.5,
+        "over": "2.14",
+        "under": "1.66"
+      },
+      {
+        "label": "Scottie Barnes (Rebounds)",
+        "hdp": 7.5,
+        "over": "2.09",
+        "under": "1.70"
+      },
+      {
+        "label": "Oso Ighodaro (Rebounds)",
+        "hdp": 6.5,
+        "over": "1.68",
+        "under": "2.11"
+      },
+      {
+        "label": "Jakob Poeltl (Rebounds)",
+        "hdp": 8.5,
+        "over": "1.83",
+        "under": "1.91"
+      },
+      {
+        "label": "Devin Booker (Rebounds)",
+        "hdp": 3.5,
+        "over": "1.63",
+        "under": "2.21"
+      },
+      {
+        "label": "Royce O'Neale (Rebounds)",
+        "hdp": 4.5,
         "over": "1.94",
-        "under": "1.83"
+        "under": "1.80"
+      },
+      {
+        "label": "Scottie Barnes (Points)",
+        "hdp": 16.5,
+        "over": "1.81",
+        "under": "1.96"
       },
       {
         "label": "Ja'Kobe Walter (Points)",
         "hdp": 6.5,
-        "over": "1.96",
-        "under": "1.81"
+        "over": "2.03",
+        "under": "1.76"
       },
       {
         "label": "Immanuel Quickley (Points)",
-        "hdp": 16.5,
-        "over": "1.98",
-        "under": "1.79"
+        "hdp": 15.5,
+        "over": "1.82",
+        "under": "1.96"
       },
       {
         "label": "Brandon Ingram (Points)",
@@ -2263,333 +3705,351 @@
       },
       {
         "label": "Sandro Mamukelashvili (Points)",
-        "hdp": 7.5,
-        "over": "1.83",
-        "under": "1.94"
+        "hdp": 8.5,
+        "over": "2.00",
+        "under": "1.78"
       },
       {
         "label": "Jakob Poeltl (Points)",
         "hdp": 11.5,
-        "over": "1.92",
-        "under": "1.85"
+        "over": "1.85",
+        "under": "1.92"
       },
       {
         "label": "Oso Ighodaro (Points)",
-        "hdp": 7.5,
-        "over": "1.78",
-        "under": "2.00"
+        "hdp": 8.5,
+        "over": "2.02",
+        "under": "1.77"
       },
       {
         "label": "Devin Booker (Points)",
-        "hdp": 26.5,
-        "over": "1.98",
-        "under": "1.80"
+        "hdp": 25.5,
+        "over": "1.81",
+        "under": "1.97"
       },
       {
         "label": "RJ Barrett (Points)",
         "hdp": 19.5,
-        "over": "1.92",
-        "under": "1.85"
+        "over": "1.87",
+        "under": "1.91"
       },
       {
         "label": "Collin Gillespie (Points)",
         "hdp": 12.5,
-        "over": "1.86",
-        "under": "1.91"
+        "over": "1.85",
+        "under": "1.93"
       },
       {
         "label": "Jalen Green (Points)",
         "hdp": 21.5,
-        "over": "1.84",
-        "under": "1.93"
+        "over": "1.89",
+        "under": "1.88"
       },
       {
         "label": "Royce O'Neale (Points)",
         "hdp": 8.5,
-        "over": "2.02",
+        "over": "2.03",
         "under": "1.76"
       },
       {
         "label": "Grayson Allen (Points)",
-        "hdp": 14.5,
-        "over": "1.99",
-        "under": "1.79"
+        "hdp": 13.5,
+        "over": "1.82",
+        "under": "1.96"
+      },
+      {
+        "label": "Scottie Barnes (Blocks)",
+        "hdp": 1.5,
+        "over": "2.24",
+        "under": "1.61"
+      },
+      {
+        "label": "Jalen Green (Steals)",
+        "hdp": 1.5,
+        "over": "2.49",
+        "under": "1.50"
+      },
+      {
+        "label": "Scottie Barnes (Steals)",
+        "hdp": 1.5,
+        "over": "2.24",
+        "under": "1.61"
+      },
+      {
+        "label": "Immanuel Quickley (Steals)",
+        "hdp": 1.5,
+        "over": "2.21",
+        "under": "1.62"
+      },
+      {
+        "label": "Scottie Barnes (Steals+Blocks)",
+        "hdp": 2.5,
+        "over": "1.77",
+        "under": "1.98"
       },
       {
         "label": "Immanuel Quickley (3 Point FG)",
         "hdp": 2.5,
-        "over": "2.04",
-        "under": "1.73"
+        "over": "2.01",
+        "under": "1.75"
       },
       {
         "label": "RJ Barrett (3 Point FG)",
         "hdp": 1.5,
-        "over": "1.79",
-        "under": "1.96"
+        "over": "1.74",
+        "under": "2.03"
       },
       {
         "label": "Devin Booker (3 Point FG)",
         "hdp": 2.5,
-        "over": "2.21",
-        "under": "1.63"
+        "over": "2.18",
+        "under": "1.65"
       },
       {
         "label": "Collin Gillespie (3 Point FG)",
         "hdp": 2.5,
         "over": "1.63",
-        "under": "2.19"
+        "under": "2.20"
       },
       {
         "label": "Brandon Ingram (3 Point FG)",
         "hdp": 1.5,
-        "over": "1.87",
-        "under": "1.88"
-      },
-      {
-        "label": "Jalen Green (3 Point FG)",
-        "hdp": 3.5,
-        "over": "2.18",
-        "under": "1.64"
-      },
-      {
-        "label": "Grayson Allen (3 Point FG)",
-        "hdp": 2.5,
-        "over": "1.61",
-        "under": "2.24"
-      },
-      {
-        "label": "Royce O'Neale (3 Point FG)",
-        "hdp": 2.5,
-        "over": "2.23",
-        "under": "1.62"
-      },
-      {
-        "label": "Jakob Poeltl (Pts+Asts)",
-        "hdp": 13.5,
-        "over": "1.85",
-        "under": "1.89"
-      },
-      {
-        "label": "Oso Ighodaro (Pts+Asts)",
-        "hdp": 11.5,
-        "over": "1.94",
-        "under": "1.81"
-      },
-      {
-        "label": "Brandon Ingram (Pts+Asts)",
-        "hdp": 24.5,
-        "over": "1.80",
-        "under": "1.94"
-      },
-      {
-        "label": "RJ Barrett (Pts+Asts)",
-        "hdp": 22.5,
-        "over": "1.79",
-        "under": "1.96"
-      },
-      {
-        "label": "Immanuel Quickley (Pts+Asts)",
-        "hdp": 22.5,
-        "over": "1.96",
-        "under": "1.79"
-      },
-      {
-        "label": "Collin Gillespie (Pts+Asts)",
-        "hdp": 17.5,
-        "over": "1.91",
-        "under": "1.83"
-      },
-      {
-        "label": "Jalen Green (Pts+Asts)",
-        "hdp": 25.5,
-        "over": "1.86",
-        "under": "1.88"
-      },
-      {
-        "label": "Devin Booker (Pts+Asts)",
-        "hdp": 31.5,
-        "over": "1.87",
-        "under": "1.88"
-      },
-      {
-        "label": "Scottie Barnes (Pts+Asts)",
-        "hdp": 22.5,
-        "over": "1.87",
-        "under": "1.88"
-      },
-      {
-        "label": "Brandon Ingram (Rebs+Asts)",
-        "hdp": 9.5,
-        "over": "1.85",
-        "under": "1.88"
-      },
-      {
-        "label": "Immanuel Quickley (Rebs+Asts)",
-        "hdp": 9.5,
-        "over": "1.76",
-        "under": "1.99"
-      },
-      {
-        "label": "Scottie Barnes (Rebs+Asts)",
-        "hdp": 12.5,
-        "over": "1.87",
-        "under": "1.87"
-      },
-      {
-        "label": "Devin Booker (Rebs+Asts)",
-        "hdp": 9.5,
-        "over": "1.89",
-        "under": "1.85"
-      },
-      {
-        "label": "Collin Gillespie (Rebs+Asts)",
-        "hdp": 8.5,
-        "over": "1.76",
-        "under": "2.00"
-      },
-      {
-        "label": "Oso Ighodaro (Rebs+Asts)",
-        "hdp": 10.5,
-        "over": "1.85",
-        "under": "1.90"
-      },
-      {
-        "label": "Jakob Poeltl (Rebs+Asts)",
-        "hdp": 11.5,
         "over": "2.03",
         "under": "1.74"
       },
       {
-        "label": "RJ Barrett (Rebs+Asts)",
-        "hdp": 9.5,
-        "over": "2.08",
-        "under": "1.70"
+        "label": "Jalen Green (3 Point FG)",
+        "hdp": 3.5,
+        "over": "2.29",
+        "under": "1.59"
       },
       {
-        "label": "Jalen Green (Rebs+Asts)",
-        "hdp": 8.5,
-        "over": "1.99",
-        "under": "1.77"
+        "label": "Grayson Allen (3 Point FG)",
+        "hdp": 2.5,
+        "over": "1.70",
+        "under": "2.09"
       },
       {
-        "label": "Jakob Poeltl (Pts+Rebs+Asts)",
-        "hdp": 22.5,
-        "over": "1.85",
-        "under": "1.89"
+        "label": "Royce O'Neale (3 Point FG)",
+        "hdp": 2.5,
+        "over": "2.22",
+        "under": "1.62"
       },
       {
-        "label": "Jalen Green (Pts+Rebs+Asts)",
-        "hdp": 30.5,
-        "over": "1.90",
-        "under": "1.85"
+        "label": "Oso Ighodaro (Pts+Asts)",
+        "hdp": 11.5,
+        "over": "1.83",
+        "under": "1.91"
       },
       {
-        "label": "Collin Gillespie (Pts+Rebs+Asts)",
-        "hdp": 21.5,
+        "label": "Brandon Ingram (Pts+Asts)",
+        "hdp": 24.5,
         "over": "1.83",
         "under": "1.93"
       },
       {
+        "label": "RJ Barrett (Pts+Asts)",
+        "hdp": 23.5,
+        "over": "1.96",
+        "under": "1.79"
+      },
+      {
+        "label": "Immanuel Quickley (Pts+Asts)",
+        "hdp": 21.5,
+        "over": "1.79",
+        "under": "1.95"
+      },
+      {
+        "label": "Collin Gillespie (Pts+Asts)",
+        "hdp": 17.5,
+        "over": "1.93",
+        "under": "1.82"
+      },
+      {
+        "label": "Jalen Green (Pts+Asts)",
+        "hdp": 24.5,
+        "over": "1.82",
+        "under": "1.93"
+      },
+      {
+        "label": "Devin Booker (Pts+Asts)",
+        "hdp": 31.5,
+        "over": "1.89",
+        "under": "1.85"
+      },
+      {
+        "label": "Scottie Barnes (Pts+Asts)",
+        "hdp": 21.5,
+        "over": "1.84",
+        "under": "1.90"
+      },
+      {
+        "label": "Brandon Ingram (Rebs+Asts)",
+        "hdp": 9.5,
+        "over": "2.07",
+        "under": "1.71"
+      },
+      {
+        "label": "Immanuel Quickley (Rebs+Asts)",
+        "hdp": 9.5,
+        "over": "1.81",
+        "under": "1.94"
+      },
+      {
+        "label": "Scottie Barnes (Rebs+Asts)",
+        "hdp": 12.5,
+        "over": "2.03",
+        "under": "1.74"
+      },
+      {
+        "label": "Devin Booker (Rebs+Asts)",
+        "hdp": 9.5,
+        "over": "2.03",
+        "under": "1.74"
+      },
+      {
+        "label": "Collin Gillespie (Rebs+Asts)",
+        "hdp": 8.5,
+        "over": "1.81",
+        "under": "1.94"
+      },
+      {
+        "label": "Oso Ighodaro (Rebs+Asts)",
+        "hdp": 10.5,
+        "over": "1.96",
+        "under": "1.79"
+      },
+      {
+        "label": "Jakob Poeltl (Rebs+Asts)",
+        "hdp": 10.5,
+        "over": "1.75",
+        "under": "2.02"
+      },
+      {
+        "label": "RJ Barrett (Rebs+Asts)",
+        "hdp": 9.5,
+        "over": "2.07",
+        "under": "1.71"
+      },
+      {
+        "label": "Jalen Green (Rebs+Asts)",
+        "hdp": 7.5,
+        "over": "1.88",
+        "under": "1.86"
+      },
+      {
+        "label": "Jalen Green (Pts+Rebs+Asts)",
+        "hdp": 29.5,
+        "over": "1.93",
+        "under": "1.82"
+      },
+      {
+        "label": "Collin Gillespie (Pts+Rebs+Asts)",
+        "hdp": 21.5,
+        "over": "1.86",
+        "under": "1.88"
+      },
+      {
         "label": "Scottie Barnes (Pts+Rebs+Asts)",
-        "hdp": 30.5,
+        "hdp": 29.5,
         "over": "1.94",
         "under": "1.81"
       },
       {
         "label": "Immanuel Quickley (Pts+Rebs+Asts)",
-        "hdp": 26.5,
-        "over": "1.92",
-        "under": "1.83"
+        "hdp": 25.5,
+        "over": "1.81",
+        "under": "1.94"
       },
       {
         "label": "Devin Booker (Pts+Rebs+Asts)",
         "hdp": 35.5,
-        "over": "1.83",
-        "under": "1.92"
-      },
-      {
-        "label": "RJ Barrett (Pts+Rebs+Asts)",
-        "hdp": 28.5,
-        "over": "1.83",
-        "under": "1.91"
-      },
-      {
-        "label": "Oso Ighodaro (Pts+Rebs+Asts)",
-        "hdp": 18.5,
-        "over": "1.86",
-        "under": "1.88"
-      },
-      {
-        "label": "Brandon Ingram (Pts+Rebs+Asts)",
-        "hdp": 30.5,
-        "over": "1.83",
-        "under": "1.92"
-      },
-      {
-        "label": "Sandro Mamukelashvili (Pts+Rebs)",
-        "hdp": 11.5,
         "over": "1.87",
         "under": "1.88"
       },
       {
+        "label": "RJ Barrett (Pts+Rebs+Asts)",
+        "hdp": 29.5,
+        "over": "1.95",
+        "under": "1.80"
+      },
+      {
+        "label": "Oso Ighodaro (Pts+Rebs+Asts)",
+        "hdp": 18.5,
+        "over": "1.79",
+        "under": "1.96"
+      },
+      {
+        "label": "Brandon Ingram (Pts+Rebs+Asts)",
+        "hdp": 30.5,
+        "over": "1.93",
+        "under": "1.82"
+      },
+      {
+        "label": "Sandro Mamukelashvili (Pts+Rebs)",
+        "hdp": 11.5,
+        "over": "1.82",
+        "under": "1.93"
+      },
+      {
         "label": "Oso Ighodaro (Pts+Rebs)",
-        "hdp": 14.5,
-        "over": "1.78",
-        "under": "1.98"
+        "hdp": 15.5,
+        "over": "1.89",
+        "under": "1.85"
       },
       {
         "label": "Jakob Poeltl (Pts+Rebs)",
         "hdp": 20.5,
-        "over": "1.91",
-        "under": "1.83"
+        "over": "1.93",
+        "under": "1.82"
       },
       {
         "label": "RJ Barrett (Pts+Rebs)",
         "hdp": 25.5,
-        "over": "1.93",
-        "under": "1.81"
+        "over": "1.85",
+        "under": "1.89"
       },
       {
         "label": "Immanuel Quickley (Pts+Rebs)",
-        "hdp": 20.5,
-        "over": "1.93",
-        "under": "1.81"
-      },
-      {
-        "label": "Brandon Ingram (Pts+Rebs)",
-        "hdp": 26.5,
-        "over": "1.83",
-        "under": "1.92"
-      },
-      {
-        "label": "Devin Booker (Pts+Rebs)",
-        "hdp": 30.5,
-        "over": "1.91",
-        "under": "1.84"
-      },
-      {
-        "label": "Collin Gillespie (Pts+Rebs)",
-        "hdp": 17.5,
-        "over": "1.93",
-        "under": "1.83"
-      },
-      {
-        "label": "Scottie Barnes (Pts+Rebs)",
-        "hdp": 24.5,
+        "hdp": 19.5,
         "over": "1.81",
         "under": "1.93"
       },
       {
-        "label": "Jalen Green (Pts+Rebs)",
+        "label": "Brandon Ingram (Pts+Rebs)",
         "hdp": 26.5,
-        "over": "1.86",
-        "under": "1.88"
+        "over": "1.88",
+        "under": "1.86"
+      },
+      {
+        "label": "Devin Booker (Pts+Rebs)",
+        "hdp": 30.5,
+        "over": "1.93",
+        "under": "1.83"
+      },
+      {
+        "label": "Collin Gillespie (Pts+Rebs)",
+        "hdp": 17.5,
+        "over": "1.97",
+        "under": "1.79"
+      },
+      {
+        "label": "Scottie Barnes (Pts+Rebs)",
+        "hdp": 24.5,
+        "over": "1.95",
+        "under": "1.80"
+      },
+      {
+        "label": "Jalen Green (Pts+Rebs)",
+        "hdp": 25.5,
+        "over": "1.83",
+        "under": "1.92"
       },
       {
         "label": "Royce O'Neale (Pts+Rebs)",
         "hdp": 12.5,
-        "over": "1.93",
-        "under": "1.83"
+        "over": "1.89",
+        "under": "1.85"
       },
       {
         "label": "Collin Gillespie (Double+Double)",

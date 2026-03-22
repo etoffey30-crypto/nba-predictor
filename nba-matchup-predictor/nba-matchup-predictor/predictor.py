@@ -138,6 +138,8 @@ def rolling_last10(df, shrink_lambda=10):
         for q in range(1, 5):
             group[f"q{q}_share"] = group[f"q{q}_pts"] / group["team_pts"].replace(0, 1)
             group[f"q{q}_share"] = group[f"q{q}_share"].fillna(0.25)
+            # Ensure no 0.00 shares (at least 0.10 for any quarter)
+            group[f"q{q}_share"] = group[f"q{q}_share"].apply(lambda x: x if x > 0.05 else 0.25)
             group[f"adj_q{q}_share_10"] = group[f"q{q}_share"].rolling(10, min_periods=1).mean().fillna(0.25)
 
         results.append(group)
@@ -566,7 +568,10 @@ def get_team_form(team, df):
         # Handle NaN for quarter/half points (common in skeleton results)
         def safe_int(val, fallback=0):
             try:
-                return int(val) if not pd.isna(val) else fallback
+                # Improve fallback: if val is 0, NaN, or None, use fallback
+                if pd.isna(val) or val == 0 or val == "" or val is None:
+                    return fallback
+                return int(val)
             except:
                 return fallback
 
@@ -627,13 +632,20 @@ def predict_matchup(teamA, teamB, df, df_p, sigma=12, match_timestamp=None, odds
 
     # Quarters and Halves
     quarters = []
+    # Double-check shares aren't zero
+    def get_share(team_series, q, default=0.25):
+        val = team_series.get(f"adj_q{q}_share_10", default)
+        return float(val) if not pd.isna(val) and val > 0 else default
+
     for q in range(1, 5):
-        q_ptsA = ptsA * lastA[f"adj_q{q}_share_10"]
-        q_ptsB = ptsB * lastB[f"adj_q{q}_share_10"]
+        q_ptsA = ptsA * get_share(lastA, q)
+        q_ptsB = ptsB * get_share(lastB, q)
         quarters.append({"q": q, "ptsA": float(q_ptsA), "ptsB": float(q_ptsB)})
     
     half1_ptsA = quarters[0]["ptsA"] + quarters[1]["ptsA"]
     half1_ptsB = quarters[0]["ptsB"] + quarters[1]["ptsB"]
+    half2_ptsA = quarters[2]["ptsA"] + quarters[3]["ptsA"]
+    half2_ptsB = quarters[2]["ptsB"] + quarters[3]["ptsB"]
 
     # Load Injury Report
     injuries = {}
@@ -782,7 +794,10 @@ def predict_matchup(teamA, teamB, df, df_p, sigma=12, match_timestamp=None, odds
             "form_state_B": int(lastB["form_state"]),
             "entropy_A": float(lastA["shooting_entropy"])
         },
-        "halves": {"h1_ptsA": half1_ptsA, "h1_ptsB": half1_ptsB},
+        "halves": {
+            "h1_ptsA": half1_ptsA, "h1_ptsB": half1_ptsB,
+            "h2_ptsA": half2_ptsA, "h2_ptsB": half2_ptsB
+        },
         "quarters": quarters,
         "players": p_props,
         "factors": {
@@ -976,6 +991,16 @@ def run_pipeline():
     for stat in stats_to_fill:
         if stat in df.columns:
             df[stat] = df[stat].fillna(df[stat].mean())
+    
+    # Fill missing quarterly data with 25% share of total points
+    for i in range(1, 5):
+        col = f"q{i}_pts"
+        if col in df.columns:
+            # Ensure it's float to avoid TypeError when filling with float shares
+            df[col] = df[col].astype(float)
+            df[col] = df[col].fillna(df["team_pts"] * 0.25)
+            # Handle cases where it is 0 but team_pts is > 0
+            df.loc[(df[col] == 0) & (df["team_pts"] > 0), col] = df["team_pts"] * 0.25
     
     df = rolling_last10(df)
     df = add_sos_metrics(df) 
