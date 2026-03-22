@@ -178,7 +178,7 @@ function updatePrediction() {
         const nameB = matchData?.awayName || teamB;
 
         resultDiv.innerHTML = `
-            <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 2rem; width: 100%;" class="fade-in">
+            <div class="responsive-flex-stack fade-in" style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 2rem; width: 100%;">
                 <div class="pred-team" style="text-align: left; flex: 1.5;">
                     <div class="name">${nameA} <span style="font-size: 0.8rem; font-weight: 400; color: var(--text-secondary);">(${lastA.wins}-${lastA.losses})</span></div>
                     <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.2rem; flex-wrap: wrap;">
@@ -216,11 +216,12 @@ function updatePrediction() {
 
             ${renderBestBet(teamA, teamB, winProbA, spread, mlPerc, total, ptsA, ptsB, recommendedBet, advA.blowout_risk)}
 
-            <div style="width: 100%; display: grid; grid-template-columns: 1fr 1.5fr; gap: 2rem; margin-top: 1rem;">
+            <div class="responsive-grid-stack" style="width: 100%; display: grid; grid-template-columns: 1fr 1.5fr; gap: 2rem; margin-top: 1rem;">
                 <div class="radar-box glass" style="padding: 1.5rem; height: 350px;">
                     <canvas id="matchupRadar"></canvas>
                 </div>
-                <table class="sportsbook-table">
+                <div class="table-container">
+                    <table class="sportsbook-table">
                     <thead>
                         <tr>
                             <th>Team</th>
@@ -300,6 +301,7 @@ function updatePrediction() {
                         </tr>
                     </tbody>
                 </table>
+                </div>
             </div>
             
             <div class="glass fade-in" style="width: 100%; margin-top: 2rem; padding: 1.5rem;">
@@ -336,6 +338,7 @@ function updatePrediction() {
                 <h3 style="color: var(--accent-primary); margin-bottom: 1.5rem; border-bottom: 1px solid var(--glass-border); padding-bottom: 0.5rem;">Scientific "Four Factors" Analysis</h3>
                 <p style="font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 2rem;">These four statistics decide 95% of all NBA games. Green indicates the statistically superior team in that category.</p>
                 
+                <div class="table-container">
                 <table class="sportsbook-table" style="margin-top: 0;">
                     <thead>
                         <tr>
@@ -356,6 +359,7 @@ function updatePrediction() {
                         </tr>
                     </tbody>
                 </table>
+                </div>
                 
                 <div style="margin-top: 2rem; padding: 1rem; background: rgba(56, 189, 248, 0.05); border-radius: 12px; font-size: 0.85rem; color: var(--text-secondary);">
                     <strong>Scientific Note:</strong> The Four Factors model shows that ${factorsA.efg > factorsB.efg ? teamA : teamB} has the shooting advantage, while ${factorsA.tov < factorsB.tov ? teamA : teamB} protects the ball better.
@@ -371,6 +375,7 @@ function updatePrediction() {
 
         let html = `
             <div class="stats-comparison fade-in" style="width: 100%">
+                <div class="table-container">
                 <table class="sportsbook-table">
                     <thead>
                         <tr>
@@ -407,10 +412,10 @@ function updatePrediction() {
                     <td><strong>${h2B.toFixed(1)}</strong></td>
                     <td><strong style="color: ${h2A > h2B ? 'var(--success)' : 'var(--danger)'}">${h2A > h2B ? teamA : teamB}</strong></td>
                 </tr>
-            </tbody></table></div>`;
+            </tbody></table></div></div>`;
 
         // Form History Comparison
-        html += `<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; width: 100%; margin-top: 2rem;">
+        html += `<div class="responsive-grid-stack" style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; width: 100%; margin-top: 2rem;">
                     <div class="glass" style="padding: 1.5rem;">
                         <div style="margin-bottom: 1rem; font-weight: 700; color: var(--accent-primary); border-bottom: 1px solid var(--glass-border); padding-bottom: 0.5rem;">${teamA} LAST 10 FORM</div>
                         ${lastA.last10_form.map(g => `<div style="font-size: 0.8rem; margin-bottom: 0.3rem; display: flex; justify-content: space-between;">
@@ -563,15 +568,15 @@ function renderBestBet(teamA, teamB, winProbA, spread, mlPerc, total, ptsA, ptsB
     const blowoutBadge = blowoutRisk > 0.15 ? `<span class="badge" style="background: #ef444422; color: #ef4444; border: 1px solid #ef444444;">High Blowout Risk</span>` : '';
 
     return `
-        <div class="glass fade-in" style="width: 100%; margin-top: 1rem; margin-bottom: 2rem; padding: 1.5rem; border-left: 4px solid ${riskColor}; display: flex; flex-direction: column; gap: 0.5rem; position: relative; overflow: hidden;">
-            <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+        <div class="glass fade-in responsive-flex-stack" style="width: 100%; margin-top: 1rem; margin-bottom: 2rem; padding: 1.5rem; border-left: 4px solid ${riskColor}; display: flex; flex-direction: column; gap: 0.5rem; position: relative; overflow: hidden;">
+            <div class="responsive-flex-stack" style="display: flex; justify-content: space-between; align-items: flex-start;">
                 <div style="font-size: 0.85rem; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 1px; font-weight: 600;">Advanced AI Analysis & Betting Strategy</div>
                 <div style="display: flex; gap: 0.5rem;">
                     ${blowoutBadge}
                     <span class="badge" style="background: ${riskColor}33; color: ${riskColor}; border: 1px solid ${riskColor}66; font-size: 0.7rem;">${riskLevel}</span>
                 </div>
             </div>
-            <div style="display: flex; justify-content: space-between; align-items: flex-end;">
+            <div class="responsive-flex-stack" style="display: flex; justify-content: space-between; align-items: flex-end;">
                 <div>
                     <div style="font-size: 1.5rem; font-weight: 700; color: ${riskColor};">${bestBet}</div>
                     <div style="display: flex; gap: 1rem; align-items: center; font-size: 0.9rem; flex-wrap: wrap; margin-top: 0.5rem;">
@@ -618,7 +623,7 @@ function renderShapExplanation(teamA, teamB) {
         const humanLabel = FEATURE_LABELS[cleanName] || cleanName;
 
         html += `
-            <div style="display: grid; grid-template-columns: 160px 1fr 1fr; align-items: center; gap: 1rem; font-size: 0.8rem; margin-bottom: 0.3rem;">
+            <div class="responsive-grid-stack" style="display: grid; grid-template-columns: 1fr 1fr 1fr; align-items: center; gap: 1rem; font-size: 0.8rem; margin-bottom: 0.3rem;">
                 <div style="text-align: right; color: var(--text-secondary); font-weight: 600; line-height: 1;">${humanLabel}</div>
                 
                 <!-- Left side (Negative influence towards B) -->

@@ -445,3 +445,132 @@ select:focus {
     color: #f59e0b;
     border: 1px solid rgba(245, 158, 11, 0.4);
 }
+
+/* Mobile & Tablet Responsiveness */
+@media (max-width: 768px) {
+    .container {
+        padding: 1.5rem 1rem;
+    }
+
+    header {
+        margin-bottom: 2rem;
+        text-align: center;
+    }
+
+    header h1 {
+        font-size: 2.2rem;
+        letter-spacing: -0.5px;
+    }
+
+    header p {
+        font-size: 0.75rem;
+        letter-spacing: 2px;
+    }
+
+    .overview-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+
+    .card {
+        padding: 1.25rem;
+        border-radius: 24px;
+    }
+
+    .chart-container {
+        height: 250px;
+    }
+
+    .upcoming-grid {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+
+    .predictor-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+        margin-bottom: 2rem;
+    }
+
+    .market-tabs {
+        width: 100%;
+        overflow-x: auto;
+        padding-bottom: 5px;
+        scrollbar-width: none;
+        -ms-overflow-style: none;
+    }
+
+    .market-tabs::-webkit-scrollbar {
+        display: none;
+    }
+
+    .tab-btn {
+        white-space: nowrap;
+        padding: 0.6rem 1rem;
+        font-size: 0.8rem;
+    }
+
+    select {
+        padding: 1rem;
+        font-size: 1rem;
+    }
+
+    .p-stat-val {
+        font-size: 1.2rem;
+    }
+
+    .p-stat-lbl {
+        font-size: 0.6rem;
+    }
+
+    /* Target specific generated layouts in JS */
+    .responsive-flex-stack {
+        flex-direction: column !important;
+        align-items: center !important;
+        text-align: center !important;
+        gap: 1.5rem !important;
+    }
+
+    .responsive-flex-stack > div {
+        width: 100% !important;
+        text-align: center !important;
+    }
+
+    .responsive-grid-stack {
+        grid-template-columns: 1fr !important;
+        gap: 1.5rem !important;
+    }
+
+    .table-container {
+        width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        margin-top: 1rem;
+        border-radius: 12px;
+    }
+
+    .sportsbook-table {
+        min-width: 600px;
+    }
+    
+    .radar-box {
+        height: 300px !important;
+    }
+
+    .player-grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 1.8rem;
+    }
+
+    .card {
+        padding: 1rem;
+    }
+}
