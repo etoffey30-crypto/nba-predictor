@@ -20,13 +20,13 @@ def fetch_odds():
     # 1. Fetch upcoming events
     events_url = f"https://api.odds-api.io/v3/events?apiKey={API_KEY}&sport={SPORT}&league={LEAGUE}"
     try:
-        response = requests.get(events_url)
+        response = requests.get(events_url, timeout=10)
         events = response.json()
         if not isinstance(events, list):
-            print("Error fetching events:", events)
+            print(f"Error fetching events (invalid response type): {events}")
             return
     except Exception as e:
-        print("Failed to fetch events:", e)
+        print(f"Failed to fetch events (API Timeout or Network Error): {e}")
         return
 
     # Filter for games in the next 24 hours to stay within rate limits (free plan: 100/hr)
@@ -47,7 +47,7 @@ def fetch_odds():
         odds_url = f"https://api.odds-api.io/v3/odds?apiKey={API_KEY}&eventId={eid}&bookmakers={BOOKMAKER}"
         
         try:
-            res = requests.get(odds_url)
+            res = requests.get(odds_url, timeout=10)
             data = res.json()
             
             if "bookmakers" in data and BOOKMAKER in data["bookmakers"]:

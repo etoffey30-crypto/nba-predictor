@@ -485,9 +485,11 @@ def train_ml_model(df, df_p):
     print(f"Model Accuracy: {model.score(X_test_df, y_test):.2%}")
     joblib.dump(model, "prediction_model.joblib")
     
-    # Generate SHAP Explainer
-    print("Generating SHAP Explainer...")
-    explainer = shap.TreeExplainer(model)
+    # Generate SHAP Explainer (Optimized for speed using a sample)
+    print(f"Generating SHAP Explainer (using sample of {min(100, len(X_train_df))} games for speed)...")
+    # Using a sample of the training data as the background dataset for faster SHAP calculation
+    X_sample = X_train_df.sample(min(100, len(X_train_df)), random_state=42)
+    explainer = shap.TreeExplainer(model, data=X_sample)
     joblib.dump(explainer, "shap_explainer.joblib")
     
     # Safely get expected value

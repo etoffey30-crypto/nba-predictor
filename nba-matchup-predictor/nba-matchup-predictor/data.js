@@ -34,7 +34,7 @@ const analyticsData = {
   "latest_metrics": [
     {
       "team": "ATL",
-      "wins": 39,
+      "wins": 40,
       "losses": 32,
       "conf_rank": 6,
       "adj_ortg_10": 118.69190979305426,
@@ -42,7 +42,7 @@ const analyticsData = {
       "adj_pace_10": 102.80957461363694,
       "sos_10": -9.250098758164969,
       "latent_strength": 11.188497712009733,
-      "form_state": 1,
+      "form_state": 0,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5626566017838438,
@@ -223,7 +223,7 @@ const analyticsData = {
     {
       "team": "BKN",
       "wins": 17,
-      "losses": 53,
+      "losses": 55,
       "conf_rank": 13,
       "adj_ortg_10": 105.08625394494715,
       "adj_drtg_10": 117.86645935836117,
@@ -411,14 +411,14 @@ const analyticsData = {
     {
       "team": "BOS",
       "wins": 47,
-      "losses": 23,
+      "losses": 24,
       "conf_rank": 2,
       "adj_ortg_10": 117.53164347456004,
       "adj_drtg_10": 109.35527007103124,
       "adj_pace_10": 96.89706179312411,
       "sos_10": -1.1461543075564808,
       "latent_strength": 7.091850752870968,
-      "form_state": 1,
+      "form_state": 2,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5555151899161151,
@@ -786,7 +786,7 @@ const analyticsData = {
     },
     {
       "team": "CHI",
-      "wins": 28,
+      "wins": 29,
       "losses": 42,
       "conf_rank": 12,
       "adj_ortg_10": 109.4936355741118,
@@ -794,7 +794,7 @@ const analyticsData = {
       "adj_pace_10": 105.33777974184207,
       "sos_10": 0.12609118927576074,
       "latent_strength": -2.9535234490350355,
-      "form_state": 2,
+      "form_state": 1,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.551011335857835,
@@ -982,7 +982,7 @@ const analyticsData = {
       "adj_pace_10": 99.63426354257824,
       "sos_10": -1.5848900060583127,
       "latent_strength": 5.505910660887272,
-      "form_state": 1,
+      "form_state": 0,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.569235178964745,
@@ -1163,14 +1163,14 @@ const analyticsData = {
     {
       "team": "DAL",
       "wins": 23,
-      "losses": 48,
+      "losses": 49,
       "conf_rank": 13,
       "adj_ortg_10": 104.70027350020226,
       "adj_drtg_10": 116.2990332969478,
       "adj_pace_10": 102.44666860586938,
       "sos_10": 5.670759128668195,
       "latent_strength": -10.618255735009239,
-      "form_state": 0,
+      "form_state": 2,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.497388539687562,
@@ -1350,15 +1350,15 @@ const analyticsData = {
     },
     {
       "team": "DEN",
-      "wins": 43,
+      "wins": 44,
       "losses": 28,
-      "conf_rank": 5,
+      "conf_rank": 4,
       "adj_ortg_10": 116.45903992523367,
       "adj_drtg_10": 114.68340187392486,
       "adj_pace_10": 104.27036480840103,
       "sos_10": 3.453082192613934,
       "latent_strength": 5.837411202872655,
-      "form_state": 1,
+      "form_state": 2,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.568796185515523,
@@ -1538,7 +1538,7 @@ const analyticsData = {
     },
     {
       "team": "DET",
-      "wins": 51,
+      "wins": 52,
       "losses": 19,
       "conf_rank": 1,
       "adj_ortg_10": 116.38741721201808,
@@ -1546,7 +1546,7 @@ const analyticsData = {
       "adj_pace_10": 100.27439512645745,
       "sos_10": -1.4079026901994962,
       "latent_strength": 7.5024314190974115,
-      "form_state": 1,
+      "form_state": 0,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5496121611539099,
@@ -1726,7 +1726,7 @@ const analyticsData = {
     },
     {
       "team": "GSW",
-      "wins": 33,
+      "wins": 34,
       "losses": 38,
       "conf_rank": 10,
       "adj_ortg_10": 112.86934852717658,
@@ -1734,7 +1734,7 @@ const analyticsData = {
       "adj_pace_10": 100.78352333158567,
       "sos_10": -1.1071306320688743,
       "latent_strength": -2.8732842108687136,
-      "form_state": 2,
+      "form_state": 1,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5309610017743458,
@@ -1915,14 +1915,14 @@ const analyticsData = {
     {
       "team": "HOU",
       "wins": 43,
-      "losses": 27,
-      "conf_rank": 4,
+      "losses": 28,
+      "conf_rank": 6,
       "adj_ortg_10": 109.98254378231653,
       "adj_drtg_10": 114.03768890377269,
       "adj_pace_10": 99.45042623199583,
       "sos_10": 1.6334978935257922,
       "latent_strength": -3.0522040387036955,
-      "form_state": 0,
+      "form_state": 2,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5268050399579487,
@@ -2102,7 +2102,7 @@ const analyticsData = {
     },
     {
       "team": "IND",
-      "wins": 15,
+      "wins": 16,
       "losses": 56,
       "conf_rank": 15,
       "adj_ortg_10": 108.58487999173954,
@@ -2110,7 +2110,7 @@ const analyticsData = {
       "adj_pace_10": 101.4125420235909,
       "sos_10": 1.1798270763639958,
       "latent_strength": -13.733185111787689,
-      "form_state": 0,
+      "form_state": 2,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5337413513020539,
@@ -2290,7 +2290,7 @@ const analyticsData = {
     },
     {
       "team": "LAC",
-      "wins": 35,
+      "wins": 36,
       "losses": 36,
       "conf_rank": 8,
       "adj_ortg_10": 120.67028838824271,
@@ -2298,7 +2298,7 @@ const analyticsData = {
       "adj_pace_10": 101.63788230594464,
       "sos_10": -0.24137154569838107,
       "latent_strength": 4.390603830960883,
-      "form_state": 0,
+      "form_state": 1,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5780380005774381,
@@ -2479,7 +2479,7 @@ const analyticsData = {
     {
       "team": "LAL",
       "wins": 46,
-      "losses": 25,
+      "losses": 26,
       "conf_rank": 3,
       "adj_ortg_10": 117.9937926629456,
       "adj_drtg_10": 108.10133548132899,
@@ -2667,7 +2667,7 @@ const analyticsData = {
     {
       "team": "MEM",
       "wins": 24,
-      "losses": 46,
+      "losses": 47,
       "conf_rank": 12,
       "adj_ortg_10": 112.64691928685642,
       "adj_drtg_10": 116.83883033930957,
@@ -2855,7 +2855,7 @@ const analyticsData = {
     {
       "team": "MIA",
       "wins": 38,
-      "losses": 33,
+      "losses": 34,
       "conf_rank": 9,
       "adj_ortg_10": 115.16882698872361,
       "adj_drtg_10": 110.33627601452096,
@@ -3043,14 +3043,14 @@ const analyticsData = {
     {
       "team": "MIL",
       "wins": 29,
-      "losses": 41,
+      "losses": 42,
       "conf_rank": 11,
       "adj_ortg_10": 107.80662503605427,
       "adj_drtg_10": 119.64449957154011,
       "adj_pace_10": 99.74608743414977,
       "sos_10": 2.0991903859160606,
       "latent_strength": -9.425415769640134,
-      "form_state": 0,
+      "form_state": 1,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5528536475022033,
@@ -3230,9 +3230,9 @@ const analyticsData = {
     },
     {
       "team": "MIN",
-      "wins": 43,
+      "wins": 44,
       "losses": 28,
-      "conf_rank": 6,
+      "conf_rank": 5,
       "adj_ortg_10": 110.92938938047942,
       "adj_drtg_10": 113.21213582217167,
       "adj_pace_10": 100.97059265650229,
@@ -3606,7 +3606,7 @@ const analyticsData = {
     },
     {
       "team": "NYK",
-      "wins": 46,
+      "wins": 47,
       "losses": 25,
       "conf_rank": 3,
       "adj_ortg_10": 117.1178837462728,
@@ -3614,7 +3614,7 @@ const analyticsData = {
       "adj_pace_10": 99.22293524829601,
       "sos_10": -1.0037607266162287,
       "latent_strength": 10.342643187752282,
-      "form_state": 0,
+      "form_state": 2,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5599335781178418,
@@ -3794,7 +3794,7 @@ const analyticsData = {
     },
     {
       "team": "OKC",
-      "wins": 56,
+      "wins": 57,
       "losses": 15,
       "conf_rank": 1,
       "adj_ortg_10": 110.34321082695857,
@@ -3983,7 +3983,7 @@ const analyticsData = {
     {
       "team": "ORL",
       "wins": 38,
-      "losses": 32,
+      "losses": 33,
       "conf_rank": 8,
       "adj_ortg_10": 114.17738669155281,
       "adj_drtg_10": 108.28470621849544,
@@ -4171,14 +4171,14 @@ const analyticsData = {
     {
       "team": "PHI",
       "wins": 39,
-      "losses": 32,
+      "losses": 33,
       "conf_rank": 7,
       "adj_ortg_10": 105.16117029708045,
       "adj_drtg_10": 113.75849194842044,
       "adj_pace_10": 102.69821290966685,
       "sos_10": 1.7617539979661447,
       "latent_strength": -6.388660634860212,
-      "form_state": 1,
+      "form_state": 0,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5010979297507788,
@@ -4358,7 +4358,7 @@ const analyticsData = {
     },
     {
       "team": "PHX",
-      "wins": 39,
+      "wins": 40,
       "losses": 32,
       "conf_rank": 7,
       "adj_ortg_10": 116.19957093541936,
@@ -4366,7 +4366,7 @@ const analyticsData = {
       "adj_pace_10": 98.60013696029976,
       "sos_10": -3.7340221396635775,
       "latent_strength": -1.164924748401413,
-      "form_state": 1,
+      "form_state": 0,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5551261814109806,
@@ -4546,15 +4546,15 @@ const analyticsData = {
     },
     {
       "team": "POR",
-      "wins": 35,
-      "losses": 36,
+      "wins": 36,
+      "losses": 37,
       "conf_rank": 9,
       "adj_ortg_10": 107.9631503258825,
       "adj_drtg_10": 107.94197156992804,
       "adj_pace_10": 103.13666860586937,
       "sos_10": -2.63007257569559,
       "latent_strength": 1.2594966904526308,
-      "form_state": 1,
+      "form_state": 2,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5278167610573037,
@@ -4734,7 +4734,7 @@ const analyticsData = {
     },
     {
       "team": "SAC",
-      "wins": 18,
+      "wins": 19,
       "losses": 53,
       "conf_rank": 15,
       "adj_ortg_10": 111.70251434224666,
@@ -4742,7 +4742,7 @@ const analyticsData = {
       "adj_pace_10": 102.71943524829598,
       "sos_10": -0.7608895900382631,
       "latent_strength": -6.94613037736287,
-      "form_state": 0,
+      "form_state": 2,
       "shooting_entropy": 2.9219280948873623,
       "factors": {
         "efg": 0.5390983776725441,
@@ -4922,7 +4922,7 @@ const analyticsData = {
     },
     {
       "team": "SAS",
-      "wins": 53,
+      "wins": 54,
       "losses": 18,
       "conf_rank": 2,
       "adj_ortg_10": 119.53255894448002,
@@ -4930,7 +4930,7 @@ const analyticsData = {
       "adj_pace_10": 101.60993442865419,
       "sos_10": 3.510138994177261,
       "latent_strength": 11.701044463567804,
-      "form_state": 2,
+      "form_state": 1,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5857406442859878,
@@ -5110,15 +5110,15 @@ const analyticsData = {
     },
     {
       "team": "TOR",
-      "wins": 39,
-      "losses": 30,
+      "wins": 40,
+      "losses": 31,
       "conf_rank": 5,
       "adj_ortg_10": 112.372728425377,
       "adj_drtg_10": 112.79925470524216,
       "adj_pace_10": 100.3344781800478,
       "sos_10": 3.047519908876628,
       "latent_strength": 1.9461049922231322,
-      "form_state": 1,
+      "form_state": 2,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5427073718696395,
@@ -5299,14 +5299,14 @@ const analyticsData = {
     {
       "team": "UTA",
       "wins": 21,
-      "losses": 50,
+      "losses": 51,
       "conf_rank": 14,
       "adj_ortg_10": 112.37999830324046,
       "adj_drtg_10": 117.52506218194253,
       "adj_pace_10": 101.19152333158567,
       "sos_10": -1.5756467840982442,
       "latent_strength": -6.1037482940050465,
-      "form_state": 0,
+      "form_state": 1,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5266638323672715,
@@ -5487,14 +5487,14 @@ const analyticsData = {
     {
       "team": "WAS",
       "wins": 16,
-      "losses": 54,
+      "losses": 55,
       "conf_rank": 14,
       "adj_ortg_10": 112.58657841547094,
       "adj_drtg_10": 122.4888482333044,
       "adj_pace_10": 104.29860025466257,
       "sos_10": 4.296150719322084,
       "latent_strength": -11.538579090957425,
-      "form_state": 1,
+      "form_state": 0,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5667290749191511,
@@ -22849,507 +22849,1172 @@ const analyticsData = {
   ],
   "upcoming_matches": [
     {
-      "matchId": "0022501032",
-      "matchTime": 1774213200,
-      "gameStatus": "5:00 pm ET",
-      "homeTeam": "DEN",
-      "awayTeam": "POR",
-      "homeName": "Denver Nuggets",
-      "awayName": "Portland Trail Blazers",
+      "matchId": "0022501047",
+      "matchTime": 1774393200,
+      "gameStatus": "7:00 pm ET",
+      "homeTeam": "CHA",
+      "awayTeam": "SAC",
+      "homeName": "Charlotte Hornets",
+      "awayName": "Sacramento Kings",
       "prediction": {
         "main": {
-          "ptsA": 117.91142297403972,
-          "ptsB": 117.00170497980089,
-          "total": 234.91312795384061,
-          "spread": -0.9097179942388323,
-          "win_prob_A": 43.32591496602618,
-          "ml_prob_A": 0.5172633712266781,
-          "mc_win_A": 0.505,
+          "ptsA": 118.26914656849516,
+          "ptsB": 112.05838536362137,
+          "total": 230.32753193211653,
+          "spread": -6.210761204873791,
+          "win_prob_A": 46.761933455062014,
+          "ml_prob_A": 0.6162759144276383,
+          "mc_win_A": 0.6358,
           "market": {
             "ml": {
-              "home": "1.28",
-              "away": "3.85"
+              "home": "1.07",
+              "away": "9.50"
             },
             "spread": {
-              "hdp": -8.5,
-              "home": "1.87",
-              "away": "1.95"
+              "hdp": -16.5,
+              "home": "1.89",
+              "away": "1.93"
             },
             "total": {
-              "hdp": 240.5,
-              "over": "1.95",
-              "under": "1.87"
+              "hdp": 208.5,
+              "over": "1.11",
+              "under": "5.96"
             },
-            "props": []
+            "props": [
+              {
+                "label": "Miles Bridges (Assists)",
+                "hdp": 2.5,
+                "over": "2.02",
+                "under": "1.75"
+              },
+              {
+                "label": "Kon Knueppel (Assists)",
+                "hdp": 2.5,
+                "over": "1.63",
+                "under": "2.20"
+              },
+              {
+                "label": "DeMar DeRozan (Assists)",
+                "hdp": 4.5,
+                "over": "1.65",
+                "under": "2.17"
+              },
+              {
+                "label": "Maxime Raynaud (Assists)",
+                "hdp": 1.5,
+                "over": "1.56",
+                "under": "2.36"
+              },
+              {
+                "label": "Malik Monk (Assists)",
+                "hdp": 4.5,
+                "over": "2.10",
+                "under": "1.69"
+              },
+              {
+                "label": "Precious Achiuwa (Assists)",
+                "hdp": 1.5,
+                "over": "1.91",
+                "under": "1.84"
+              },
+              {
+                "label": "Killian Hayes (Assists)",
+                "hdp": 4.5,
+                "over": "1.75",
+                "under": "2.01"
+              },
+              {
+                "label": "LaMelo Ball (Assists)",
+                "hdp": 6.5,
+                "over": "1.70",
+                "under": "2.08"
+              },
+              {
+                "label": "Brandon Miller (Assists)",
+                "hdp": 3.5,
+                "over": "1.77",
+                "under": "1.99"
+              },
+              {
+                "label": "Moussa Diabat\u00e9 (Assists)",
+                "hdp": 2.5,
+                "over": "2.37",
+                "under": "1.55"
+              },
+              {
+                "label": "Coby White (Assists)",
+                "hdp": 3.5,
+                "over": "1.71",
+                "under": "2.06"
+              },
+              {
+                "label": "Moussa Diabat\u00e9 (Rebounds)",
+                "hdp": 9.5,
+                "over": "1.72",
+                "under": "2.06"
+              },
+              {
+                "label": "Brandon Miller (Rebounds)",
+                "hdp": 5.5,
+                "over": "2.13",
+                "under": "1.67"
+              },
+              {
+                "label": "Sion James (Rebounds)",
+                "hdp": 3.5,
+                "over": "2.07",
+                "under": "1.71"
+              },
+              {
+                "label": "Kon Knueppel (Rebounds)",
+                "hdp": 4.5,
+                "over": "2.03",
+                "under": "1.74"
+              },
+              {
+                "label": "Grant Williams (Rebounds)",
+                "hdp": 3.5,
+                "over": "2.03",
+                "under": "1.74"
+              },
+              {
+                "label": "LaMelo Ball (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.94",
+                "under": "1.81"
+              },
+              {
+                "label": "Maxime Raynaud (Rebounds)",
+                "hdp": 8.5,
+                "over": "1.74",
+                "under": "2.02"
+              },
+              {
+                "label": "Dylan Cardwell (Rebounds)",
+                "hdp": 6.5,
+                "over": "1.71",
+                "under": "2.06"
+              },
+              {
+                "label": "Miles Bridges (Rebounds)",
+                "hdp": 5.5,
+                "over": "2.14",
+                "under": "1.67"
+              },
+              {
+                "label": "Precious Achiuwa (Rebounds)",
+                "hdp": 7.5,
+                "over": "1.70",
+                "under": "2.09"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "DeMar DeRozan (Points)",
+                "hdp": 16.5,
+                "over": "1.93",
+                "under": "1.84"
+              },
+              {
+                "label": "Moussa Diabat\u00e9 (Points)",
+                "hdp": 8.5,
+                "over": "1.96",
+                "under": "1.81"
+              },
+              {
+                "label": "Killian Hayes (Points)",
+                "hdp": 7.5,
+                "over": "1.79",
+                "under": "2.00"
+              },
+              {
+                "label": "Precious Achiuwa (Points)",
+                "hdp": 13.5,
+                "over": "1.93",
+                "under": "1.84"
+              },
+              {
+                "label": "LaMelo Ball (Points)",
+                "hdp": 20.5,
+                "over": "1.83",
+                "under": "1.95"
+              },
+              {
+                "label": "Miles Bridges (Points)",
+                "hdp": 14.5,
+                "over": "1.81",
+                "under": "1.96"
+              },
+              {
+                "label": "Coby White (Points)",
+                "hdp": 14.5,
+                "over": "1.85",
+                "under": "1.92"
+              },
+              {
+                "label": "Brandon Miller (Points)",
+                "hdp": 20.5,
+                "over": "1.88",
+                "under": "1.89"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Points)",
+                "hdp": 6.5,
+                "over": "1.81",
+                "under": "1.96"
+              },
+              {
+                "label": "Malik Monk (Points)",
+                "hdp": 15.5,
+                "over": "1.96",
+                "under": "1.82"
+              },
+              {
+                "label": "Kon Knueppel (Points)",
+                "hdp": 18.5,
+                "over": "1.81",
+                "under": "1.97"
+              },
+              {
+                "label": "Dylan Cardwell (Points)",
+                "hdp": 5.5,
+                "over": "1.71",
+                "under": "2.10"
+              },
+              {
+                "label": "Maxime Raynaud (Points)",
+                "hdp": 16.5,
+                "over": "1.81",
+                "under": "1.97"
+              },
+              {
+                "label": "LaMelo Ball (Steals)",
+                "hdp": 1.5,
+                "over": "2.62",
+                "under": "1.46"
+              },
+              {
+                "label": "Precious Achiuwa (Steals)",
+                "hdp": 0.5,
+                "over": "1.44",
+                "under": "2.67"
+              },
+              {
+                "label": "Brandon Miller (Steals)",
+                "hdp": 1.5,
+                "over": "2.70",
+                "under": "1.44"
+              },
+              {
+                "label": "Brandon Miller (3 Point FG)",
+                "hdp": 3.5,
+                "over": "2.28",
+                "under": "1.59"
+              },
+              {
+                "label": "Coby White (3 Point FG)",
+                "hdp": 2.5,
+                "over": "2.39",
+                "under": "1.54"
+              },
+              {
+                "label": "Malik Monk (3 Point FG)",
+                "hdp": 2.5,
+                "over": "2.24",
+                "under": "1.61"
+              },
+              {
+                "label": "Precious Achiuwa (3 Point FG)",
+                "hdp": 0.5,
+                "over": "2.10",
+                "under": "1.69"
+              },
+              {
+                "label": "LaMelo Ball (3 Point FG)",
+                "hdp": 3.5,
+                "over": "1.70",
+                "under": "2.08"
+              },
+              {
+                "label": "Maxime Raynaud (3 Point FG)",
+                "hdp": 0.5,
+                "over": "2.70",
+                "under": "1.44"
+              },
+              {
+                "label": "Miles Bridges (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.78",
+                "under": "1.97"
+              },
+              {
+                "label": "Kon Knueppel (3 Point FG)",
+                "hdp": 3.5,
+                "over": "1.88",
+                "under": "1.86"
+              },
+              {
+                "label": "Grant Williams (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.29",
+                "under": "1.58"
+              },
+              {
+                "label": "Killian Hayes (Pts+Asts)",
+                "hdp": 13.5,
+                "over": "1.98",
+                "under": "1.78"
+              },
+              {
+                "label": "Miles Bridges (Pts+Asts)",
+                "hdp": 17.5,
+                "over": "1.88",
+                "under": "1.87"
+              },
+              {
+                "label": "Coby White (Pts+Asts)",
+                "hdp": 18.5,
+                "over": "1.82",
+                "under": "1.93"
+              },
+              {
+                "label": "LaMelo Ball (Pts+Asts)",
+                "hdp": 27.5,
+                "over": "1.81",
+                "under": "1.94"
+              },
+              {
+                "label": "Malik Monk (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "1.85",
+                "under": "1.89"
+              },
+              {
+                "label": "Precious Achiuwa (Pts+Asts)",
+                "hdp": 15.5,
+                "over": "1.96",
+                "under": "1.79"
+              },
+              {
+                "label": "Brandon Miller (Pts+Asts)",
+                "hdp": 24.5,
+                "over": "1.86",
+                "under": "1.88"
+              },
+              {
+                "label": "Moussa Diabat\u00e9 (Pts+Asts)",
+                "hdp": 10.5,
+                "over": "1.84",
+                "under": "1.91"
+              },
+              {
+                "label": "Maxime Raynaud (Pts+Asts)",
+                "hdp": 18.5,
+                "over": "1.78",
+                "under": "1.98"
+              },
+              {
+                "label": "Kon Knueppel (Pts+Asts)",
+                "hdp": 22.5,
+                "over": "1.96",
+                "under": "1.79"
+              },
+              {
+                "label": "DeMar DeRozan (Pts+Asts)",
+                "hdp": 21.5,
+                "over": "1.88",
+                "under": "1.86"
+              },
+              {
+                "label": "Brandon Miller (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "1.74",
+                "under": "2.03"
+              },
+              {
+                "label": "Maxime Raynaud (Rebs+Asts)",
+                "hdp": 10.5,
+                "over": "1.74",
+                "under": "2.03"
+              },
+              {
+                "label": "Malik Monk (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "2.08",
+                "under": "1.70"
+              },
+              {
+                "label": "Kon Knueppel (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.95",
+                "under": "1.80"
+              },
+              {
+                "label": "Moussa Diabat\u00e9 (Rebs+Asts)",
+                "hdp": 12.5,
+                "over": "1.98",
+                "under": "1.78"
+              },
+              {
+                "label": "Precious Achiuwa (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.79",
+                "under": "1.95"
+              },
+              {
+                "label": "Miles Bridges (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.81",
+                "under": "1.94"
+              },
+              {
+                "label": "LaMelo Ball (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "1.86",
+                "under": "1.88"
+              },
+              {
+                "label": "Miles Bridges (Pts+Rebs+Asts)",
+                "hdp": 22.5,
+                "over": "1.83",
+                "under": "1.92"
+              },
+              {
+                "label": "Kon Knueppel (Pts+Rebs+Asts)",
+                "hdp": 26.5,
+                "over": "1.85",
+                "under": "1.90"
+              },
+              {
+                "label": "LaMelo Ball (Pts+Rebs+Asts)",
+                "hdp": 32.5,
+                "over": "1.86",
+                "under": "1.88"
+              },
+              {
+                "label": "Precious Achiuwa (Pts+Rebs+Asts)",
+                "hdp": 23.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Maxime Raynaud (Pts+Rebs+Asts)",
+                "hdp": 28.5,
+                "over": "1.95",
+                "under": "1.80"
+              },
+              {
+                "label": "Brandon Miller (Pts+Rebs+Asts)",
+                "hdp": 29.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "Moussa Diabat\u00e9 (Pts+Rebs+Asts)",
+                "hdp": 20.5,
+                "over": "1.81",
+                "under": "1.94"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Pts+Rebs)",
+                "hdp": 11.5,
+                "over": "1.79",
+                "under": "1.95"
+              },
+              {
+                "label": "LaMelo Ball (Pts+Rebs)",
+                "hdp": 25.5,
+                "over": "1.88",
+                "under": "1.85"
+              },
+              {
+                "label": "Grant Williams (Pts+Rebs)",
+                "hdp": 9.5,
+                "over": "1.81",
+                "under": "1.94"
+              },
+              {
+                "label": "Kon Knueppel (Pts+Rebs)",
+                "hdp": 23.5,
+                "over": "1.87",
+                "under": "1.88"
+              },
+              {
+                "label": "Brandon Miller (Pts+Rebs)",
+                "hdp": 25.5,
+                "over": "1.83",
+                "under": "1.92"
+              },
+              {
+                "label": "Maxime Raynaud (Pts+Rebs)",
+                "hdp": 25.5,
+                "over": "1.81",
+                "under": "1.94"
+              },
+              {
+                "label": "Moussa Diabat\u00e9 (Pts+Rebs)",
+                "hdp": 18.5,
+                "over": "1.85",
+                "under": "1.89"
+              },
+              {
+                "label": "Precious Achiuwa (Pts+Rebs)",
+                "hdp": 21.5,
+                "over": "1.85",
+                "under": "1.89"
+              },
+              {
+                "label": "Miles Bridges (Pts+Rebs)",
+                "hdp": 20.5,
+                "over": "1.93",
+                "under": "1.82"
+              },
+              {
+                "label": "Malik Monk (Pts+Rebs)",
+                "hdp": 18.5,
+                "over": "1.95",
+                "under": "1.79"
+              },
+              {
+                "label": "Killian Hayes (Double+Double)",
+                "over": "25.00",
+                "under": "N/A"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Double+Double)",
+                "over": "22.00",
+                "under": "N/A"
+              },
+              {
+                "label": "DeMar DeRozan (Double+Double)",
+                "over": "13.40",
+                "under": "N/A"
+              },
+              {
+                "label": "Kon Knueppel (Double+Double)",
+                "over": "16.20",
+                "under": "N/A"
+              },
+              {
+                "label": "LaMelo Ball (Double+Double)",
+                "over": "3.96",
+                "under": "N/A"
+              },
+              {
+                "label": "Malik Monk (Double+Double)",
+                "over": "17.80",
+                "under": "N/A"
+              },
+              {
+                "label": "Dylan Cardwell (Double+Double)",
+                "over": "11.80",
+                "under": "N/A"
+              },
+              {
+                "label": "Moussa Diabat\u00e9 (Double+Double)",
+                "over": "3.43",
+                "under": "N/A"
+              },
+              {
+                "label": "Miles Bridges (Double+Double)",
+                "over": "11.40",
+                "under": "N/A"
+              },
+              {
+                "label": "Coby White (Double+Double)",
+                "over": "29.00",
+                "under": "N/A"
+              },
+              {
+                "label": "Maxime Raynaud (Double+Double)",
+                "over": "2.27",
+                "under": "N/A"
+              },
+              {
+                "label": "Precious Achiuwa (Double+Double)",
+                "over": "3.15",
+                "under": "N/A"
+              },
+              {
+                "label": "Brandon Miller (Double+Double)",
+                "over": "7.80",
+                "under": "N/A"
+              },
+              {
+                "label": "LaMelo Ball (Triple+Double)",
+                "over": "37.00",
+                "under": "N/A"
+              },
+              {
+                "label": "Brandon Miller (Triple+Double)",
+                "over": "69.00",
+                "under": "N/A"
+              }
+            ]
           }
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
-          "recommended_bet": 0.0,
-          "latent_strength_A": 5.837411202872655,
-          "latent_strength_B": 1.2594966904526308,
+          "recommended_bet": 58.89505494505494,
+          "latent_strength_A": 8.583838975026982,
+          "latent_strength_B": -6.94613037736287,
           "form_state_A": 1,
-          "form_state_B": 1,
+          "form_state_B": 2,
           "entropy_A": 3.3219280948873626
         },
         "halves": {
-          "h1_ptsA": 58.95571148701986,
-          "h1_ptsB": 58.500852489900446,
-          "h2_ptsA": 58.95571148701986,
-          "h2_ptsB": 58.500852489900446
+          "h1_ptsA": 59.13457328424758,
+          "h1_ptsB": 56.029192681810684,
+          "h2_ptsA": 59.13457328424758,
+          "h2_ptsB": 56.029192681810684
         },
         "quarters": [
           {
             "q": 1,
-            "ptsA": 29.47785574350993,
-            "ptsB": 29.250426244950223
+            "ptsA": 29.56728664212379,
+            "ptsB": 28.014596340905342
           },
           {
             "q": 2,
-            "ptsA": 29.47785574350993,
-            "ptsB": 29.250426244950223
+            "ptsA": 29.56728664212379,
+            "ptsB": 28.014596340905342
           },
           {
             "q": 3,
-            "ptsA": 29.47785574350993,
-            "ptsB": 29.250426244950223
+            "ptsA": 29.56728664212379,
+            "ptsB": 28.014596340905342
           },
           {
             "q": 4,
-            "ptsA": 29.47785574350993,
-            "ptsB": 29.250426244950223
+            "ptsA": 29.56728664212379,
+            "ptsB": 28.014596340905342
           }
         ],
         "players": [
           {
-            "player": "Aaron Gordon",
-            "team": "DEN",
-            "proj_pts": 13.256028872378527,
-            "proj_reb": 5.768469286614821,
-            "proj_ast": 3.779341946402814,
+            "player": "Antonio Reeves",
+            "team": "CHA",
+            "proj_pts": 3.0463768490380447,
+            "proj_reb": 0.9027394820670044,
+            "proj_ast": 0.2256848705167511,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Bruce Brown",
-            "team": "DEN",
-            "proj_pts": 6.814719068194595,
-            "proj_reb": 2.9836910103180108,
-            "proj_ast": 1.6907582391802063,
+            "player": "Brandon Miller",
+            "team": "CHA",
+            "proj_pts": 19.496811833843484,
+            "proj_reb": 6.804398846080046,
+            "proj_ast": 3.4529785189062916,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_ast": 3.5,
+            "market_reb": 5.5,
+            "market_pts": 20.5
+          },
+          {
+            "player": "Coby White",
+            "team": "CHA",
+            "proj_pts": 14.825700665318484,
+            "proj_reb": 3.3514203271737535,
+            "proj_ast": 3.3514203271737535,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_ast": 3.5,
+            "market_pts": 14.5
+          },
+          {
+            "player": "Collin Sexton",
+            "team": "CHA",
+            "proj_pts": 12.185507396152179,
+            "proj_reb": 1.624931067720608,
+            "proj_ast": 2.640512985045988,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Cameron Johnson",
-            "team": "DEN",
-            "proj_pts": 10.362107076295892,
-            "proj_reb": 3.878798313413414,
-            "proj_ast": 2.3869528082544087,
+            "player": "Drew Peterson",
+            "team": "CHA",
+            "proj_pts": 0.8462157913994569,
+            "proj_reb": 1.5233728759880698,
+            "proj_ast": 0.33852730577512663,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Christian Braun",
-            "team": "DEN",
-            "proj_pts": 12.975971924370532,
-            "proj_reb": 5.669012919604221,
-            "proj_ast": 2.8842346433074106,
+            "player": "Grant Williams",
+            "team": "CHA",
+            "proj_pts": 7.7174880175630465,
+            "proj_reb": 3.3514203271737535,
+            "proj_ast": 2.3358384098483738,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_reb": 3.5
           },
           {
-            "player": "Curtis Jones",
-            "team": "DEN",
-            "proj_pts": 1.4002847400399854,
-            "proj_reb": 0.8288030584216698,
-            "proj_ast": 0.49728183505300183,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "DaRon Holmes II",
-            "team": "DEN",
-            "proj_pts": 3.920797272111959,
-            "proj_reb": 1.392389138148405,
-            "proj_ast": 0.2983691010318011,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "David Roddy",
-            "team": "DEN",
-            "proj_pts": 0.9335231600266569,
-            "proj_reb": 1.9891273402120073,
-            "proj_ast": 0.9945636701060037,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Hunter Tyson",
-            "team": "DEN",
-            "proj_pts": 3.1739787440906335,
-            "proj_reb": 2.188040074233208,
-            "proj_ast": 1.392389138148405,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jalen Pickett",
-            "team": "DEN",
-            "proj_pts": 2.987274112085302,
-            "proj_reb": 0.8951073030954033,
-            "proj_ast": 0.6961945690742025,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jamal Murray",
-            "team": "DEN",
-            "proj_pts": 23.898192896682417,
-            "proj_reb": 4.376080148466416,
-            "proj_ast": 5.4701001855830205,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jonas Valan\u010di\u016bnas",
-            "team": "DEN",
-            "proj_pts": 5.1343773801466135,
-            "proj_reb": 3.5804292123816133,
-            "proj_ast": 0.795650936084803,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Julian Strawther",
-            "team": "DEN",
-            "proj_pts": 6.534662120186598,
-            "proj_reb": 1.4918455051590054,
-            "proj_ast": 0.6961945690742025,
+            "player": "Josh Green",
+            "team": "CHA",
+            "proj_pts": 3.7571981138135886,
+            "proj_reb": 1.7264892594531458,
+            "proj_ast": 0.812465533860304,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
             "player": "KJ Simpson",
-            "team": "DEN",
-            "proj_pts": 5.1343773801466135,
-            "proj_reb": 1.9891273402120073,
-            "proj_ast": 2.4864091752650093,
+            "team": "CHA",
+            "proj_pts": 6.194299593044024,
+            "proj_reb": 1.828047451185684,
+            "proj_ast": 2.437396601580912,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Nikola Joki\u0107",
-            "team": "DEN",
-            "proj_pts": 23.991545212685082,
-            "proj_reb": 13.028784078388648,
-            "proj_ast": 11.13911310518724,
+            "player": "Kon Knueppel",
+            "team": "CHA",
+            "proj_pts": 19.699903623779356,
+            "proj_reb": 4.468560436231672,
+            "proj_ast": 2.640512985045988,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_ast": 2.5,
+            "market_reb": 4.5,
+            "market_pts": 18.5
+          },
+          {
+            "player": "LaMelo Ball",
+            "team": "CHA",
+            "proj_pts": 20.512270783522833,
+            "proj_reb": 4.976351394894362,
+            "proj_ast": 6.499724270882432,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_ast": 6.5,
+            "market_reb": 4.5,
+            "market_pts": 20.5
+          },
+          {
+            "player": "Liam McNeeley",
+            "team": "CHA",
+            "proj_pts": 2.6401932691663057,
+            "proj_reb": 1.624931067720608,
+            "proj_ast": 0.710907342127766,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Peyton Watson",
-            "team": "DEN",
-            "proj_pts": 18.110349304517143,
-            "proj_reb": 4.376080148466416,
-            "proj_ast": 2.3869528082544087,
+            "player": "Mason Plumlee",
+            "team": "CHA",
+            "proj_pts": 2.4371014792304355,
+            "proj_reb": 3.656094902371368,
+            "proj_ast": 1.5233728759880698,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Spencer Jones",
-            "team": "DEN",
-            "proj_pts": 5.321082012151945,
-            "proj_reb": 4.077711047434614,
-            "proj_ast": 0.6961945690742025,
+            "player": "Miles Bridges",
+            "team": "CHA",
+            "proj_pts": 14.419517085446744,
+            "proj_reb": 4.976351394894362,
+            "proj_ast": 2.843629368511064,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_ast": 2.5,
+            "market_reb": 5.5,
+            "market_pts": 14.5
+          },
+          {
+            "player": "Moussa Diabat\u00e9",
+            "team": "CHA",
+            "proj_pts": 7.311304437691308,
+            "proj_reb": 9.546470022858571,
+            "proj_ast": 3.1483039437086777,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_ast": 2.5,
+            "market_reb": 9.5,
+            "market_pts": 8.5
+          },
+          {
+            "player": "PJ Hall",
+            "team": "CHA",
+            "proj_pts": 6.397391382979894,
+            "proj_reb": 6.093491503952279,
+            "proj_ast": 0.812465533860304,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Tim Hardaway Jr.",
-            "team": "DEN",
-            "proj_pts": 12.322505712351871,
-            "proj_reb": 2.5858655422756094,
-            "proj_ast": 1.4918455051590054,
+            "player": "Pat Connaughton",
+            "team": "CHA",
+            "proj_pts": 3.351014533941849,
+            "proj_reb": 1.624931067720608,
+            "proj_ast": 0.203116383465076,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Tyus Jones",
-            "team": "DEN",
-            "proj_pts": 2.987274112085302,
-            "proj_reb": 0.9945636701060037,
-            "proj_ast": 2.188040074233208,
+            "player": "Ryan Kalkbrenner",
+            "team": "CHA",
+            "proj_pts": 5.68657011820435,
+            "proj_reb": 4.163885861034057,
+            "proj_ast": 0.914023725592842,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_reb": 4.5,
+            "market_pts": 6.5
+          },
+          {
+            "player": "Sion James",
+            "team": "CHA",
+            "proj_pts": 4.772657063492937,
+            "proj_reb": 3.5545367106388297,
+            "proj_ast": 1.5233728759880698,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_reb": 3.5
+          },
+          {
+            "player": "Tidjane Sala\u00fcn",
+            "team": "CHA",
+            "proj_pts": 6.194299593044024,
+            "proj_reb": 4.367002244499133,
+            "proj_ast": 0.50779095866269,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Zeke Nnaji",
-            "team": "DEN",
-            "proj_pts": 1.4002847400399854,
-            "proj_reb": 1.889670973201407,
-            "proj_ast": 0.2983691010318011,
+            "player": "Tre Mann",
+            "team": "CHA",
+            "proj_pts": 2.7417391641342403,
+            "proj_reb": 1.117140109057918,
+            "proj_ast": 1.01558191732538,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Blake Wesley",
-            "team": "POR",
-            "proj_pts": 4.66158036364757,
-            "proj_reb": 0.3978254680424015,
-            "proj_ast": 1.4918455051590054,
+            "player": "Xavier Tillman",
+            "team": "CHA",
+            "proj_pts": 0.4061835798717393,
+            "proj_reb": 1.01558191732538,
+            "proj_ast": 0.304674575197614,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Caleb Love",
-            "team": "POR",
-            "proj_pts": 11.405994506797244,
-            "proj_reb": 1.9891273402120073,
-            "proj_ast": 3.0831473773286113,
+            "player": "Daeqwon Plowden",
+            "team": "SAC",
+            "proj_pts": 10.094570409842163,
+            "proj_reb": 3.4529785189062916,
+            "proj_ast": 1.117140109057918,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Deni Avdija",
-            "team": "POR",
-            "proj_pts": 16.166757431373487,
-            "proj_reb": 5.4701001855830205,
-            "proj_ast": 6.365207488678424,
+            "player": "Dario Saric",
+            "team": "SAC",
+            "proj_pts": 0.9434177953123518,
+            "proj_reb": 1.218698300790456,
+            "proj_ast": 0.406232766930152,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Donovan Clingan",
-            "team": "POR",
-            "proj_pts": 12.29863755515529,
-            "proj_reb": 12.332589509314445,
-            "proj_ast": 2.78477827629681,
+            "player": "De'Andre Hunter",
+            "team": "SAC",
+            "proj_pts": 10.849304646092046,
+            "proj_reb": 2.945187560243602,
+            "proj_ast": 1.624931067720608,
+            "status": "Out For Season",
+            "injury": "Eye",
+            "market_line": null
+          },
+          {
+            "player": "DeMar DeRozan",
+            "team": "SAC",
+            "proj_pts": 17.35888743374727,
+            "proj_reb": 2.3358384098483738,
+            "proj_ast": 4.976351394894362,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_ast": 4.5,
+            "market_pts": 16.5
+          },
+          {
+            "player": "Dennis Schr\u00f6der",
+            "team": "SAC",
+            "proj_pts": 11.604038882341928,
+            "proj_reb": 2.3358384098483738,
+            "proj_ast": 3.656094902371368,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Duop Reath",
-            "team": "POR",
-            "proj_pts": 1.884468657644762,
-            "proj_reb": 1.889670973201407,
-            "proj_ast": 0.3978254680424015,
+            "player": "Devin Carter",
+            "team": "SAC",
+            "proj_pts": 10.37759574843587,
+            "proj_reb": 3.8592112858364436,
+            "proj_ast": 3.1483039437086777,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Javonte Cooke",
-            "team": "POR",
-            "proj_pts": 0.5950953655720301,
-            "proj_reb": 0.8951073030954033,
-            "proj_ast": 0.0,
+            "player": "Domantas Sabonis",
+            "team": "SAC",
+            "proj_pts": 15.377710063591335,
+            "proj_reb": 10.663610131916489,
+            "proj_ast": 4.570118627964209,
+            "status": "Out For Season",
+            "injury": "Knee",
+            "market_line": null
+          },
+          {
+            "player": "Doug McDermott",
+            "team": "SAC",
+            "proj_pts": 5.188797874217935,
+            "proj_reb": 1.218698300790456,
+            "proj_ast": 0.609349150395228,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Jayson Kent",
-            "team": "POR",
-            "proj_pts": 1.9836512185734338,
-            "proj_reb": 0.9945636701060037,
-            "proj_ast": 0.0,
+            "player": "Drew Eubanks",
+            "team": "SAC",
+            "proj_pts": 5.28313965374917,
+            "proj_reb": 4.367002244499133,
+            "proj_ast": 1.01558191732538,
+            "status": "Out For Season",
+            "injury": "Thumb",
+            "market_line": null
+          },
+          {
+            "player": "Dylan Cardwell",
+            "team": "SAC",
+            "proj_pts": 6.132215669530287,
+            "proj_reb": 8.937120872463344,
+            "proj_ast": 1.5233728759880698,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_reb": 6.5,
+            "market_pts": 5.5
+          },
+          {
+            "player": "Isaac Jones",
+            "team": "SAC",
+            "proj_pts": 0.9434177953123518,
+            "proj_reb": 0.6770546115502533,
+            "proj_ast": 0.33852730577512663,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Jerami Grant",
-            "team": "POR",
-            "proj_pts": 18.74550401551895,
-            "proj_reb": 3.282060111349812,
-            "proj_ast": 2.188040074233208,
+            "player": "Isaiah Stevens",
+            "team": "SAC",
+            "proj_pts": 3.144725984374506,
+            "proj_reb": 1.01558191732538,
+            "proj_ast": 3.3852730577512666,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Jrue Holiday",
-            "team": "POR",
-            "proj_pts": 17.753678406232233,
-            "proj_reb": 4.574992882487616,
-            "proj_ast": 5.867925653625422,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Kris Murray",
-            "team": "POR",
-            "proj_pts": 5.157493168290928,
-            "proj_reb": 2.9836910103180108,
-            "proj_ast": 0.795650936084803,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Matisse Thybulle",
-            "team": "POR",
-            "proj_pts": 4.066484998075539,
-            "proj_reb": 1.6907582391802063,
-            "proj_ast": 1.094020037116604,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Rayan Rupert",
-            "team": "POR",
-            "proj_pts": 3.570572193432181,
-            "proj_reb": 2.188040074233208,
-            "proj_ast": 0.6961945690742025,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Robert Williams III",
-            "team": "POR",
-            "proj_pts": 8.132969996151077,
-            "proj_reb": 8.055965727858629,
-            "proj_ast": 0.6961945690742025,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Scoot Henderson",
-            "team": "POR",
-            "proj_pts": 13.885558530014038,
-            "proj_reb": 2.3869528082544087,
-            "proj_ast": 3.182603744339212,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Shaedon Sharpe",
-            "team": "POR",
-            "proj_pts": 20.53079011223504,
-            "proj_reb": 4.077711047434614,
-            "proj_ast": 2.4864091752650093,
+            "player": "Keegan Murray",
+            "team": "SAC",
+            "proj_pts": 11.792722441404397,
+            "proj_reb": 4.163885861034057,
+            "proj_ast": 1.7264892594531458,
             "status": "Out",
-            "injury": "Calf",
+            "injury": "Ankle",
             "market_line": null
           },
           {
-            "player": "Sidy Cissoko",
-            "team": "POR",
-            "proj_pts": 3.3722070715748376,
-            "proj_reb": 1.591301872169606,
-            "proj_ast": 1.1934764041272043,
+            "player": "Keon Ellis",
+            "team": "SAC",
+            "proj_pts": 4.339721858436818,
+            "proj_reb": 1.01558191732538,
+            "proj_ast": 0.406232766930152,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Toumani Camara",
-            "team": "POR",
-            "proj_pts": 10.910081702153887,
-            "proj_reb": 5.271187451561819,
-            "proj_ast": 2.5858655422756094,
+            "player": "Killian Hayes",
+            "team": "SAC",
+            "proj_pts": 5.47182321281164,
+            "proj_reb": 2.742071176778526,
+            "proj_ast": 3.8592112858364436,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_ast": 4.5,
+            "market_pts": 7.5
+          },
+          {
+            "player": "Malik Monk",
+            "team": "SAC",
+            "proj_pts": 12.54745667765428,
+            "proj_reb": 1.5233728759880698,
+            "proj_ast": 3.1483039437086777,
+            "status": "Questionable",
+            "injury": "Shoulder",
+            "market_line": null,
+            "market_ast": 4.5,
+            "market_pts": 15.5
+          },
+          {
+            "player": "Maxime Raynaud",
+            "team": "SAC",
+            "proj_pts": 17.075862095153568,
+            "proj_reb": 8.937120872463344,
+            "proj_ast": 1.828047451185684,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_ast": 1.5,
+            "market_reb": 8.5,
+            "market_pts": 16.5
+          },
+          {
+            "player": "Nique Clifford",
+            "team": "SAC",
+            "proj_pts": 12.264431339060573,
+            "proj_reb": 5.991933312219742,
+            "proj_ast": 4.468560436231672,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "V\u00edt Krej\u010d\u00ed",
-            "team": "POR",
-            "proj_pts": 6.347683899434989,
-            "proj_reb": 3.5804292123816133,
-            "proj_ast": 1.889670973201407,
+            "player": "Patrick Baldwin Jr.",
+            "team": "SAC",
+            "proj_pts": 2.560705444419241,
+            "proj_reb": 1.886080703604277,
+            "proj_ast": 0.2901662620929657,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Yang Hansen",
-            "team": "POR",
-            "proj_pts": 1.884468657644762,
-            "proj_reb": 0.795650936084803,
-            "proj_ast": 0.09945636701060037,
+            "player": "Precious Achiuwa",
+            "team": "SAC",
+            "proj_pts": 16.22678607937245,
+            "proj_reb": 9.851144598056186,
+            "proj_ast": 2.03116383465076,
             "status": "Active",
             "injury": "",
+            "market_line": null,
+            "market_ast": 1.5,
+            "market_reb": 7.5,
+            "market_pts": 13.5
+          },
+          {
+            "player": "Russell Westbrook",
+            "team": "SAC",
+            "proj_pts": 15.000342945466395,
+            "proj_reb": 4.976351394894362,
+            "proj_ast": 7.61686437994035,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Zach LaVine",
+            "team": "SAC",
+            "proj_pts": 15.755077181716274,
+            "proj_reb": 1.828047451185684,
+            "proj_ast": 2.437396601580912,
+            "status": "Out For Season",
+            "injury": "Finger",
             "market_line": null
           }
         ],
         "factors": {
           "teamA": {
-            "efg": 0.568796185515523,
-            "tov": 0.12154140010866335,
-            "orb": 0.21350215174165066,
-            "ftr": 0.3351645557303077,
-            "sos": 3.453082192613934,
-            "rest": 5,
+            "efg": 0.5501519471473828,
+            "tov": 0.12141963932119418,
+            "orb": 0.2918326129166784,
+            "ftr": 0.22008330300646883,
+            "sos": -0.5873290595574725,
+            "rest": 7,
             "is_b2b": 0,
-            "ml_influence": {}
+            "ml_influence": {
+              "roll_efg_pct_10": 0.0031933045682474414,
+              "roll_tov_pct_10": 0.004218244139870819,
+              "roll_orb_pct_10": 0.00937600332579251,
+              "roll_ft_rate_10": -0.00179428278525819,
+              "p_tov": -0.021900887250843937
+            }
           },
           "teamB": {
-            "efg": 0.5278167610573037,
-            "tov": 0.1490926400947112,
-            "orb": 0.2949927047272585,
-            "ftr": 0.2759079614473887,
-            "sos": -2.63007257569559,
-            "rest": 6,
+            "efg": 0.5390983776725441,
+            "tov": 0.1087136409037468,
+            "orb": 0.24574791397405157,
+            "ftr": 0.22318889648032333,
+            "sos": -0.7608895900382631,
+            "rest": 7,
             "is_b2b": 0
           }
         },
         "margins": {
-          "1-5": 0.171300611527616,
-          "6-10": 0.07217959320815426,
-          "11+": 0.10727750273952792
+          "1-5": 0.2253850391644766,
+          "6-10": 0.09496872367833424,
+          "11+": 0.14114803176004895
         },
         "formA": [
           {
-            "date": "2026-02-27",
-            "opponent": "OKC",
-            "result": "L",
-            "score": "121-127",
+            "date": "2026-02-26",
+            "opponent": "IND",
+            "result": "W",
+            "score": "133-109",
             "quarters": [
-              30,
-              30,
-              30,
-              30
+              33,
+              33,
+              33,
+              33
             ],
             "halves": [
-              60,
-              60
+              66,
+              66
             ]
           },
           {
-            "date": "2026-03-01",
-            "opponent": "MIN",
-            "result": "L",
-            "score": "108-117",
+            "date": "2026-02-28",
+            "opponent": "POR",
+            "result": "W",
+            "score": "109-93",
             "quarters": [
               27,
               27,
@@ -23362,188 +24027,42 @@ const analyticsData = {
             ]
           },
           {
-            "date": "2026-03-02",
-            "opponent": "UTA",
+            "date": "2026-03-03",
+            "opponent": "DAL",
             "result": "W",
-            "score": "128-125",
+            "score": "117-90",
             "quarters": [
-              32,
-              32,
-              32,
-              32
+              29,
+              29,
+              29,
+              29
             ],
             "halves": [
-              64,
-              64
-            ]
-          },
-          {
-            "date": "2026-03-05",
-            "opponent": "LAL",
-            "result": "W",
-            "score": "120-113",
-            "quarters": [
-              30,
-              30,
-              30,
-              30
-            ],
-            "halves": [
-              60,
-              60
-            ]
-          },
-          {
-            "date": "2026-03-06",
-            "opponent": "NYK",
-            "result": "L",
-            "score": "103-142",
-            "quarters": [
-              25,
-              25,
-              25,
-              25
-            ],
-            "halves": [
-              50,
-              50
-            ]
-          },
-          {
-            "date": "2026-03-09",
-            "opponent": "OKC",
-            "result": "L",
-            "score": "126-129",
-            "quarters": [
-              31,
-              31,
-              31,
-              31
-            ],
-            "halves": [
-              62,
-              62
-            ]
-          },
-          {
-            "date": "2026-03-11",
-            "opponent": "HOU",
-            "result": "W",
-            "score": "129-93",
-            "quarters": [
-              32,
-              32,
-              32,
-              32
-            ],
-            "halves": [
-              64,
-              64
-            ]
-          },
-          {
-            "date": "2026-03-12",
-            "opponent": "SAS",
-            "result": "W",
-            "score": "136-131",
-            "quarters": [
-              34,
-              34,
-              34,
-              34
-            ],
-            "halves": [
-              68,
-              68
-            ]
-          },
-          {
-            "date": "2026-03-14",
-            "opponent": "LAL",
-            "result": "L",
-            "score": "125-127",
-            "quarters": [
-              31,
-              31,
-              31,
-              31
-            ],
-            "halves": [
-              62,
-              62
-            ]
-          },
-          {
-            "date": "2026-03-17",
-            "opponent": "PHI",
-            "result": "W",
-            "score": "124-96",
-            "quarters": [
-              31,
-              31,
-              31,
-              31
-            ],
-            "halves": [
-              62,
-              62
-            ]
-          }
-        ],
-        "formB": [
-          {
-            "date": "2026-02-26",
-            "opponent": "CHI",
-            "result": "W",
-            "score": "121-112",
-            "quarters": [
-              30,
-              30,
-              30,
-              30
-            ],
-            "halves": [
-              60,
-              60
-            ]
-          },
-          {
-            "date": "2026-02-28",
-            "opponent": "CHA",
-            "result": "L",
-            "score": "93-109",
-            "quarters": [
-              23,
-              23,
-              23,
-              23
-            ],
-            "halves": [
-              46,
-              46
-            ]
-          },
-          {
-            "date": "2026-03-01",
-            "opponent": "ATL",
-            "result": "L",
-            "score": "101-135",
-            "quarters": [
-              25,
-              25,
-              25,
-              25
-            ],
-            "halves": [
-              50,
-              50
+              58,
+              58
             ]
           },
           {
             "date": "2026-03-04",
-            "opponent": "MEM",
+            "opponent": "BOS",
             "result": "W",
-            "score": "122-114",
+            "score": "118-89",
+            "quarters": [
+              29,
+              29,
+              29,
+              29
+            ],
+            "halves": [
+              58,
+              58
+            ]
+          },
+          {
+            "date": "2026-03-06",
+            "opponent": "MIA",
+            "result": "L",
+            "score": "120-128",
             "quarters": [
               30,
               30,
@@ -23556,10 +24075,10 @@ const analyticsData = {
             ]
           },
           {
-            "date": "2026-03-06",
-            "opponent": "HOU",
+            "date": "2026-03-08",
+            "opponent": "PHX",
             "result": "L",
-            "score": "99-106",
+            "score": "99-111",
             "quarters": [
               24,
               24,
@@ -23572,26 +24091,10 @@ const analyticsData = {
             ]
           },
           {
-            "date": "2026-03-08",
-            "opponent": "IND",
-            "result": "W",
-            "score": "131-111",
-            "quarters": [
-              32,
-              32,
-              32,
-              32
-            ],
-            "halves": [
-              64,
-              64
-            ]
-          },
-          {
             "date": "2026-03-10",
-            "opponent": "CHA",
-            "result": "L",
-            "score": "101-103",
+            "opponent": "POR",
+            "result": "W",
+            "score": "103-101",
             "quarters": [
               25,
               25,
@@ -23604,26 +24107,26 @@ const analyticsData = {
             ]
           },
           {
-            "date": "2026-03-13",
-            "opponent": "UTA",
+            "date": "2026-03-11",
+            "opponent": "SAC",
             "result": "W",
-            "score": "124-114",
+            "score": "117-109",
             "quarters": [
-              31,
-              31,
-              31,
-              31
+              29,
+              29,
+              29,
+              29
             ],
             "halves": [
-              62,
-              62
+              58,
+              58
             ]
           },
           {
-            "date": "2026-03-15",
-            "opponent": "PHI",
+            "date": "2026-03-14",
+            "opponent": "SAS",
             "result": "L",
-            "score": "103-109",
+            "score": "102-115",
             "quarters": [
               25,
               25,
@@ -23636,976 +24139,23 @@ const analyticsData = {
             ]
           },
           {
-            "date": "2026-03-16",
-            "opponent": "BKN",
+            "date": "2026-03-17",
+            "opponent": "MIA",
             "result": "W",
-            "score": "114-95",
+            "score": "136-106",
             "quarters": [
-              28,
-              28,
-              28,
-              28
+              34,
+              34,
+              34,
+              34
             ],
             "halves": [
-              56,
-              56
+              68,
+              68
             ]
           }
         ],
-        "shap_explanation": {},
-        "match_id": "0022501032",
-        "time": "TBD"
-      },
-      "ml_prob_A": 0.5172633712266781,
-      "mc_win_A": 0.505,
-      "shap_explanation": {},
-      "is_b2b_home": 0,
-      "is_b2b_away": 0,
-      "rest_home": 5,
-      "rest_away": 6
-    },
-    {
-      "matchId": "0022501033",
-      "matchTime": 1774216800,
-      "gameStatus": "6:00 pm ET",
-      "homeTeam": "SAC",
-      "awayTeam": "BKN",
-      "homeName": "Sacramento Kings",
-      "awayName": "Brooklyn Nets",
-      "prediction": {
-        "main": {
-          "ptsA": 118.20865795147195,
-          "ptsB": 113.38176495539842,
-          "total": 231.59042290687037,
-          "spread": -4.826892996073525,
-          "win_prob_A": 49.335216309541416,
-          "ml_prob_A": 0.5317344893711885,
-          "mc_win_A": 0.6158,
-          "market": {
-            "ml": {
-              "home": "1.41",
-              "away": "3.00"
-            },
-            "spread": {
-              "hdp": 1.5,
-              "home": "1.34",
-              "away": "3.09"
-            },
-            "total": {
-              "hdp": 196.5,
-              "over": "1.09",
-              "under": "6.37"
-            },
-            "props": [
-              {
-                "label": "DeMar DeRozan (Assists)",
-                "hdp": 4.5,
-                "over": "1.93",
-                "under": "1.82"
-              },
-              {
-                "label": "Ben Saraf (Assists)",
-                "hdp": 3.5,
-                "over": "1.71",
-                "under": "2.06"
-              },
-              {
-                "label": "Nique Clifford (Assists)",
-                "hdp": 4.5,
-                "over": "2.03",
-                "under": "1.74"
-              },
-              {
-                "label": "Danny Wolf (Assists)",
-                "hdp": 2.5,
-                "over": "1.88",
-                "under": "1.85"
-              },
-              {
-                "label": "Nolan Traore (Assists)",
-                "hdp": 3.5,
-                "over": "1.63",
-                "under": "2.21"
-              },
-              {
-                "label": "Ochai Agbaji (Rebounds)",
-                "hdp": 3.5,
-                "over": "2.24",
-                "under": "1.61"
-              },
-              {
-                "label": "Maxime Raynaud (Rebounds)",
-                "hdp": 9.5,
-                "over": "1.80",
-                "under": "1.95"
-              },
-              {
-                "label": "DeMar DeRozan (Rebounds)",
-                "hdp": 2.5,
-                "over": "1.69",
-                "under": "2.10"
-              },
-              {
-                "label": "Nique Clifford (Rebounds)",
-                "hdp": 5.5,
-                "over": "2.14",
-                "under": "1.67"
-              },
-              {
-                "label": "Dylan Cardwell (Rebounds)",
-                "hdp": 7.5,
-                "over": "1.83",
-                "under": "1.92"
-              },
-              {
-                "label": "Ben Saraf (Rebounds)",
-                "hdp": 2.5,
-                "over": "1.84",
-                "under": "1.90"
-              },
-              {
-                "label": "Josh Minott (Rebounds)",
-                "hdp": 4.5,
-                "over": "1.98",
-                "under": "1.78"
-              },
-              {
-                "label": "Danny Wolf (Rebounds)",
-                "hdp": 7.5,
-                "over": "2.06",
-                "under": "1.71"
-              },
-              {
-                "label": "Ziaire Williams (Rebounds)",
-                "hdp": 2.5,
-                "over": "1.72",
-                "under": "2.05"
-              },
-              {
-                "label": "Drake Powell (Rebounds)",
-                "hdp": 2.5,
-                "over": "2.34",
-                "under": "1.56"
-              },
-              {
-                "label": "Drake Powell (Points)",
-                "hdp": 7.5,
-                "over": "1.79",
-                "under": "2.00"
-              },
-              {
-                "label": "Nique Clifford (Points)",
-                "hdp": 13.5,
-                "over": "1.88",
-                "under": "1.89"
-              },
-              {
-                "label": "Danny Wolf (Points)",
-                "hdp": 12.5,
-                "over": "1.82",
-                "under": "1.96"
-              },
-              {
-                "label": "Ochai Agbaji (Points)",
-                "hdp": 7.5,
-                "over": "1.75",
-                "under": "2.05"
-              },
-              {
-                "label": "Doug McDermott (Points)",
-                "hdp": 7.5,
-                "over": "1.76",
-                "under": "2.03"
-              },
-              {
-                "label": "Dylan Cardwell (Points)",
-                "hdp": 5.5,
-                "over": "1.77",
-                "under": "2.02"
-              },
-              {
-                "label": "Ben Saraf (Points)",
-                "hdp": 9.5,
-                "over": "1.88",
-                "under": "1.89"
-              },
-              {
-                "label": "DeMar DeRozan (Points)",
-                "hdp": 18.5,
-                "over": "1.83",
-                "under": "1.93"
-              },
-              {
-                "label": "Maxime Raynaud (Points)",
-                "hdp": 18.5,
-                "over": "1.96",
-                "under": "1.82"
-              },
-              {
-                "label": "Nolan Traore (Points)",
-                "hdp": 11.5,
-                "over": "1.88",
-                "under": "1.89"
-              },
-              {
-                "label": "Ziaire Williams (Points)",
-                "hdp": 9.5,
-                "over": "1.84",
-                "under": "1.93"
-              },
-              {
-                "label": "Josh Minott (Points)",
-                "hdp": 11.5,
-                "over": "1.85",
-                "under": "1.93"
-              },
-              {
-                "label": "Nique Clifford (Steals)",
-                "hdp": 1.5,
-                "over": "2.34",
-                "under": "1.56"
-              },
-              {
-                "label": "Doug McDermott (3 Point FG)",
-                "hdp": 2.5,
-                "over": "2.45",
-                "under": "1.52"
-              },
-              {
-                "label": "Nique Clifford (3 Point FG)",
-                "hdp": 1.5,
-                "over": "1.91",
-                "under": "1.83"
-              },
-              {
-                "label": "Josh Minott (3 Point FG)",
-                "hdp": 1.5,
-                "over": "1.58",
-                "under": "2.30"
-              },
-              {
-                "label": "Ochai Agbaji (3 Point FG)",
-                "hdp": 1.5,
-                "over": "2.46",
-                "under": "1.52"
-              },
-              {
-                "label": "Ziaire Williams (3 Point FG)",
-                "hdp": 1.5,
-                "over": "2.37",
-                "under": "1.55"
-              },
-              {
-                "label": "Danny Wolf (3 Point FG)",
-                "hdp": 1.5,
-                "over": "2.05",
-                "under": "1.72"
-              },
-              {
-                "label": "Ben Saraf (Pts+Asts)",
-                "hdp": 13.5,
-                "over": "1.85",
-                "under": "1.90"
-              },
-              {
-                "label": "DeMar DeRozan (Pts+Asts)",
-                "hdp": 23.5,
-                "over": "1.86",
-                "under": "1.88"
-              },
-              {
-                "label": "Nique Clifford (Pts+Asts)",
-                "hdp": 18.5,
-                "over": "1.94",
-                "under": "1.81"
-              },
-              {
-                "label": "Danny Wolf (Pts+Asts)",
-                "hdp": 15.5,
-                "over": "1.85",
-                "under": "1.90"
-              },
-              {
-                "label": "Nolan Traore (Pts+Asts)",
-                "hdp": 15.5,
-                "over": "1.79",
-                "under": "1.96"
-              },
-              {
-                "label": "Nique Clifford (Rebs+Asts)",
-                "hdp": 9.5,
-                "over": "1.85",
-                "under": "1.90"
-              },
-              {
-                "label": "Danny Wolf (Rebs+Asts)",
-                "hdp": 9.5,
-                "over": "1.79",
-                "under": "1.96"
-              },
-              {
-                "label": "Ben Saraf (Rebs+Asts)",
-                "hdp": 6.5,
-                "over": "1.90",
-                "under": "1.85"
-              },
-              {
-                "label": "DeMar DeRozan (Rebs+Asts)",
-                "hdp": 7.5,
-                "over": "1.93",
-                "under": "1.81"
-              },
-              {
-                "label": "Danny Wolf (Pts+Rebs+Asts)",
-                "hdp": 22.5,
-                "over": "1.81",
-                "under": "1.94"
-              },
-              {
-                "label": "Ben Saraf (Pts+Rebs+Asts)",
-                "hdp": 16.5,
-                "over": "1.93",
-                "under": "1.82"
-              },
-              {
-                "label": "Nique Clifford (Pts+Rebs+Asts)",
-                "hdp": 23.5,
-                "over": "1.91",
-                "under": "1.84"
-              },
-              {
-                "label": "DeMar DeRozan (Pts+Rebs+Asts)",
-                "hdp": 26.5,
-                "over": "1.87",
-                "under": "1.87"
-              },
-              {
-                "label": "Josh Minott (Pts+Rebs)",
-                "hdp": 16.5,
-                "over": "1.94",
-                "under": "1.81"
-              },
-              {
-                "label": "Drake Powell (Pts+Rebs)",
-                "hdp": 10.5,
-                "over": "1.98",
-                "under": "1.78"
-              },
-              {
-                "label": "Ochai Agbaji (Pts+Rebs)",
-                "hdp": 11.5,
-                "over": "1.93",
-                "under": "1.81"
-              },
-              {
-                "label": "DeMar DeRozan (Pts+Rebs)",
-                "hdp": 21.5,
-                "over": "1.82",
-                "under": "1.93"
-              },
-              {
-                "label": "Ziaire Williams (Pts+Rebs)",
-                "hdp": 12.5,
-                "over": "1.86",
-                "under": "1.88"
-              },
-              {
-                "label": "Doug McDermott (Pts+Rebs)",
-                "hdp": 10.5,
-                "over": "1.98",
-                "under": "1.78"
-              },
-              {
-                "label": "Dylan Cardwell (Pts+Rebs)",
-                "hdp": 13.5,
-                "over": "1.87",
-                "under": "1.87"
-              },
-              {
-                "label": "Nique Clifford (Pts+Rebs)",
-                "hdp": 18.5,
-                "over": "1.81",
-                "under": "1.94"
-              },
-              {
-                "label": "Maxime Raynaud (Pts+Rebs)",
-                "hdp": 28.5,
-                "over": "1.91",
-                "under": "1.83"
-              },
-              {
-                "label": "Danny Wolf (Pts+Rebs)",
-                "hdp": 20.5,
-                "over": "1.92",
-                "under": "1.83"
-              },
-              {
-                "label": "Ben Saraf (Pts+Rebs)",
-                "hdp": 12.5,
-                "over": "1.95",
-                "under": "1.80"
-              },
-              {
-                "label": "Maxime Raynaud (Double+Double)",
-                "over": "N/A",
-                "under": "N/A"
-              },
-              {
-                "label": "Dylan Cardwell (Double+Double)",
-                "over": "N/A",
-                "under": "N/A"
-              },
-              {
-                "label": "Nolan Traore (Double+Double)",
-                "over": "N/A",
-                "under": "N/A"
-              },
-              {
-                "label": "Josh Minott (Double+Double)",
-                "over": "N/A",
-                "under": "N/A"
-              },
-              {
-                "label": "Danny Wolf (Double+Double)",
-                "over": "N/A",
-                "under": "N/A"
-              },
-              {
-                "label": "DeMar DeRozan (Double+Double)",
-                "over": "N/A",
-                "under": "N/A"
-              },
-              {
-                "label": "Nique Clifford (Double+Double)",
-                "over": "N/A",
-                "under": "N/A"
-              }
-            ]
-          }
-        },
-        "advanced": {
-          "blowout_risk": 0.11853559847642359,
-          "recommended_bet": 48.40054945054944,
-          "latent_strength_A": -6.94613037736287,
-          "latent_strength_B": -13.547446377571957,
-          "form_state_A": 0,
-          "form_state_B": 0,
-          "entropy_A": 2.9219280948873623
-        },
-        "halves": {
-          "h1_ptsA": 59.104328975735974,
-          "h1_ptsB": 56.69088247769921,
-          "h2_ptsA": 59.104328975735974,
-          "h2_ptsB": 56.69088247769921
-        },
-        "quarters": [
-          {
-            "q": 1,
-            "ptsA": 29.552164487867987,
-            "ptsB": 28.345441238849606
-          },
-          {
-            "q": 2,
-            "ptsA": 29.552164487867987,
-            "ptsB": 28.345441238849606
-          },
-          {
-            "q": 3,
-            "ptsA": 29.552164487867987,
-            "ptsB": 28.345441238849606
-          },
-          {
-            "q": 4,
-            "ptsA": 29.552164487867987,
-            "ptsB": 28.345441238849606
-          }
-        ],
-        "players": [
-          {
-            "player": "Daeqwon Plowden",
-            "team": "SAC",
-            "proj_pts": 10.853031365113367,
-            "proj_reb": 3.3647577341690744,
-            "proj_ast": 1.0885980904664654,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Dario Saric",
-            "team": "SAC",
-            "proj_pts": 1.014301996739567,
-            "proj_reb": 1.1875615532361439,
-            "proj_ast": 0.3958538510787147,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "De'Andre Hunter",
-            "team": "SAC",
-            "proj_pts": 11.66447296250502,
-            "proj_reb": 2.869940420320681,
-            "proj_ast": 1.5834154043148587,
-            "status": "Out For Season",
-            "injury": "Eye",
-            "market_line": null
-          },
-          {
-            "player": "DeMar DeRozan",
-            "team": "SAC",
-            "proj_pts": 18.66315674000803,
-            "proj_reb": 2.2761596437026093,
-            "proj_ast": 4.849209675714255,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 4.5,
-            "market_reb": 2.5,
-            "market_pts": 18.5
-          },
-          {
-            "player": "Dennis Schr\u00f6der",
-            "team": "SAC",
-            "proj_pts": 12.475914559896674,
-            "proj_reb": 2.2761596437026093,
-            "proj_ast": 3.5626846597084323,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Devin Carter",
-            "team": "SAC",
-            "proj_pts": 11.157321964135237,
-            "proj_reb": 3.7606115852477893,
-            "proj_ast": 3.067867345860039,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Domantas Sabonis",
-            "team": "SAC",
-            "proj_pts": 16.533122546854944,
-            "proj_reb": 10.39116359081626,
-            "proj_ast": 4.4533558246355405,
-            "status": "Out For Season",
-            "injury": "Knee",
-            "market_line": null
-          },
-          {
-            "player": "Doug McDermott",
-            "team": "SAC",
-            "proj_pts": 5.5786609820676185,
-            "proj_reb": 1.1875615532361439,
-            "proj_ast": 0.5937807766180719,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_pts": 7.5
-          },
-          {
-            "player": "Drew Eubanks",
-            "team": "SAC",
-            "proj_pts": 5.680091181741575,
-            "proj_reb": 4.255428899096183,
-            "proj_ast": 0.9896346276967867,
-            "status": "Out For Season",
-            "injury": "Thumb",
-            "market_line": null
-          },
-          {
-            "player": "Dylan Cardwell",
-            "team": "SAC",
-            "proj_pts": 6.5929629788071855,
-            "proj_reb": 8.708784723731723,
-            "proj_ast": 1.48445194154518,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_reb": 7.5,
-            "market_pts": 5.5
-          },
-          {
-            "player": "Isaac Jones",
-            "team": "SAC",
-            "proj_pts": 1.014301996739567,
-            "proj_reb": 0.6597564184645244,
-            "proj_ast": 0.3298782092322622,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Isaiah Stevens",
-            "team": "SAC",
-            "proj_pts": 3.381006655798557,
-            "proj_reb": 0.9896346276967867,
-            "proj_ast": 3.2987820923226225,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Keegan Murray",
-            "team": "SAC",
-            "proj_pts": 12.678774959244588,
-            "proj_reb": 4.057501973556825,
-            "proj_ast": 1.6823788670845372,
-            "status": "Out",
-            "injury": "Ankle",
-            "market_line": null
-          },
-          {
-            "player": "Keon Ellis",
-            "team": "SAC",
-            "proj_pts": 4.665789185002008,
-            "proj_reb": 0.9896346276967867,
-            "proj_ast": 0.3958538510787147,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Killian Hayes",
-            "team": "SAC",
-            "proj_pts": 5.882951581089489,
-            "proj_reb": 2.672013494781324,
-            "proj_ast": 3.7606115852477893,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Malik Monk",
-            "team": "SAC",
-            "proj_pts": 13.490216556636241,
-            "proj_reb": 1.48445194154518,
-            "proj_ast": 3.067867345860039,
-            "status": "Questionable",
-            "injury": "Shoulder",
-            "market_line": null
-          },
-          {
-            "player": "Maxime Raynaud",
-            "team": "SAC",
-            "proj_pts": 18.358866140986166,
-            "proj_reb": 8.708784723731723,
-            "proj_ast": 1.7813423298542161,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_reb": 9.5,
-            "market_pts": 18.5
-          },
-          {
-            "player": "Nique Clifford",
-            "team": "SAC",
-            "proj_pts": 13.185925957614371,
-            "proj_reb": 5.838844303411042,
-            "proj_ast": 4.3543923618658615,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 4.5,
-            "market_reb": 5.5,
-            "market_pts": 13.5
-          },
-          {
-            "player": "Patrick Baldwin Jr.",
-            "team": "SAC",
-            "proj_pts": 2.753105419721682,
-            "proj_reb": 1.837892880008318,
-            "proj_ast": 0.2827527507705105,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Precious Achiuwa",
-            "team": "SAC",
-            "proj_pts": 17.445994343920553,
-            "proj_reb": 9.59945588865883,
-            "proj_ast": 1.9792692553935733,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Russell Westbrook",
-            "team": "SAC",
-            "proj_pts": 16.127401748159116,
-            "proj_reb": 4.849209675714255,
-            "proj_ast": 7.4222597077259,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Zach LaVine",
-            "team": "SAC",
-            "proj_pts": 16.93884334555077,
-            "proj_reb": 1.7813423298542161,
-            "proj_ast": 2.3751231064722877,
-            "status": "Out For Season",
-            "injury": "Finger",
-            "market_line": null
-          },
-          {
-            "player": "Ben Saraf",
-            "team": "BKN",
-            "proj_pts": 7.322409533126213,
-            "proj_reb": 1.1875615532361439,
-            "proj_ast": 3.7606115852477893,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 3.5,
-            "market_reb": 2.5,
-            "market_pts": 9.5
-          },
-          {
-            "player": "Cam Thomas",
-            "team": "BKN",
-            "proj_pts": 9.895148017738125,
-            "proj_reb": 1.7813423298542161,
-            "proj_ast": 3.9585385107871467,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Chaney Johnson",
-            "team": "BKN",
-            "proj_pts": 6.926603612416687,
-            "proj_reb": 4.7502462129445755,
-            "proj_ast": 1.1875615532361439,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Danny Wolf",
-            "team": "BKN",
-            "proj_pts": 11.478371700576224,
-            "proj_reb": 6.135734691720078,
-            "proj_ast": 2.869940420320681,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 2.5,
-            "market_reb": 7.5,
-            "market_pts": 12.5
-          },
-          {
-            "player": "Day'Ron Sharpe",
-            "team": "BKN",
-            "proj_pts": 10.093050978092887,
-            "proj_reb": 6.333661617259435,
-            "proj_ast": 2.5730500320116456,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Drake Powell",
-            "team": "BKN",
-            "proj_pts": 5.640234370110731,
-            "proj_reb": 1.48445194154518,
-            "proj_ast": 1.0885980904664654,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_reb": 2.5,
-            "market_pts": 7.5
-          },
-          {
-            "player": "E.J. Liddell",
-            "team": "BKN",
-            "proj_pts": 2.9685444053214374,
-            "proj_reb": 2.0782327181632523,
-            "proj_ast": 0.7917077021574294,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Egor D\u00ebmin",
-            "team": "BKN",
-            "proj_pts": 9.301439136673837,
-            "proj_reb": 3.3647577341690744,
-            "proj_ast": 3.1668308086297174,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Grant Nelson",
-            "team": "BKN",
-            "proj_pts": 4.205437907538703,
-            "proj_reb": 1.48445194154518,
-            "proj_ast": 1.2370432846209833,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jalen Wilson",
-            "team": "BKN",
-            "proj_pts": 4.452816607982156,
-            "proj_reb": 1.5834154043148587,
-            "proj_ast": 0.49481731384839334,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Josh Minott",
-            "team": "BKN",
-            "proj_pts": 6.036040290820256,
-            "proj_reb": 1.6823788670845372,
-            "proj_ast": 0.3958538510787147,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_reb": 4.5,
-            "market_pts": 11.5
-          },
-          {
-            "player": "Malachi Smith",
-            "team": "BKN",
-            "proj_pts": 3.4633018062083436,
-            "proj_reb": 3.4637211969387534,
-            "proj_ast": 2.4740865692419667,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Michael Porter Jr.",
-            "team": "BKN",
-            "proj_pts": 21.769325639023876,
-            "proj_reb": 6.729515468338149,
-            "proj_ast": 2.5730500320116456,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Nic Claxton",
-            "team": "BKN",
-            "proj_pts": 9.202487656496457,
-            "proj_reb": 6.036771228950398,
-            "proj_ast": 3.3647577341690744,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Noah Clowney",
-            "team": "BKN",
-            "proj_pts": 10.884662819511938,
-            "proj_reb": 3.7606115852477893,
-            "proj_ast": 1.5834154043148587,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Nolan Traore",
-            "team": "BKN",
-            "proj_pts": 9.103536176319073,
-            "proj_reb": 1.5834154043148587,
-            "proj_ast": 3.265794271399396,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 3.5,
-            "market_pts": 11.5
-          },
-          {
-            "player": "Ochai Agbaji",
-            "team": "BKN",
-            "proj_pts": 6.4318462115297805,
-            "proj_reb": 1.8803057926238946,
-            "proj_ast": 0.6927442393877506,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_reb": 3.5,
-            "market_pts": 7.5
-          },
-          {
-            "player": "Terance Mann",
-            "team": "BKN",
-            "proj_pts": 6.827652132239306,
-            "proj_reb": 2.5730500320116456,
-            "proj_ast": 2.2761596437026093,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Tyrese Martin",
-            "team": "BKN",
-            "proj_pts": 5.640234370110731,
-            "proj_reb": 2.0782327181632523,
-            "proj_ast": 0.49481731384839334,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Tyson Etienne",
-            "team": "BKN",
-            "proj_pts": 5.343379929578588,
-            "proj_reb": 0.8906711649271081,
-            "proj_ast": 0.9896346276967867,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Ziaire Williams",
-            "team": "BKN",
-            "proj_pts": 9.301439136673837,
-            "proj_reb": 1.5834154043148587,
-            "proj_ast": 1.5834154043148587,
-            "status": "Questionable",
-            "injury": "Foot",
-            "market_line": null,
-            "market_reb": 2.5,
-            "market_pts": 9.5
-          }
-        ],
-        "factors": {
-          "teamA": {
-            "efg": 0.5390983776725441,
-            "tov": 0.1087136409037468,
-            "orb": 0.24574791397405157,
-            "ftr": 0.22318889648032333,
-            "sos": -0.7608895900382631,
-            "rest": 5,
-            "is_b2b": 0,
-            "ml_influence": {}
-          },
-          "teamB": {
-            "efg": 0.518543216502516,
-            "tov": 0.16343091093443315,
-            "orb": 0.24259716544606674,
-            "ftr": 0.2931798691011724,
-            "sos": 5.017274364988298,
-            "rest": 6,
-            "is_b2b": 0
-          }
-        },
-        "margins": {
-          "1-5": 0.21201871288948934,
-          "6-10": 0.08933665976091787,
-          "11+": 0.13277733132415934
-        },
-        "formA": [
+        "formB": [
           {
             "date": "2026-02-26",
             "opponent": "DAL",
@@ -24767,374 +24317,268 @@ const analyticsData = {
             ]
           }
         ],
-        "formB": [
-          {
-            "date": "2026-02-27",
-            "opponent": "BOS",
-            "result": "L",
-            "score": "111-148",
-            "quarters": [
-              27,
-              27,
-              27,
-              27
-            ],
-            "halves": [
-              54,
-              54
-            ]
-          },
-          {
-            "date": "2026-03-01",
-            "opponent": "CLE",
-            "result": "L",
-            "score": "102-106",
-            "quarters": [
-              25,
-              25,
-              25,
-              25
-            ],
-            "halves": [
-              50,
-              50
-            ]
-          },
-          {
-            "date": "2026-03-03",
-            "opponent": "MIA",
-            "result": "L",
-            "score": "98-124",
-            "quarters": [
-              24,
-              24,
-              24,
-              24
-            ],
-            "halves": [
-              48,
-              48
-            ]
-          },
-          {
-            "date": "2026-03-05",
-            "opponent": "MIA",
-            "result": "L",
-            "score": "110-126",
-            "quarters": [
-              27,
-              27,
-              27,
-              27
-            ],
-            "halves": [
-              54,
-              54
-            ]
-          },
-          {
-            "date": "2026-03-07",
-            "opponent": "DET",
-            "result": "W",
-            "score": "107-105",
-            "quarters": [
-              26,
-              26,
-              26,
-              26
-            ],
-            "halves": [
-              52,
-              52
-            ]
-          },
-          {
-            "date": "2026-03-09",
-            "opponent": "MEM",
-            "result": "W",
-            "score": "126-115",
-            "quarters": [
-              31,
-              31,
-              31,
-              31
-            ],
-            "halves": [
-              62,
-              62
-            ]
-          },
-          {
-            "date": "2026-03-10",
-            "opponent": "DET",
-            "result": "L",
-            "score": "100-138",
-            "quarters": [
-              25,
-              25,
-              25,
-              25
-            ],
-            "halves": [
-              50,
-              50
-            ]
-          },
-          {
-            "date": "2026-03-12",
-            "opponent": "ATL",
-            "result": "L",
-            "score": "97-108",
-            "quarters": [
-              24,
-              24,
-              24,
-              24
-            ],
-            "halves": [
-              48,
-              48
-            ]
-          },
-          {
-            "date": "2026-03-14",
-            "opponent": "PHI",
-            "result": "L",
-            "score": "97-104",
-            "quarters": [
-              24,
-              24,
-              24,
-              24
-            ],
-            "halves": [
-              48,
-              48
-            ]
-          },
-          {
-            "date": "2026-03-16",
-            "opponent": "POR",
-            "result": "L",
-            "score": "95-114",
-            "quarters": [
-              23,
-              23,
-              23,
-              23
-            ],
-            "halves": [
-              46,
-              46
-            ]
-          }
-        ],
-        "shap_explanation": {},
-        "match_id": "0022501033",
+        "shap_explanation": {
+          "adj_ortg_10": 0.02120631587543812,
+          "adj_drtg_10": 0.043415509187526596,
+          "adj_pace_10": 0.00417476771082903,
+          "net_rating": 0.0030699782558535915,
+          "roll_efg_pct_10": 0.0031933045682474414,
+          "roll_tov_pct_10": 0.004218244139870819,
+          "roll_orb_pct_10": 0.00937600332579251,
+          "roll_ft_rate_10": -0.00179428278525819,
+          "sos_10": -0.0037547588536664023,
+          "is_b2b": 0.0005818398623944176,
+          "p_pts": 0.00032213595289391604,
+          "p_reb": -0.01849818295160304,
+          "p_ast": -0.01374369247926012,
+          "p_stl": 0.005046759909700284,
+          "p_blk": 0.003926476039797393,
+          "p_tov": -0.021900887250843937,
+          "p_pf": -0.024363376876501093,
+          "p_pm": -0.0029180132577242544,
+          "p_usage": 0.011563227858580447,
+          "p_eff": 0.0048121977885411124,
+          "opp_adj_ortg_10": 0.01889917905296393,
+          "opp_adj_drtg_10": 0.040712214772681464,
+          "opp_sos_10": 0.00624034316962792,
+          "opp_is_b2b": -0.0014097637890358784
+        },
+        "match_id": "0022501047",
         "time": "TBD"
       },
-      "ml_prob_A": 0.5317344893711885,
-      "mc_win_A": 0.6158,
-      "shap_explanation": {},
+      "ml_prob_A": 0.6162759144276383,
+      "mc_win_A": 0.6358,
+      "shap_explanation": {
+        "adj_ortg_10": 0.02120631587543812,
+        "adj_drtg_10": 0.043415509187526596,
+        "adj_pace_10": 0.00417476771082903,
+        "net_rating": 0.0030699782558535915,
+        "roll_efg_pct_10": 0.0031933045682474414,
+        "roll_tov_pct_10": 0.004218244139870819,
+        "roll_orb_pct_10": 0.00937600332579251,
+        "roll_ft_rate_10": -0.00179428278525819,
+        "sos_10": -0.0037547588536664023,
+        "is_b2b": 0.0005818398623944176,
+        "p_pts": 0.00032213595289391604,
+        "p_reb": -0.01849818295160304,
+        "p_ast": -0.01374369247926012,
+        "p_stl": 0.005046759909700284,
+        "p_blk": 0.003926476039797393,
+        "p_tov": -0.021900887250843937,
+        "p_pf": -0.024363376876501093,
+        "p_pm": -0.0029180132577242544,
+        "p_usage": 0.011563227858580447,
+        "p_eff": 0.0048121977885411124,
+        "opp_adj_ortg_10": 0.01889917905296393,
+        "opp_adj_drtg_10": 0.040712214772681464,
+        "opp_sos_10": 0.00624034316962792,
+        "opp_is_b2b": -0.0014097637890358784
+      },
       "is_b2b_home": 0,
       "is_b2b_away": 0,
-      "rest_home": 5,
-      "rest_away": 6
+      "rest_home": 7,
+      "rest_away": 7
     },
     {
-      "matchId": "0022501034",
-      "matchTime": 1774222200,
+      "matchId": "0022501048",
+      "matchTime": 1774395000,
       "gameStatus": "7:30 pm ET",
       "homeTeam": "NYK",
-      "awayTeam": "WAS",
+      "awayTeam": "NOP",
       "homeName": "New York Knicks",
-      "awayName": "Washington Wizards",
+      "awayName": "New Orleans Pelicans",
       "prediction": {
         "main": {
-          "ptsA": 123.43923653959568,
-          "ptsB": 113.41020275545706,
-          "total": 236.84943929505275,
-          "spread": -10.029033784138619,
-          "win_prob_A": 48.905731495123284,
-          "ml_prob_A": 0.6285315852504225,
-          "mc_win_A": 0.723,
+          "ptsA": 117.62988914339633,
+          "ptsB": 114.56563381407345,
+          "total": 232.1955229574698,
+          "spread": -3.064255329322876,
+          "win_prob_A": 47.62005592126929,
+          "ml_prob_A": 0.590693603354926,
+          "mc_win_A": 0.5602,
           "market": {
             "ml": {
-              "home": "1.04",
-              "away": "14.00"
+              "home": "1.26",
+              "away": "4.00"
             },
             "spread": {
-              "hdp": -3.5,
-              "home": "1.05",
-              "away": "8.40"
+              "hdp": 1.5,
+              "home": "1.22",
+              "away": "4.03"
             },
             "total": {
-              "hdp": 205.5,
-              "over": "1.11",
-              "under": "5.84"
+              "hdp": 209.5,
+              "over": "1.10",
+              "under": "6.09"
             },
             "props": [
               {
-                "label": "Jalen Brunson (Assists)",
-                "hdp": 7.5,
-                "over": "1.84",
-                "under": "1.91"
+                "label": "Dejounte Murray (Assists)",
+                "hdp": 5.5,
+                "over": "1.67",
+                "under": "2.14"
               },
               {
                 "label": "Mikal Bridges (Assists)",
-                "hdp": 3.5,
-                "over": "2.07",
-                "under": "1.71"
-              },
-              {
-                "label": "Will Riley (Assists)",
-                "hdp": 2.5,
-                "over": "1.90",
-                "under": "1.84"
-              },
-              {
-                "label": "Jose Alvarado (Assists)",
-                "hdp": 4.5,
-                "over": "2.18",
-                "under": "1.64"
-              },
-              {
-                "label": "Josh Hart (Assists)",
-                "hdp": 5.5,
-                "over": "1.71",
-                "under": "2.06"
-              },
-              {
-                "label": "Bilal Coulibaly (Assists)",
-                "hdp": 2.5,
-                "over": "1.78",
-                "under": "1.98"
-              },
-              {
-                "label": "Karl-Anthony Towns (Rebounds)",
-                "hdp": 11.5,
-                "over": "1.71",
-                "under": "2.07"
-              },
-              {
-                "label": "Carlton Carrington (Rebounds)",
                 "hdp": 3.5,
                 "over": "1.76",
                 "under": "2.00"
               },
               {
-                "label": "Jalen Brunson (Rebounds)",
-                "hdp": 3.5,
-                "over": "1.91",
-                "under": "1.83"
+                "label": "Jalen Brunson (Assists)",
+                "hdp": 6.5,
+                "over": "1.66",
+                "under": "2.15"
               },
               {
-                "label": "Mikal Bridges (Rebounds)",
+                "label": "Josh Hart (Assists)",
+                "hdp": 5.5,
+                "over": "2.14",
+                "under": "1.67"
+              },
+              {
+                "label": "Trey Murphy III (Assists)",
+                "hdp": 3.5,
+                "over": "1.77",
+                "under": "1.99"
+              },
+              {
+                "label": "OG Anunoby (Rebounds)",
                 "hdp": 4.5,
-                "over": "2.25",
-                "under": "1.60"
+                "over": "1.78",
+                "under": "1.97"
+              },
+              {
+                "label": "Derik Queen (Rebounds)",
+                "hdp": 4.5,
+                "over": "2.15",
+                "under": "1.66"
+              },
+              {
+                "label": "Zion Williamson (Rebounds)",
+                "hdp": 5.5,
+                "over": "1.91",
+                "under": "1.84"
+              },
+              {
+                "label": "Karl-Anthony Towns (Rebounds)",
+                "hdp": 12.5,
+                "over": "1.95",
+                "under": "1.80"
+              },
+              {
+                "label": "Dejounte Murray (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.67",
+                "under": "2.14"
               },
               {
                 "label": "Mitchell Robinson (Rebounds)",
                 "hdp": 8.5,
-                "over": "1.72",
-                "under": "2.06"
+                "over": "1.77",
+                "under": "1.99"
+              },
+              {
+                "label": "Mikal Bridges (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.69",
+                "under": "2.10"
+              },
+              {
+                "label": "Trey Murphy III (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.75",
+                "under": "2.02"
               },
               {
                 "label": "Josh Hart (Rebounds)",
                 "hdp": 7.5,
-                "over": "1.93",
-                "under": "1.82"
+                "over": "1.89",
+                "under": "1.85"
               },
               {
-                "label": "Will Riley (Rebounds)",
+                "label": "Saddiq Bey (Rebounds)",
+                "hdp": 5.5,
+                "over": "2.18",
+                "under": "1.64"
+              },
+              {
+                "label": "Jalen Brunson (Rebounds)",
                 "hdp": 3.5,
-                "over": "1.63",
-                "under": "2.21"
+                "over": "2.15",
+                "under": "1.66"
               },
               {
-                "label": "OG Anunoby (Rebounds)",
-                "hdp": 5.5,
-                "over": "2.04",
-                "under": "1.73"
-              },
-              {
-                "label": "Bilal Coulibaly (Rebounds)",
-                "hdp": 4.5,
-                "over": "2.22",
-                "under": "1.62"
-              },
-              {
-                "label": "Tristan Vukcevic (Rebounds)",
-                "hdp": 4.5,
-                "over": "2.06",
-                "under": "1.71"
-              },
-              {
-                "label": "Mitchell Robinson (Points)",
-                "hdp": 5.5,
-                "over": "1.74",
-                "under": "2.06"
-              },
-              {
-                "label": "OG Anunoby (Points)",
-                "hdp": 17.5,
-                "over": "1.81",
-                "under": "1.97"
-              },
-              {
-                "label": "Jalen Brunson (Points)",
-                "hdp": 24.5,
+                "label": "Zion Williamson (Points)",
+                "hdp": 19.5,
                 "over": "1.84",
                 "under": "1.93"
               },
               {
-                "label": "Mohamed Diawara (Points)",
-                "hdp": 7.5,
-                "over": "2.01",
-                "under": "1.78"
+                "label": "Dejounte Murray (Points)",
+                "hdp": 17.5,
+                "over": "1.94",
+                "under": "1.83"
               },
               {
                 "label": "Josh Hart (Points)",
                 "hdp": 12.5,
-                "over": "1.81",
-                "under": "1.96"
+                "over": "1.99",
+                "under": "1.79"
               },
               {
-                "label": "Mikal Bridges (Points)",
-                "hdp": 12.5,
+                "label": "Trey Murphy III (Points)",
+                "hdp": 20.5,
                 "over": "1.88",
-                "under": "1.88"
+                "under": "1.89"
               },
               {
-                "label": "Carlton Carrington (Points)",
-                "hdp": 10.5,
-                "over": "1.81",
-                "under": "1.97"
+                "label": "Jalen Brunson (Points)",
+                "hdp": 25.5,
+                "over": "1.87",
+                "under": "1.90"
               },
               {
-                "label": "Bilal Coulibaly (Points)",
-                "hdp": 12.5,
-                "over": "1.97",
-                "under": "1.81"
-              },
-              {
-                "label": "Will Riley (Points)",
-                "hdp": 14.5,
-                "over": "1.88",
-                "under": "1.88"
+                "label": "Mitchell Robinson (Points)",
+                "hdp": 5.5,
+                "over": "1.71",
+                "under": "2.10"
               },
               {
                 "label": "Karl-Anthony Towns (Points)",
-                "hdp": 22.5,
-                "over": "1.95",
+                "hdp": 21.5,
+                "over": "1.94",
                 "under": "1.83"
               },
               {
-                "label": "Tristan Vukcevic (Points)",
-                "hdp": 10.5,
-                "over": "1.88",
-                "under": "1.88"
+                "label": "Saddiq Bey (Points)",
+                "hdp": 18.5,
+                "over": "1.93",
+                "under": "1.84"
+              },
+              {
+                "label": "Mikal Bridges (Points)",
+                "hdp": 11.5,
+                "over": "1.80",
+                "under": "1.98"
+              },
+              {
+                "label": "Jeremiah Fears (Points)",
+                "hdp": 8.5,
+                "over": "1.94",
+                "under": "1.83"
+              },
+              {
+                "label": "Herbert Jones (Points)",
+                "hdp": 8.5,
+                "over": "1.95",
+                "under": "1.82"
+              },
+              {
+                "label": "Derik Queen (Points)",
+                "hdp": 7.5,
+                "over": "1.98",
+                "under": "1.80"
               },
               {
                 "label": "Jose Alvarado (Points)",
@@ -25143,316 +24587,422 @@ const analyticsData = {
                 "under": "1.98"
               },
               {
-                "label": "Tre Johnson (Points)",
-                "hdp": 12.5,
-                "over": "1.95",
-                "under": "1.83"
+                "label": "OG Anunoby (Points)",
+                "hdp": 16.5,
+                "over": "1.79",
+                "under": "1.99"
+              },
+              {
+                "label": "Mitchell Robinson (Blocks)",
+                "hdp": 1.5,
+                "over": "2.74",
+                "under": "1.43"
+              },
+              {
+                "label": "Herbert Jones (Steals)",
+                "hdp": 1.5,
+                "over": "2.24",
+                "under": "1.61"
               },
               {
                 "label": "OG Anunoby (Steals)",
                 "hdp": 1.5,
-                "over": "1.85",
+                "over": "1.86",
                 "under": "1.88"
               },
               {
-                "label": "Mikal Bridges (Steals)",
+                "label": "Trey Murphy III (Steals)",
                 "hdp": 1.5,
-                "over": "2.66",
-                "under": "1.45"
+                "over": "2.71",
+                "under": "1.43"
               },
               {
-                "label": "Josh Hart (3 Point FG)",
+                "label": "Jose Alvarado (3 Point FG)",
                 "hdp": 1.5,
-                "over": "2.60",
-                "under": "1.47"
-              },
-              {
-                "label": "Tristan Vukcevic (3 Point FG)",
-                "hdp": 1.5,
-                "over": "2.69",
-                "under": "1.44"
-              },
-              {
-                "label": "Carlton Carrington (3 Point FG)",
-                "hdp": 1.5,
-                "over": "1.55",
-                "under": "2.38"
-              },
-              {
-                "label": "Will Riley (3 Point FG)",
-                "hdp": 1.5,
-                "over": "1.93",
-                "under": "1.81"
-              },
-              {
-                "label": "Karl-Anthony Towns (3 Point FG)",
-                "hdp": 1.5,
-                "over": "1.93",
-                "under": "1.81"
-              },
-              {
-                "label": "Bilal Coulibaly (3 Point FG)",
-                "hdp": 1.5,
-                "over": "2.33",
-                "under": "1.57"
-              },
-              {
-                "label": "OG Anunoby (3 Point FG)",
-                "hdp": 2.5,
-                "over": "2.39",
-                "under": "1.54"
+                "over": "2.45",
+                "under": "1.52"
               },
               {
                 "label": "Jalen Brunson (3 Point FG)",
                 "hdp": 2.5,
-                "over": "2.15",
-                "under": "1.66"
-              },
-              {
-                "label": "Mohamed Diawara (3 Point FG)",
-                "hdp": 1.5,
-                "over": "2.38",
-                "under": "1.55"
+                "over": "1.70",
+                "under": "2.08"
               },
               {
                 "label": "Mikal Bridges (3 Point FG)",
                 "hdp": 1.5,
-                "over": "1.91",
-                "under": "1.83"
-              },
-              {
-                "label": "Tre Johnson (3 Point FG)",
-                "hdp": 1.5,
-                "over": "1.61",
-                "under": "2.25"
-              },
-              {
-                "label": "Carlton Carrington (Pts+Asts)",
-                "hdp": 15.5,
-                "over": "1.87",
+                "over": "1.86",
                 "under": "1.88"
               },
               {
-                "label": "Will Riley (Pts+Asts)",
-                "hdp": 17.5,
+                "label": "Herbert Jones (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.97",
+                "under": "1.79"
+              },
+              {
+                "label": "Dejounte Murray (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.63",
+                "under": "2.21"
+              },
+              {
+                "label": "Josh Hart (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.25",
+                "under": "1.61"
+              },
+              {
+                "label": "Karl-Anthony Towns (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.09",
+                "under": "1.69"
+              },
+              {
+                "label": "Saddiq Bey (3 Point FG)",
+                "hdp": 2.5,
+                "over": "2.19",
+                "under": "1.64"
+              },
+              {
+                "label": "OG Anunoby (3 Point FG)",
+                "hdp": 2.5,
+                "over": "2.04",
+                "under": "1.73"
+              },
+              {
+                "label": "Trey Murphy III (3 Point FG)",
+                "hdp": 3.5,
                 "over": "1.93",
-                "under": "1.81"
+                "under": "1.82"
+              },
+              {
+                "label": "Herbert Jones (Pts+Asts)",
+                "hdp": 11.5,
+                "over": "1.95",
+                "under": "1.80"
+              },
+              {
+                "label": "Zion Williamson (Pts+Asts)",
+                "hdp": 22.5,
+                "over": "1.85",
+                "under": "1.90"
+              },
+              {
+                "label": "Derik Queen (Pts+Asts)",
+                "hdp": 9.5,
+                "over": "1.83",
+                "under": "1.91"
+              },
+              {
+                "label": "Saddiq Bey (Pts+Asts)",
+                "hdp": 21.5,
+                "over": "1.93",
+                "under": "1.82"
+              },
+              {
+                "label": "Karl-Anthony Towns (Pts+Asts)",
+                "hdp": 23.5,
+                "over": "1.81",
+                "under": "1.94"
+              },
+              {
+                "label": "Mikal Bridges (Pts+Asts)",
+                "hdp": 15.5,
+                "over": "1.81",
+                "under": "1.93"
               },
               {
                 "label": "Jalen Brunson (Pts+Asts)",
                 "hdp": 32.5,
                 "over": "1.84",
-                "under": "1.91"
+                "under": "1.90"
               },
               {
-                "label": "Jose Alvarado (Pts+Asts)",
-                "hdp": 11.5,
-                "over": "1.93",
-                "under": "1.82"
-              },
-              {
-                "label": "Mikal Bridges (Pts+Asts)",
-                "hdp": 15.5,
-                "over": "1.76",
-                "under": "1.99"
-              },
-              {
-                "label": "Bilal Coulibaly (Pts+Asts)",
-                "hdp": 14.5,
-                "over": "1.77",
-                "under": "1.98"
-              },
-              {
-                "label": "Josh Hart (Pts+Asts)",
-                "hdp": 18.5,
-                "over": "1.82",
-                "under": "1.93"
-              },
-              {
-                "label": "Will Riley (Rebs+Asts)",
-                "hdp": 6.5,
-                "over": "1.84",
-                "under": "1.91"
-              },
-              {
-                "label": "Mikal Bridges (Rebs+Asts)",
-                "hdp": 7.5,
-                "over": "1.91",
-                "under": "1.84"
-              },
-              {
-                "label": "Jalen Brunson (Rebs+Asts)",
-                "hdp": 11.5,
-                "over": "1.97",
-                "under": "1.79"
-              },
-              {
-                "label": "Carlton Carrington (Rebs+Asts)",
-                "hdp": 8.5,
-                "over": "1.99",
-                "under": "1.77"
-              },
-              {
-                "label": "Bilal Coulibaly (Rebs+Asts)",
-                "hdp": 6.5,
-                "over": "1.74",
-                "under": "2.03"
-              },
-              {
-                "label": "Josh Hart (Rebs+Asts)",
-                "hdp": 13.5,
-                "over": "1.93",
-                "under": "1.82"
-              },
-              {
-                "label": "Mikal Bridges (Pts+Rebs+Asts)",
-                "hdp": 20.5,
-                "over": "1.91",
-                "under": "1.84"
-              },
-              {
-                "label": "Jalen Brunson (Pts+Rebs+Asts)",
-                "hdp": 36.5,
-                "over": "1.88",
-                "under": "1.85"
-              },
-              {
-                "label": "Will Riley (Pts+Rebs+Asts)",
-                "hdp": 21.5,
-                "over": "1.90",
-                "under": "1.85"
-              },
-              {
-                "label": "Carlton Carrington (Pts+Rebs+Asts)",
-                "hdp": 19.5,
-                "over": "1.88",
-                "under": "1.86"
-              },
-              {
-                "label": "Josh Hart (Pts+Rebs+Asts)",
-                "hdp": 26.5,
-                "over": "1.87",
-                "under": "1.88"
-              },
-              {
-                "label": "Bilal Coulibaly (Pts+Rebs+Asts)",
+                "label": "OG Anunoby (Pts+Asts)",
                 "hdp": 19.5,
                 "over": "1.93",
                 "under": "1.81"
               },
               {
-                "label": "Jalen Brunson (Pts+Rebs)",
-                "hdp": 28.5,
-                "over": "1.87",
-                "under": "1.87"
-              },
-              {
-                "label": "Tristan Vukcevic (Pts+Rebs)",
-                "hdp": 14.5,
-                "over": "1.79",
-                "under": "1.96"
-              },
-              {
-                "label": "Josh Hart (Pts+Rebs)",
-                "hdp": 20.5,
-                "over": "1.89",
-                "under": "1.85"
-              },
-              {
-                "label": "OG Anunoby (Pts+Rebs)",
+                "label": "Dejounte Murray (Pts+Asts)",
                 "hdp": 23.5,
-                "over": "1.92",
-                "under": "1.83"
+                "over": "1.87",
+                "under": "1.88"
               },
               {
-                "label": "Will Riley (Pts+Rebs)",
-                "hdp": 18.5,
-                "over": "1.84",
-                "under": "1.91"
+                "label": "Josh Hart (Pts+Asts)",
+                "hdp": 17.5,
+                "over": "1.88",
+                "under": "1.86"
               },
               {
-                "label": "Mitchell Robinson (Pts+Rebs)",
+                "label": "Trey Murphy III (Pts+Asts)",
+                "hdp": 24.5,
+                "over": "1.88",
+                "under": "1.86"
+              },
+              {
+                "label": "Dejounte Murray (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "2.00",
+                "under": "1.76"
+              },
+              {
+                "label": "Josh Hart (Rebs+Asts)",
+                "hdp": 12.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "Zion Williamson (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "1.97",
+                "under": "1.78"
+              },
+              {
+                "label": "Herbert Jones (Rebs+Asts)",
+                "hdp": 5.5,
+                "over": "1.78",
+                "under": "1.98"
+              },
+              {
+                "label": "Saddiq Bey (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.72",
+                "under": "2.06"
+              },
+              {
+                "label": "Mikal Bridges (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.81",
+                "under": "1.94"
+              },
+              {
+                "label": "Karl-Anthony Towns (Rebs+Asts)",
                 "hdp": 15.5,
+                "over": "2.04",
+                "under": "1.73"
+              },
+              {
+                "label": "Derik Queen (Rebs+Asts)",
+                "hdp": 6.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Jalen Brunson (Rebs+Asts)",
+                "hdp": 10.5,
                 "over": "1.93",
                 "under": "1.82"
               },
               {
-                "label": "Mikal Bridges (Pts+Rebs)",
-                "hdp": 16.5,
+                "label": "Trey Murphy III (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "1.82",
+                "under": "1.93"
+              },
+              {
+                "label": "Derik Queen (Pts+Rebs+Asts)",
+                "hdp": 13.5,
                 "over": "1.79",
                 "under": "1.95"
               },
               {
-                "label": "Carlton Carrington (Pts+Rebs)",
+                "label": "Josh Hart (Pts+Rebs+Asts)",
+                "hdp": 25.5,
+                "over": "1.94",
+                "under": "1.81"
+              },
+              {
+                "label": "Saddiq Bey (Pts+Rebs+Asts)",
+                "hdp": 26.5,
+                "over": "1.88",
+                "under": "1.85"
+              },
+              {
+                "label": "OG Anunoby (Pts+Rebs+Asts)",
+                "hdp": 24.5,
+                "over": "1.93",
+                "under": "1.82"
+              },
+              {
+                "label": "Trey Murphy III (Pts+Rebs+Asts)",
+                "hdp": 29.5,
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "Herbert Jones (Pts+Rebs+Asts)",
                 "hdp": 14.5,
-                "over": "1.79",
-                "under": "1.96"
-              },
-              {
-                "label": "Karl-Anthony Towns (Pts+Rebs)",
-                "hdp": 34.5,
-                "over": "1.92",
-                "under": "1.83"
-              },
-              {
-                "label": "Bilal Coulibaly (Pts+Rebs)",
-                "hdp": 16.5,
                 "over": "1.90",
                 "under": "1.84"
               },
               {
-                "label": "Carlton Carrington (Double+Double)",
-                "over": "N/A",
+                "label": "Dejounte Murray (Pts+Rebs+Asts)",
+                "hdp": 28.5,
+                "over": "1.83",
+                "under": "1.92"
+              },
+              {
+                "label": "Karl-Anthony Towns (Pts+Rebs+Asts)",
+                "hdp": 36.5,
+                "over": "1.88",
+                "under": "1.85"
+              },
+              {
+                "label": "Mikal Bridges (Pts+Rebs+Asts)",
+                "hdp": 19.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "Zion Williamson (Pts+Rebs+Asts)",
+                "hdp": 28.5,
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "Jalen Brunson (Pts+Rebs+Asts)",
+                "hdp": 36.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "OG Anunoby (Pts+Rebs)",
+                "hdp": 21.5,
+                "over": "1.79",
+                "under": "1.96"
+              },
+              {
+                "label": "Mitchell Robinson (Pts+Rebs)",
+                "hdp": 14.5,
+                "over": "1.79",
+                "under": "1.95"
+              },
+              {
+                "label": "Saddiq Bey (Pts+Rebs)",
+                "hdp": 23.5,
+                "over": "1.87",
+                "under": "1.88"
+              },
+              {
+                "label": "Trey Murphy III (Pts+Rebs)",
+                "hdp": 25.5,
+                "over": "1.88",
+                "under": "1.86"
+              },
+              {
+                "label": "Karl-Anthony Towns (Pts+Rebs)",
+                "hdp": 33.5,
+                "over": "1.84",
+                "under": "1.91"
+              },
+              {
+                "label": "Mikal Bridges (Pts+Rebs)",
+                "hdp": 15.5,
+                "over": "1.81",
+                "under": "1.94"
+              },
+              {
+                "label": "Dejounte Murray (Pts+Rebs)",
+                "hdp": 22.5,
+                "over": "1.86",
+                "under": "1.88"
+              },
+              {
+                "label": "Derik Queen (Pts+Rebs)",
+                "hdp": 11.5,
+                "over": "1.85",
+                "under": "1.89"
+              },
+              {
+                "label": "Jalen Brunson (Pts+Rebs)",
+                "hdp": 28.5,
+                "over": "1.80",
+                "under": "1.94"
+              },
+              {
+                "label": "Herbert Jones (Pts+Rebs)",
+                "hdp": 11.5,
+                "over": "1.88",
+                "under": "1.86"
+              },
+              {
+                "label": "Zion Williamson (Pts+Rebs)",
+                "hdp": 25.5,
+                "over": "1.87",
+                "under": "1.87"
+              },
+              {
+                "label": "Josh Hart (Pts+Rebs)",
+                "hdp": 19.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "Dejounte Murray (Double+Double)",
+                "over": "4.97",
                 "under": "N/A"
               },
               {
-                "label": "Jalen Brunson (Double+Double)",
-                "over": "N/A",
-                "under": "N/A"
-              },
-              {
-                "label": "OG Anunoby (Double+Double)",
-                "over": "N/A",
+                "label": "Zion Williamson (Double+Double)",
+                "over": "10.70",
                 "under": "N/A"
               },
               {
                 "label": "Mitchell Robinson (Double+Double)",
-                "over": "N/A",
+                "over": "7.30",
                 "under": "N/A"
               },
               {
-                "label": "Mikal Bridges (Double+Double)",
-                "over": "N/A",
+                "label": "Jalen Brunson (Double+Double)",
+                "over": "4.24",
                 "under": "N/A"
               },
               {
                 "label": "Karl-Anthony Towns (Double+Double)",
-                "over": "N/A",
-                "under": "N/A"
-              },
-              {
-                "label": "Tristan Vukcevic (Double+Double)",
-                "over": "N/A",
-                "under": "N/A"
-              },
-              {
-                "label": "Bilal Coulibaly (Double+Double)",
-                "over": "N/A",
+                "over": "1.28",
                 "under": "N/A"
               },
               {
                 "label": "Josh Hart (Double+Double)",
-                "over": "N/A",
+                "over": "3.46",
                 "under": "N/A"
               },
               {
-                "label": "Will Riley (Double+Double)",
-                "over": "N/A",
+                "label": "OG Anunoby (Double+Double)",
+                "over": "13.60",
+                "under": "N/A"
+              },
+              {
+                "label": "Saddiq Bey (Double+Double)",
+                "over": "13.20",
+                "under": "N/A"
+              },
+              {
+                "label": "Mikal Bridges (Double+Double)",
+                "over": "33.00",
+                "under": "N/A"
+              },
+              {
+                "label": "Trey Murphy III (Double+Double)",
+                "over": "15.40",
+                "under": "N/A"
+              },
+              {
+                "label": "Derik Queen (Double+Double)",
+                "over": "20.00",
+                "under": "N/A"
+              },
+              {
+                "label": "Dejounte Murray (Triple+Double)",
+                "over": "29.00",
                 "under": "N/A"
               },
               {
                 "label": "Josh Hart (Triple+Double)",
-                "over": "N/A",
+                "over": "24.00",
                 "under": "N/A"
               }
             ]
@@ -25460,48 +25010,48 @@ const analyticsData = {
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
-          "recommended_bet": 104.65109890109888,
+          "recommended_bet": 19.225824175824172,
           "latent_strength_A": 10.342643187752282,
-          "latent_strength_B": -11.538579090957425,
-          "form_state_A": 0,
-          "form_state_B": 1,
+          "latent_strength_B": 4.366050665867785,
+          "form_state_A": 2,
+          "form_state_B": 0,
           "entropy_A": 3.3219280948873626
         },
         "halves": {
-          "h1_ptsA": 61.71961826979784,
-          "h1_ptsB": 56.70510137772853,
-          "h2_ptsA": 61.71961826979784,
-          "h2_ptsB": 56.70510137772853
+          "h1_ptsA": 58.81494457169816,
+          "h1_ptsB": 57.282816907036725,
+          "h2_ptsA": 58.81494457169816,
+          "h2_ptsB": 57.282816907036725
         },
         "quarters": [
           {
             "q": 1,
-            "ptsA": 30.85980913489892,
-            "ptsB": 28.352550688864266
+            "ptsA": 29.40747228584908,
+            "ptsB": 28.641408453518363
           },
           {
             "q": 2,
-            "ptsA": 30.85980913489892,
-            "ptsB": 28.352550688864266
+            "ptsA": 29.40747228584908,
+            "ptsB": 28.641408453518363
           },
           {
             "q": 3,
-            "ptsA": 30.85980913489892,
-            "ptsB": 28.352550688864266
+            "ptsA": 29.40747228584908,
+            "ptsB": 28.641408453518363
           },
           {
             "q": 4,
-            "ptsA": 30.85980913489892,
-            "ptsB": 28.352550688864266
+            "ptsA": 29.40747228584908,
+            "ptsB": 28.641408453518363
           }
         ],
         "players": [
           {
             "player": "Ariel Hukporti",
             "team": "NYK",
-            "proj_pts": 1.0923630847719967,
-            "proj_reb": 2.3588272735805984,
-            "proj_ast": 0.4102308301879302,
+            "proj_pts": 0.993106444582849,
+            "proj_reb": 2.353175342990718,
+            "proj_ast": 0.4092478857375162,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -25509,9 +25059,9 @@ const analyticsData = {
           {
             "player": "Dillon Jones",
             "team": "NYK",
-            "proj_pts": 1.5293083186807954,
-            "proj_reb": 1.2306924905637906,
-            "proj_ast": 0.8204616603758604,
+            "proj_pts": 1.3903490224159885,
+            "proj_reb": 1.2277436572125484,
+            "proj_ast": 0.8184957714750324,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -25519,9 +25069,9 @@ const analyticsData = {
           {
             "player": "Guerschon Yabusele",
             "team": "NYK",
-            "proj_pts": 1.7477809356351948,
-            "proj_reb": 1.9485964433926684,
-            "proj_ast": 0.30767312264094765,
+            "proj_pts": 1.5889703113325586,
+            "proj_reb": 1.9439274572532017,
+            "proj_ast": 0.3069359143031371,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -25529,22 +25079,22 @@ const analyticsData = {
           {
             "player": "Jalen Brunson",
             "team": "NYK",
-            "proj_pts": 26.325950343005122,
-            "proj_reb": 3.999750594332319,
-            "proj_ast": 9.332751386775412,
+            "proj_pts": 23.933865314446663,
+            "proj_reb": 3.990166885940783,
+            "proj_ast": 9.310389400528493,
             "status": "Active",
             "injury": "",
             "market_line": null,
-            "market_ast": 7.5,
+            "market_ast": 6.5,
             "market_reb": 3.5,
-            "market_pts": 24.5
+            "market_pts": 25.5
           },
           {
             "player": "Jeremy Sochan",
             "team": "NYK",
-            "proj_pts": 1.4200720102035957,
-            "proj_reb": 1.3332501981107732,
-            "proj_ast": 0.4102308301879302,
+            "proj_pts": 1.2910383779577037,
+            "proj_reb": 1.3300556286469276,
+            "proj_ast": 0.4092478857375162,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -25552,9 +25102,9 @@ const analyticsData = {
           {
             "player": "Jordan Clarkson",
             "team": "NYK",
-            "proj_pts": 9.066613603607573,
-            "proj_reb": 1.2306924905637906,
-            "proj_ast": 0.8204616603758604,
+            "proj_pts": 8.242783490037647,
+            "proj_reb": 1.2277436572125484,
+            "proj_ast": 0.8184957714750324,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -25562,21 +25112,20 @@ const analyticsData = {
           {
             "player": "Jose Alvarado",
             "team": "NYK",
-            "proj_pts": 4.150979722133587,
-            "proj_reb": 1.128134783016808,
-            "proj_ast": 4.307423716973267,
+            "proj_pts": 3.773804489414826,
+            "proj_reb": 1.1254316857781697,
+            "proj_ast": 4.29710280024392,
             "status": "Active",
             "injury": "",
             "market_line": null,
-            "market_ast": 4.5,
             "market_pts": 6.5
           },
           {
             "player": "Josh Hart",
             "team": "NYK",
-            "proj_pts": 14.419192718990356,
-            "proj_reb": 8.307174311305586,
-            "proj_ast": 4.512539132067232,
+            "proj_pts": 13.109005068493607,
+            "proj_reb": 8.287269686184702,
+            "proj_ast": 4.501726743112679,
             "status": "Out",
             "injury": "Knee",
             "market_line": null,
@@ -25587,21 +25136,21 @@ const analyticsData = {
           {
             "player": "Karl-Anthony Towns",
             "team": "NYK",
-            "proj_pts": 22.28420692934873,
-            "proj_reb": 13.024828858466783,
-            "proj_ast": 3.179288933956459,
+            "proj_pts": 20.25937146949012,
+            "proj_reb": 12.993620372166138,
+            "proj_ast": 3.1716711144657506,
             "status": "Active",
             "injury": "",
             "market_line": null,
-            "market_reb": 11.5,
-            "market_pts": 22.5
+            "market_reb": 12.5,
+            "market_pts": 21.5
           },
           {
             "player": "Kevin McCullar Jr.",
             "team": "NYK",
-            "proj_pts": 0.8738904678175974,
-            "proj_reb": 0.6153462452818953,
-            "proj_ast": 0.4102308301879302,
+            "proj_pts": 0.7944851556662793,
+            "proj_reb": 0.6138718286062742,
+            "proj_ast": 0.4092478857375162,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -25609,9 +25158,9 @@ const analyticsData = {
           {
             "player": "Landry Shamet",
             "team": "NYK",
-            "proj_pts": 9.83126776294797,
-            "proj_reb": 1.9485964433926684,
-            "proj_ast": 1.2306924905637906,
+            "proj_pts": 8.937958001245642,
+            "proj_reb": 1.9439274572532017,
+            "proj_ast": 1.2277436572125484,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -25619,22 +25168,22 @@ const analyticsData = {
           {
             "player": "Mikal Bridges",
             "team": "NYK",
-            "proj_pts": 10.923630847719966,
-            "proj_reb": 4.307423716973267,
-            "proj_ast": 2.871615811315511,
+            "proj_pts": 9.93106444582849,
+            "proj_reb": 4.29710280024392,
+            "proj_ast": 2.864735200162613,
             "status": "Active",
             "injury": "",
             "market_line": null,
             "market_ast": 3.5,
-            "market_reb": 4.5,
-            "market_pts": 12.5
+            "market_reb": 3.5,
+            "market_pts": 11.5
           },
           {
             "player": "Miles McBride",
             "team": "NYK",
-            "proj_pts": 14.856137952899156,
-            "proj_reb": 2.6665003962215463,
-            "proj_ast": 3.8971928867853367,
+            "proj_pts": 13.506247646326747,
+            "proj_reb": 2.6601112572938552,
+            "proj_ast": 3.8878549145064034,
             "status": "Out",
             "injury": "Pelvis",
             "market_line": null
@@ -25642,9 +25191,9 @@ const analyticsData = {
           {
             "player": "Mitchell Robinson",
             "team": "NYK",
-            "proj_pts": 6.991123742540779,
-            "proj_reb": 9.845539924510325,
-            "proj_ast": 1.128134783016808,
+            "proj_pts": 6.3558812453302345,
+            "proj_reb": 9.821949257700387,
+            "proj_ast": 1.1254316857781697,
             "status": "Active",
             "injury": "",
             "market_line": null,
@@ -25654,32 +25203,31 @@ const analyticsData = {
           {
             "player": "Mohamed Diawara",
             "team": "NYK",
-            "proj_pts": 6.66341481710918,
-            "proj_reb": 2.1537118584866337,
-            "proj_ast": 0.9230193679228429,
+            "proj_pts": 6.057949311955379,
+            "proj_reb": 2.14855140012196,
+            "proj_ast": 0.9208077429094115,
             "status": "Active",
             "injury": "",
-            "market_line": null,
-            "market_pts": 7.5
+            "market_line": null
           },
           {
             "player": "OG Anunoby",
             "team": "NYK",
-            "proj_pts": 21.738025386962732,
-            "proj_reb": 5.743231622631022,
-            "proj_ast": 2.051154150939651,
+            "proj_pts": 19.762818247198695,
+            "proj_reb": 5.729470400325226,
+            "proj_ast": 2.046239428687581,
             "status": "Active",
             "injury": "",
             "market_line": null,
-            "market_reb": 5.5,
-            "market_pts": 17.5
+            "market_reb": 4.5,
+            "market_pts": 16.5
           },
           {
             "player": "Pac\u00f4me Dadiet",
             "team": "NYK",
-            "proj_pts": 2.5124350949755923,
-            "proj_reb": 0.9230193679228429,
-            "proj_ast": 0.4102308301879302,
+            "proj_pts": 2.2841448225405525,
+            "proj_reb": 0.9208077429094115,
+            "proj_ast": 0.4092478857375162,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -25688,7 +25236,7 @@ const analyticsData = {
             "player": "Tosan Evbuomwan",
             "team": "NYK",
             "proj_pts": 0.0,
-            "proj_reb": 0.4102308301879302,
+            "proj_reb": 0.4092478857375162,
             "proj_ast": 0.0,
             "status": "Active",
             "injury": "",
@@ -25697,9 +25245,9 @@ const analyticsData = {
           {
             "player": "Trey Jemison III",
             "team": "NYK",
-            "proj_pts": 0.9831267762947971,
-            "proj_reb": 1.4358079056577555,
-            "proj_ast": 0.30767312264094765,
+            "proj_pts": 0.8937958001245642,
+            "proj_reb": 1.4323676000813066,
+            "proj_ast": 0.3069359143031371,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -25707,281 +25255,207 @@ const analyticsData = {
           {
             "player": "Tyler Kolek",
             "team": "NYK",
-            "proj_pts": 1.638544627157995,
-            "proj_reb": 0.5127885377349127,
-            "proj_ast": 2.1537118584866337,
+            "proj_pts": 1.4896596668742736,
+            "proj_reb": 0.5115598571718952,
+            "proj_ast": 2.14855140012196,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "AJ Johnson",
-            "team": "WAS",
-            "proj_pts": 5.263442858634081,
-            "proj_reb": 2.461384981127581,
-            "proj_ast": 1.5383656132047383,
+            "player": "Bryce McGowens",
+            "team": "NOP",
+            "proj_pts": 8.401329995054486,
+            "proj_reb": 2.6601112572938552,
+            "proj_ast": 1.4323676000813066,
+            "status": "Questionable",
+            "injury": "Toe",
+            "market_line": null
+          },
+          {
+            "player": "DeAndre Jordan",
+            "team": "NOP",
+            "proj_pts": 3.9142560204231125,
+            "proj_reb": 6.547966171800259,
+            "proj_ast": 0.8184957714750324,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Alex Sarr",
-            "team": "WAS",
-            "proj_pts": 14.450543120977203,
-            "proj_reb": 8.307174311305586,
-            "proj_ast": 2.1537118584866337,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Alondes Williams",
-            "team": "WAS",
-            "proj_pts": 10.526885717268161,
-            "proj_reb": 6.409856721686409,
-            "proj_ast": 3.0767312264094766,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Anthony Gill",
-            "team": "WAS",
-            "proj_pts": 5.837636625030526,
-            "proj_reb": 3.6920774716913716,
-            "proj_ast": 1.8460387358456858,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Bilal Coulibaly",
-            "team": "WAS",
-            "proj_pts": 14.067747276712906,
-            "proj_reb": 4.82021225470818,
-            "proj_ast": 2.871615811315511,
+            "player": "Dejounte Murray",
+            "team": "NOP",
+            "proj_pts": 18.85525765935524,
+            "proj_reb": 5.627158428890848,
+            "proj_ast": 5.3713785003049,
             "status": "Active",
             "injury": "",
             "market_line": null,
-            "market_ast": 2.5,
+            "market_ast": 5.5,
             "market_reb": 4.5,
-            "market_pts": 12.5
+            "market_pts": 17.5
           },
           {
-            "player": "Bub Carrington",
-            "team": "WAS",
-            "proj_pts": 10.526885717268161,
-            "proj_reb": 3.179288933956459,
-            "proj_ast": 4.307423716973267,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "CJ McCollum",
-            "team": "WAS",
-            "proj_pts": 18.46989948575232,
-            "proj_reb": 4.409981424520249,
-            "proj_ast": 4.204866009426284,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Cam Whitmore",
-            "team": "WAS",
-            "proj_pts": 8.995702340210975,
-            "proj_reb": 3.3844043490504236,
-            "proj_ast": 0.9230193679228429,
-            "status": "Out For Season",
-            "injury": "Shoulder",
-            "market_line": null
-          },
-          {
-            "player": "Corey Kispert",
-            "team": "WAS",
-            "proj_pts": 8.995702340210975,
-            "proj_reb": 2.256269566033616,
-            "proj_ast": 1.5383656132047383,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jaden Hardy",
-            "team": "WAS",
-            "proj_pts": 11.101079483664606,
-            "proj_reb": 1.8460387358456858,
-            "proj_ast": 0.9230193679228429,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jamir Watkins",
-            "team": "WAS",
-            "proj_pts": 9.761294028739567,
-            "proj_reb": 3.0767312264094766,
-            "proj_ast": 1.9485964433926684,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Julian Reese",
-            "team": "WAS",
-            "proj_pts": 8.804304418078825,
-            "proj_reb": 9.64042450941636,
-            "proj_ast": 1.8460387358456858,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Justin Champagnie",
-            "team": "WAS",
-            "proj_pts": 10.813982600466385,
-            "proj_reb": 4.922769962255162,
-            "proj_ast": 1.3332501981107732,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Kadary Richmond",
-            "team": "WAS",
-            "proj_pts": 7.97491342217285,
-            "proj_reb": 3.418590251566085,
-            "proj_ast": 2.734872201252868,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Keshon Gilbert",
-            "team": "WAS",
-            "proj_pts": 1.913979221321484,
-            "proj_reb": 1.7092951257830424,
-            "proj_ast": 1.0255770754698255,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Khris Middleton",
-            "team": "WAS",
-            "proj_pts": 11.101079483664606,
-            "proj_reb": 3.6920774716913716,
-            "proj_ast": 3.4869620565974064,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Kyshawn George",
-            "team": "WAS",
-            "proj_pts": 10.71828363940031,
-            "proj_reb": 2.461384981127581,
-            "proj_ast": 2.1537118584866337,
-            "status": "Out",
-            "injury": "Elbow",
-            "market_line": null
-          },
-          {
-            "player": "Leaky Black",
-            "team": "WAS",
-            "proj_pts": 9.56989610660742,
-            "proj_reb": 5.538116207537058,
-            "proj_ast": 1.4358079056577555,
-            "status": "Questionable",
-            "injury": "Ankle",
-            "market_line": null
-          },
-          {
-            "player": "Malaki Branham",
-            "team": "WAS",
-            "proj_pts": 5.7419376639644515,
-            "proj_reb": 1.5383656132047383,
-            "proj_ast": 1.128134783016808,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Marvin Bagley III",
-            "team": "WAS",
-            "proj_pts": 9.761294028739567,
-            "proj_reb": 6.05090474527197,
-            "proj_ast": 0.9230193679228429,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Sharife Cooper",
-            "team": "WAS",
-            "proj_pts": 6.220432469294822,
-            "proj_reb": 1.6409233207517209,
-            "proj_ast": 2.5639426886745635,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Skal Labissiere",
-            "team": "WAS",
-            "proj_pts": 4.146954979529881,
-            "proj_reb": 3.0767312264094766,
-            "proj_ast": 1.0255770754698255,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Trae Young",
-            "team": "WAS",
-            "proj_pts": 17.225812991893356,
-            "proj_reb": 2.051154150939651,
-            "proj_ast": 8.307174311305586,
-            "status": "Questionable",
-            "injury": "Quadriceps",
-            "market_line": null
-          },
-          {
-            "player": "Tre Johnson",
-            "team": "WAS",
-            "proj_pts": 10.335487795136014,
-            "proj_reb": 3.2818466415034417,
-            "proj_ast": 1.5383656132047383,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_pts": 12.5
-          },
-          {
-            "player": "Tristan Vukcevic",
-            "team": "WAS",
-            "proj_pts": 10.622584678334235,
-            "proj_reb": 4.82021225470818,
-            "proj_ast": 1.4358079056577555,
+            "player": "Derik Queen",
+            "team": "NOP",
+            "proj_pts": 7.2556940866379644,
+            "proj_reb": 5.3202225145877104,
+            "proj_ast": 2.762423228728234,
             "status": "Active",
             "injury": "",
             "market_line": null,
             "market_reb": 4.5,
-            "market_pts": 10.5
+            "market_pts": 7.5
           },
           {
-            "player": "Will Riley",
-            "team": "WAS",
-            "proj_pts": 14.737640004175427,
-            "proj_reb": 3.4869620565974064,
-            "proj_ast": 2.3588272735805984,
+            "player": "Herbert Jones",
+            "team": "NOP",
+            "proj_pts": 8.878678290228036,
+            "proj_reb": 4.092478857375162,
+            "proj_ast": 3.2739830859001295,
             "status": "Active",
             "injury": "",
             "market_line": null,
-            "market_ast": 2.5,
-            "market_reb": 3.5,
-            "market_pts": 14.5
+            "market_pts": 8.5
+          },
+          {
+            "player": "Hunter Dickinson",
+            "team": "NOP",
+            "proj_pts": 1.9093931806942013,
+            "proj_reb": 0.0,
+            "proj_ast": 0.0,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jeremiah Fears",
+            "team": "NOP",
+            "proj_pts": 12.888403969685859,
+            "proj_reb": 3.683230971637646,
+            "proj_ast": 3.683230971637646,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_pts": 8.5
+          },
+          {
+            "player": "Jordan Hawkins",
+            "team": "NOP",
+            "proj_pts": 1.8139235216594911,
+            "proj_reb": 0.8184957714750324,
+            "proj_ast": 0.3069359143031371,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jordan Poole",
+            "team": "NOP",
+            "proj_pts": 9.260556926366876,
+            "proj_reb": 3.1716711144657506,
+            "proj_ast": 2.5577992858594762,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jose Alvarado",
+            "team": "NOP",
+            "proj_pts": 6.205527837256154,
+            "proj_reb": 2.967047171596992,
+            "proj_ast": 3.069359143031371,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_pts": 6.5
+          },
+          {
+            "player": "Karlo Matkovi\u0107",
+            "team": "NOP",
+            "proj_pts": 7.446633404707385,
+            "proj_reb": 5.524846457456468,
+            "proj_ast": 1.4323676000813066,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Kevon Looney",
+            "team": "NOP",
+            "proj_pts": 3.055029089110722,
+            "proj_reb": 6.650278143234638,
+            "proj_ast": 1.3300556286469276,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Micah Peavy",
+            "team": "NOP",
+            "proj_pts": 1.0501662493818107,
+            "proj_reb": 0.5115598571718952,
+            "proj_ast": 0.2046239428687581,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Saddiq Bey",
+            "team": "NOP",
+            "proj_pts": 18.807522829837882,
+            "proj_reb": 5.422534486022089,
+            "proj_ast": 2.864735200162613,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_reb": 5.5,
+            "market_pts": 18.5
+          },
+          {
+            "player": "Trey Alexander",
+            "team": "NOP",
+            "proj_pts": 2.6731504529718815,
+            "proj_reb": 0.8184957714750324,
+            "proj_ast": 1.0231197143437905,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Trey Murphy III",
+            "team": "NOP",
+            "proj_pts": 19.380340784046144,
+            "proj_reb": 5.1155985717189525,
+            "proj_ast": 5.013286600284574,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_ast": 3.5,
+            "market_reb": 4.5,
+            "market_pts": 20.5
+          },
+          {
+            "player": "Yves Missi",
+            "team": "NOP",
+            "proj_pts": 4.868952610770213,
+            "proj_reb": 5.729470400325226,
+            "proj_ast": 1.0231197143437905,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Zion Williamson",
+            "team": "NOP",
+            "proj_pts": 19.380340784046144,
+            "proj_reb": 5.217910543153331,
+            "proj_ast": 2.14855140012196,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_reb": 5.5,
+            "market_pts": 19.5
           }
         ],
         "factors": {
@@ -25991,24 +25465,30 @@ const analyticsData = {
             "orb": 0.32082751362126644,
             "ftr": 0.21759832748233188,
             "sos": -1.0037607266162287,
-            "rest": 5,
+            "rest": 7,
             "is_b2b": 0,
-            "ml_influence": {}
+            "ml_influence": {
+              "roll_efg_pct_10": 0.002179233991972751,
+              "roll_tov_pct_10": 0.0036543704527056773,
+              "roll_orb_pct_10": 0.01902054777154859,
+              "roll_ft_rate_10": -0.0008153264692835194,
+              "p_tov": -0.0007910606050819524
+            }
           },
           "teamB": {
-            "efg": 0.5667290749191511,
-            "tov": 0.1440453646298851,
-            "orb": 0.23551925647430466,
-            "ftr": 0.272349011417918,
-            "sos": 4.296150719322084,
-            "rest": 5,
+            "efg": 0.5433758776892872,
+            "tov": 0.12901185455829864,
+            "orb": 0.3013053082330207,
+            "ftr": 0.3385713458548311,
+            "sos": -4.924666327714091,
+            "rest": 8,
             "is_b2b": 0
           }
         },
         "margins": {
-          "1-5": 0.2579301035641345,
-          "6-10": 0.10868198184099867,
-          "11+": 0.16152947234077658
+          "1-5": 0.19409716716436226,
+          "6-10": 0.08178519880251686,
+          "11+": 0.12155391155070483
         },
         "formA": [
           {
@@ -26174,26 +25654,42 @@ const analyticsData = {
         ],
         "formB": [
           {
-            "date": "2026-02-28",
-            "opponent": "TOR",
-            "result": "L",
-            "score": "125-134",
+            "date": "2026-02-26",
+            "opponent": "UTA",
+            "result": "W",
+            "score": "129-118",
             "quarters": [
-              31,
-              31,
-              31,
-              31
+              32,
+              32,
+              32,
+              32
             ],
             "halves": [
-              62,
-              62
+              64,
+              64
             ]
           },
           {
-            "date": "2026-03-02",
-            "opponent": "HOU",
+            "date": "2026-02-28",
+            "opponent": "UTA",
+            "result": "W",
+            "score": "115-105",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-01",
+            "opponent": "LAC",
             "result": "L",
-            "score": "118-123",
+            "score": "117-137",
             "quarters": [
               29,
               29,
@@ -26207,89 +25703,9 @@ const analyticsData = {
           },
           {
             "date": "2026-03-03",
-            "opponent": "ORL",
+            "opponent": "LAL",
             "result": "L",
-            "score": "109-126",
-            "quarters": [
-              27,
-              27,
-              27,
-              27
-            ],
-            "halves": [
-              54,
-              54
-            ]
-          },
-          {
-            "date": "2026-03-05",
-            "opponent": "UTA",
-            "result": "L",
-            "score": "112-122",
-            "quarters": [
-              28,
-              28,
-              28,
-              28
-            ],
-            "halves": [
-              56,
-              56
-            ]
-          },
-          {
-            "date": "2026-03-08",
-            "opponent": "NOP",
-            "result": "L",
-            "score": "118-138",
-            "quarters": [
-              29,
-              29,
-              29,
-              29
-            ],
-            "halves": [
-              58,
-              58
-            ]
-          },
-          {
-            "date": "2026-03-10",
-            "opponent": "MIA",
-            "result": "L",
-            "score": "129-150",
-            "quarters": [
-              32,
-              32,
-              32,
-              32
-            ],
-            "halves": [
-              64,
-              64
-            ]
-          },
-          {
-            "date": "2026-03-12",
-            "opponent": "ORL",
-            "result": "L",
-            "score": "131-136",
-            "quarters": [
-              32,
-              32,
-              32,
-              32
-            ],
-            "halves": [
-              64,
-              64
-            ]
-          },
-          {
-            "date": "2026-03-14",
-            "opponent": "BOS",
-            "result": "L",
-            "score": "100-111",
+            "score": "101-110",
             "quarters": [
               25,
               25,
@@ -26302,1215 +25718,58 @@ const analyticsData = {
             ]
           },
           {
-            "date": "2026-03-16",
-            "opponent": "GSW",
-            "result": "L",
-            "score": "117-125",
-            "quarters": [
-              29,
-              29,
-              29,
-              29
-            ],
-            "halves": [
-              58,
-              58
-            ]
-          },
-          {
-            "date": "2026-03-17",
-            "opponent": "DET",
-            "result": "L",
-            "score": "117-130",
-            "quarters": [
-              29,
-              29,
-              29,
-              29
-            ],
-            "halves": [
-              58,
-              58
-            ]
-          }
-        ],
-        "shap_explanation": {},
-        "match_id": "0022501034",
-        "time": "TBD"
-      },
-      "ml_prob_A": 0.6285315852504225,
-      "mc_win_A": 0.723,
-      "shap_explanation": {},
-      "is_b2b_home": 0,
-      "is_b2b_away": 0,
-      "rest_home": 5,
-      "rest_away": 5
-    },
-    {
-      "matchId": "0022501035",
-      "matchTime": 1774224000,
-      "gameStatus": "8:00 pm ET",
-      "homeTeam": "BOS",
-      "awayTeam": "MIN",
-      "homeName": "Boston Celtics",
-      "awayName": "Minnesota Timberwolves",
-      "prediction": {
-        "main": {
-          "ptsA": 115.62583337908862,
-          "ptsB": 110.45202960063506,
-          "total": 226.07786297972368,
-          "spread": -5.173803778453561,
-          "win_prob_A": 49.714071123189896,
-          "ml_prob_A": 0.5966939834029412,
-          "mc_win_A": 0.622,
-          "market": {
-            "ml": {
-              "home": "1.26",
-              "away": "4.00"
-            },
-            "spread": {
-              "hdp": 1.5,
-              "home": "1.19",
-              "away": "4.31"
-            },
-            "total": {
-              "hdp": 199.5,
-              "over": "1.10",
-              "under": "6.14"
-            },
-            "props": [
-              {
-                "label": "Payton Pritchard (Assists)",
-                "hdp": 4.5,
-                "over": "1.71",
-                "under": "2.06"
-              },
-              {
-                "label": "Ayo Dosunmu (Assists)",
-                "hdp": 4.5,
-                "over": "1.86",
-                "under": "1.88"
-              },
-              {
-                "label": "Jaylen Brown (Assists)",
-                "hdp": 4.5,
-                "over": "1.66",
-                "under": "2.15"
-              },
-              {
-                "label": "Donte DiVincenzo (Assists)",
-                "hdp": 3.5,
-                "over": "1.97",
-                "under": "1.79"
-              },
-              {
-                "label": "Jayson Tatum (Assists)",
-                "hdp": 3.5,
-                "over": "1.67",
-                "under": "2.14"
-              },
-              {
-                "label": "Derrick White (Assists)",
-                "hdp": 4.5,
-                "over": "1.72",
-                "under": "2.05"
-              },
-              {
-                "label": "Julius Randle (Assists)",
-                "hdp": 4.5,
-                "over": "1.96",
-                "under": "1.79"
-              },
-              {
-                "label": "Naz Reid (Rebounds)",
-                "hdp": 5.5,
-                "over": "2.05",
-                "under": "1.72"
-              },
-              {
-                "label": "Donte DiVincenzo (Rebounds)",
-                "hdp": 3.5,
-                "over": "1.77",
-                "under": "1.99"
-              },
-              {
-                "label": "Jayson Tatum (Rebounds)",
-                "hdp": 7.5,
-                "over": "1.83",
-                "under": "1.91"
-              },
-              {
-                "label": "Jaylen Brown (Rebounds)",
-                "hdp": 6.5,
-                "over": "2.01",
-                "under": "1.75"
-              },
-              {
-                "label": "Ayo Dosunmu (Rebounds)",
-                "hdp": 4.5,
-                "over": "2.10",
-                "under": "1.69"
-              },
-              {
-                "label": "Rudy Gobert (Rebounds)",
-                "hdp": 11.5,
-                "over": "1.93",
-                "under": "1.82"
-              },
-              {
-                "label": "Derrick White (Rebounds)",
-                "hdp": 4.5,
-                "over": "1.99",
-                "under": "1.77"
-              },
-              {
-                "label": "Neemias Queta (Rebounds)",
-                "hdp": 8.5,
-                "over": "1.85",
-                "under": "1.89"
-              },
-              {
-                "label": "Jaden McDaniels (Rebounds)",
-                "hdp": 3.5,
-                "over": "1.63",
-                "under": "2.21"
-              },
-              {
-                "label": "Sam Hauser (Rebounds)",
-                "hdp": 3.5,
-                "over": "2.02",
-                "under": "1.74"
-              },
-              {
-                "label": "Julius Randle (Rebounds)",
-                "hdp": 6.5,
-                "over": "1.96",
-                "under": "1.79"
-              },
-              {
-                "label": "Payton Pritchard (Rebounds)",
-                "hdp": 3.5,
-                "over": "2.04",
-                "under": "1.72"
-              },
-              {
-                "label": "Jaden McDaniels (Points)",
-                "hdp": 15.5,
-                "over": "2.00",
-                "under": "1.78"
-              },
-              {
-                "label": "Jayson Tatum (Points)",
-                "hdp": 21.5,
-                "over": "1.83",
-                "under": "1.94"
-              },
-              {
-                "label": "Jaylen Brown (Points)",
-                "hdp": 25.5,
-                "over": "1.86",
-                "under": "1.91"
-              },
-              {
-                "label": "Julius Randle (Points)",
-                "hdp": 21.5,
-                "over": "1.92",
-                "under": "1.85"
-              },
-              {
-                "label": "Sam Hauser (Points)",
-                "hdp": 6.5,
-                "over": "1.87",
-                "under": "1.91"
-              },
-              {
-                "label": "Naz Reid (Points)",
-                "hdp": 11.5,
-                "over": "1.78",
-                "under": "2.01"
-              },
-              {
-                "label": "Ayo Dosunmu (Points)",
-                "hdp": 16.5,
-                "over": "1.96",
-                "under": "1.81"
-              },
-              {
-                "label": "Donte DiVincenzo (Points)",
-                "hdp": 13.5,
-                "over": "1.97",
-                "under": "1.81"
-              },
-              {
-                "label": "Derrick White (Points)",
-                "hdp": 16.5,
-                "over": "1.93",
-                "under": "1.85"
-              },
-              {
-                "label": "Rudy Gobert (Points)",
-                "hdp": 10.5,
-                "over": "1.84",
-                "under": "1.93"
-              },
-              {
-                "label": "Payton Pritchard (Points)",
-                "hdp": 15.5,
-                "over": "1.83",
-                "under": "1.94"
-              },
-              {
-                "label": "Neemias Queta (Points)",
-                "hdp": 9.5,
-                "over": "1.79",
-                "under": "1.99"
-              },
-              {
-                "label": "Derrick White (Blocks)",
-                "hdp": 1.5,
-                "over": "2.53",
-                "under": "1.49"
-              },
-              {
-                "label": "Rudy Gobert (Blocks)",
-                "hdp": 1.5,
-                "over": "2.10",
-                "under": "1.68"
-              },
-              {
-                "label": "Neemias Queta (Blocks)",
-                "hdp": 1.5,
-                "over": "2.57",
-                "under": "1.47"
-              },
-              {
-                "label": "Derrick White (Steals)",
-                "hdp": 1.5,
-                "over": "2.78",
-                "under": "1.41"
-              },
-              {
-                "label": "Jaylen Brown (Steals)",
-                "hdp": 0.5,
-                "over": "1.41",
-                "under": "2.80"
-              },
-              {
-                "label": "Julius Randle (Steals)",
-                "hdp": 1.5,
-                "over": "2.42",
-                "under": "1.52"
-              },
-              {
-                "label": "Jayson Tatum (Steals)",
-                "hdp": 1.5,
-                "over": "2.80",
-                "under": "1.41"
-              },
-              {
-                "label": "Derrick White (3 Point FG)",
-                "hdp": 2.5,
-                "over": "1.79",
-                "under": "1.96"
-              },
-              {
-                "label": "Jayson Tatum (3 Point FG)",
-                "hdp": 2.5,
-                "over": "1.63",
-                "under": "2.20"
-              },
-              {
-                "label": "Naz Reid (3 Point FG)",
-                "hdp": 1.5,
-                "over": "1.74",
-                "under": "2.03"
-              },
-              {
-                "label": "Donte DiVincenzo (3 Point FG)",
-                "hdp": 3.5,
-                "over": "2.25",
-                "under": "1.60"
-              },
-              {
-                "label": "Jaden McDaniels (3 Point FG)",
-                "hdp": 1.5,
-                "over": "2.00",
-                "under": "1.76"
-              },
-              {
-                "label": "Sam Hauser (3 Point FG)",
-                "hdp": 1.5,
-                "over": "1.52",
-                "under": "2.45"
-              },
-              {
-                "label": "Payton Pritchard (3 Point FG)",
-                "hdp": 2.5,
-                "over": "1.97",
-                "under": "1.78"
-              },
-              {
-                "label": "Julius Randle (3 Point FG)",
-                "hdp": 1.5,
-                "over": "2.09",
-                "under": "1.69"
-              },
-              {
-                "label": "Jaylen Brown (3 Point FG)",
-                "hdp": 1.5,
-                "over": "1.95",
-                "under": "1.80"
-              },
-              {
-                "label": "Ayo Dosunmu (3 Point FG)",
-                "hdp": 1.5,
-                "over": "1.53",
-                "under": "2.43"
-              },
-              {
-                "label": "Ayo Dosunmu (Pts+Asts)",
-                "hdp": 20.5,
-                "over": "1.79",
-                "under": "1.96"
-              },
-              {
-                "label": "Donte DiVincenzo (Pts+Asts)",
-                "hdp": 16.5,
-                "over": "1.84",
-                "under": "1.91"
-              },
-              {
-                "label": "Jaylen Brown (Pts+Asts)",
-                "hdp": 30.5,
-                "over": "1.82",
-                "under": "1.93"
-              },
-              {
-                "label": "Derrick White (Pts+Asts)",
-                "hdp": 21.5,
-                "over": "1.89",
-                "under": "1.85"
-              },
-              {
-                "label": "Payton Pritchard (Pts+Asts)",
-                "hdp": 20.5,
-                "over": "1.82",
-                "under": "1.93"
-              },
-              {
-                "label": "Julius Randle (Pts+Asts)",
-                "hdp": 25.5,
-                "over": "1.83",
-                "under": "1.93"
-              },
-              {
-                "label": "Jayson Tatum (Pts+Asts)",
-                "hdp": 26.5,
-                "over": "1.93",
-                "under": "1.81"
-              },
-              {
-                "label": "Donte DiVincenzo (Rebs+Asts)",
-                "hdp": 7.5,
-                "over": "1.96",
-                "under": "1.79"
-              },
-              {
-                "label": "Julius Randle (Rebs+Asts)",
-                "hdp": 10.5,
-                "over": "1.73",
-                "under": "2.04"
-              },
-              {
-                "label": "Jaylen Brown (Rebs+Asts)",
-                "hdp": 11.5,
-                "over": "1.93",
-                "under": "1.82"
-              },
-              {
-                "label": "Derrick White (Rebs+Asts)",
-                "hdp": 9.5,
-                "over": "1.97",
-                "under": "1.78"
-              },
-              {
-                "label": "Jayson Tatum (Rebs+Asts)",
-                "hdp": 11.5,
-                "over": "1.80",
-                "under": "1.94"
-              },
-              {
-                "label": "Ayo Dosunmu (Rebs+Asts)",
-                "hdp": 8.5,
-                "over": "1.75",
-                "under": "2.01"
-              },
-              {
-                "label": "Payton Pritchard (Rebs+Asts)",
-                "hdp": 8.5,
-                "over": "1.98",
-                "under": "1.78"
-              },
-              {
-                "label": "Rudy Gobert (Rebs+Asts)",
-                "hdp": 13.5,
-                "over": "1.98",
-                "under": "1.78"
-              },
-              {
-                "label": "Payton Pritchard (Pts+Rebs+Asts)",
-                "hdp": 24.5,
-                "over": "1.93",
-                "under": "1.82"
-              },
-              {
-                "label": "Ayo Dosunmu (Pts+Rebs+Asts)",
-                "hdp": 25.5,
-                "over": "1.88",
-                "under": "1.85"
-              },
-              {
-                "label": "Derrick White (Pts+Rebs+Asts)",
-                "hdp": 25.5,
-                "over": "1.80",
-                "under": "1.95"
-              },
-              {
-                "label": "Donte DiVincenzo (Pts+Rebs+Asts)",
-                "hdp": 20.5,
-                "over": "1.85",
-                "under": "1.89"
-              },
-              {
-                "label": "Jayson Tatum (Pts+Rebs+Asts)",
-                "hdp": 34.5,
-                "over": "1.94",
-                "under": "1.81"
-              },
-              {
-                "label": "Jaylen Brown (Pts+Rebs+Asts)",
-                "hdp": 37.5,
-                "over": "1.93",
-                "under": "1.83"
-              },
-              {
-                "label": "Julius Randle (Pts+Rebs+Asts)",
-                "hdp": 32.5,
-                "over": "1.85",
-                "under": "1.89"
-              },
-              {
-                "label": "Rudy Gobert (Pts+Rebs+Asts)",
-                "hdp": 24.5,
-                "over": "1.93",
-                "under": "1.81"
-              },
-              {
-                "label": "Jaden McDaniels (Pts+Rebs)",
-                "hdp": 19.5,
-                "over": "1.93",
-                "under": "1.82"
-              },
-              {
-                "label": "Derrick White (Pts+Rebs)",
-                "hdp": 20.5,
-                "over": "1.80",
-                "under": "1.95"
-              },
-              {
-                "label": "Julius Randle (Pts+Rebs)",
-                "hdp": 27.5,
-                "over": "1.80",
-                "under": "1.94"
-              },
-              {
-                "label": "Donte DiVincenzo (Pts+Rebs)",
-                "hdp": 16.5,
-                "over": "1.79",
-                "under": "1.97"
-              },
-              {
-                "label": "Ayo Dosunmu (Pts+Rebs)",
-                "hdp": 20.5,
-                "over": "1.82",
-                "under": "1.93"
-              },
-              {
-                "label": "Rudy Gobert (Pts+Rebs)",
-                "hdp": 22.5,
-                "over": "1.88",
-                "under": "1.87"
-              },
-              {
-                "label": "Neemias Queta (Pts+Rebs)",
-                "hdp": 18.5,
-                "over": "1.86",
-                "under": "1.88"
-              },
-              {
-                "label": "Naz Reid (Pts+Rebs)",
-                "hdp": 17.5,
-                "over": "1.85",
-                "under": "1.89"
-              },
-              {
-                "label": "Jayson Tatum (Pts+Rebs)",
-                "hdp": 29.5,
-                "over": "1.85",
-                "under": "1.90"
-              },
-              {
-                "label": "Sam Hauser (Pts+Rebs)",
-                "hdp": 10.5,
-                "over": "1.85",
-                "under": "1.89"
-              },
-              {
-                "label": "Jaylen Brown (Pts+Rebs)",
-                "hdp": 31.5,
-                "over": "1.80",
-                "under": "1.95"
-              },
-              {
-                "label": "Payton Pritchard (Pts+Rebs)",
-                "hdp": 19.5,
-                "over": "1.93",
-                "under": "1.82"
-              },
-              {
-                "label": "Julius Randle (Double+Double)",
-                "over": "N/A",
-                "under": "N/A"
-              },
-              {
-                "label": "Derrick White (Double+Double)",
-                "over": "N/A",
-                "under": "N/A"
-              },
-              {
-                "label": "Donte DiVincenzo (Double+Double)",
-                "over": "N/A",
-                "under": "N/A"
-              },
-              {
-                "label": "Jayson Tatum (Double+Double)",
-                "over": "N/A",
-                "under": "N/A"
-              },
-              {
-                "label": "Rudy Gobert (Double+Double)",
-                "over": "N/A",
-                "under": "N/A"
-              },
-              {
-                "label": "Naz Reid (Double+Double)",
-                "over": "N/A",
-                "under": "N/A"
-              },
-              {
-                "label": "Neemias Queta (Double+Double)",
-                "over": "N/A",
-                "under": "N/A"
-              },
-              {
-                "label": "Payton Pritchard (Double+Double)",
-                "over": "N/A",
-                "under": "N/A"
-              },
-              {
-                "label": "Ayo Dosunmu (Double+Double)",
-                "over": "N/A",
-                "under": "N/A"
-              },
-              {
-                "label": "Jaylen Brown (Double+Double)",
-                "over": "N/A",
-                "under": "N/A"
-              },
-              {
-                "label": "Jaylen Brown (Triple+Double)",
-                "over": "N/A",
-                "under": "N/A"
-              },
-              {
-                "label": "Jayson Tatum (Triple+Double)",
-                "over": "N/A",
-                "under": "N/A"
-              },
-              {
-                "label": "Julius Randle (Triple+Double)",
-                "over": "N/A",
-                "under": "N/A"
-              }
-            ]
-          }
-        },
-        "advanced": {
-          "blowout_risk": 0.11853559847642359,
-          "recommended_bet": 51.653846153846146,
-          "latent_strength_A": 7.091850752870968,
-          "latent_strength_B": -1.9556884864469732,
-          "form_state_A": 1,
-          "form_state_B": 2,
-          "entropy_A": 3.3219280948873626
-        },
-        "halves": {
-          "h1_ptsA": 57.81291668954431,
-          "h1_ptsB": 55.22601480031753,
-          "h2_ptsA": 57.81291668954431,
-          "h2_ptsB": 55.22601480031753
-        },
-        "quarters": [
-          {
-            "q": 1,
-            "ptsA": 28.906458344772155,
-            "ptsB": 27.613007400158764
-          },
-          {
-            "q": 2,
-            "ptsA": 28.906458344772155,
-            "ptsB": 27.613007400158764
-          },
-          {
-            "q": 3,
-            "ptsA": 28.906458344772155,
-            "ptsB": 27.613007400158764
-          },
-          {
-            "q": 4,
-            "ptsA": 28.906458344772155,
-            "ptsB": 27.613007400158764
-          }
-        ],
-        "players": [
-          {
-            "player": "Amari Williams",
-            "team": "BOS",
-            "proj_pts": 1.5077196820471976,
-            "proj_reb": 2.0420397769343634,
-            "proj_ast": 0.5105099442335909,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Anfernee Simons",
-            "team": "BOS",
-            "proj_pts": 16.986975084398424,
-            "proj_reb": 2.7567536988613908,
-            "proj_ast": 1.837835799240927,
-            "status": "Out",
-            "injury": "Wrist",
-            "market_line": null
-          },
-          {
-            "player": "Baylor Scheierman",
-            "team": "BOS",
-            "proj_pts": 9.046318092283185,
-            "proj_reb": 5.717711375416218,
-            "proj_ast": 2.858855687708109,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Chris Boucher",
-            "team": "BOS",
-            "proj_pts": 2.3453417276289743,
-            "proj_reb": 2.0420397769343634,
-            "proj_ast": 0.34033996282239387,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Dalano Banton",
-            "team": "BOS",
-            "proj_pts": 2.0102929093962634,
-            "proj_reb": 0.20420397769343634,
-            "proj_ast": 0.8168159107737454,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Derrick White",
-            "team": "BOS",
-            "proj_pts": 19.700870512083384,
-            "proj_reb": 4.4924875092556,
-            "proj_ast": 5.717711375416218,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 4.5,
-            "market_reb": 4.5,
-            "market_pts": 16.5
-          },
-          {
-            "player": "Hugo Gonz\u00e1lez",
-            "team": "BOS",
-            "proj_pts": 5.528305500839724,
-            "proj_reb": 4.288283531562163,
-            "proj_ast": 0.7147139219270272,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jaylen Brown",
-            "team": "BOS",
-            "proj_pts": 24.52557349463441,
-            "proj_reb": 7.351343196963708,
-            "proj_ast": 6.6366292750366815,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 4.5,
-            "market_reb": 6.5,
-            "market_pts": 25.5
-          },
-          {
-            "player": "Jayson Tatum",
-            "team": "BOS",
-            "proj_pts": 20.102929093962633,
-            "proj_reb": 8.372363085430889,
-            "proj_ast": 4.4924875092556,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 3.5,
-            "market_reb": 7.5,
-            "market_pts": 21.5
-          },
-          {
-            "player": "John Tonje",
-            "team": "BOS",
-            "proj_pts": 0.6700976364654211,
-            "proj_reb": 0.6806799256447877,
-            "proj_ast": 0.34033996282239387,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jordan Walsh",
-            "team": "BOS",
-            "proj_pts": 3.7190418823830873,
-            "proj_reb": 2.960957676554827,
-            "proj_ast": 0.20420397769343634,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Josh Minott",
-            "team": "BOS",
-            "proj_pts": 2.412351491275516,
-            "proj_reb": 1.1231218773139,
-            "proj_ast": 0.20420397769343634,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Luka Garza",
-            "team": "BOS",
-            "proj_pts": 6.533451955537856,
-            "proj_reb": 2.960957676554827,
-            "proj_ast": 0.9189178996204636,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Max Shulga",
-            "team": "BOS",
-            "proj_pts": 0.0,
-            "proj_reb": 0.0,
-            "proj_ast": 0.0,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Neemias Queta",
-            "team": "BOS",
-            "proj_pts": 10.554037774330382,
-            "proj_reb": 7.963955130044018,
-            "proj_ast": 1.5315298327007727,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_reb": 8.5,
-            "market_pts": 9.5
-          },
-          {
-            "player": "Nikola Vu\u010devi\u0107",
-            "team": "BOS",
-            "proj_pts": 10.353008483390758,
-            "proj_reb": 6.942935241576835,
-            "proj_ast": 1.837835799240927,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Payton Pritchard",
-            "team": "BOS",
-            "proj_pts": 12.36330139278702,
-            "proj_reb": 3.4714676207884176,
-            "proj_ast": 5.105099442335908,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 4.5,
-            "market_reb": 3.5,
-            "market_pts": 15.5
-          },
-          {
-            "player": "Ron Harper Jr.",
-            "team": "BOS",
-            "proj_pts": 4.925217628020846,
-            "proj_reb": 1.225223866160618,
-            "proj_ast": 0.612611933080309,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Sam Hauser",
-            "team": "BOS",
-            "proj_pts": 9.247347383222811,
-            "proj_reb": 4.900895464642472,
-            "proj_ast": 1.4294278438540544,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_reb": 3.5,
-            "market_pts": 6.5
-          },
-          {
-            "player": "Xavier Tillman",
-            "team": "BOS",
-            "proj_pts": 1.6082343275170108,
-            "proj_reb": 1.4294278438540544,
-            "proj_ast": 0.3063059665401545,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Anthony Edwards",
-            "team": "MIN",
-            "proj_pts": 28.544563705616973,
-            "proj_reb": 4.1861815427154445,
-            "proj_ast": 4.1861815427154445,
-            "status": "Out",
-            "injury": "Knee",
-            "market_line": null
-          },
-          {
-            "player": "Ayo Dosunmu",
-            "team": "MIN",
-            "proj_pts": 11.650842328823254,
-            "proj_reb": 3.0630596654015454,
-            "proj_ast": 2.450447732321236,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 4.5,
-            "market_reb": 4.5,
-            "market_pts": 16.5
-          },
-          {
-            "player": "Bones Hyland",
-            "team": "MIN",
-            "proj_pts": 9.320673863058603,
-            "proj_reb": 1.0210198884671817,
-            "proj_ast": 2.552549721167954,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Donte DiVincenzo",
-            "team": "MIN",
-            "proj_pts": 9.22358351031841,
-            "proj_reb": 4.288283531562163,
-            "proj_ast": 3.0630596654015454,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 3.5,
-            "market_reb": 3.5,
-            "market_pts": 13.5
-          },
-          {
-            "player": "Enrique Freeman",
-            "team": "MIN",
-            "proj_pts": 0.0,
-            "proj_reb": 1.5315298327007727,
-            "proj_ast": 0.0,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jaden McDaniels",
-            "team": "MIN",
-            "proj_pts": 10.582848448681123,
-            "proj_reb": 3.4714676207884176,
-            "proj_ast": 2.2462437546278,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_reb": 3.5,
-            "market_pts": 15.5
-          },
-          {
-            "player": "Jaylen Clark",
-            "team": "MIN",
-            "proj_pts": 3.301071993166589,
-            "proj_reb": 1.0210198884671817,
-            "proj_ast": 0.20420397769343634,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Joan Beringer",
-            "team": "MIN",
-            "proj_pts": 2.718529876725426,
-            "proj_reb": 1.225223866160618,
-            "proj_ast": 0.3063059665401545,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Joe Ingles",
-            "team": "MIN",
-            "proj_pts": 0.48545176370096893,
-            "proj_reb": 0.3063059665401545,
-            "proj_ast": 0.9189178996204636,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Johnny Juzang",
-            "team": "MIN",
-            "proj_pts": 2.81562022946562,
-            "proj_reb": 1.225223866160618,
-            "proj_ast": 0.3063059665401545,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Julian Phillips",
-            "team": "MIN",
-            "proj_pts": 3.2039816404263948,
-            "proj_reb": 0.612611933080309,
-            "proj_ast": 0.10210198884671817,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Julius Randle",
-            "team": "MIN",
-            "proj_pts": 16.60245031857314,
-            "proj_reb": 7.24924120811699,
-            "proj_ast": 3.7777735873285727,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 4.5,
-            "market_reb": 6.5,
-            "market_pts": 21.5
-          },
-          {
-            "player": "Kyle Anderson",
-            "team": "MIN",
-            "proj_pts": 4.757427284269496,
-            "proj_reb": 3.4714676207884176,
-            "proj_ast": 1.9399377880876452,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Leonard Miller",
-            "team": "MIN",
-            "proj_pts": 2.81562022946562,
-            "proj_reb": 1.4294278438540544,
-            "proj_ast": 0.10210198884671817,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Mike Conley",
-            "team": "MIN",
-            "proj_pts": 1.2621745856225193,
-            "proj_reb": 1.837835799240927,
-            "proj_ast": 2.3483457434745176,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Naz Reid",
-            "team": "MIN",
-            "proj_pts": 10.679938801421317,
-            "proj_reb": 5.309303420029345,
-            "proj_ast": 1.5315298327007727,
-            "status": "Questionable",
-            "injury": "Ankle",
-            "market_line": null,
-            "market_reb": 5.5,
-            "market_pts": 11.5
-          },
-          {
-            "player": "Rob Dillingham",
-            "team": "MIN",
-            "proj_pts": 2.718529876725426,
-            "proj_reb": 0.9189178996204636,
-            "proj_ast": 0.9189178996204636,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Rocco Zikarsky",
-            "team": "MIN",
-            "proj_pts": 1.4563552911029067,
-            "proj_reb": 1.276274860583977,
-            "proj_ast": 0.0,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Rudy Gobert",
-            "team": "MIN",
-            "proj_pts": 8.349770335656665,
-            "proj_reb": 11.435422750832435,
-            "proj_ast": 2.2462437546278,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_reb": 11.5,
-            "market_pts": 10.5
-          },
-          {
-            "player": "Terrence Shannon Jr.",
-            "team": "MIN",
-            "proj_pts": 2.6214395239852326,
-            "proj_reb": 0.10210198884671817,
-            "proj_ast": 0.612611933080309,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          }
-        ],
-        "factors": {
-          "teamA": {
-            "efg": 0.5555151899161151,
-            "tov": 0.1159373669197821,
-            "orb": 0.2848773247368937,
-            "ftr": 0.23009417581054165,
-            "sos": -1.1461543075564808,
-            "rest": 7,
-            "is_b2b": 0,
-            "ml_influence": {}
-          },
-          "teamB": {
-            "efg": 0.5609039891841255,
-            "tov": 0.14738721590019405,
-            "orb": 0.23528362287469246,
-            "ftr": 0.3184854143816248,
-            "sos": 2.600767743972654,
-            "rest": 6,
-            "is_b2b": 0
-          }
-        },
-        "margins": {
-          "1-5": 0.21543486152063784,
-          "6-10": 0.09077609547767326,
-          "11+": 0.13491670427133406
-        },
-        "formA": [
-          {
-            "date": "2026-02-27",
-            "opponent": "BKN",
+            "date": "2026-03-05",
+            "opponent": "SAC",
             "result": "W",
-            "score": "148-111",
+            "score": "133-123",
             "quarters": [
-              37,
-              37,
-              37,
-              37
+              33,
+              33,
+              33,
+              33
             ],
             "halves": [
-              74,
-              74
-            ]
-          },
-          {
-            "date": "2026-03-01",
-            "opponent": "PHI",
-            "result": "W",
-            "score": "114-98",
-            "quarters": [
-              28,
-              28,
-              28,
-              28
-            ],
-            "halves": [
-              56,
-              56
-            ]
-          },
-          {
-            "date": "2026-03-02",
-            "opponent": "MIL",
-            "result": "W",
-            "score": "108-81",
-            "quarters": [
-              27,
-              27,
-              27,
-              27
-            ],
-            "halves": [
-              54,
-              54
-            ]
-          },
-          {
-            "date": "2026-03-04",
-            "opponent": "CHA",
-            "result": "L",
-            "score": "89-118",
-            "quarters": [
-              22,
-              22,
-              22,
-              22
-            ],
-            "halves": [
-              44,
-              44
+              66,
+              66
             ]
           },
           {
             "date": "2026-03-06",
-            "opponent": "DAL",
+            "opponent": "PHX",
+            "result": "L",
+            "score": "116-118",
+            "quarters": [
+              29,
+              29,
+              29,
+              29
+            ],
+            "halves": [
+              58,
+              58
+            ]
+          },
+          {
+            "date": "2026-03-08",
+            "opponent": "WAS",
             "result": "W",
-            "score": "120-100",
+            "score": "138-118",
+            "quarters": [
+              34,
+              34,
+              34,
+              34
+            ],
+            "halves": [
+              68,
+              68
+            ]
+          },
+          {
+            "date": "2026-03-11",
+            "opponent": "TOR",
+            "result": "W",
+            "score": "122-111",
             "quarters": [
               30,
               30,
@@ -27523,26 +25782,1243 @@ const analyticsData = {
             ]
           },
           {
-            "date": "2026-03-08",
-            "opponent": "CLE",
-            "result": "W",
-            "score": "109-98",
+            "date": "2026-03-13",
+            "opponent": "HOU",
+            "result": "L",
+            "score": "105-107",
             "quarters": [
-              27,
-              27,
-              27,
-              27
+              26,
+              26,
+              26,
+              26
             ],
             "halves": [
-              54,
-              54
+              52,
+              52
             ]
           },
           {
-            "date": "2026-03-10",
-            "opponent": "SAS",
+            "date": "2026-03-16",
+            "opponent": "DAL",
+            "result": "W",
+            "score": "129-111",
+            "quarters": [
+              32,
+              32,
+              32,
+              32
+            ],
+            "halves": [
+              64,
+              64
+            ]
+          }
+        ],
+        "shap_explanation": {
+          "adj_ortg_10": 0.029035355888282766,
+          "adj_drtg_10": 0.04064759192515055,
+          "adj_pace_10": 0.007974090207420232,
+          "net_rating": 0.01843076540485125,
+          "roll_efg_pct_10": 0.002179233991972751,
+          "roll_tov_pct_10": 0.0036543704527056773,
+          "roll_orb_pct_10": 0.01902054777154859,
+          "roll_ft_rate_10": -0.0008153264692835194,
+          "sos_10": -0.0036206819202145367,
+          "is_b2b": 0.0008893982118048882,
+          "p_pts": 0.009144418906883516,
+          "p_reb": 0.005040272044998772,
+          "p_ast": -0.012744131202131683,
+          "p_stl": 0.0068811969854835195,
+          "p_blk": -0.0009254570371830084,
+          "p_tov": -0.0007910606050819524,
+          "p_pf": -0.007697812764109315,
+          "p_pm": 0.005272675681047758,
+          "p_usage": -0.0007311630044743822,
+          "p_eff": 0.00512975923550826,
+          "opp_adj_ortg_10": -0.02407597709851444,
+          "opp_adj_drtg_10": -0.023596508248153326,
+          "opp_sos_10": -0.010865545522598268,
+          "opp_is_b2b": -0.0006427844213501998
+        },
+        "match_id": "0022501048",
+        "time": "TBD"
+      },
+      "ml_prob_A": 0.590693603354926,
+      "mc_win_A": 0.5602,
+      "shap_explanation": {
+        "adj_ortg_10": 0.029035355888282766,
+        "adj_drtg_10": 0.04064759192515055,
+        "adj_pace_10": 0.007974090207420232,
+        "net_rating": 0.01843076540485125,
+        "roll_efg_pct_10": 0.002179233991972751,
+        "roll_tov_pct_10": 0.0036543704527056773,
+        "roll_orb_pct_10": 0.01902054777154859,
+        "roll_ft_rate_10": -0.0008153264692835194,
+        "sos_10": -0.0036206819202145367,
+        "is_b2b": 0.0008893982118048882,
+        "p_pts": 0.009144418906883516,
+        "p_reb": 0.005040272044998772,
+        "p_ast": -0.012744131202131683,
+        "p_stl": 0.0068811969854835195,
+        "p_blk": -0.0009254570371830084,
+        "p_tov": -0.0007910606050819524,
+        "p_pf": -0.007697812764109315,
+        "p_pm": 0.005272675681047758,
+        "p_usage": -0.0007311630044743822,
+        "p_eff": 0.00512975923550826,
+        "opp_adj_ortg_10": -0.02407597709851444,
+        "opp_adj_drtg_10": -0.023596508248153326,
+        "opp_sos_10": -0.010865545522598268,
+        "opp_is_b2b": -0.0006427844213501998
+      },
+      "is_b2b_home": 0,
+      "is_b2b_away": 0,
+      "rest_home": 7,
+      "rest_away": 8
+    },
+    {
+      "matchId": "0022501049",
+      "matchTime": 1774396800,
+      "gameStatus": "8:00 pm ET",
+      "homeTeam": "CLE",
+      "awayTeam": "ORL",
+      "homeName": "Cleveland Cavaliers",
+      "awayName": "Orlando Magic",
+      "prediction": {
+        "main": {
+          "ptsA": 116.17454554581194,
+          "ptsB": 117.84942433720893,
+          "total": 234.02396988302087,
+          "spread": 1.674878791396992,
+          "win_prob_A": 40.328076047371106,
+          "ml_prob_A": 0.5170556877591487,
+          "mc_win_A": 0.4466,
+          "market": {
+            "ml": {
+              "home": "1.21",
+              "away": "4.60"
+            },
+            "spread": {
+              "hdp": 1.5,
+              "home": "1.17",
+              "away": "4.69"
+            },
+            "total": {
+              "hdp": 209.5,
+              "over": "1.11",
+              "under": "5.86"
+            },
+            "props": [
+              {
+                "label": "Evan Mobley (Assists)",
+                "hdp": 2.5,
+                "over": "1.66",
+                "under": "2.16"
+              },
+              {
+                "label": "James Harden (Assists)",
+                "hdp": 7.5,
+                "over": "1.68",
+                "under": "2.11"
+              },
+              {
+                "label": "Wendell Carter Jr. (Assists)",
+                "hdp": 2.5,
+                "over": "2.35",
+                "under": "1.56"
+              },
+              {
+                "label": "Tristan da Silva (Assists)",
+                "hdp": 1.5,
+                "over": "1.53",
+                "under": "2.43"
+              },
+              {
+                "label": "Sam Merrill (Assists)",
+                "hdp": 1.5,
+                "over": "1.55",
+                "under": "2.38"
+              },
+              {
+                "label": "Jevon Carter (Assists)",
+                "hdp": 2.5,
+                "over": "1.85",
+                "under": "1.90"
+              },
+              {
+                "label": "Desmond Bane (Assists)",
+                "hdp": 4.5,
+                "over": "1.69",
+                "under": "2.10"
+              },
+              {
+                "label": "Paolo Banchero (Assists)",
+                "hdp": 5.5,
+                "over": "1.76",
+                "under": "2.00"
+              },
+              {
+                "label": "Donovan Mitchell (Assists)",
+                "hdp": 5.5,
+                "over": "2.06",
+                "under": "1.71"
+              },
+              {
+                "label": "Evan Mobley (Rebounds)",
+                "hdp": 9.5,
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "Dean Wade (Rebounds)",
+                "hdp": 4.5,
+                "over": "2.16",
+                "under": "1.65"
+              },
+              {
+                "label": "Max Strus (Rebounds)",
+                "hdp": 4.5,
+                "over": "2.08",
+                "under": "1.70"
+              },
+              {
+                "label": "Tristan da Silva (Rebounds)",
+                "hdp": 4.5,
+                "over": "2.15",
+                "under": "1.66"
+              },
+              {
+                "label": "Paolo Banchero (Rebounds)",
+                "hdp": 7.5,
+                "over": "1.76",
+                "under": "1.99"
+              },
+              {
+                "label": "Desmond Bane (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.72",
+                "under": "2.05"
+              },
+              {
+                "label": "James Harden (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.71",
+                "under": "2.07"
+              },
+              {
+                "label": "Wendell Carter Jr. (Rebounds)",
+                "hdp": 6.5,
+                "over": "1.69",
+                "under": "2.09"
+              },
+              {
+                "label": "Sam Merrill (Rebounds)",
+                "hdp": 3.5,
+                "over": "2.27",
+                "under": "1.60"
+              },
+              {
+                "label": "Donovan Mitchell (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.70",
+                "under": "2.08"
+              },
+              {
+                "label": "Goga Bitadze (Rebounds)",
+                "hdp": 5.5,
+                "over": "2.00",
+                "under": "1.76"
+              },
+              {
+                "label": "Jevon Carter (Rebounds)",
+                "hdp": 2.5,
+                "over": "2.21",
+                "under": "1.63"
+              },
+              {
+                "label": "Keon Ellis (Rebounds)",
+                "hdp": 2.5,
+                "over": "1.88",
+                "under": "1.86"
+              },
+              {
+                "label": "Max Strus (Points)",
+                "hdp": 8.5,
+                "over": "1.89",
+                "under": "1.88"
+              },
+              {
+                "label": "Donovan Mitchell (Points)",
+                "hdp": 28.5,
+                "over": "1.93",
+                "under": "1.84"
+              },
+              {
+                "label": "Paolo Banchero (Points)",
+                "hdp": 25.5,
+                "over": "1.95",
+                "under": "1.82"
+              },
+              {
+                "label": "Wendell Carter Jr. (Points)",
+                "hdp": 10.5,
+                "over": "1.79",
+                "under": "1.99"
+              },
+              {
+                "label": "Sam Merrill (Points)",
+                "hdp": 11.5,
+                "over": "1.79",
+                "under": "1.99"
+              },
+              {
+                "label": "Goga Bitadze (Points)",
+                "hdp": 6.5,
+                "over": "2.03",
+                "under": "1.76"
+              },
+              {
+                "label": "Evan Mobley (Points)",
+                "hdp": 18.5,
+                "over": "1.83",
+                "under": "1.94"
+              },
+              {
+                "label": "Dean Wade (Points)",
+                "hdp": 5.5,
+                "over": "2.07",
+                "under": "1.73"
+              },
+              {
+                "label": "Tristan da Silva (Points)",
+                "hdp": 11.5,
+                "over": "1.87",
+                "under": "1.91"
+              },
+              {
+                "label": "Keon Ellis (Points)",
+                "hdp": 7.5,
+                "over": "1.83",
+                "under": "1.95"
+              },
+              {
+                "label": "Desmond Bane (Points)",
+                "hdp": 20.5,
+                "over": "1.93",
+                "under": "1.84"
+              },
+              {
+                "label": "James Harden (Points)",
+                "hdp": 21.5,
+                "over": "1.93",
+                "under": "1.85"
+              },
+              {
+                "label": "Jevon Carter (Points)",
+                "hdp": 9.5,
+                "over": "1.88",
+                "under": "1.89"
+              },
+              {
+                "label": "Evan Mobley (Blocks)",
+                "hdp": 1.5,
+                "over": "1.67",
+                "under": "2.12"
+              },
+              {
+                "label": "Donovan Mitchell (Steals)",
+                "hdp": 1.5,
+                "over": "1.77",
+                "under": "1.98"
+              },
+              {
+                "label": "Donovan Mitchell (3 Point FG)",
+                "hdp": 2.5,
+                "over": "1.70",
+                "under": "2.08"
+              },
+              {
+                "label": "Paolo Banchero (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.31",
+                "under": "1.58"
+              },
+              {
+                "label": "Jevon Carter (3 Point FG)",
+                "hdp": 2.5,
+                "over": "2.16",
+                "under": "1.65"
+              },
+              {
+                "label": "Desmond Bane (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.52",
+                "under": "2.46"
+              },
+              {
+                "label": "Tristan da Silva (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.67",
+                "under": "2.14"
+              },
+              {
+                "label": "Keon Ellis (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.26",
+                "under": "1.60"
+              },
+              {
+                "label": "Sam Merrill (3 Point FG)",
+                "hdp": 2.5,
+                "over": "1.67",
+                "under": "2.13"
+              },
+              {
+                "label": "James Harden (3 Point FG)",
+                "hdp": 2.5,
+                "over": "1.79",
+                "under": "1.96"
+              },
+              {
+                "label": "Max Strus (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.61",
+                "under": "2.24"
+              },
+              {
+                "label": "Tristan da Silva (Pts+Asts)",
+                "hdp": 13.5,
+                "over": "1.82",
+                "under": "1.93"
+              },
+              {
+                "label": "Sam Merrill (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "1.97",
+                "under": "1.78"
+              },
+              {
+                "label": "Wendell Carter Jr. (Pts+Asts)",
+                "hdp": 13.5,
+                "over": "1.98",
+                "under": "1.78"
+              },
+              {
+                "label": "James Harden (Pts+Asts)",
+                "hdp": 29.5,
+                "over": "1.88",
+                "under": "1.87"
+              },
+              {
+                "label": "Jevon Carter (Pts+Asts)",
+                "hdp": 12.5,
+                "over": "1.87",
+                "under": "1.88"
+              },
+              {
+                "label": "Paolo Banchero (Pts+Asts)",
+                "hdp": 31.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Desmond Bane (Pts+Asts)",
+                "hdp": 25.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Evan Mobley (Pts+Asts)",
+                "hdp": 21.5,
+                "over": "1.81",
+                "under": "1.94"
+              },
+              {
+                "label": "Donovan Mitchell (Pts+Asts)",
+                "hdp": 33.5,
+                "over": "1.85",
+                "under": "1.90"
+              },
+              {
+                "label": "James Harden (Rebs+Asts)",
+                "hdp": 12.5,
+                "over": "1.75",
+                "under": "2.02"
+              },
+              {
+                "label": "Evan Mobley (Rebs+Asts)",
+                "hdp": 12.5,
+                "over": "1.88",
+                "under": "1.86"
+              },
+              {
+                "label": "Wendell Carter Jr. (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "2.03",
+                "under": "1.74"
+              },
+              {
+                "label": "Donovan Mitchell (Rebs+Asts)",
+                "hdp": 10.5,
+                "over": "2.01",
+                "under": "1.75"
+              },
+              {
+                "label": "Tristan da Silva (Rebs+Asts)",
+                "hdp": 6.5,
+                "over": "2.02",
+                "under": "1.75"
+              },
+              {
+                "label": "Desmond Bane (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "1.72",
+                "under": "2.05"
+              },
+              {
+                "label": "Jevon Carter (Rebs+Asts)",
+                "hdp": 4.5,
+                "over": "1.69",
+                "under": "2.09"
+              },
+              {
+                "label": "Paolo Banchero (Rebs+Asts)",
+                "hdp": 13.5,
+                "over": "1.79",
+                "under": "1.96"
+              },
+              {
+                "label": "Sam Merrill (Rebs+Asts)",
+                "hdp": 5.5,
+                "over": "2.10",
+                "under": "1.69"
+              },
+              {
+                "label": "Goga Bitadze (Pts+Rebs+Asts)",
+                "hdp": 13.5,
+                "over": "1.84",
+                "under": "1.91"
+              },
+              {
+                "label": "Evan Mobley (Pts+Rebs+Asts)",
+                "hdp": 31.5,
+                "over": "1.88",
+                "under": "1.85"
+              },
+              {
+                "label": "Desmond Bane (Pts+Rebs+Asts)",
+                "hdp": 29.5,
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "Keon Ellis (Pts+Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "1.83",
+                "under": "1.93"
+              },
+              {
+                "label": "Jevon Carter (Pts+Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "1.81",
+                "under": "1.94"
+              },
+              {
+                "label": "Donovan Mitchell (Pts+Rebs+Asts)",
+                "hdp": 38.5,
+                "over": "1.83",
+                "under": "1.91"
+              },
+              {
+                "label": "Paolo Banchero (Pts+Rebs+Asts)",
+                "hdp": 39.5,
+                "over": "1.93",
+                "under": "1.82"
+              },
+              {
+                "label": "Dean Wade (Pts+Rebs+Asts)",
+                "hdp": 10.5,
+                "over": "1.78",
+                "under": "1.97"
+              },
+              {
+                "label": "Max Strus (Pts+Rebs+Asts)",
+                "hdp": 15.5,
+                "over": "1.83",
+                "under": "1.91"
+              },
+              {
+                "label": "Tristan da Silva (Pts+Rebs+Asts)",
+                "hdp": 18.5,
+                "over": "1.95",
+                "under": "1.80"
+              },
+              {
+                "label": "Sam Merrill (Pts+Rebs+Asts)",
+                "hdp": 17.5,
+                "over": "1.92",
+                "under": "1.83"
+              },
+              {
+                "label": "James Harden (Pts+Rebs+Asts)",
+                "hdp": 34.5,
+                "over": "1.87",
+                "under": "1.88"
+              },
+              {
+                "label": "Wendell Carter Jr. (Pts+Rebs+Asts)",
+                "hdp": 20.5,
+                "over": "1.93",
+                "under": "1.82"
+              },
+              {
+                "label": "Evan Mobley (Pts+Rebs)",
+                "hdp": 28.5,
+                "over": "1.86",
+                "under": "1.88"
+              },
+              {
+                "label": "Goga Bitadze (Pts+Rebs)",
+                "hdp": 11.5,
+                "over": "1.83",
+                "under": "1.92"
+              },
+              {
+                "label": "Sam Merrill (Pts+Rebs)",
+                "hdp": 15.5,
+                "over": "1.94",
+                "under": "1.81"
+              },
+              {
+                "label": "Max Strus (Pts+Rebs)",
+                "hdp": 12.5,
+                "over": "1.78",
+                "under": "1.98"
+              },
+              {
+                "label": "Desmond Bane (Pts+Rebs)",
+                "hdp": 24.5,
+                "over": "1.92",
+                "under": "1.83"
+              },
+              {
+                "label": "Tristan da Silva (Pts+Rebs)",
+                "hdp": 16.5,
+                "over": "1.98",
+                "under": "1.78"
+              },
+              {
+                "label": "Dean Wade (Pts+Rebs)",
+                "hdp": 9.5,
+                "over": "1.91",
+                "under": "1.84"
+              },
+              {
+                "label": "Paolo Banchero (Pts+Rebs)",
+                "hdp": 33.5,
+                "over": "1.93",
+                "under": "1.82"
+              },
+              {
+                "label": "Keon Ellis (Pts+Rebs)",
+                "hdp": 10.5,
+                "over": "1.93",
+                "under": "1.82"
+              },
+              {
+                "label": "Donovan Mitchell (Pts+Rebs)",
+                "hdp": 33.5,
+                "over": "1.91",
+                "under": "1.83"
+              },
+              {
+                "label": "James Harden (Pts+Rebs)",
+                "hdp": 26.5,
+                "over": "1.88",
+                "under": "1.86"
+              },
+              {
+                "label": "Wendell Carter Jr. (Pts+Rebs)",
+                "hdp": 17.5,
+                "over": "1.79",
+                "under": "1.97"
+              },
+              {
+                "label": "Jevon Carter (Pts+Rebs)",
+                "hdp": 12.5,
+                "over": "1.96",
+                "under": "1.79"
+              },
+              {
+                "label": "Desmond Bane (Double+Double)",
+                "over": "11.20",
+                "under": "N/A"
+              },
+              {
+                "label": "James Harden (Double+Double)",
+                "over": "2.80",
+                "under": "N/A"
+              },
+              {
+                "label": "Goga Bitadze (Double+Double)",
+                "over": "19.40",
+                "under": "N/A"
+              },
+              {
+                "label": "Wendell Carter Jr. (Double+Double)",
+                "over": "5.93",
+                "under": "N/A"
+              },
+              {
+                "label": "Tristan da Silva (Double+Double)",
+                "over": "23.00",
+                "under": "N/A"
+              },
+              {
+                "label": "Paolo Banchero (Double+Double)",
+                "over": "2.44",
+                "under": "N/A"
+              },
+              {
+                "label": "Evan Mobley (Double+Double)",
+                "over": "1.96",
+                "under": "N/A"
+              },
+              {
+                "label": "Donovan Mitchell (Double+Double)",
+                "over": "8.80",
+                "under": "N/A"
+              },
+              {
+                "label": "Max Strus (Double+Double)",
+                "over": "41.00",
+                "under": "N/A"
+              },
+              {
+                "label": "Paolo Banchero (Triple+Double)",
+                "over": "14.60",
+                "under": "N/A"
+              },
+              {
+                "label": "James Harden (Triple+Double)",
+                "over": "22.00",
+                "under": "N/A"
+              }
+            ]
+          }
+        },
+        "advanced": {
+          "blowout_risk": 0.11853559847642359,
+          "recommended_bet": 0.0,
+          "latent_strength_A": 5.505910660887272,
+          "latent_strength_B": 3.8521453438927282,
+          "form_state_A": 0,
+          "form_state_B": 2,
+          "entropy_A": 3.3219280948873626
+        },
+        "halves": {
+          "h1_ptsA": 58.08727277290597,
+          "h1_ptsB": 58.924712168604465,
+          "h2_ptsA": 58.08727277290597,
+          "h2_ptsB": 58.924712168604465
+        },
+        "quarters": [
+          {
+            "q": 1,
+            "ptsA": 29.043636386452985,
+            "ptsB": 29.462356084302233
+          },
+          {
+            "q": 2,
+            "ptsA": 29.043636386452985,
+            "ptsB": 29.462356084302233
+          },
+          {
+            "q": 3,
+            "ptsA": 29.043636386452985,
+            "ptsB": 29.462356084302233
+          },
+          {
+            "q": 4,
+            "ptsA": 29.043636386452985,
+            "ptsB": 29.462356084302233
+          }
+        ],
+        "players": [
+          {
+            "player": "Chris Livingston",
+            "team": "CLE",
+            "proj_pts": 2.882214665836117,
+            "proj_reb": 1.0203185600446925,
+            "proj_ast": 0.3401061866815641,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Craig Porter Jr.",
+            "team": "CLE",
+            "proj_pts": 2.882214665836117,
+            "proj_reb": 2.958923824129608,
+            "proj_ast": 3.673146816160893,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Darius Brown",
+            "team": "CLE",
+            "proj_pts": 0.0,
+            "proj_reb": 1.0203185600446925,
+            "proj_ast": 0.0,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Darius Garland",
+            "team": "CLE",
+            "proj_pts": 18.254026216962075,
+            "proj_reb": 1.8365734080804466,
+            "proj_ast": 6.83613435229944,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "De'Andre Hunter",
+            "team": "CLE",
+            "proj_pts": 11.336711018955395,
+            "proj_reb": 3.5711149601564234,
+            "proj_ast": 2.142668976093854,
+            "status": "Out For Season",
+            "injury": "Eye",
+            "market_line": null
+          },
+          {
+            "player": "Dean Wade",
+            "team": "CLE",
+            "proj_pts": 6.052650798255846,
+            "proj_reb": 4.489401664196647,
+            "proj_ast": 1.3264141280581003,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_reb": 4.5,
+            "market_pts": 5.5
+          },
+          {
+            "player": "Dennis Schr\u00f6der",
+            "team": "CLE",
+            "proj_pts": 8.646643997508352,
+            "proj_reb": 2.040637120089385,
+            "proj_ast": 4.795497232210055,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Donovan Mitchell",
+            "team": "CLE",
+            "proj_pts": 22.38520057132718,
+            "proj_reb": 4.489401664196647,
+            "proj_ast": 5.713783936250278,
+            "status": "Questionable",
+            "injury": "Eye",
+            "market_line": null,
+            "market_ast": 5.5,
+            "market_reb": 4.5,
+            "market_pts": 28.5
+          },
+          {
+            "player": "Evan Mobley",
+            "team": "CLE",
+            "proj_pts": 19.310838261101985,
+            "proj_reb": 10.101153744442456,
+            "proj_ast": 2.2447008320983235,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_ast": 2.5,
+            "market_reb": 9.5,
+            "market_pts": 18.5
+          },
+          {
+            "player": "James Harden",
+            "team": "CLE",
+            "proj_pts": 19.887281194269207,
+            "proj_reb": 5.305656512232401,
+            "proj_ast": 7.244261776317316,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_ast": 7.5,
+            "market_reb": 4.5,
+            "market_pts": 21.5
+          },
+          {
+            "player": "Jarrett Allen",
+            "team": "CLE",
+            "proj_pts": 18.638321505740223,
+            "proj_reb": 9.999121888437987,
+            "proj_ast": 1.4284459840625694,
+            "status": "Out",
+            "injury": "Knee",
+            "market_line": null
+          },
+          {
+            "player": "Jaylon Tyson",
+            "team": "CLE",
+            "proj_pts": 10.08775133042641,
+            "proj_reb": 3.7751786721653624,
+            "proj_ast": 2.142668976093854,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Keon Ellis",
+            "team": "CLE",
+            "proj_pts": 9.0309392862865,
+            "proj_reb": 3.1629875361385467,
+            "proj_ast": 1.4284459840625694,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_reb": 2.5,
+            "market_pts": 7.5
+          },
+          {
+            "player": "Larry Nance Jr.",
+            "team": "CLE",
+            "proj_pts": 2.6900670214470424,
+            "proj_reb": 2.4487645441072616,
+            "proj_ast": 0.6121911360268154,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Lonzo Ball",
+            "team": "CLE",
+            "proj_pts": 2.882214665836117,
+            "proj_reb": 3.5711149601564234,
+            "proj_ast": 2.2447008320983235,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Luke Travers",
+            "team": "CLE",
+            "proj_pts": 2.6900670214470424,
+            "proj_reb": 2.4487645441072616,
+            "proj_ast": 0.9182867040402233,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Max Strus",
+            "team": "CLE",
+            "proj_pts": 14.411073329180585,
+            "proj_reb": 7.142229920312847,
+            "proj_ast": 2.5507964001117314,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_reb": 4.5,
+            "market_pts": 8.5
+          },
+          {
+            "player": "Nae'Qwan Tomlin",
+            "team": "CLE",
+            "proj_pts": 2.9782884880306546,
+            "proj_reb": 1.632509696071508,
+            "proj_ast": 0.2040637120089385,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Riley Minix",
+            "team": "CLE",
+            "proj_pts": 2.4979193770579684,
+            "proj_reb": 1.0203185600446925,
+            "proj_ast": 0.6121911360268154,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Sam Merrill",
+            "team": "CLE",
+            "proj_pts": 11.048489552371782,
+            "proj_reb": 2.958923824129608,
+            "proj_ast": 2.3467326881027923,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_ast": 1.5,
+            "market_reb": 3.5,
+            "market_pts": 11.5
+          },
+          {
+            "player": "Thomas Bryant",
+            "team": "CLE",
+            "proj_pts": 8.262348708730203,
+            "proj_reb": 3.5711149601564234,
+            "proj_ast": 0.3060955680134077,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Tristan Enaruna",
+            "team": "CLE",
+            "proj_pts": 2.08159948088164,
+            "proj_reb": 1.5304778400670387,
+            "proj_ast": 0.5101592800223462,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Tyrese Proctor",
+            "team": "CLE",
+            "proj_pts": 4.707617287532325,
+            "proj_reb": 0.408127424017877,
+            "proj_ast": 1.734541552075977,
+            "status": "Out",
+            "injury": "Quadriceps",
+            "market_line": null
+          },
+          {
+            "player": "Anthony Black",
+            "team": "ORL",
+            "proj_pts": 12.718020346762259,
+            "proj_reb": 2.958923824129608,
+            "proj_ast": 2.6528282561162007,
+            "status": "Doubtful",
+            "injury": "Abdomen",
+            "market_line": null
+          },
+          {
+            "player": "Desmond Bane",
+            "team": "ORL",
+            "proj_pts": 21.976739159205188,
+            "proj_reb": 3.8772105281698312,
+            "proj_ast": 4.897529088214523,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_ast": 4.5,
+            "market_reb": 3.5,
+            "market_pts": 20.5
+          },
+          {
+            "player": "Franz Wagner",
+            "team": "ORL",
+            "proj_pts": 18.51743762488585,
+            "proj_reb": 4.591433520201116,
+            "proj_ast": 2.958923824129608,
+            "status": "Doubtful",
+            "injury": "Ankle",
+            "market_line": null
+          },
+          {
+            "player": "Goga Bitadze",
+            "team": "ORL",
+            "proj_pts": 4.680231487608511,
+            "proj_reb": 3.1629875361385467,
+            "proj_ast": 0.9182867040402233,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_reb": 5.5,
+            "market_pts": 6.5
+          },
+          {
+            "player": "Jalen Suggs",
+            "team": "ORL",
+            "proj_pts": 15.36336857888881,
+            "proj_reb": 3.9792423841743005,
+            "proj_ast": 5.611752080245808,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jamal Cain",
+            "team": "ORL",
+            "proj_pts": 3.3575573715452363,
+            "proj_reb": 1.5304778400670387,
+            "proj_ast": 0.5101592800223462,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jase Richardson",
+            "team": "ORL",
+            "proj_pts": 2.4418599065783537,
+            "proj_reb": 0.5101592800223462,
+            "proj_ast": 1.0203185600446925,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jett Howard",
+            "team": "ORL",
+            "proj_pts": 7.529068045283259,
+            "proj_reb": 3.0609556801340774,
+            "proj_ast": 1.0203185600446925,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jevon Carter",
+            "team": "ORL",
+            "proj_pts": 7.8343005336055525,
+            "proj_reb": 2.3467326881027923,
+            "proj_ast": 2.958923824129608,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_ast": 2.5,
+            "market_reb": 2.5,
+            "market_pts": 9.5
+          },
+          {
+            "player": "Jonathan Isaac",
+            "team": "ORL",
+            "proj_pts": 1.5261624416114712,
+            "proj_reb": 2.3467326881027923,
+            "proj_ast": 0.6121911360268154,
+            "status": "Out",
+            "injury": "Knee",
+            "market_line": null
+          },
+          {
+            "player": "Moritz Wagner",
+            "team": "ORL",
+            "proj_pts": 6.308138091994081,
+            "proj_reb": 4.591433520201116,
+            "proj_ast": 0.7142229920312847,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Noah Penda",
+            "team": "ORL",
+            "proj_pts": 3.0523248832229424,
+            "proj_reb": 3.469083104151954,
+            "proj_ast": 1.4284459840625694,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Orlando Robinson",
+            "team": "ORL",
+            "proj_pts": 1.7805228485467164,
+            "proj_reb": 1.0203185600446925,
+            "proj_ast": 0.7652389200335193,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Paolo Banchero",
+            "team": "ORL",
+            "proj_pts": 25.94476150739501,
+            "proj_reb": 9.59099446442011,
+            "proj_ast": 4.795497232210055,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_ast": 5.5,
+            "market_reb": 7.5,
+            "market_pts": 25.5
+          },
+          {
+            "player": "Tristan da Silva",
+            "team": "ORL",
+            "proj_pts": 14.447671113921926,
+            "proj_reb": 5.713783936250278,
+            "proj_ast": 2.4487645441072616,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_ast": 1.5,
+            "market_reb": 4.5,
+            "market_pts": 11.5
+          },
+          {
+            "player": "Tyus Jones",
+            "team": "ORL",
+            "proj_pts": 1.8313949299337655,
+            "proj_reb": 0.9182867040402233,
+            "proj_ast": 2.040637120089385,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Wendell Carter Jr.",
+            "team": "ORL",
+            "proj_pts": 12.921508672310456,
+            "proj_reb": 7.244261776317316,
+            "proj_ast": 2.2447008320983235,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_ast": 2.5,
+            "market_reb": 6.5,
+            "market_pts": 10.5
+          }
+        ],
+        "factors": {
+          "teamA": {
+            "efg": 0.569235178964745,
+            "tov": 0.11077883653280803,
+            "orb": 0.2456939360510789,
+            "ftr": 0.30392581494003346,
+            "sos": -1.5848900060583127,
+            "rest": 8,
+            "is_b2b": 0,
+            "ml_influence": {
+              "roll_efg_pct_10": 0.005539915350035471,
+              "roll_tov_pct_10": 0.023080589511714465,
+              "roll_orb_pct_10": 0.0018313172534189447,
+              "roll_ft_rate_10": -0.0009541118575097585,
+              "p_tov": -0.010245161400961678
+            }
+          },
+          "teamB": {
+            "efg": 0.5409368307683738,
+            "tov": 0.11518806144149815,
+            "orb": 0.22970050542329642,
+            "ftr": 0.33329123097914437,
+            "sos": -0.47402304588076155,
+            "rest": 8,
+            "is_b2b": 0
+          }
+        },
+        "margins": {
+          "1-5": 0.1436076109675524,
+          "6-10": 0.06051081107531095,
+          "11+": 0.08993468115264158
+        },
+        "formA": [
+          {
+            "date": "2026-02-25",
+            "opponent": "MIL",
             "result": "L",
-            "score": "116-125",
+            "score": "116-118",
             "quarters": [
               29,
               29,
@@ -27555,42 +27031,138 @@ const analyticsData = {
             ]
           },
           {
-            "date": "2026-03-12",
-            "opponent": "OKC",
+            "date": "2026-02-27",
+            "opponent": "DET",
             "result": "L",
-            "score": "102-104",
+            "score": "119-122",
             "quarters": [
-              25,
-              25,
-              25,
-              25
+              29,
+              29,
+              29,
+              29
             ],
             "halves": [
-              50,
-              50
+              58,
+              58
             ]
           },
           {
-            "date": "2026-03-14",
-            "opponent": "WAS",
+            "date": "2026-03-01",
+            "opponent": "BKN",
             "result": "W",
-            "score": "111-100",
+            "score": "106-102",
             "quarters": [
-              27,
-              27,
-              27,
-              27
+              26,
+              26,
+              26,
+              26
             ],
             "halves": [
-              54,
-              54
+              52,
+              52
             ]
           },
           {
-            "date": "2026-03-16",
-            "opponent": "PHX",
+            "date": "2026-03-03",
+            "opponent": "DET",
             "result": "W",
-            "score": "120-112",
+            "score": "113-109",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-08",
+            "opponent": "BOS",
+            "result": "L",
+            "score": "98-109",
+            "quarters": [
+              24,
+              24,
+              24,
+              24
+            ],
+            "halves": [
+              48,
+              48
+            ]
+          },
+          {
+            "date": "2026-03-09",
+            "opponent": "PHI",
+            "result": "W",
+            "score": "115-101",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-11",
+            "opponent": "ORL",
+            "result": "L",
+            "score": "122-128",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          },
+          {
+            "date": "2026-03-13",
+            "opponent": "DAL",
+            "result": "W",
+            "score": "138-105",
+            "quarters": [
+              34,
+              34,
+              34,
+              34
+            ],
+            "halves": [
+              68,
+              68
+            ]
+          },
+          {
+            "date": "2026-03-15",
+            "opponent": "DAL",
+            "result": "L",
+            "score": "120-130",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          },
+          {
+            "date": "2026-03-17",
+            "opponent": "MIL",
+            "result": "W",
+            "score": "123-116",
             "quarters": [
               30,
               30,
@@ -27605,10 +27177,10 @@ const analyticsData = {
         ],
         "formB": [
           {
-            "date": "2026-02-26",
-            "opponent": "LAC",
-            "result": "W",
-            "score": "94-88",
+            "date": "2026-03-01",
+            "opponent": "DET",
+            "result": "L",
+            "score": "92-106",
             "quarters": [
               23,
               23,
@@ -27621,42 +27193,26 @@ const analyticsData = {
             ]
           },
           {
-            "date": "2026-03-01",
-            "opponent": "DEN",
-            "result": "W",
-            "score": "117-108",
-            "quarters": [
-              29,
-              29,
-              29,
-              29
-            ],
-            "halves": [
-              58,
-              58
-            ]
-          },
-          {
             "date": "2026-03-03",
-            "opponent": "MEM",
+            "opponent": "WAS",
             "result": "W",
-            "score": "117-110",
+            "score": "126-109",
             "quarters": [
-              29,
-              29,
-              29,
-              29
+              31,
+              31,
+              31,
+              31
             ],
             "halves": [
-              58,
-              58
+              62,
+              62
             ]
           },
           {
             "date": "2026-03-05",
-            "opponent": "TOR",
+            "opponent": "DAL",
             "result": "W",
-            "score": "115-107",
+            "score": "115-114",
             "quarters": [
               28,
               28,
@@ -27670,41 +27226,25 @@ const analyticsData = {
           },
           {
             "date": "2026-03-07",
-            "opponent": "ORL",
-            "result": "L",
-            "score": "92-119",
+            "opponent": "MIN",
+            "result": "W",
+            "score": "119-92",
             "quarters": [
-              23,
-              23,
-              23,
-              23
+              29,
+              29,
+              29,
+              29
             ],
             "halves": [
-              46,
-              46
+              58,
+              58
             ]
           },
           {
-            "date": "2026-03-10",
-            "opponent": "LAL",
-            "result": "L",
-            "score": "106-120",
-            "quarters": [
-              26,
-              26,
-              26,
-              26
-            ],
-            "halves": [
-              52,
-              52
-            ]
-          },
-          {
-            "date": "2026-03-11",
-            "opponent": "LAC",
-            "result": "L",
-            "score": "128-153",
+            "date": "2026-03-08",
+            "opponent": "MIL",
+            "result": "W",
+            "score": "130-91",
             "quarters": [
               32,
               32,
@@ -27717,362 +27257,414 @@ const analyticsData = {
             ]
           },
           {
-            "date": "2026-03-13",
-            "opponent": "GSW",
+            "date": "2026-03-11",
+            "opponent": "CLE",
             "result": "W",
-            "score": "127-117",
+            "score": "128-122",
             "quarters": [
-              31,
-              31,
-              31,
-              31
+              32,
+              32,
+              32,
+              32
             ],
             "halves": [
-              62,
-              62
+              64,
+              64
             ]
           },
           {
-            "date": "2026-03-15",
-            "opponent": "OKC",
-            "result": "L",
-            "score": "103-116",
+            "date": "2026-03-12",
+            "opponent": "WAS",
+            "result": "W",
+            "score": "136-131",
             "quarters": [
-              25,
-              25,
-              25,
-              25
+              34,
+              34,
+              34,
+              34
             ],
             "halves": [
-              50,
-              50
+              68,
+              68
+            ]
+          },
+          {
+            "date": "2026-03-14",
+            "opponent": "MIA",
+            "result": "W",
+            "score": "121-117",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          },
+          {
+            "date": "2026-03-16",
+            "opponent": "ATL",
+            "result": "L",
+            "score": "112-124",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
             ]
           },
           {
             "date": "2026-03-17",
-            "opponent": "PHX",
-            "result": "W",
-            "score": "116-104",
+            "opponent": "OKC",
+            "result": "L",
+            "score": "108-113",
             "quarters": [
-              29,
-              29,
-              29,
-              29
+              27,
+              27,
+              27,
+              27
             ],
             "halves": [
-              58,
-              58
+              54,
+              54
             ]
           }
         ],
-        "shap_explanation": {},
-        "match_id": "0022501035",
+        "shap_explanation": {
+          "adj_ortg_10": 0.040077240473035264,
+          "adj_drtg_10": -0.027279208634756743,
+          "adj_pace_10": 0.001160332532568873,
+          "net_rating": -0.008729450945107829,
+          "roll_efg_pct_10": 0.005539915350035471,
+          "roll_tov_pct_10": 0.023080589511714465,
+          "roll_orb_pct_10": 0.0018313172534189447,
+          "roll_ft_rate_10": -0.0009541118575097585,
+          "sos_10": -0.003535325969338672,
+          "is_b2b": 0.0004625228086582922,
+          "p_pts": -0.003211519695524885,
+          "p_reb": 0.016813411280780777,
+          "p_ast": -0.00426100507648485,
+          "p_stl": 0.011299947381731599,
+          "p_blk": 0.0021331312187277264,
+          "p_tov": -0.010245161400961678,
+          "p_pf": -0.006562208187274337,
+          "p_pm": -0.0029495902437430745,
+          "p_usage": 0.01849538425386541,
+          "p_eff": 0.003808744449309174,
+          "opp_adj_ortg_10": -0.02422018068541469,
+          "opp_adj_drtg_10": -0.04184227676901202,
+          "opp_sos_10": 0.0031573863078681085,
+          "opp_is_b2b": -0.0009145741727832047
+        },
+        "match_id": "0022501049",
         "time": "TBD"
       },
-      "ml_prob_A": 0.5966939834029412,
-      "mc_win_A": 0.622,
-      "shap_explanation": {},
+      "ml_prob_A": 0.5170556877591487,
+      "mc_win_A": 0.4466,
+      "shap_explanation": {
+        "adj_ortg_10": 0.040077240473035264,
+        "adj_drtg_10": -0.027279208634756743,
+        "adj_pace_10": 0.001160332532568873,
+        "net_rating": -0.008729450945107829,
+        "roll_efg_pct_10": 0.005539915350035471,
+        "roll_tov_pct_10": 0.023080589511714465,
+        "roll_orb_pct_10": 0.0018313172534189447,
+        "roll_ft_rate_10": -0.0009541118575097585,
+        "sos_10": -0.003535325969338672,
+        "is_b2b": 0.0004625228086582922,
+        "p_pts": -0.003211519695524885,
+        "p_reb": 0.016813411280780777,
+        "p_ast": -0.00426100507648485,
+        "p_stl": 0.011299947381731599,
+        "p_blk": 0.0021331312187277264,
+        "p_tov": -0.010245161400961678,
+        "p_pf": -0.006562208187274337,
+        "p_pm": -0.0029495902437430745,
+        "p_usage": 0.01849538425386541,
+        "p_eff": 0.003808744449309174,
+        "opp_adj_ortg_10": -0.02422018068541469,
+        "opp_adj_drtg_10": -0.04184227676901202,
+        "opp_sos_10": 0.0031573863078681085,
+        "opp_is_b2b": -0.0009145741727832047
+      },
       "is_b2b_home": 0,
       "is_b2b_away": 0,
-      "rest_home": 7,
-      "rest_away": 6
+      "rest_home": 8,
+      "rest_away": 8
     },
     {
-      "matchId": "0022501036",
-      "matchTime": 1774227600,
-      "gameStatus": "9:00 pm ET",
+      "matchId": "0022501050",
+      "matchTime": 1774407600,
+      "gameStatus": "11:00 pm ET",
       "homeTeam": "PHX",
-      "awayTeam": "TOR",
+      "awayTeam": "DEN",
       "homeName": "Phoenix Suns",
-      "awayName": "Toronto Raptors",
+      "awayName": "Denver Nuggets",
       "prediction": {
         "main": {
-          "ptsA": 115.381492729594,
-          "ptsB": 113.82282525799859,
-          "total": 229.2043179875926,
-          "spread": -1.5586674715954132,
-          "win_prob_A": 57.14908540192146,
-          "ml_prob_A": 0.5998057064766078,
-          "mc_win_A": 0.5338,
+          "ptsA": 118.61989012246765,
+          "ptsB": 118.1472701441821,
+          "total": 236.76716026664974,
+          "spread": -0.47261997828555025,
+          "win_prob_A": 58.611513887046065,
+          "ml_prob_A": 0.5891783783539806,
+          "mc_win_A": 0.4984,
           "market": {
             "ml": {
-              "home": "2.24",
-              "away": "1.68"
+              "home": "2.90",
+              "away": "1.43"
             },
             "spread": {
               "hdp": 1.5,
-              "home": "2.03",
-              "away": "1.73"
+              "home": "2.58",
+              "away": "1.47"
             },
             "total": {
-              "hdp": 198.5,
-              "over": "1.10",
-              "under": "6.19"
+              "hdp": 212.5,
+              "over": "1.11",
+              "under": "5.78"
             },
             "props": [
               {
-                "label": "Immanuel Quickley (Assists)",
-                "hdp": 5.5,
-                "over": "1.72",
-                "under": "2.06"
-              },
-              {
-                "label": "Devin Booker (Assists)",
-                "hdp": 5.5,
-                "over": "2.18",
+                "label": "Aaron Gordon (Assists)",
+                "hdp": 2.5,
+                "over": "2.16",
                 "under": "1.65"
               },
               {
                 "label": "Collin Gillespie (Assists)",
                 "hdp": 4.5,
-                "over": "1.96",
-                "under": "1.79"
-              },
-              {
-                "label": "Brandon Ingram (Assists)",
-                "hdp": 3.5,
-                "over": "1.79",
-                "under": "1.97"
-              },
-              {
-                "label": "Oso Ighodaro (Assists)",
-                "hdp": 3.5,
-                "over": "2.15",
-                "under": "1.66"
-              },
-              {
-                "label": "Jalen Green (Assists)",
-                "hdp": 3.5,
-                "over": "2.17",
-                "under": "1.65"
-              },
-              {
-                "label": "RJ Barrett (Assists)",
-                "hdp": 3.5,
-                "over": "2.17",
-                "under": "1.65"
-              },
-              {
-                "label": "Scottie Barnes (Assists)",
-                "hdp": 4.5,
-                "over": "1.74",
-                "under": "2.03"
-              },
-              {
-                "label": "Brandon Ingram (Rebounds)",
-                "hdp": 5.5,
-                "over": "2.00",
-                "under": "1.76"
-              },
-              {
-                "label": "Collin Gillespie (Rebounds)",
-                "hdp": 4.5,
-                "over": "2.11",
+                "over": "2.12",
                 "under": "1.68"
               },
               {
-                "label": "RJ Barrett (Rebounds)",
-                "hdp": 5.5,
-                "over": "1.76",
-                "under": "2.00"
+                "label": "Christian Braun (Assists)",
+                "hdp": 2.5,
+                "over": "1.67",
+                "under": "2.13"
               },
               {
-                "label": "Sandro Mamukelashvili (Rebounds)",
-                "hdp": 3.5,
+                "label": "Jamal Murray (Assists)",
+                "hdp": 6.5,
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "Nikola Joki\u0107 (Assists)",
+                "hdp": 11.5,
+                "over": "1.97",
+                "under": "1.78"
+              },
+              {
+                "label": "Devin Booker (Assists)",
+                "hdp": 6.5,
                 "over": "1.93",
                 "under": "1.81"
               },
               {
-                "label": "Immanuel Quickley (Rebounds)",
+                "label": "Grayson Allen (Assists)",
                 "hdp": 3.5,
-                "over": "1.73",
-                "under": "2.04"
-              },
-              {
-                "label": "Jalen Green (Rebounds)",
-                "hdp": 4.5,
-                "over": "2.14",
-                "under": "1.66"
-              },
-              {
-                "label": "Scottie Barnes (Rebounds)",
-                "hdp": 7.5,
-                "over": "2.09",
-                "under": "1.70"
-              },
-              {
-                "label": "Oso Ighodaro (Rebounds)",
-                "hdp": 6.5,
-                "over": "1.68",
-                "under": "2.11"
-              },
-              {
-                "label": "Jakob Poeltl (Rebounds)",
-                "hdp": 8.5,
-                "over": "1.83",
-                "under": "1.91"
-              },
-              {
-                "label": "Devin Booker (Rebounds)",
-                "hdp": 3.5,
-                "over": "1.63",
-                "under": "2.21"
-              },
-              {
-                "label": "Royce O'Neale (Rebounds)",
-                "hdp": 4.5,
-                "over": "1.94",
-                "under": "1.80"
-              },
-              {
-                "label": "Scottie Barnes (Points)",
-                "hdp": 16.5,
-                "over": "1.81",
-                "under": "1.96"
-              },
-              {
-                "label": "Ja'Kobe Walter (Points)",
-                "hdp": 6.5,
-                "over": "2.03",
-                "under": "1.76"
-              },
-              {
-                "label": "Immanuel Quickley (Points)",
-                "hdp": 15.5,
-                "over": "1.82",
-                "under": "1.96"
-              },
-              {
-                "label": "Brandon Ingram (Points)",
-                "hdp": 20.5,
-                "over": "1.81",
-                "under": "1.97"
-              },
-              {
-                "label": "Sandro Mamukelashvili (Points)",
-                "hdp": 8.5,
-                "over": "2.00",
-                "under": "1.78"
-              },
-              {
-                "label": "Jakob Poeltl (Points)",
-                "hdp": 11.5,
-                "over": "1.85",
-                "under": "1.92"
-              },
-              {
-                "label": "Oso Ighodaro (Points)",
-                "hdp": 8.5,
-                "over": "2.02",
-                "under": "1.77"
-              },
-              {
-                "label": "Devin Booker (Points)",
-                "hdp": 25.5,
-                "over": "1.81",
-                "under": "1.97"
-              },
-              {
-                "label": "RJ Barrett (Points)",
-                "hdp": 19.5,
-                "over": "1.87",
-                "under": "1.91"
-              },
-              {
-                "label": "Collin Gillespie (Points)",
-                "hdp": 12.5,
-                "over": "1.85",
-                "under": "1.93"
-              },
-              {
-                "label": "Jalen Green (Points)",
-                "hdp": 21.5,
-                "over": "1.89",
-                "under": "1.88"
-              },
-              {
-                "label": "Royce O'Neale (Points)",
-                "hdp": 8.5,
-                "over": "2.03",
-                "under": "1.76"
-              },
-              {
-                "label": "Grayson Allen (Points)",
-                "hdp": 13.5,
-                "over": "1.82",
-                "under": "1.96"
-              },
-              {
-                "label": "Scottie Barnes (Blocks)",
-                "hdp": 1.5,
-                "over": "2.24",
-                "under": "1.61"
-              },
-              {
-                "label": "Jalen Green (Steals)",
-                "hdp": 1.5,
-                "over": "2.49",
-                "under": "1.50"
-              },
-              {
-                "label": "Scottie Barnes (Steals)",
-                "hdp": 1.5,
-                "over": "2.24",
-                "under": "1.61"
-              },
-              {
-                "label": "Immanuel Quickley (Steals)",
-                "hdp": 1.5,
-                "over": "2.21",
+                "over": "2.23",
                 "under": "1.62"
               },
               {
-                "label": "Scottie Barnes (Steals+Blocks)",
+                "label": "Royce O'Neale (Assists)",
                 "hdp": 2.5,
-                "over": "1.77",
-                "under": "1.98"
-              },
-              {
-                "label": "Immanuel Quickley (3 Point FG)",
-                "hdp": 2.5,
-                "over": "2.01",
+                "over": "2.02",
                 "under": "1.75"
               },
               {
-                "label": "RJ Barrett (3 Point FG)",
-                "hdp": 1.5,
-                "over": "1.74",
-                "under": "2.03"
-              },
-              {
-                "label": "Devin Booker (3 Point FG)",
+                "label": "Jalen Green (Assists)",
                 "hdp": 2.5,
-                "over": "2.18",
-                "under": "1.65"
+                "over": "1.58",
+                "under": "2.29"
               },
               {
-                "label": "Collin Gillespie (3 Point FG)",
+                "label": "Cameron Johnson (Assists)",
                 "hdp": 2.5,
-                "over": "1.63",
-                "under": "2.20"
-              },
-              {
-                "label": "Brandon Ingram (3 Point FG)",
-                "hdp": 1.5,
-                "over": "2.03",
-                "under": "1.74"
-              },
-              {
-                "label": "Jalen Green (3 Point FG)",
-                "hdp": 3.5,
                 "over": "2.29",
                 "under": "1.59"
               },
               {
+                "label": "Oso Ighodaro (Assists)",
+                "hdp": 2.5,
+                "over": "1.72",
+                "under": "2.05"
+              },
+              {
+                "label": "Cameron Johnson (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "Christian Braun (Rebounds)",
+                "hdp": 5.5,
+                "over": "2.11",
+                "under": "1.68"
+              },
+              {
+                "label": "Tim Hardaway Jr. (Rebounds)",
+                "hdp": 2.5,
+                "over": "1.93",
+                "under": "1.82"
+              },
+              {
+                "label": "Collin Gillespie (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.67",
+                "under": "2.14"
+              },
+              {
+                "label": "Jalen Green (Rebounds)",
+                "hdp": 4.5,
+                "over": "2.10",
+                "under": "1.69"
+              },
+              {
+                "label": "Aaron Gordon (Rebounds)",
+                "hdp": 5.5,
+                "over": "2.16",
+                "under": "1.65"
+              },
+              {
+                "label": "Oso Ighodaro (Rebounds)",
+                "hdp": 6.5,
+                "over": "1.85",
+                "under": "1.90"
+              },
+              {
+                "label": "Rasheer Fleming (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.65",
+                "under": "2.16"
+              },
+              {
+                "label": "Grayson Allen (Rebounds)",
+                "hdp": 2.5,
+                "over": "2.03",
+                "under": "1.74"
+              },
+              {
+                "label": "Nikola Joki\u0107 (Rebounds)",
+                "hdp": 13.5,
+                "over": "1.88",
+                "under": "1.86"
+              },
+              {
+                "label": "Jamal Murray (Rebounds)",
+                "hdp": 4.5,
+                "over": "2.15",
+                "under": "1.66"
+              },
+              {
+                "label": "Royce O'Neale (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.97",
+                "under": "1.78"
+              },
+              {
+                "label": "Devin Booker (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.71",
+                "under": "2.07"
+              },
+              {
+                "label": "Royce O'Neale (Points)",
+                "hdp": 9.5,
+                "over": "2.01",
+                "under": "1.78"
+              },
+              {
+                "label": "Aaron Gordon (Points)",
+                "hdp": 15.5,
+                "over": "1.88",
+                "under": "1.88"
+              },
+              {
+                "label": "Tim Hardaway Jr. (Points)",
+                "hdp": 11.5,
+                "over": "1.87",
+                "under": "1.90"
+              },
+              {
+                "label": "Jalen Green (Points)",
+                "hdp": 22.5,
+                "over": "1.87",
+                "under": "1.90"
+              },
+              {
+                "label": "Rasheer Fleming (Points)",
+                "hdp": 6.5,
+                "over": "1.76",
+                "under": "2.03"
+              },
+              {
+                "label": "Christian Braun (Points)",
+                "hdp": 11.5,
+                "over": "1.93",
+                "under": "1.85"
+              },
+              {
+                "label": "Cameron Johnson (Points)",
+                "hdp": 11.5,
+                "over": "1.93",
+                "under": "1.85"
+              },
+              {
+                "label": "Oso Ighodaro (Points)",
+                "hdp": 7.5,
+                "over": "1.71",
+                "under": "2.11"
+              },
+              {
+                "label": "Jamal Murray (Points)",
+                "hdp": 23.5,
+                "over": "1.85",
+                "under": "1.93"
+              },
+              {
+                "label": "Devin Booker (Points)",
+                "hdp": 25.5,
+                "over": "1.87",
+                "under": "1.91"
+              },
+              {
+                "label": "Nikola Joki\u0107 (Points)",
+                "hdp": 28.5,
+                "over": "1.89",
+                "under": "1.88"
+              },
+              {
+                "label": "Collin Gillespie (Points)",
+                "hdp": 13.5,
+                "over": "1.95",
+                "under": "1.82"
+              },
+              {
+                "label": "Grayson Allen (Points)",
+                "hdp": 13.5,
+                "over": "1.83",
+                "under": "1.95"
+              },
+              {
+                "label": "Nikola Joki\u0107 (Steals)",
+                "hdp": 1.5,
+                "over": "2.10",
+                "under": "1.68"
+              },
+              {
                 "label": "Grayson Allen (3 Point FG)",
                 "hdp": 2.5,
-                "over": "1.70",
-                "under": "2.09"
+                "over": "1.68",
+                "under": "2.11"
               },
               {
                 "label": "Royce O'Neale (3 Point FG)",
@@ -28081,269 +27673,398 @@ const analyticsData = {
                 "under": "1.62"
               },
               {
-                "label": "Oso Ighodaro (Pts+Asts)",
-                "hdp": 11.5,
-                "over": "1.83",
-                "under": "1.91"
-              },
-              {
-                "label": "Brandon Ingram (Pts+Asts)",
-                "hdp": 24.5,
-                "over": "1.83",
+                "label": "Jamal Murray (3 Point FG)",
+                "hdp": 2.5,
+                "over": "1.81",
                 "under": "1.93"
               },
               {
-                "label": "RJ Barrett (Pts+Asts)",
-                "hdp": 23.5,
-                "over": "1.96",
-                "under": "1.79"
+                "label": "Nikola Joki\u0107 (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.70",
+                "under": "2.08"
               },
               {
-                "label": "Immanuel Quickley (Pts+Asts)",
-                "hdp": 21.5,
-                "over": "1.79",
-                "under": "1.95"
-              },
-              {
-                "label": "Collin Gillespie (Pts+Asts)",
-                "hdp": 17.5,
-                "over": "1.93",
-                "under": "1.82"
-              },
-              {
-                "label": "Jalen Green (Pts+Asts)",
-                "hdp": 24.5,
-                "over": "1.82",
-                "under": "1.93"
-              },
-              {
-                "label": "Devin Booker (Pts+Asts)",
-                "hdp": 31.5,
-                "over": "1.89",
-                "under": "1.85"
-              },
-              {
-                "label": "Scottie Barnes (Pts+Asts)",
-                "hdp": 21.5,
-                "over": "1.84",
-                "under": "1.90"
-              },
-              {
-                "label": "Brandon Ingram (Rebs+Asts)",
-                "hdp": 9.5,
-                "over": "2.07",
-                "under": "1.71"
-              },
-              {
-                "label": "Immanuel Quickley (Rebs+Asts)",
-                "hdp": 9.5,
-                "over": "1.81",
-                "under": "1.94"
-              },
-              {
-                "label": "Scottie Barnes (Rebs+Asts)",
-                "hdp": 12.5,
-                "over": "2.03",
-                "under": "1.74"
-              },
-              {
-                "label": "Devin Booker (Rebs+Asts)",
-                "hdp": 9.5,
-                "over": "2.03",
-                "under": "1.74"
-              },
-              {
-                "label": "Collin Gillespie (Rebs+Asts)",
-                "hdp": 8.5,
-                "over": "1.81",
-                "under": "1.94"
-              },
-              {
-                "label": "Oso Ighodaro (Rebs+Asts)",
-                "hdp": 10.5,
-                "over": "1.96",
-                "under": "1.79"
-              },
-              {
-                "label": "Jakob Poeltl (Rebs+Asts)",
-                "hdp": 10.5,
-                "over": "1.75",
-                "under": "2.02"
-              },
-              {
-                "label": "RJ Barrett (Rebs+Asts)",
-                "hdp": 9.5,
-                "over": "2.07",
-                "under": "1.71"
-              },
-              {
-                "label": "Jalen Green (Rebs+Asts)",
-                "hdp": 7.5,
-                "over": "1.88",
-                "under": "1.86"
-              },
-              {
-                "label": "Jalen Green (Pts+Rebs+Asts)",
-                "hdp": 29.5,
-                "over": "1.93",
-                "under": "1.82"
-              },
-              {
-                "label": "Collin Gillespie (Pts+Rebs+Asts)",
-                "hdp": 21.5,
-                "over": "1.86",
-                "under": "1.88"
-              },
-              {
-                "label": "Scottie Barnes (Pts+Rebs+Asts)",
-                "hdp": 29.5,
+                "label": "Aaron Gordon (3 Point FG)",
+                "hdp": 1.5,
                 "over": "1.94",
                 "under": "1.81"
               },
               {
-                "label": "Immanuel Quickley (Pts+Rebs+Asts)",
-                "hdp": 25.5,
-                "over": "1.81",
-                "under": "1.94"
+                "label": "Devin Booker (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.53",
+                "under": "2.41"
               },
               {
-                "label": "Devin Booker (Pts+Rebs+Asts)",
-                "hdp": 35.5,
-                "over": "1.87",
-                "under": "1.88"
+                "label": "Cameron Johnson (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.69",
+                "under": "2.10"
               },
               {
-                "label": "RJ Barrett (Pts+Rebs+Asts)",
-                "hdp": 29.5,
-                "over": "1.95",
-                "under": "1.80"
+                "label": "Christian Braun (3 Point FG)",
+                "hdp": 0.5,
+                "over": "1.44",
+                "under": "2.71"
               },
               {
-                "label": "Oso Ighodaro (Pts+Rebs+Asts)",
+                "label": "Tim Hardaway Jr. (3 Point FG)",
+                "hdp": 2.5,
+                "over": "2.20",
+                "under": "1.63"
+              },
+              {
+                "label": "Collin Gillespie (3 Point FG)",
+                "hdp": 2.5,
+                "over": "1.63",
+                "under": "2.19"
+              },
+              {
+                "label": "Jalen Green (3 Point FG)",
+                "hdp": 2.5,
+                "over": "1.76",
+                "under": "2.00"
+              },
+              {
+                "label": "Oso Ighodaro (Pts+Asts)",
+                "hdp": 10.5,
+                "over": "1.76",
+                "under": "2.00"
+              },
+              {
+                "label": "Aaron Gordon (Pts+Asts)",
                 "hdp": 18.5,
-                "over": "1.79",
-                "under": "1.96"
+                "over": "1.97",
+                "under": "1.78"
               },
               {
-                "label": "Brandon Ingram (Pts+Rebs+Asts)",
-                "hdp": 30.5,
-                "over": "1.93",
-                "under": "1.82"
-              },
-              {
-                "label": "Sandro Mamukelashvili (Pts+Rebs)",
-                "hdp": 11.5,
-                "over": "1.82",
-                "under": "1.93"
-              },
-              {
-                "label": "Oso Ighodaro (Pts+Rebs)",
-                "hdp": 15.5,
-                "over": "1.89",
-                "under": "1.85"
-              },
-              {
-                "label": "Jakob Poeltl (Pts+Rebs)",
-                "hdp": 20.5,
-                "over": "1.93",
-                "under": "1.82"
-              },
-              {
-                "label": "RJ Barrett (Pts+Rebs)",
-                "hdp": 25.5,
-                "over": "1.85",
-                "under": "1.89"
-              },
-              {
-                "label": "Immanuel Quickley (Pts+Rebs)",
-                "hdp": 19.5,
-                "over": "1.81",
-                "under": "1.93"
-              },
-              {
-                "label": "Brandon Ingram (Pts+Rebs)",
-                "hdp": 26.5,
-                "over": "1.88",
-                "under": "1.86"
-              },
-              {
-                "label": "Devin Booker (Pts+Rebs)",
-                "hdp": 30.5,
-                "over": "1.93",
+                "label": "Christian Braun (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "1.91",
                 "under": "1.83"
               },
               {
-                "label": "Collin Gillespie (Pts+Rebs)",
+                "label": "Grayson Allen (Pts+Asts)",
                 "hdp": 17.5,
-                "over": "1.97",
+                "over": "1.96",
                 "under": "1.79"
               },
               {
-                "label": "Scottie Barnes (Pts+Rebs)",
-                "hdp": 24.5,
-                "over": "1.95",
-                "under": "1.80"
+                "label": "Jamal Murray (Pts+Asts)",
+                "hdp": 30.5,
+                "over": "1.83",
+                "under": "1.92"
               },
               {
-                "label": "Jalen Green (Pts+Rebs)",
+                "label": "Collin Gillespie (Pts+Asts)",
+                "hdp": 17.5,
+                "over": "1.87",
+                "under": "1.87"
+              },
+              {
+                "label": "Cameron Johnson (Pts+Asts)",
+                "hdp": 13.5,
+                "over": "1.80",
+                "under": "1.95"
+              },
+              {
+                "label": "Jalen Green (Pts+Asts)",
                 "hdp": 25.5,
                 "over": "1.83",
                 "under": "1.92"
               },
               {
-                "label": "Royce O'Neale (Pts+Rebs)",
-                "hdp": 12.5,
+                "label": "Nikola Joki\u0107 (Pts+Asts)",
+                "hdp": 40.5,
+                "over": "1.93",
+                "under": "1.82"
+              },
+              {
+                "label": "Devin Booker (Pts+Asts)",
+                "hdp": 32.5,
                 "over": "1.89",
                 "under": "1.85"
               },
               {
-                "label": "Collin Gillespie (Double+Double)",
-                "over": "N/A",
+                "label": "Royce O'Neale (Pts+Asts)",
+                "hdp": 11.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "Aaron Gordon (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "Cameron Johnson (Rebs+Asts)",
+                "hdp": 5.5,
+                "over": "1.75",
+                "under": "2.02"
+              },
+              {
+                "label": "Nikola Joki\u0107 (Rebs+Asts)",
+                "hdp": 25.5,
+                "over": "1.99",
+                "under": "1.77"
+              },
+              {
+                "label": "Devin Booker (Rebs+Asts)",
+                "hdp": 10.5,
+                "over": "1.95",
+                "under": "1.80"
+              },
+              {
+                "label": "Jamal Murray (Rebs+Asts)",
+                "hdp": 10.5,
+                "over": "1.79",
+                "under": "1.96"
+              },
+              {
+                "label": "Collin Gillespie (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "2.05",
+                "under": "1.72"
+              },
+              {
+                "label": "Christian Braun (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "2.05",
+                "under": "1.72"
+              },
+              {
+                "label": "Grayson Allen (Rebs+Asts)",
+                "hdp": 5.5,
+                "over": "1.79",
+                "under": "1.96"
+              },
+              {
+                "label": "Royce O'Neale (Rebs+Asts)",
+                "hdp": 6.5,
+                "over": "1.73",
+                "under": "2.04"
+              },
+              {
+                "label": "Oso Ighodaro (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "Jalen Green (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.99",
+                "under": "1.76"
+              },
+              {
+                "label": "Jamal Murray (Pts+Rebs+Asts)",
+                "hdp": 35.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Christian Braun (Pts+Rebs+Asts)",
+                "hdp": 19.5,
+                "over": "1.82",
+                "under": "1.93"
+              },
+              {
+                "label": "Nikola Joki\u0107 (Pts+Rebs+Asts)",
+                "hdp": 53.5,
+                "over": "1.83",
+                "under": "1.91"
+              },
+              {
+                "label": "Royce O'Neale (Pts+Rebs+Asts)",
+                "hdp": 16.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Jalen Green (Pts+Rebs+Asts)",
+                "hdp": 30.5,
+                "over": "1.95",
+                "under": "1.80"
+              },
+              {
+                "label": "Cameron Johnson (Pts+Rebs+Asts)",
+                "hdp": 17.5,
+                "over": "1.88",
+                "under": "1.86"
+              },
+              {
+                "label": "Grayson Allen (Pts+Rebs+Asts)",
+                "hdp": 19.5,
+                "over": "1.88",
+                "under": "1.87"
+              },
+              {
+                "label": "Devin Booker (Pts+Rebs+Asts)",
+                "hdp": 36.5,
+                "over": "1.90",
+                "under": "1.85"
+              },
+              {
+                "label": "Aaron Gordon (Pts+Rebs+Asts)",
+                "hdp": 23.5,
+                "over": "1.92",
+                "under": "1.83"
+              },
+              {
+                "label": "Collin Gillespie (Pts+Rebs+Asts)",
+                "hdp": 21.5,
+                "over": "1.85",
+                "under": "1.88"
+              },
+              {
+                "label": "Oso Ighodaro (Pts+Rebs+Asts)",
+                "hdp": 17.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "Rasheer Fleming (Pts+Rebs)",
+                "hdp": 10.5,
+                "over": "1.75",
+                "under": "2.01"
+              },
+              {
+                "label": "Cameron Johnson (Pts+Rebs)",
+                "hdp": 15.5,
+                "over": "1.96",
+                "under": "1.79"
+              },
+              {
+                "label": "Aaron Gordon (Pts+Rebs)",
+                "hdp": 20.5,
+                "over": "1.80",
+                "under": "1.95"
+              },
+              {
+                "label": "Tim Hardaway Jr. (Pts+Rebs)",
+                "hdp": 14.5,
+                "over": "1.92",
+                "under": "1.83"
+              },
+              {
+                "label": "Jamal Murray (Pts+Rebs)",
+                "hdp": 28.5,
+                "over": "1.95",
+                "under": "1.80"
+              },
+              {
+                "label": "Grayson Allen (Pts+Rebs)",
+                "hdp": 16.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Devin Booker (Pts+Rebs)",
+                "hdp": 29.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "Christian Braun (Pts+Rebs)",
+                "hdp": 16.5,
+                "over": "1.83",
+                "under": "1.92"
+              },
+              {
+                "label": "Royce O'Neale (Pts+Rebs)",
+                "hdp": 13.5,
+                "over": "1.85",
+                "under": "1.90"
+              },
+              {
+                "label": "Collin Gillespie (Pts+Rebs)",
+                "hdp": 17.5,
+                "over": "1.93",
+                "under": "1.82"
+              },
+              {
+                "label": "Oso Ighodaro (Pts+Rebs)",
+                "hdp": 14.5,
+                "over": "1.83",
+                "under": "1.92"
+              },
+              {
+                "label": "Nikola Joki\u0107 (Pts+Rebs)",
+                "hdp": 42.5,
+                "over": "1.92",
+                "under": "1.83"
+              },
+              {
+                "label": "Jalen Green (Pts+Rebs)",
+                "hdp": 26.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "Jamal Murray (Double+Double)",
+                "over": "4.23",
                 "under": "N/A"
               },
               {
-                "label": "Jakob Poeltl (Double+Double)",
-                "over": "N/A",
+                "label": "Royce O'Neale (Double+Double)",
+                "over": "30.00",
+                "under": "N/A"
+              },
+              {
+                "label": "Collin Gillespie (Double+Double)",
+                "over": "22.00",
+                "under": "N/A"
+              },
+              {
+                "label": "Nikola Joki\u0107 (Double+Double)",
+                "over": "1.05",
                 "under": "N/A"
               },
               {
                 "label": "Devin Booker (Double+Double)",
-                "over": "N/A",
-                "under": "N/A"
-              },
-              {
-                "label": "RJ Barrett (Double+Double)",
-                "over": "N/A",
-                "under": "N/A"
-              },
-              {
-                "label": "Scottie Barnes (Double+Double)",
-                "over": "N/A",
+                "over": "5.77",
                 "under": "N/A"
               },
               {
                 "label": "Oso Ighodaro (Double+Double)",
-                "over": "N/A",
+                "over": "9.80",
                 "under": "N/A"
               },
               {
-                "label": "Immanuel Quickley (Double+Double)",
-                "over": "N/A",
+                "label": "Cameron Johnson (Double+Double)",
+                "over": "51.00",
+                "under": "N/A"
+              },
+              {
+                "label": "Aaron Gordon (Double+Double)",
+                "over": "15.40",
                 "under": "N/A"
               },
               {
                 "label": "Jalen Green (Double+Double)",
-                "over": "N/A",
+                "over": "25.00",
                 "under": "N/A"
               },
               {
-                "label": "Brandon Ingram (Double+Double)",
-                "over": "N/A",
+                "label": "Grayson Allen (Double+Double)",
+                "over": "57.00",
                 "under": "N/A"
               },
               {
-                "label": "Scottie Barnes (Triple+Double)",
-                "over": "N/A",
+                "label": "Christian Braun (Double+Double)",
+                "over": "17.20",
+                "under": "N/A"
+              },
+              {
+                "label": "Jamal Murray (Triple+Double)",
+                "over": "38.00",
+                "under": "N/A"
+              },
+              {
+                "label": "Nikola Joki\u0107 (Triple+Double)",
+                "over": "1.54",
                 "under": "N/A"
               }
             ]
@@ -28351,48 +28072,48 @@ const analyticsData = {
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
-          "recommended_bet": 5.373076923076944,
+          "recommended_bet": 0.0,
           "latent_strength_A": -1.164924748401413,
-          "latent_strength_B": 1.9461049922231322,
-          "form_state_A": 1,
-          "form_state_B": 1,
+          "latent_strength_B": 5.837411202872655,
+          "form_state_A": 0,
+          "form_state_B": 2,
           "entropy_A": 3.3219280948873626
         },
         "halves": {
-          "h1_ptsA": 57.690746364797,
-          "h1_ptsB": 56.911412628999294,
-          "h2_ptsA": 57.690746364797,
-          "h2_ptsB": 56.911412628999294
+          "h1_ptsA": 59.309945061233826,
+          "h1_ptsB": 59.07363507209105,
+          "h2_ptsA": 59.309945061233826,
+          "h2_ptsB": 59.07363507209105
         },
         "quarters": [
           {
             "q": 1,
-            "ptsA": 28.8453731823985,
-            "ptsB": 28.455706314499647
+            "ptsA": 29.654972530616913,
+            "ptsB": 29.536817536045525
           },
           {
             "q": 2,
-            "ptsA": 28.8453731823985,
-            "ptsB": 28.455706314499647
+            "ptsA": 29.654972530616913,
+            "ptsB": 29.536817536045525
           },
           {
             "q": 3,
-            "ptsA": 28.8453731823985,
-            "ptsB": 28.455706314499647
+            "ptsA": 29.654972530616913,
+            "ptsB": 29.536817536045525
           },
           {
             "q": 4,
-            "ptsA": 28.8453731823985,
-            "ptsB": 28.455706314499647
+            "ptsA": 29.654972530616913,
+            "ptsB": 29.536817536045525
           }
         ],
         "players": [
           {
             "player": "Amir Coffey",
             "team": "PHX",
-            "proj_pts": 3.7600604807244036,
-            "proj_reb": 1.8158306787991756,
-            "proj_ast": 0.807035857244078,
+            "proj_pts": 3.8985015639867275,
+            "proj_reb": 1.8517565717514763,
+            "proj_ast": 0.823002920778434,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -28400,35 +28121,35 @@ const analyticsData = {
           {
             "player": "Collin Gillespie",
             "team": "PHX",
-            "proj_pts": 10.884385602096959,
-            "proj_reb": 4.741335661308958,
-            "proj_ast": 5.144853589930997,
+            "proj_pts": 11.285136106277369,
+            "proj_reb": 4.8351421595733,
+            "proj_ast": 5.246643619962516,
             "status": "Active",
             "injury": "",
             "market_line": null,
             "market_ast": 4.5,
-            "market_reb": 4.5,
-            "market_pts": 12.5
+            "market_reb": 3.5,
+            "market_pts": 13.5
           },
           {
             "player": "Devin Booker",
             "team": "PHX",
-            "proj_pts": 28.299402565452095,
-            "proj_reb": 4.236938250531409,
-            "proj_ast": 4.337817732686919,
+            "proj_pts": 29.34135387632116,
+            "proj_reb": 4.320765334086778,
+            "proj_ast": 4.423640699184082,
             "status": "Active",
             "injury": "",
             "market_line": null,
-            "market_ast": 5.5,
+            "market_ast": 6.5,
             "market_reb": 3.5,
             "market_pts": 25.5
           },
           {
             "player": "Dillon Brooks",
             "team": "PHX",
-            "proj_pts": 22.659311844365487,
-            "proj_reb": 4.236938250531409,
-            "proj_ast": 2.017589643110195,
+            "proj_pts": 23.493601530341067,
+            "proj_reb": 4.320765334086778,
+            "proj_ast": 2.0575073019460848,
             "status": "Out",
             "injury": "Hand",
             "market_line": null
@@ -28436,20 +28157,22 @@ const analyticsData = {
           {
             "player": "Grayson Allen",
             "team": "PHX",
-            "proj_pts": 17.90976176345045,
-            "proj_reb": 2.9255049825097825,
-            "proj_ast": 4.640456179153448,
+            "proj_pts": 18.56917850214731,
+            "proj_reb": 2.983385587821823,
+            "proj_ast": 4.732266794475994,
             "status": "Questionable",
             "injury": "Knee",
             "market_line": null,
+            "market_ast": 3.5,
+            "market_reb": 2.5,
             "market_pts": 13.5
           },
           {
             "player": "Haywood Highsmith",
             "team": "PHX",
-            "proj_pts": 5.4421928010484795,
-            "proj_reb": 2.1857221133693776,
-            "proj_ast": 1.1769272918142806,
+            "proj_pts": 5.642568053138684,
+            "proj_reb": 2.228966243774925,
+            "proj_ast": 1.200212592801883,
             "status": "Questionable",
             "injury": "Knee",
             "market_line": null
@@ -28457,9 +28180,9 @@ const analyticsData = {
           {
             "player": "Isaiah Livers",
             "team": "PHX",
-            "proj_pts": 0.8905406401715693,
-            "proj_reb": 1.2105537858661168,
-            "proj_ast": 0.6052768929330584,
+            "proj_pts": 0.9233293177863302,
+            "proj_reb": 1.2345043811676508,
+            "proj_ast": 0.6172521905838254,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -28467,22 +28190,22 @@ const analyticsData = {
           {
             "player": "Jalen Green",
             "team": "PHX",
-            "proj_pts": 21.2740264040986,
-            "proj_reb": 3.9342998040648802,
-            "proj_ast": 2.9255049825097825,
+            "proj_pts": 22.057311480451222,
+            "proj_reb": 4.012139238794865,
+            "proj_ast": 2.983385587821823,
             "status": "Active",
             "injury": "",
             "market_line": null,
-            "market_ast": 3.5,
+            "market_ast": 2.5,
             "market_reb": 4.5,
-            "market_pts": 21.5
+            "market_pts": 22.5
           },
           {
             "player": "Jamaree Bouyea",
             "team": "PHX",
-            "proj_pts": 3.7600604807244036,
-            "proj_reb": 1.614071714488156,
-            "proj_ast": 2.017589643110195,
+            "proj_pts": 3.8985015639867275,
+            "proj_reb": 1.646005841556868,
+            "proj_ast": 2.0575073019460848,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -28490,9 +28213,9 @@ const analyticsData = {
           {
             "player": "Jordan Goodwin",
             "team": "PHX",
-            "proj_pts": 8.212763681582251,
-            "proj_reb": 4.236938250531409,
-            "proj_ast": 1.8158306787991756,
+            "proj_pts": 8.51514815291838,
+            "proj_reb": 4.320765334086778,
+            "proj_ast": 1.8517565717514763,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -28500,9 +28223,9 @@ const analyticsData = {
           {
             "player": "Khaman Maluach",
             "team": "PHX",
-            "proj_pts": 3.9579584007625304,
-            "proj_reb": 3.530781875442841,
-            "proj_ast": 0.2017589643110195,
+            "proj_pts": 4.103685856828134,
+            "proj_reb": 3.6006377784056482,
+            "proj_ast": 0.2057507301946085,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -28510,9 +28233,9 @@ const analyticsData = {
           {
             "player": "Koby Brea",
             "team": "PHX",
-            "proj_pts": 3.1663667206100246,
-            "proj_reb": 0.403517928622039,
-            "proj_ast": 0.6052768929330584,
+            "proj_pts": 3.2829486854625074,
+            "proj_reb": 0.411501460389217,
+            "proj_ast": 0.6172521905838254,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -28520,9 +28243,9 @@ const analyticsData = {
           {
             "player": "Mark Williams",
             "team": "PHX",
-            "proj_pts": 8.212763681582251,
-            "proj_reb": 7.969479090285271,
-            "proj_ast": 0.5043974107775487,
+            "proj_pts": 8.51514815291838,
+            "proj_reb": 8.127153842687035,
+            "proj_ast": 0.5143768254865212,
             "status": "Out",
             "injury": "Foot",
             "market_line": null
@@ -28530,9 +28253,9 @@ const analyticsData = {
           {
             "player": "Nick Richards",
             "team": "PHX",
-            "proj_pts": 1.4842344002859489,
-            "proj_reb": 2.320228089576724,
-            "proj_ast": 0.3026384464665292,
+            "proj_pts": 1.5388821963105503,
+            "proj_reb": 2.366133397237997,
+            "proj_ast": 0.3086260952919127,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -28540,9 +28263,9 @@ const analyticsData = {
           {
             "player": "Nigel Hayes-Davis",
             "team": "PHX",
-            "proj_pts": 0.7915916801525061,
-            "proj_reb": 1.1096743037106074,
-            "proj_ast": 0.10087948215550975,
+            "proj_pts": 0.8207371713656268,
+            "proj_reb": 1.1316290160703468,
+            "proj_ast": 0.10287536509730424,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -28550,251 +28273,254 @@ const analyticsData = {
           {
             "player": "Oso Ighodaro",
             "team": "PHX",
-            "proj_pts": 8.50961056163944,
-            "proj_reb": 6.658045822263643,
-            "proj_ast": 3.4299023932873314,
+            "proj_pts": 8.822924592180488,
+            "proj_reb": 6.78977409642208,
+            "proj_ast": 3.497762413308344,
             "status": "Active",
             "injury": "",
             "market_line": null,
-            "market_ast": 3.5,
+            "market_ast": 2.5,
             "market_reb": 6.5,
-            "market_pts": 8.5
+            "market_pts": 7.5
           },
           {
             "player": "Rasheer Fleming",
             "team": "PHX",
-            "proj_pts": 6.728529281296302,
-            "proj_reb": 4.03517928622039,
-            "proj_ast": 0.3026384464665292,
+            "proj_pts": 6.976265956607828,
+            "proj_reb": 4.1150146038921696,
+            "proj_ast": 0.3086260952919127,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_reb": 3.5,
+            "market_pts": 6.5
           },
           {
             "player": "Royce O'Neale",
             "team": "PHX",
-            "proj_pts": 9.202253281772883,
-            "proj_reb": 4.539576696997939,
-            "proj_ast": 2.6228665360432535,
+            "proj_pts": 9.541069617125412,
+            "proj_reb": 4.629391429378691,
+            "proj_ast": 2.6747594925299105,
             "status": "Questionable",
             "injury": "Knee",
             "market_line": null,
+            "market_ast": 2.5,
             "market_reb": 4.5,
-            "market_pts": 8.5
+            "market_pts": 9.5
           },
           {
             "player": "Ryan Dunn",
             "team": "PHX",
-            "proj_pts": 4.749550080915037,
-            "proj_reb": 3.631661357598351,
-            "proj_ast": 0.9079153393995878,
+            "proj_pts": 4.924423028193761,
+            "proj_reb": 3.7035131435029527,
+            "proj_ast": 0.9258782858757382,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "A.J. Lawson",
-            "team": "TOR",
-            "proj_pts": 3.1858145395506843,
-            "proj_reb": 1.614071714488156,
-            "proj_ast": 0.3026384464665292,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Alijah Martin",
-            "team": "TOR",
-            "proj_pts": 1.7920206784972599,
-            "proj_reb": 0.3026384464665292,
-            "proj_ast": 0.2017589643110195,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Brandon Ingram",
-            "team": "TOR",
-            "proj_pts": 21.50424814196712,
-            "proj_reb": 5.346612554242016,
-            "proj_ast": 3.83342032190937,
+            "player": "Aaron Gordon",
+            "team": "DEN",
+            "proj_pts": 14.41675112525473,
+            "proj_reb": 5.966771175643646,
+            "proj_ast": 3.9092638736975607,
             "status": "Active",
             "injury": "",
             "market_line": null,
-            "market_ast": 3.5,
+            "market_ast": 2.5,
             "market_reb": 5.5,
-            "market_pts": 20.5
-          },
-          {
-            "player": "Chucky Hepburn",
-            "team": "TOR",
-            "proj_pts": 0.0,
-            "proj_reb": 0.5043974107775487,
-            "proj_ast": 1.0087948215550975,
-            "status": "Out",
-            "injury": "Knee",
-            "market_line": null
-          },
-          {
-            "player": "Collin Murray-Boyles",
-            "team": "TOR",
-            "proj_pts": 7.864979644515752,
-            "proj_reb": 4.4386972148424295,
-            "proj_ast": 2.017589643110195,
-            "status": "Doubtful",
-            "injury": "Thumb",
-            "market_line": null
-          },
-          {
-            "player": "Garrett Temple",
-            "team": "TOR",
-            "proj_pts": 0.2986701130828766,
-            "proj_reb": 0.2017589643110195,
-            "proj_ast": 0.3026384464665292,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Gradey Dick",
-            "team": "TOR",
-            "proj_pts": 5.077391922408903,
-            "proj_reb": 1.614071714488156,
-            "proj_ast": 0.5043974107775487,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Immanuel Quickley",
-            "team": "TOR",
-            "proj_pts": 16.426856219558214,
-            "proj_reb": 3.228143428976312,
-            "proj_ast": 5.951889447175075,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 5.5,
-            "market_reb": 3.5,
             "market_pts": 15.5
           },
           {
-            "player": "Ja'Kobe Walter",
-            "team": "TOR",
-            "proj_pts": 6.17251567037945,
-            "proj_reb": 2.521987053887744,
-            "proj_ast": 1.2105537858661168,
+            "player": "Bruce Brown",
+            "team": "DEN",
+            "proj_pts": 7.411428395377432,
+            "proj_reb": 3.086260952919127,
+            "proj_ast": 1.748881206654172,
             "status": "Active",
             "injury": "",
-            "market_line": null,
-            "market_pts": 6.5
+            "market_line": null
           },
           {
-            "player": "Jakob Poeltl",
-            "team": "TOR",
-            "proj_pts": 10.951237479705476,
-            "proj_reb": 7.8685996081297604,
-            "proj_ast": 2.2193486074212148,
+            "player": "Cameron Johnson",
+            "team": "DEN",
+            "proj_pts": 11.2694322176287,
+            "proj_reb": 4.012139238794865,
+            "proj_ast": 2.4690087623353016,
             "status": "Active",
             "injury": "",
             "market_line": null,
-            "market_reb": 8.5,
+            "market_ast": 2.5,
+            "market_reb": 3.5,
             "market_pts": 11.5
           },
           {
-            "player": "Jamal Shead",
-            "team": "TOR",
-            "proj_pts": 5.873845557296574,
-            "proj_reb": 1.7149511966436657,
-            "proj_ast": 3.530781875442841,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jamison Battle",
-            "team": "TOR",
-            "proj_pts": 2.2898042003020542,
-            "proj_reb": 1.7149511966436657,
-            "proj_ast": 0.3026384464665292,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jonathan Mogbo",
-            "team": "TOR",
-            "proj_pts": 0.6968969305267121,
-            "proj_reb": 1.614071714488156,
-            "proj_ast": 0.3026384464665292,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Mo Bamba",
-            "team": "TOR",
-            "proj_pts": 0.0,
-            "proj_reb": 1.0087948215550975,
-            "proj_ast": 0.0,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Ochai Agbaji",
-            "team": "TOR",
-            "proj_pts": 4.778721809326026,
-            "proj_reb": 1.8158306787991756,
-            "proj_ast": 0.5043974107775487,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "RJ Barrett",
-            "team": "TOR",
-            "proj_pts": 21.902474959410952,
-            "proj_reb": 6.1536484114860945,
-            "proj_ast": 2.521987053887744,
+            "player": "Christian Braun",
+            "team": "DEN",
+            "proj_pts": 14.112171876129633,
+            "proj_reb": 5.8638958105463415,
+            "proj_ast": 2.983385587821823,
             "status": "Active",
             "injury": "",
             "market_line": null,
-            "market_ast": 3.5,
+            "market_ast": 2.5,
             "market_reb": 5.5,
-            "market_pts": 19.5
+            "market_pts": 11.5
           },
           {
-            "player": "Sandro Mamukelashvili",
-            "team": "TOR",
-            "proj_pts": 7.267639418349998,
-            "proj_reb": 4.337817732686919,
-            "proj_ast": 1.2105537858661168,
+            "player": "Curtis Jones",
+            "team": "DEN",
+            "proj_pts": 1.5228962456254997,
+            "proj_reb": 0.857294709144202,
+            "proj_ast": 0.5143768254865212,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "DaRon Holmes II",
+            "team": "DEN",
+            "proj_pts": 4.2641094877514,
+            "proj_reb": 1.4402551113622593,
+            "proj_ast": 0.3086260952919127,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "David Roddy",
+            "team": "DEN",
+            "proj_pts": 1.0152641637503332,
+            "proj_reb": 2.0575073019460848,
+            "proj_ast": 1.0287536509730424,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Hunter Tyson",
+            "team": "DEN",
+            "proj_pts": 3.451898156751133,
+            "proj_reb": 2.2632580321406937,
+            "proj_ast": 1.4402551113622593,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jalen Pickett",
+            "team": "DEN",
+            "proj_pts": 3.2488453240010666,
+            "proj_reb": 0.9258782858757382,
+            "proj_ast": 0.7201275556811296,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jamal Murray",
+            "team": "DEN",
+            "proj_pts": 25.990762592008533,
+            "proj_reb": 4.526516064281387,
+            "proj_ast": 5.6581450803517335,
             "status": "Active",
             "injury": "",
             "market_line": null,
-            "market_reb": 3.5,
-            "market_pts": 8.5
+            "market_ast": 6.5,
+            "market_reb": 4.5,
+            "market_pts": 23.5
           },
           {
-            "player": "Scottie Barnes",
-            "team": "TOR",
-            "proj_pts": 15.530845880309585,
-            "proj_reb": 4.842215143464467,
-            "proj_ast": 4.03517928622039,
+            "player": "Jonas Valan\u010di\u016bnas",
+            "team": "DEN",
+            "proj_pts": 5.583952900626833,
+            "proj_reb": 3.7035131435029527,
+            "proj_ast": 0.823002920778434,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Julian Strawther",
+            "team": "DEN",
+            "proj_pts": 7.106849146252332,
+            "proj_reb": 1.5431304764595635,
+            "proj_ast": 0.7201275556811296,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "KJ Simpson",
+            "team": "DEN",
+            "proj_pts": 5.583952900626833,
+            "proj_reb": 2.0575073019460848,
+            "proj_ast": 2.571884127432606,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Nikola Joki\u0107",
+            "team": "DEN",
+            "proj_pts": 26.092289008383563,
+            "proj_reb": 13.476672827746855,
+            "proj_ast": 11.522040890898074,
             "status": "Active",
             "injury": "",
             "market_line": null,
-            "market_ast": 4.5,
-            "market_reb": 7.5,
-            "market_pts": 16.5
+            "market_ast": 11.5,
+            "market_reb": 13.5,
+            "market_pts": 28.5
           },
           {
-            "player": "Trayce Jackson-Davis",
-            "team": "TOR",
-            "proj_pts": 1.5929072697753421,
-            "proj_reb": 2.4211075717322337,
-            "proj_ast": 0.5043974107775487,
+            "player": "Peyton Watson",
+            "team": "DEN",
+            "proj_pts": 19.696124776756463,
+            "proj_reb": 4.526516064281387,
+            "proj_ast": 2.4690087623353016,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Spencer Jones",
+            "team": "DEN",
+            "proj_pts": 5.787005733376899,
+            "proj_reb": 4.217889968989473,
+            "proj_ast": 0.7201275556811296,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Tim Hardaway Jr.",
+            "team": "DEN",
+            "proj_pts": 13.401486961504398,
+            "proj_reb": 2.6747594925299105,
+            "proj_ast": 1.5431304764595635,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_reb": 2.5,
+            "market_pts": 11.5
+          },
+          {
+            "player": "Tyus Jones",
+            "team": "DEN",
+            "proj_pts": 3.2488453240010666,
+            "proj_reb": 1.0287536509730424,
+            "proj_ast": 2.2632580321406937,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Zeke Nnaji",
+            "team": "DEN",
+            "proj_pts": 1.5228962456254997,
+            "proj_reb": 1.9546319368487803,
+            "proj_ast": 0.3086260952919127,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -28807,24 +28533,30 @@ const analyticsData = {
             "orb": 0.2864210667884307,
             "ftr": 0.2592289720775903,
             "sos": -3.7340221396635775,
-            "rest": 6,
+            "rest": 8,
             "is_b2b": 0,
-            "ml_influence": {}
+            "ml_influence": {
+              "roll_efg_pct_10": 0.0052119558519527235,
+              "roll_tov_pct_10": 0.012826365896900213,
+              "roll_orb_pct_10": 0.007984760376754708,
+              "roll_ft_rate_10": 0.0018586260637819408,
+              "p_tov": -0.0015924813573872142
+            }
           },
           "teamB": {
-            "efg": 0.5427073718696395,
-            "tov": 0.11476880066085389,
-            "orb": 0.23069259181487606,
-            "ftr": 0.27086597908029403,
-            "sos": 3.047519908876628,
+            "efg": 0.568796185515523,
+            "tov": 0.12154140010866335,
+            "orb": 0.21350215174165066,
+            "ftr": 0.3351645557303077,
+            "sos": 3.453082192613934,
             "rest": 8,
             "is_b2b": 0
           }
         },
         "margins": {
-          "1-5": 0.17823323205796904,
-          "6-10": 0.07510073706914223,
-          "11+": 0.1116190763702628
+          "1-5": 0.16661387636567615,
+          "6-10": 0.07020478042467139,
+          "11+": 0.10434242130758926
         },
         "formA": [
           {
@@ -28990,90 +28722,10 @@ const analyticsData = {
         ],
         "formB": [
           {
-            "date": "2026-02-24",
+            "date": "2026-02-27",
             "opponent": "OKC",
             "result": "L",
-            "score": "107-116",
-            "quarters": [
-              26,
-              26,
-              26,
-              26
-            ],
-            "halves": [
-              52,
-              52
-            ]
-          },
-          {
-            "date": "2026-02-25",
-            "opponent": "SAS",
-            "result": "L",
-            "score": "107-110",
-            "quarters": [
-              26,
-              26,
-              26,
-              26
-            ],
-            "halves": [
-              52,
-              52
-            ]
-          },
-          {
-            "date": "2026-02-28",
-            "opponent": "WAS",
-            "result": "W",
-            "score": "134-125",
-            "quarters": [
-              33,
-              33,
-              33,
-              33
-            ],
-            "halves": [
-              66,
-              66
-            ]
-          },
-          {
-            "date": "2026-03-03",
-            "opponent": "NYK",
-            "result": "L",
-            "score": "95-111",
-            "quarters": [
-              23,
-              23,
-              23,
-              23
-            ],
-            "halves": [
-              46,
-              46
-            ]
-          },
-          {
-            "date": "2026-03-05",
-            "opponent": "MIN",
-            "result": "L",
-            "score": "107-115",
-            "quarters": [
-              26,
-              26,
-              26,
-              26
-            ],
-            "halves": [
-              52,
-              52
-            ]
-          },
-          {
-            "date": "2026-03-08",
-            "opponent": "DAL",
-            "result": "W",
-            "score": "122-92",
+            "score": "121-127",
             "quarters": [
               30,
               30,
@@ -29086,26 +28738,10 @@ const analyticsData = {
             ]
           },
           {
-            "date": "2026-03-10",
-            "opponent": "HOU",
+            "date": "2026-03-01",
+            "opponent": "MIN",
             "result": "L",
-            "score": "99-113",
-            "quarters": [
-              24,
-              24,
-              24,
-              24
-            ],
-            "halves": [
-              48,
-              48
-            ]
-          },
-          {
-            "date": "2026-03-11",
-            "opponent": "NOP",
-            "result": "L",
-            "score": "111-122",
+            "score": "108-117",
             "quarters": [
               27,
               27,
@@ -29118,10 +28754,26 @@ const analyticsData = {
             ]
           },
           {
-            "date": "2026-03-13",
-            "opponent": "PHX",
+            "date": "2026-03-02",
+            "opponent": "UTA",
             "result": "W",
-            "score": "122-115",
+            "score": "128-125",
+            "quarters": [
+              32,
+              32,
+              32,
+              32
+            ],
+            "halves": [
+              64,
+              64
+            ]
+          },
+          {
+            "date": "2026-03-05",
+            "opponent": "LAL",
+            "result": "W",
+            "score": "120-113",
             "quarters": [
               30,
               30,
@@ -29134,51 +28786,181 @@ const analyticsData = {
             ]
           },
           {
-            "date": "2026-03-15",
-            "opponent": "DET",
-            "result": "W",
-            "score": "119-108",
+            "date": "2026-03-06",
+            "opponent": "NYK",
+            "result": "L",
+            "score": "103-142",
             "quarters": [
-              29,
-              29,
-              29,
-              29
+              25,
+              25,
+              25,
+              25
             ],
             "halves": [
-              58,
-              58
+              50,
+              50
+            ]
+          },
+          {
+            "date": "2026-03-09",
+            "opponent": "OKC",
+            "result": "L",
+            "score": "126-129",
+            "quarters": [
+              31,
+              31,
+              31,
+              31
+            ],
+            "halves": [
+              62,
+              62
+            ]
+          },
+          {
+            "date": "2026-03-11",
+            "opponent": "HOU",
+            "result": "W",
+            "score": "129-93",
+            "quarters": [
+              32,
+              32,
+              32,
+              32
+            ],
+            "halves": [
+              64,
+              64
+            ]
+          },
+          {
+            "date": "2026-03-12",
+            "opponent": "SAS",
+            "result": "W",
+            "score": "136-131",
+            "quarters": [
+              34,
+              34,
+              34,
+              34
+            ],
+            "halves": [
+              68,
+              68
+            ]
+          },
+          {
+            "date": "2026-03-14",
+            "opponent": "LAL",
+            "result": "L",
+            "score": "125-127",
+            "quarters": [
+              31,
+              31,
+              31,
+              31
+            ],
+            "halves": [
+              62,
+              62
+            ]
+          },
+          {
+            "date": "2026-03-17",
+            "opponent": "PHI",
+            "result": "W",
+            "score": "124-96",
+            "quarters": [
+              31,
+              31,
+              31,
+              31
+            ],
+            "halves": [
+              62,
+              62
             ]
           }
         ],
-        "shap_explanation": {},
-        "match_id": "0022501036",
+        "shap_explanation": {
+          "adj_ortg_10": 0.036922917716244966,
+          "adj_drtg_10": -0.0023300122177847982,
+          "adj_pace_10": 0.006850167218042529,
+          "net_rating": -0.0010614899453585736,
+          "roll_efg_pct_10": 0.0052119558519527235,
+          "roll_tov_pct_10": 0.012826365896900213,
+          "roll_orb_pct_10": 0.007984760376754708,
+          "roll_ft_rate_10": 0.0018586260637819408,
+          "sos_10": -0.0017589939325725367,
+          "is_b2b": 0.00043335533832532746,
+          "p_pts": 0.008191753808839622,
+          "p_reb": -0.003071843364956237,
+          "p_ast": -0.006625254341335563,
+          "p_stl": 0.0052079272240614215,
+          "p_blk": 0.004839903479416918,
+          "p_tov": -0.0015924813573872142,
+          "p_pf": -0.017217427935002902,
+          "p_pm": -0.003514877462016841,
+          "p_usage": 0.022935055842909266,
+          "p_eff": 0.010513406556599776,
+          "opp_adj_ortg_10": -0.06080170809755252,
+          "opp_adj_drtg_10": 0.031042905380408284,
+          "opp_sos_10": 0.010194348625004323,
+          "opp_is_b2b": -0.0017613576767308815
+        },
+        "match_id": "0022501050",
         "time": "TBD"
       },
-      "ml_prob_A": 0.5998057064766078,
-      "mc_win_A": 0.5338,
-      "shap_explanation": {},
+      "ml_prob_A": 0.5891783783539806,
+      "mc_win_A": 0.4984,
+      "shap_explanation": {
+        "adj_ortg_10": 0.036922917716244966,
+        "adj_drtg_10": -0.0023300122177847982,
+        "adj_pace_10": 0.006850167218042529,
+        "net_rating": -0.0010614899453585736,
+        "roll_efg_pct_10": 0.0052119558519527235,
+        "roll_tov_pct_10": 0.012826365896900213,
+        "roll_orb_pct_10": 0.007984760376754708,
+        "roll_ft_rate_10": 0.0018586260637819408,
+        "sos_10": -0.0017589939325725367,
+        "is_b2b": 0.00043335533832532746,
+        "p_pts": 0.008191753808839622,
+        "p_reb": -0.003071843364956237,
+        "p_ast": -0.006625254341335563,
+        "p_stl": 0.0052079272240614215,
+        "p_blk": 0.004839903479416918,
+        "p_tov": -0.0015924813573872142,
+        "p_pf": -0.017217427935002902,
+        "p_pm": -0.003514877462016841,
+        "p_usage": 0.022935055842909266,
+        "p_eff": 0.010513406556599776,
+        "opp_adj_ortg_10": -0.06080170809755252,
+        "opp_adj_drtg_10": 0.031042905380408284,
+        "opp_sos_10": 0.010194348625004323,
+        "opp_is_b2b": -0.0017613576767308815
+      },
       "is_b2b_home": 0,
       "is_b2b_away": 0,
-      "rest_home": 6,
+      "rest_home": 8,
       "rest_away": 8
     },
     {
-      "matchId": "0022501038",
-      "matchTime": 1774306800,
+      "matchId": "0022501051",
+      "matchTime": 1774479600,
       "gameStatus": "7:00 pm ET",
       "homeTeam": "DET",
-      "awayTeam": "LAL",
+      "awayTeam": "ATL",
       "homeName": "Detroit Pistons",
-      "awayName": "Los Angeles Lakers",
+      "awayName": "Atlanta Hawks",
       "prediction": {
         "main": {
-          "ptsA": 114.8973771306619,
-          "ptsB": 117.3322051825614,
-          "total": 232.2295823132233,
-          "spread": 2.434828051899501,
-          "win_prob_A": 48.584243541260776,
-          "ml_prob_A": 0.5198707256876796,
-          "mc_win_A": 0.4348,
+          "ptsA": 113.13971671245622,
+          "ptsB": 118.30030076689121,
+          "total": 231.44001747934743,
+          "spread": 5.160584054434992,
+          "win_prob_A": 45.439092207215296,
+          "ml_prob_A": 0.5218515367869215,
+          "mc_win_A": 0.3532,
           "market": {
             "ml": {
               "home": null,
@@ -29200,46 +28982,46 @@ const analyticsData = {
           "blowout_risk": 0.11853559847642359,
           "recommended_bet": 0.0,
           "latent_strength_A": 7.5024314190974115,
-          "latent_strength_B": 6.870047814537148,
-          "form_state_A": 1,
-          "form_state_B": 2,
+          "latent_strength_B": 11.188497712009733,
+          "form_state_A": 0,
+          "form_state_B": 0,
           "entropy_A": 3.3219280948873626
         },
         "halves": {
-          "h1_ptsA": 57.44868856533095,
-          "h1_ptsB": 58.6661025912807,
-          "h2_ptsA": 57.44868856533095,
-          "h2_ptsB": 58.6661025912807
+          "h1_ptsA": 56.56985835622811,
+          "h1_ptsB": 59.150150383445606,
+          "h2_ptsA": 56.56985835622811,
+          "h2_ptsB": 59.150150383445606
         },
         "quarters": [
           {
             "q": 1,
-            "ptsA": 28.724344282665474,
-            "ptsB": 29.33305129564035
+            "ptsA": 28.284929178114055,
+            "ptsB": 29.575075191722803
           },
           {
             "q": 2,
-            "ptsA": 28.724344282665474,
-            "ptsB": 29.33305129564035
+            "ptsA": 28.284929178114055,
+            "ptsB": 29.575075191722803
           },
           {
             "q": 3,
-            "ptsA": 28.724344282665474,
-            "ptsB": 29.33305129564035
+            "ptsA": 28.284929178114055,
+            "ptsB": 29.575075191722803
           },
           {
             "q": 4,
-            "ptsA": 28.724344282665474,
-            "ptsB": 29.33305129564035
+            "ptsA": 28.284929178114055,
+            "ptsB": 29.575075191722803
           }
         ],
         "players": [
           {
             "player": "Ausar Thompson",
             "team": "DET",
-            "proj_pts": 8.522477401976525,
-            "proj_reb": 4.936125693370812,
-            "proj_ast": 4.029490361935356,
+            "proj_pts": 8.198891534464197,
+            "proj_reb": 4.961941931793823,
+            "proj_ast": 4.0505648422806715,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -29247,9 +29029,9 @@ const analyticsData = {
           {
             "player": "Bobi Klintman",
             "team": "DET",
-            "proj_pts": 1.7044954803953052,
-            "proj_reb": 1.5110588857257587,
-            "proj_ast": 0.6044235542903035,
+            "proj_pts": 1.6397783068928393,
+            "proj_reb": 1.5189618158552518,
+            "proj_ast": 0.6075847263421007,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -29257,9 +29039,9 @@ const analyticsData = {
           {
             "player": "Cade Cunningham",
             "team": "DET",
-            "proj_pts": 19.03353286441424,
-            "proj_reb": 4.835388434322428,
-            "proj_ast": 10.275200422935159,
+            "proj_pts": 18.310857760303374,
+            "proj_reb": 4.860677810736806,
+            "proj_ast": 10.328940347815712,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -29267,9 +29049,9 @@ const analyticsData = {
           {
             "player": "Caris LeVert",
             "team": "DET",
-            "proj_pts": 5.20818063454121,
-            "proj_reb": 1.9140079219192943,
-            "proj_ast": 1.7125334038225264,
+            "proj_pts": 5.010433715505898,
+            "proj_reb": 1.9240183000833189,
+            "proj_ast": 1.7214900579692853,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -29277,9 +29059,9 @@ const analyticsData = {
           {
             "player": "Chaz Lanier",
             "team": "DET",
-            "proj_pts": 1.8938838671058946,
-            "proj_reb": 0.5036862952419195,
-            "proj_ast": 0.40294903619353567,
+            "proj_pts": 1.8219758965475992,
+            "proj_reb": 0.5063206052850839,
+            "proj_ast": 0.40505648422806717,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -29287,9 +29069,9 @@ const analyticsData = {
           {
             "player": "Colby Jones",
             "team": "DET",
-            "proj_pts": 1.8938838671058946,
-            "proj_reb": 4.029490361935356,
-            "proj_ast": 2.014745180967678,
+            "proj_pts": 1.8219758965475992,
+            "proj_reb": 4.0505648422806715,
+            "proj_ast": 2.0252824211403357,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -29297,9 +29079,9 @@ const analyticsData = {
           {
             "player": "Daniss Jenkins",
             "team": "DET",
-            "proj_pts": 6.533899341515337,
-            "proj_reb": 1.8132706628709103,
-            "proj_ast": 3.727278584790205,
+            "proj_pts": 6.285816843089218,
+            "proj_reb": 1.8227541790263022,
+            "proj_ast": 3.7467724791096213,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -29307,9 +29089,9 @@ const analyticsData = {
           {
             "player": "Duncan Robinson",
             "team": "DET",
-            "proj_pts": 8.901254175397705,
-            "proj_reb": 2.820643253354749,
-            "proj_ast": 2.719905994306366,
+            "proj_pts": 8.563286713773717,
+            "proj_reb": 2.83539538959647,
+            "proj_ast": 2.7341312685394534,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -29317,9 +29099,9 @@ const analyticsData = {
           {
             "player": "Isaac Jones",
             "team": "DET",
-            "proj_pts": 1.325718706974126,
-            "proj_reb": 0.8058980723870713,
-            "proj_ast": 0.20147451809676784,
+            "proj_pts": 1.2753831275833194,
+            "proj_reb": 0.8101129684561343,
+            "proj_ast": 0.20252824211403359,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -29327,9 +29109,9 @@ const analyticsData = {
           {
             "player": "Isaiah Stewart",
             "team": "DET",
-            "proj_pts": 8.901254175397705,
-            "proj_reb": 3.928753102886972,
-            "proj_ast": 1.108109849532223,
+            "proj_pts": 8.563286713773717,
+            "proj_reb": 3.9493007212236546,
+            "proj_ast": 1.1139053316271847,
             "status": "Out",
             "injury": "Calf",
             "market_line": null
@@ -29337,9 +29119,9 @@ const analyticsData = {
           {
             "player": "Jaden Ivey",
             "team": "DET",
-            "proj_pts": 7.386147081712989,
-            "proj_reb": 2.216219699064446,
-            "proj_ast": 1.108109849532223,
+            "proj_pts": 7.105705996535637,
+            "proj_reb": 2.2278106632543695,
+            "proj_ast": 1.1139053316271847,
             "status": "Doubtful",
             "injury": "Knee",
             "market_line": null
@@ -29347,9 +29129,9 @@ const analyticsData = {
           {
             "player": "Jalen Duren",
             "team": "DET",
-            "proj_pts": 20.26455737803307,
-            "proj_reb": 9.972988645790007,
-            "proj_ast": 1.3095843676289909,
+            "proj_pts": 19.49514209305931,
+            "proj_reb": 10.025147984644663,
+            "proj_ast": 1.3164335737412183,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -29357,9 +29139,9 @@ const analyticsData = {
           {
             "player": "Javonte Green",
             "team": "DET",
-            "proj_pts": 7.4808412750682844,
-            "proj_reb": 2.9213805124031333,
-            "proj_ast": 0.6044235542903035,
+            "proj_pts": 7.196804791363017,
+            "proj_reb": 2.9366595106534867,
+            "proj_ast": 0.6075847263421007,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -29367,9 +29149,9 @@ const analyticsData = {
           {
             "player": "Kevin Huerter",
             "team": "DET",
-            "proj_pts": 6.155122568094158,
-            "proj_reb": 2.9213805124031333,
-            "proj_ast": 2.1154824400160623,
+            "proj_pts": 5.9214216637796975,
+            "proj_reb": 2.9366595106534867,
+            "proj_ast": 2.1265465421973526,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -29377,9 +29159,9 @@ const analyticsData = {
           {
             "player": "Marcus Sasser",
             "team": "DET",
-            "proj_pts": 5.776345794672978,
-            "proj_reb": 1.4103216266773746,
-            "proj_ast": 2.014745180967678,
+            "proj_pts": 5.557026484470177,
+            "proj_reb": 1.417697694798235,
+            "proj_ast": 2.0252824211403357,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -29387,9 +29169,9 @@ const analyticsData = {
           {
             "player": "Paul Reed",
             "team": "DET",
-            "proj_pts": 5.776345794672978,
-            "proj_reb": 4.331702139080508,
-            "proj_ast": 0.40294903619353567,
+            "proj_pts": 5.557026484470177,
+            "proj_reb": 4.354357205451722,
+            "proj_ast": 0.40505648422806717,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -29397,9 +29179,9 @@ const analyticsData = {
           {
             "player": "Ronald Holland II",
             "team": "DET",
-            "proj_pts": 9.090642562108293,
-            "proj_reb": 3.727278584790205,
-            "proj_ast": 0.7051608133386873,
+            "proj_pts": 8.745484303428476,
+            "proj_reb": 3.7467724791096213,
+            "proj_ast": 0.7088488473991175,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -29407,9 +29189,9 @@ const analyticsData = {
           {
             "player": "Tobias Harris",
             "team": "DET",
-            "proj_pts": 13.351881263096557,
-            "proj_reb": 5.036862952419195,
-            "proj_ast": 2.014745180967678,
+            "proj_pts": 12.844930070660574,
+            "proj_reb": 5.063206052850839,
+            "proj_ast": 2.0252824211403357,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -29417,9 +29199,9 @@ const analyticsData = {
           {
             "player": "Tolu Smith",
             "team": "DET",
-            "proj_pts": 4.464154829606752,
-            "proj_reb": 4.749042212280956,
-            "proj_ast": 0.8634622204147192,
+            "proj_pts": 4.294657470433627,
+            "proj_reb": 4.7738799926879345,
+            "proj_ast": 0.8679781804887152,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -29427,209 +29209,239 @@ const analyticsData = {
           {
             "player": "Wendell Moore Jr.",
             "team": "DET",
-            "proj_pts": 1.8938838671058946,
-            "proj_reb": 1.208847108580607,
-            "proj_ast": 0.6044235542903035,
+            "proj_pts": 1.8219758965475992,
+            "proj_reb": 1.2151694526842014,
+            "proj_ast": 0.6075847263421007,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Adou Thiero",
-            "team": "LAL",
-            "proj_pts": 1.755178972101241,
-            "proj_reb": 1.4103216266773746,
-            "proj_ast": 0.5036862952419195,
+            "player": "Asa Newell",
+            "team": "ATL",
+            "proj_pts": 4.606936514613127,
+            "proj_reb": 2.1265465421973526,
+            "proj_ast": 0.40505648422806717,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Austin Reaves",
-            "team": "LAL",
-            "proj_pts": 20.76961783653135,
-            "proj_reb": 4.230964880032125,
-            "proj_ast": 5.439811988612732,
+            "player": "Buddy Hield",
+            "team": "ATL",
+            "proj_pts": 9.998032435968913,
+            "proj_reb": 2.329074784311386,
+            "proj_ast": 1.8227541790263022,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Bronny James",
-            "team": "LAL",
-            "proj_pts": 3.022808229729915,
-            "proj_reb": 0.5036862952419195,
-            "proj_ast": 1.3095843676289909,
+            "player": "CJ McCollum",
+            "team": "ATL",
+            "proj_pts": 16.56536746743869,
+            "proj_reb": 4.151828963337688,
+            "proj_ast": 4.0505648422806715,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Chris Ma\u00f1on",
-            "team": "LAL",
-            "proj_pts": 0.32503314298171126,
-            "proj_reb": 1.007372590483839,
-            "proj_ast": 0.1678954317473065,
+            "player": "Caleb Houstan",
+            "team": "ATL",
+            "proj_pts": 2.254458294385147,
+            "proj_reb": 0.6075847263421007,
+            "proj_ast": 0.20252824211403359,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
             "player": "Christian Koloko",
-            "team": "LAL",
-            "proj_pts": 0.0,
-            "proj_reb": 0.5036862952419195,
-            "proj_ast": 0.0,
+            "team": "ATL",
+            "proj_pts": 3.234657552813472,
+            "proj_reb": 2.6328671474824366,
+            "proj_ast": 0.40505648422806717,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Dalton Knecht",
-            "team": "LAL",
-            "proj_pts": 1.9501988578902676,
-            "proj_reb": 1.007372590483839,
-            "proj_ast": 0.30221177714515174,
+            "player": "Corey Kispert",
+            "team": "ATL",
+            "proj_pts": 9.90001251012608,
+            "proj_reb": 2.1265465421973526,
+            "proj_ast": 1.5189618158552518,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Deandre Ayton",
-            "team": "LAL",
-            "proj_pts": 8.775894860506204,
-            "proj_reb": 7.857506205773944,
-            "proj_ast": 0.8058980723870713,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Drew Timme",
-            "team": "LAL",
-            "proj_pts": 3.4128480013079683,
-            "proj_reb": 1.108109849532223,
-            "proj_ast": 0.5036862952419195,
+            "player": "Dyson Daniels",
+            "team": "ATL",
+            "proj_pts": 10.58615199102591,
+            "proj_reb": 8.101129684561343,
+            "proj_ast": 6.075847263421007,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
             "player": "Gabe Vincent",
-            "team": "LAL",
-            "proj_pts": 3.9979076586750484,
-            "proj_reb": 0.9066353314354552,
-            "proj_ast": 1.108109849532223,
+            "team": "ATL",
+            "proj_pts": 3.822777107870467,
+            "proj_reb": 0.9113770895131511,
+            "proj_ast": 1.5189618158552518,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Jake LaRavia",
-            "team": "LAL",
-            "proj_pts": 5.75308663077629,
-            "proj_reb": 3.525804066693437,
-            "proj_ast": 1.8132706628709103,
+            "player": "Jacob Toppin",
+            "team": "ATL",
+            "proj_pts": 1.5683188134853199,
+            "proj_reb": 0.20252824211403359,
+            "proj_ast": 0.20252824211403359,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Jarred Vanderbilt",
-            "team": "LAL",
-            "proj_pts": 1.755178972101241,
-            "proj_reb": 2.719905994306366,
-            "proj_ast": 0.8058980723870713,
+            "player": "Jalen Johnson",
+            "team": "ATL",
+            "proj_pts": 20.09408479778066,
+            "proj_reb": 9.620091500416596,
+            "proj_ast": 8.202393805618359,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Jaxson Hayes",
-            "team": "LAL",
-            "proj_pts": 6.2406363452488565,
-            "proj_reb": 4.230964880032125,
-            "proj_ast": 0.7051608133386873,
+            "player": "Jock Landale",
+            "team": "ATL",
+            "proj_pts": 8.135653844955097,
+            "proj_reb": 3.1391877527675205,
+            "proj_ast": 1.3164335737412183,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Kobe Bufkin",
-            "team": "LAL",
-            "proj_pts": 2.9252982868354014,
-            "proj_reb": 0.8058980723870713,
-            "proj_ast": 0.40294903619353567,
+            "player": "Jonathan Kuminga",
+            "team": "ATL",
+            "proj_pts": 11.566351249454234,
+            "proj_reb": 6.379639626592057,
+            "proj_ast": 2.329074784311386,
+            "status": "Out",
+            "injury": "Knee",
+            "market_line": null
+          },
+          {
+            "player": "Keaton Wallace",
+            "team": "ATL",
+            "proj_pts": 1.1762391101139897,
+            "proj_reb": 0.40505648422806717,
+            "proj_ast": 0.40505648422806717,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "LeBron James",
-            "team": "LAL",
-            "proj_pts": 18.721909035746567,
-            "proj_reb": 5.439811988612732,
-            "proj_ast": 6.044235542903035,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Luka Don\u010di\u0107",
-            "team": "LAL",
-            "proj_pts": 32.66583086966198,
-            "proj_reb": 8.7641415372094,
-            "proj_ast": 7.756768946725561,
+            "player": "Kristaps Porzi\u0146\u0123is",
+            "team": "ATL",
+            "proj_pts": 16.46734754159586,
+            "proj_reb": 4.354357205451722,
+            "proj_ast": 2.329074784311386,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
             "player": "Luke Kennard",
-            "team": "LAL",
-            "proj_pts": 8.483365031822663,
-            "proj_reb": 1.9140079219192943,
-            "proj_ast": 2.1154824400160623,
+            "team": "ATL",
+            "proj_pts": 7.939613993269432,
+            "proj_reb": 3.1391877527675205,
+            "proj_ast": 1.3164335737412183,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Marcus Smart",
-            "team": "LAL",
-            "proj_pts": 10.238544003923906,
-            "proj_reb": 2.417694217161214,
-            "proj_ast": 2.719905994306366,
+            "player": "Mouhamed Gueye",
+            "team": "ATL",
+            "proj_pts": 3.234657552813472,
+            "proj_reb": 3.4429801159385707,
+            "proj_ast": 0.30379236317105035,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Maxi Kleber",
-            "team": "LAL",
-            "proj_pts": 2.535258515257348,
-            "proj_reb": 2.216219699064446,
-            "proj_ast": 0.30221177714515174,
+            "player": "N'Faly Dante",
+            "team": "ATL",
+            "proj_pts": 0.7351494438212437,
+            "proj_reb": 1.7721221184977938,
+            "proj_ast": 0.0,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Nick Smith Jr.",
-            "team": "LAL",
-            "proj_pts": 2.2427286865738076,
-            "proj_reb": 0.30221177714515174,
-            "proj_ast": 0.8058980723870713,
+            "player": "Nickeil Alexander-Walker",
+            "team": "ATL",
+            "proj_pts": 21.858443462951644,
+            "proj_reb": 2.9366595106534867,
+            "proj_ast": 3.7467724791096213,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Rui Hachimura",
-            "team": "LAL",
-            "proj_pts": 9.555974403662312,
-            "proj_reb": 2.5184314762095976,
-            "proj_ast": 0.8058980723870713,
+            "player": "Onyeka Okongwu",
+            "team": "ATL",
+            "proj_pts": 13.624769692153716,
+            "proj_reb": 8.607450289846426,
+            "proj_ast": 3.341715994881554,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "RayJ Dennis",
+            "team": "ATL",
+            "proj_pts": 1.4702988876424874,
+            "proj_reb": 0.8101129684561343,
+            "proj_ast": 0.7088488473991175,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Trae Young",
+            "team": "ATL",
+            "proj_pts": 18.91784568766667,
+            "proj_reb": 1.5189618158552518,
+            "proj_ast": 9.012506774074495,
+            "status": "Questionable",
+            "injury": "Quadriceps",
+            "market_line": null
+          },
+          {
+            "player": "V\u00edt Krej\u010d\u00ed",
+            "team": "ATL",
+            "proj_pts": 4.704956440455959,
+            "proj_reb": 1.6202259369122687,
+            "proj_ast": 1.0126412105701679,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Zaccharie Risacher",
+            "team": "ATL",
+            "proj_pts": 7.939613993269432,
+            "proj_reb": 5.164470173907856,
+            "proj_ast": 1.0126412105701679,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -29642,24 +29454,30 @@ const analyticsData = {
             "orb": 0.3115279303702181,
             "ftr": 0.3091639709859938,
             "sos": -1.4079026901994962,
-            "rest": 6,
+            "rest": 8,
             "is_b2b": 0,
-            "ml_influence": {}
+            "ml_influence": {
+              "roll_efg_pct_10": 0.001569408279210478,
+              "roll_tov_pct_10": 0.01133518551521746,
+              "roll_orb_pct_10": 0.01399259486296998,
+              "roll_ft_rate_10": 0.0010986969304659056,
+              "p_tov": -0.01152833609255822
+            }
           },
           "teamB": {
-            "efg": 0.5780753275432202,
-            "tov": 0.11158933678254193,
-            "orb": 0.23518860635575844,
-            "ftr": 0.2616055945202051,
-            "sos": -2.7034910652100628,
-            "rest": 7,
+            "efg": 0.5626566017838438,
+            "tov": 0.11818843919910933,
+            "orb": 0.31135749848226196,
+            "ftr": 0.2700114986275803,
+            "sos": -9.250098758164969,
+            "rest": 9,
             "is_b2b": 0
           }
         },
         "margins": {
-          "1-5": 0.13556526473537747,
-          "6-10": 0.05712207081162581,
-          "11+": 0.08489813859590185
+          "1-5": 0.10777231776038515,
+          "6-10": 0.045411175042947616,
+          "11+": 0.06749272527798954
         },
         "formA": [
           {
@@ -29825,58 +29643,10 @@ const analyticsData = {
         ],
         "formB": [
           {
-            "date": "2026-02-28",
-            "opponent": "GSW",
+            "date": "2026-02-22",
+            "opponent": "BKN",
             "result": "W",
-            "score": "129-101",
-            "quarters": [
-              32,
-              32,
-              32,
-              32
-            ],
-            "halves": [
-              64,
-              64
-            ]
-          },
-          {
-            "date": "2026-03-01",
-            "opponent": "SAC",
-            "result": "W",
-            "score": "128-104",
-            "quarters": [
-              32,
-              32,
-              32,
-              32
-            ],
-            "halves": [
-              64,
-              64
-            ]
-          },
-          {
-            "date": "2026-03-03",
-            "opponent": "NOP",
-            "result": "W",
-            "score": "110-101",
-            "quarters": [
-              27,
-              27,
-              27,
-              27
-            ],
-            "halves": [
-              54,
-              54
-            ]
-          },
-          {
-            "date": "2026-03-05",
-            "opponent": "DEN",
-            "result": "L",
-            "score": "113-120",
+            "score": "115-104",
             "quarters": [
               28,
               28,
@@ -29889,74 +29659,26 @@ const analyticsData = {
             ]
           },
           {
-            "date": "2026-03-06",
-            "opponent": "IND",
+            "date": "2026-02-24",
+            "opponent": "WAS",
             "result": "W",
-            "score": "128-117",
+            "score": "119-98",
             "quarters": [
-              32,
-              32,
-              32,
-              32
+              29,
+              29,
+              29,
+              29
             ],
             "halves": [
-              64,
-              64
+              58,
+              58
             ]
           },
           {
-            "date": "2026-03-08",
-            "opponent": "NYK",
+            "date": "2026-02-26",
+            "opponent": "WAS",
             "result": "W",
-            "score": "110-97",
-            "quarters": [
-              27,
-              27,
-              27,
-              27
-            ],
-            "halves": [
-              54,
-              54
-            ]
-          },
-          {
-            "date": "2026-03-10",
-            "opponent": "MIN",
-            "result": "W",
-            "score": "120-106",
-            "quarters": [
-              30,
-              30,
-              30,
-              30
-            ],
-            "halves": [
-              60,
-              60
-            ]
-          },
-          {
-            "date": "2026-03-12",
-            "opponent": "CHI",
-            "result": "W",
-            "score": "142-130",
-            "quarters": [
-              35,
-              35,
-              35,
-              35
-            ],
-            "halves": [
-              70,
-              70
-            ]
-          },
-          {
-            "date": "2026-03-14",
-            "opponent": "DEN",
-            "result": "W",
-            "score": "127-125",
+            "score": "126-96",
             "quarters": [
               31,
               31,
@@ -29969,51 +29691,197 @@ const analyticsData = {
             ]
           },
           {
-            "date": "2026-03-16",
-            "opponent": "HOU",
+            "date": "2026-03-01",
+            "opponent": "POR",
             "result": "W",
-            "score": "100-92",
+            "score": "135-101",
             "quarters": [
-              25,
-              25,
-              25,
-              25
+              33,
+              33,
+              33,
+              33
             ],
             "halves": [
-              50,
-              50
+              66,
+              66
+            ]
+          },
+          {
+            "date": "2026-03-04",
+            "opponent": "MIL",
+            "result": "W",
+            "score": "131-113",
+            "quarters": [
+              32,
+              32,
+              32,
+              32
+            ],
+            "halves": [
+              64,
+              64
+            ]
+          },
+          {
+            "date": "2026-03-07",
+            "opponent": "PHI",
+            "result": "W",
+            "score": "125-116",
+            "quarters": [
+              31,
+              31,
+              31,
+              31
+            ],
+            "halves": [
+              62,
+              62
+            ]
+          },
+          {
+            "date": "2026-03-10",
+            "opponent": "DAL",
+            "result": "W",
+            "score": "124-112",
+            "quarters": [
+              31,
+              31,
+              31,
+              31
+            ],
+            "halves": [
+              62,
+              62
+            ]
+          },
+          {
+            "date": "2026-03-12",
+            "opponent": "BKN",
+            "result": "W",
+            "score": "108-97",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-14",
+            "opponent": "MIL",
+            "result": "W",
+            "score": "122-99",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          },
+          {
+            "date": "2026-03-16",
+            "opponent": "ORL",
+            "result": "W",
+            "score": "124-112",
+            "quarters": [
+              31,
+              31,
+              31,
+              31
+            ],
+            "halves": [
+              62,
+              62
             ]
           }
         ],
-        "shap_explanation": {},
-        "match_id": "0022501038",
+        "shap_explanation": {
+          "adj_ortg_10": 0.03662638993658519,
+          "adj_drtg_10": 0.009147209559747438,
+          "adj_pace_10": -0.0030082765673674315,
+          "net_rating": 0.003434780568200999,
+          "roll_efg_pct_10": 0.001569408279210478,
+          "roll_tov_pct_10": 0.01133518551521746,
+          "roll_orb_pct_10": 0.01399259486296998,
+          "roll_ft_rate_10": 0.0010986969304659056,
+          "sos_10": -0.004506475655313409,
+          "is_b2b": 0.00010262504141508089,
+          "p_pts": 0.008599986639945599,
+          "p_reb": 0.008519367388308155,
+          "p_ast": -0.010747798308091774,
+          "p_stl": 0.00899065266881621,
+          "p_blk": 0.005476378354823126,
+          "p_tov": -0.01152833609255822,
+          "p_pf": -0.0047654926745791925,
+          "p_pm": -0.002807969266143857,
+          "p_usage": 0.011834574356104213,
+          "p_eff": 0.007621624425456091,
+          "opp_adj_ortg_10": -0.0340619873697527,
+          "opp_adj_drtg_10": -0.04803133392206739,
+          "opp_sos_10": -0.009707498942969437,
+          "opp_is_b2b": -0.001233146303883359
+        },
+        "match_id": "0022501051",
         "time": "TBD"
       },
-      "ml_prob_A": 0.5198707256876796,
-      "mc_win_A": 0.4348,
-      "shap_explanation": {},
+      "ml_prob_A": 0.5218515367869215,
+      "mc_win_A": 0.3532,
+      "shap_explanation": {
+        "adj_ortg_10": 0.03662638993658519,
+        "adj_drtg_10": 0.009147209559747438,
+        "adj_pace_10": -0.0030082765673674315,
+        "net_rating": 0.003434780568200999,
+        "roll_efg_pct_10": 0.001569408279210478,
+        "roll_tov_pct_10": 0.01133518551521746,
+        "roll_orb_pct_10": 0.01399259486296998,
+        "roll_ft_rate_10": 0.0010986969304659056,
+        "sos_10": -0.004506475655313409,
+        "is_b2b": 0.00010262504141508089,
+        "p_pts": 0.008599986639945599,
+        "p_reb": 0.008519367388308155,
+        "p_ast": -0.010747798308091774,
+        "p_stl": 0.00899065266881621,
+        "p_blk": 0.005476378354823126,
+        "p_tov": -0.01152833609255822,
+        "p_pf": -0.0047654926745791925,
+        "p_pm": -0.002807969266143857,
+        "p_usage": 0.011834574356104213,
+        "p_eff": 0.007621624425456091,
+        "opp_adj_ortg_10": -0.0340619873697527,
+        "opp_adj_drtg_10": -0.04803133392206739,
+        "opp_sos_10": -0.009707498942969437,
+        "opp_is_b2b": -0.001233146303883359
+      },
       "is_b2b_home": 0,
       "is_b2b_away": 0,
-      "rest_home": 6,
-      "rest_away": 7
+      "rest_home": 8,
+      "rest_away": 9
     },
     {
-      "matchId": "0022501039",
-      "matchTime": 1774306800,
+      "matchId": "0022501052",
+      "matchTime": 1774479600,
       "gameStatus": "7:00 pm ET",
-      "homeTeam": "ORL",
-      "awayTeam": "IND",
-      "homeName": "Orlando Magic",
-      "awayName": "Indiana Pacers",
+      "homeTeam": "IND",
+      "awayTeam": "LAL",
+      "homeName": "Indiana Pacers",
+      "awayName": "Los Angeles Lakers",
       "prediction": {
         "main": {
-          "ptsA": 123.00851607847271,
-          "ptsB": 112.73574205020705,
-          "total": 235.74425812867975,
-          "spread": -10.272774028265658,
-          "win_prob_A": 71.1864106105241,
-          "ml_prob_A": 0.694973510175402,
-          "mc_win_A": 0.7372,
+          "ptsA": 111.58165021218849,
+          "ptsB": 123.78928883212522,
+          "total": 235.37093904431373,
+          "spread": 12.20763861993673,
+          "win_prob_A": 34.66889125299364,
+          "ml_prob_A": 0.44728152088322737,
+          "mc_win_A": 0.1958,
           "market": {
             "ml": {
               "home": null,
@@ -30033,218 +29901,48 @@ const analyticsData = {
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
-          "recommended_bet": 112.10219780219776,
-          "latent_strength_A": 3.8521453438927282,
-          "latent_strength_B": -13.733185111787689,
+          "recommended_bet": 0.0,
+          "latent_strength_A": -13.733185111787689,
+          "latent_strength_B": 6.870047814537148,
           "form_state_A": 2,
-          "form_state_B": 0,
+          "form_state_B": 2,
           "entropy_A": 3.3219280948873626
         },
         "halves": {
-          "h1_ptsA": 61.504258039236355,
-          "h1_ptsB": 56.367871025103526,
-          "h2_ptsA": 61.504258039236355,
-          "h2_ptsB": 56.367871025103526
+          "h1_ptsA": 55.790825106094246,
+          "h1_ptsB": 61.89464441606261,
+          "h2_ptsA": 55.790825106094246,
+          "h2_ptsB": 61.89464441606261
         },
         "quarters": [
           {
             "q": 1,
-            "ptsA": 30.752129019618177,
-            "ptsB": 28.183935512551763
+            "ptsA": 27.895412553047123,
+            "ptsB": 30.947322208031306
           },
           {
             "q": 2,
-            "ptsA": 30.752129019618177,
-            "ptsB": 28.183935512551763
+            "ptsA": 27.895412553047123,
+            "ptsB": 30.947322208031306
           },
           {
             "q": 3,
-            "ptsA": 30.752129019618177,
-            "ptsB": 28.183935512551763
+            "ptsA": 27.895412553047123,
+            "ptsB": 30.947322208031306
           },
           {
             "q": 4,
-            "ptsA": 30.752129019618177,
-            "ptsB": 28.183935512551763
+            "ptsA": 27.895412553047123,
+            "ptsB": 30.947322208031306
           }
         ],
         "players": [
           {
-            "player": "Anthony Black",
-            "team": "ORL",
-            "proj_pts": 13.193856197028492,
-            "proj_reb": 2.8682462464026286,
-            "proj_ast": 2.571531117464426,
-            "status": "Doubtful",
-            "injury": "Abdomen",
-            "market_line": null
-          },
-          {
-            "player": "Desmond Bane",
-            "team": "ORL",
-            "proj_pts": 22.798983508465234,
-            "proj_reb": 3.7583916332172373,
-            "proj_ast": 4.747442063011247,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Franz Wagner",
-            "team": "ORL",
-            "proj_pts": 19.21025462287348,
-            "proj_reb": 4.450726934073044,
-            "proj_ast": 2.8682462464026286,
-            "status": "Doubtful",
-            "injury": "Ankle",
-            "market_line": null
-          },
-          {
-            "player": "Goga Bitadze",
-            "team": "ORL",
-            "proj_pts": 4.855339080506485,
-            "proj_reb": 3.066056332361431,
-            "proj_ast": 0.890145386814609,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jalen Suggs",
-            "team": "ORL",
-            "proj_pts": 15.938178286010418,
-            "proj_reb": 3.8572966761966385,
-            "proj_ast": 5.439777363867055,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jamal Cain",
-            "team": "ORL",
-            "proj_pts": 3.483178036015522,
-            "proj_reb": 1.4835756446910149,
-            "proj_ast": 0.49452521489700496,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jase Richardson",
-            "team": "ORL",
-            "proj_pts": 2.5332203898294705,
-            "proj_reb": 0.49452521489700496,
-            "proj_ast": 0.9890504297940099,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jett Howard",
-            "team": "ORL",
-            "proj_pts": 7.810762868640867,
-            "proj_reb": 2.9671512893820298,
-            "proj_ast": 0.9890504297940099,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jevon Carter",
-            "team": "ORL",
-            "proj_pts": 8.127415417369551,
-            "proj_reb": 2.2748159885262225,
-            "proj_ast": 2.8682462464026286,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jonathan Isaac",
-            "team": "ORL",
-            "proj_pts": 1.583262743643419,
-            "proj_reb": 2.2748159885262225,
-            "proj_ast": 0.5934302578764059,
-            "status": "Out",
-            "injury": "Knee",
-            "market_line": null
-          },
-          {
-            "player": "Moritz Wagner",
-            "team": "ORL",
-            "proj_pts": 6.544152673726132,
-            "proj_reb": 4.450726934073044,
-            "proj_ast": 0.6923353008558069,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Noah Penda",
-            "team": "ORL",
-            "proj_pts": 3.166525487286838,
-            "proj_reb": 3.3627714612996336,
-            "proj_ast": 1.3846706017116137,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Orlando Robinson",
-            "team": "ORL",
-            "proj_pts": 1.847139867583989,
-            "proj_reb": 0.9890504297940099,
-            "proj_ast": 0.7417878223455074,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Paolo Banchero",
-            "team": "ORL",
-            "proj_pts": 26.915466641938124,
-            "proj_reb": 9.297074040063693,
-            "proj_ast": 4.6485370200318465,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Tristan da Silva",
-            "team": "ORL",
-            "proj_pts": 14.988220639824366,
-            "proj_reb": 5.538682406846455,
-            "proj_ast": 2.3737210315056236,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Tyus Jones",
-            "team": "ORL",
-            "proj_pts": 1.8999152923721028,
-            "proj_reb": 0.890145386814609,
-            "proj_ast": 1.9781008595880198,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Wendell Carter Jr.",
-            "team": "ORL",
-            "proj_pts": 13.404957896180948,
-            "proj_reb": 7.02225805153747,
-            "proj_ast": 2.175910945546822,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
             "player": "Aaron Nesmith",
             "team": "IND",
-            "proj_pts": 11.734329076883173,
-            "proj_reb": 2.670436160443827,
-            "proj_ast": 1.285765558732213,
+            "proj_pts": 11.864025279634706,
+            "proj_reb": 2.704531621219242,
+            "proj_ast": 1.3021818916981536,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -30252,9 +29950,9 @@ const analyticsData = {
           {
             "player": "Andrew Nembhard",
             "team": "IND",
-            "proj_pts": 14.993864931572944,
-            "proj_reb": 2.2748159885262225,
-            "proj_ast": 6.527732836640465,
+            "proj_pts": 15.159587857311015,
+            "proj_reb": 2.303860269927502,
+            "proj_ast": 6.6110772963137014,
             "status": "Questionable",
             "injury": "Calf",
             "market_line": null
@@ -30262,9 +29960,9 @@ const analyticsData = {
           {
             "player": "Ben Sheppard",
             "team": "IND",
-            "proj_pts": 6.9847196886209355,
-            "proj_reb": 2.7693412034232274,
-            "proj_ast": 1.4835756446910149,
+            "proj_pts": 7.061919809306373,
+            "proj_reb": 2.8046994590421765,
+            "proj_ast": 1.5025175673440232,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -30272,9 +29970,9 @@ const analyticsData = {
           {
             "player": "Bennedict Mathurin",
             "team": "IND",
-            "proj_pts": 14.900735335724663,
-            "proj_reb": 4.747442063011247,
-            "proj_ast": 2.472626074485025,
+            "proj_pts": 15.065428926520262,
+            "proj_reb": 4.808056215500874,
+            "proj_ast": 2.5041959455733718,
             "status": "Out",
             "injury": "Toe",
             "market_line": null
@@ -30282,9 +29980,9 @@ const analyticsData = {
           {
             "player": "Cody Martin",
             "team": "IND",
-            "proj_pts": 1.629767927344885,
-            "proj_reb": 3.4616765042790347,
-            "proj_ast": 0.49452521489700496,
+            "proj_pts": 1.6477812888381536,
+            "proj_reb": 3.505874323802721,
+            "proj_ast": 0.5008391891146744,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -30292,9 +29990,9 @@ const analyticsData = {
           {
             "player": "Ethan Thompson",
             "team": "IND",
-            "proj_pts": 5.028998175807074,
-            "proj_reb": 1.6813857306498168,
-            "proj_ast": 1.1868605157528118,
+            "proj_pts": 5.0845822627005886,
+            "proj_reb": 1.7028532429898928,
+            "proj_ast": 1.2020140538752184,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -30302,9 +30000,9 @@ const analyticsData = {
           {
             "player": "Garrison Mathews",
             "team": "IND",
-            "proj_pts": 6.425942113531262,
-            "proj_reb": 1.3846706017116137,
-            "proj_ast": 0.791240343835208,
+            "proj_pts": 6.496966224561864,
+            "proj_reb": 1.4023497295210883,
+            "proj_ast": 0.8013427025834791,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -30312,9 +30010,9 @@ const analyticsData = {
           {
             "player": "Isaiah Jackson",
             "team": "IND",
-            "proj_pts": 2.8870174712966534,
-            "proj_reb": 3.9562017191760397,
-            "proj_ast": 0.6923353008558069,
+            "proj_pts": 2.918926854513301,
+            "proj_reb": 4.006713512917395,
+            "proj_ast": 0.7011748647605441,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -30322,9 +30020,9 @@ const analyticsData = {
           {
             "player": "Ivica Zubac",
             "team": "IND",
-            "proj_pts": 10.523644330855545,
-            "proj_reb": 9.8905042979401,
-            "proj_ast": 1.4835756446910149,
+            "proj_pts": 10.639959179354936,
+            "proj_reb": 10.016783782293487,
+            "proj_ast": 1.5025175673440232,
             "status": "Questionable",
             "injury": "Head",
             "market_line": null
@@ -30332,9 +30030,9 @@ const analyticsData = {
           {
             "player": "Jalen Slawson",
             "team": "IND",
-            "proj_pts": 4.889303782034655,
-            "proj_reb": 3.9562017191760397,
-            "proj_ast": 2.7198886819335275,
+            "proj_pts": 4.943343866514461,
+            "proj_reb": 4.006713512917395,
+            "proj_ast": 2.7546155401307093,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -30342,9 +30040,9 @@ const analyticsData = {
           {
             "player": "James Wiseman",
             "team": "IND",
-            "proj_pts": 3.026711865069072,
-            "proj_reb": 1.9781008595880198,
-            "proj_ast": 0.7417878223455074,
+            "proj_pts": 3.0601652506994284,
+            "proj_reb": 2.0033567564586976,
+            "proj_ast": 0.7512587836720116,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -30352,9 +30050,9 @@ const analyticsData = {
           {
             "player": "Jarace Walker",
             "team": "IND",
-            "proj_pts": 13.596920993848755,
-            "proj_reb": 6.231017707702263,
-            "proj_ast": 3.164961375340832,
+            "proj_pts": 13.747203895449738,
+            "proj_reb": 6.310573782844897,
+            "proj_ast": 3.2053708103339162,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -30362,9 +30060,9 @@ const analyticsData = {
           {
             "player": "Jay Huff",
             "team": "IND",
-            "proj_pts": 11.548069885186614,
-            "proj_reb": 3.9562017191760397,
-            "proj_ast": 1.1868605157528118,
+            "proj_pts": 11.675707418053204,
+            "proj_reb": 4.006713512917395,
+            "proj_ast": 1.2020140538752184,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -30372,9 +30070,9 @@ const analyticsData = {
           {
             "player": "Jeremiah Robinson-Earl",
             "team": "IND",
-            "proj_pts": 3.8183134297794448,
-            "proj_reb": 4.252916848114243,
-            "proj_ast": 0.49452521489700496,
+            "proj_pts": 3.860516162420817,
+            "proj_reb": 4.3072170263861995,
+            "proj_ast": 0.5008391891146744,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -30382,9 +30080,9 @@ const analyticsData = {
           {
             "player": "Johnny Furphy",
             "team": "IND",
-            "proj_pts": 4.37709100486912,
-            "proj_reb": 5.538682406846455,
-            "proj_ast": 2.2748159885262225,
+            "proj_pts": 4.4254697471653275,
+            "proj_reb": 5.609398918084353,
+            "proj_ast": 2.303860269927502,
             "status": "Out For Season",
             "injury": "Knee",
             "market_line": null
@@ -30392,9 +30090,9 @@ const analyticsData = {
           {
             "player": "Kam Jones",
             "team": "IND",
-            "proj_pts": 5.960294134289866,
-            "proj_reb": 2.2748159885262225,
-            "proj_ast": 4.846347105990649,
+            "proj_pts": 6.026171570608105,
+            "proj_reb": 2.303860269927502,
+            "proj_ast": 4.908224053323809,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -30402,9 +30100,9 @@ const analyticsData = {
           {
             "player": "Kobe Brown",
             "team": "IND",
-            "proj_pts": 7.264108476165773,
-            "proj_reb": 3.8572966761966385,
-            "proj_ast": 1.1868605157528118,
+            "proj_pts": 7.3443966016786275,
+            "proj_reb": 3.9065456750944603,
+            "proj_ast": 1.2020140538752184,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -30412,9 +30110,9 @@ const analyticsData = {
           {
             "player": "Mac McClung",
             "team": "IND",
-            "proj_pts": 5.898207737057679,
-            "proj_reb": 1.3187339063920132,
-            "proj_ast": 0.3296834765980033,
+            "proj_pts": 5.963398950080937,
+            "proj_reb": 1.335571170972465,
+            "proj_ast": 0.33389279274311623,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -30422,9 +30120,9 @@ const analyticsData = {
           {
             "player": "Micah Potter",
             "team": "IND",
-            "proj_pts": 10.709903522552102,
-            "proj_reb": 4.450726934073044,
-            "proj_ast": 0.9890504297940099,
+            "proj_pts": 10.828277040936438,
+            "proj_reb": 4.507552702032069,
+            "proj_ast": 1.0016783782293488,
             "status": "Questionable",
             "injury": "Triceps",
             "market_line": null
@@ -30432,9 +30130,9 @@ const analyticsData = {
           {
             "player": "Monte Morris",
             "team": "IND",
-            "proj_pts": 2.7938878754483745,
-            "proj_reb": 1.1538921680930116,
-            "proj_ast": 1.4835756446910149,
+            "proj_pts": 2.824767923722549,
+            "proj_reb": 1.168624774600907,
+            "proj_ast": 1.5025175673440232,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -30442,9 +30140,9 @@ const analyticsData = {
           {
             "player": "Obi Toppin",
             "team": "IND",
-            "proj_pts": 6.891590092772657,
-            "proj_reb": 3.659486590237837,
-            "proj_ast": 1.582480687670416,
+            "proj_pts": 6.967760878515621,
+            "proj_reb": 3.706209999448591,
+            "proj_ast": 1.6026854051669581,
             "status": "Questionable",
             "injury": "Foot",
             "market_line": null
@@ -30452,9 +30150,9 @@ const analyticsData = {
           {
             "player": "Pascal Siakam",
             "team": "IND",
-            "proj_pts": 22.90988057867667,
-            "proj_reb": 5.241967277908253,
-            "proj_ast": 3.2638664183202324,
+            "proj_pts": 23.163096974524905,
+            "proj_reb": 5.308895404615549,
+            "proj_ast": 3.3055386481568507,
             "status": "Out",
             "injury": "Knee",
             "market_line": null
@@ -30462,9 +30160,9 @@ const analyticsData = {
           {
             "player": "Quenton Jackson",
             "team": "IND",
-            "proj_pts": 7.264108476165773,
-            "proj_reb": 2.7693412034232274,
-            "proj_ast": 3.164961375340832,
+            "proj_pts": 7.3443966016786275,
+            "proj_reb": 2.8046994590421765,
+            "proj_ast": 3.2053708103339162,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -30472,9 +30170,9 @@ const analyticsData = {
           {
             "player": "RayJ Dennis",
             "team": "IND",
-            "proj_pts": 2.607628683751816,
-            "proj_reb": 1.1868605157528118,
-            "proj_ast": 0.9890504297940099,
+            "proj_pts": 2.6364500621410456,
+            "proj_reb": 1.2020140538752184,
+            "proj_ast": 1.0016783782293488,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -30482,9 +30180,9 @@ const analyticsData = {
           {
             "player": "T.J. McConnell",
             "team": "IND",
-            "proj_pts": 7.822886051255448,
-            "proj_reb": 2.175910945546822,
-            "proj_ast": 5.538682406846455,
+            "proj_pts": 7.909350186423138,
+            "proj_reb": 2.2036924321045674,
+            "proj_ast": 5.609398918084353,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -30492,9 +30190,9 @@ const analyticsData = {
           {
             "player": "Taelon Peter",
             "team": "IND",
-            "proj_pts": 7.357238072014053,
-            "proj_reb": 1.9781008595880198,
-            "proj_ast": 1.6813857306498168,
+            "proj_pts": 7.43855553246938,
+            "proj_reb": 2.0033567564586976,
+            "proj_ast": 1.7028532429898928,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -30502,9 +30200,209 @@ const analyticsData = {
           {
             "player": "Tony Bradley",
             "team": "IND",
-            "proj_pts": 3.4457950463863285,
-            "proj_reb": 3.164961375340832,
-            "proj_ast": 0.49452521489700496,
+            "proj_pts": 3.4838804392578107,
+            "proj_reb": 3.2053708103339162,
+            "proj_ast": 0.5008391891146744,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Adou Thiero",
+            "team": "LAL",
+            "proj_pts": 1.9241729354819526,
+            "proj_reb": 1.4023497295210883,
+            "proj_ast": 0.5008391891146744,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Austin Reaves",
+            "team": "LAL",
+            "proj_pts": 22.769379736536436,
+            "proj_reb": 4.207049188563265,
+            "proj_ast": 5.409063242438484,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Bronny James",
+            "team": "LAL",
+            "proj_pts": 3.313853388885585,
+            "proj_reb": 0.5008391891146744,
+            "proj_ast": 1.3021818916981536,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Chris Ma\u00f1on",
+            "team": "LAL",
+            "proj_pts": 0.3563283213855467,
+            "proj_reb": 1.0016783782293488,
+            "proj_ast": 0.16694639637155811,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Christian Koloko",
+            "team": "LAL",
+            "proj_pts": 0.0,
+            "proj_reb": 0.5008391891146744,
+            "proj_ast": 0.0,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Dalton Knecht",
+            "team": "LAL",
+            "proj_pts": 2.1379699283132805,
+            "proj_reb": 1.0016783782293488,
+            "proj_ast": 0.3005035134688046,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Deandre Ayton",
+            "team": "LAL",
+            "proj_pts": 9.620864677409763,
+            "proj_reb": 7.8130913501889205,
+            "proj_ast": 0.8013427025834791,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Drew Timme",
+            "team": "LAL",
+            "proj_pts": 3.741447374548241,
+            "proj_reb": 1.1018462160522837,
+            "proj_ast": 0.5008391891146744,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Gabe Vincent",
+            "team": "LAL",
+            "proj_pts": 4.382838353042224,
+            "proj_reb": 0.901510540406414,
+            "proj_ast": 1.1018462160522837,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jake LaRavia",
+            "team": "LAL",
+            "proj_pts": 6.307011288524178,
+            "proj_reb": 3.505874323802721,
+            "proj_ast": 1.803021080812828,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jarred Vanderbilt",
+            "team": "LAL",
+            "proj_pts": 1.9241729354819526,
+            "proj_reb": 2.704531621219242,
+            "proj_ast": 0.8013427025834791,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jaxson Hayes",
+            "team": "LAL",
+            "proj_pts": 6.841503770602498,
+            "proj_reb": 4.207049188563265,
+            "proj_ast": 0.7011748647605441,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Kobe Bufkin",
+            "team": "LAL",
+            "proj_pts": 3.2069548924699207,
+            "proj_reb": 0.8013427025834791,
+            "proj_ast": 0.40067135129173953,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "LeBron James",
+            "team": "LAL",
+            "proj_pts": 20.52451131180749,
+            "proj_reb": 5.409063242438484,
+            "proj_ast": 6.010070269376093,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Luka Don\u010di\u0107",
+            "team": "LAL",
+            "proj_pts": 35.81099629924745,
+            "proj_reb": 8.714601890595334,
+            "proj_ast": 7.712923512365986,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Luke Kennard",
+            "team": "LAL",
+            "proj_pts": 9.30016918816277,
+            "proj_reb": 1.9031889186357627,
+            "proj_ast": 2.1035245942816325,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Marcus Smart",
+            "team": "LAL",
+            "proj_pts": 11.224342123644723,
+            "proj_reb": 2.404028107750437,
+            "proj_ast": 2.704531621219242,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Maxi Kleber",
+            "team": "LAL",
+            "proj_pts": 2.779360906807265,
+            "proj_reb": 2.2036924321045674,
+            "proj_ast": 0.3005035134688046,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Nick Smith Jr.",
+            "team": "LAL",
+            "proj_pts": 2.4586654175602725,
+            "proj_reb": 0.3005035134688046,
+            "proj_ast": 0.8013427025834791,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Rui Hachimura",
+            "team": "LAL",
+            "proj_pts": 10.476052648735076,
+            "proj_reb": 2.5041959455733718,
+            "proj_ast": 0.8013427025834791,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -30512,193 +30410,37 @@ const analyticsData = {
         ],
         "factors": {
           "teamA": {
-            "efg": 0.5409368307683738,
-            "tov": 0.11518806144149815,
-            "orb": 0.22970050542329642,
-            "ftr": 0.33329123097914437,
-            "sos": -0.47402304588076155,
-            "rest": 6,
-            "is_b2b": 0,
-            "ml_influence": {}
-          },
-          "teamB": {
             "efg": 0.5337413513020539,
             "tov": 0.1288105340852691,
             "orb": 0.21230642267672045,
             "ftr": 0.24102422875184773,
             "sos": 1.1798270763639958,
-            "rest": 6,
+            "rest": 8,
+            "is_b2b": 0,
+            "ml_influence": {
+              "roll_efg_pct_10": -0.0020059218820801306,
+              "roll_tov_pct_10": 0.007328289518687825,
+              "roll_orb_pct_10": -0.012343057766220794,
+              "roll_ft_rate_10": -0.0007131339141135129,
+              "p_tov": -0.0034513785719938283
+            }
+          },
+          "teamB": {
+            "efg": 0.5780753275432202,
+            "tov": 0.11158933678254193,
+            "orb": 0.23518860635575844,
+            "ftr": 0.2616055945202051,
+            "sos": -2.7034910652100628,
+            "rest": 9,
             "is_b2b": 0
           }
         },
         "margins": {
-          "1-5": 0.25976064180468234,
-          "6-10": 0.10945330136155633,
-          "11+": 0.1626758522010932
+          "1-5": 0.04991700121021809,
+          "6-10": 0.0210331347296074,
+          "11+": 0.03126066618399022
         },
         "formA": [
-          {
-            "date": "2026-03-01",
-            "opponent": "DET",
-            "result": "L",
-            "score": "92-106",
-            "quarters": [
-              23,
-              23,
-              23,
-              23
-            ],
-            "halves": [
-              46,
-              46
-            ]
-          },
-          {
-            "date": "2026-03-03",
-            "opponent": "WAS",
-            "result": "W",
-            "score": "126-109",
-            "quarters": [
-              31,
-              31,
-              31,
-              31
-            ],
-            "halves": [
-              62,
-              62
-            ]
-          },
-          {
-            "date": "2026-03-05",
-            "opponent": "DAL",
-            "result": "W",
-            "score": "115-114",
-            "quarters": [
-              28,
-              28,
-              28,
-              28
-            ],
-            "halves": [
-              56,
-              56
-            ]
-          },
-          {
-            "date": "2026-03-07",
-            "opponent": "MIN",
-            "result": "W",
-            "score": "119-92",
-            "quarters": [
-              29,
-              29,
-              29,
-              29
-            ],
-            "halves": [
-              58,
-              58
-            ]
-          },
-          {
-            "date": "2026-03-08",
-            "opponent": "MIL",
-            "result": "W",
-            "score": "130-91",
-            "quarters": [
-              32,
-              32,
-              32,
-              32
-            ],
-            "halves": [
-              64,
-              64
-            ]
-          },
-          {
-            "date": "2026-03-11",
-            "opponent": "CLE",
-            "result": "W",
-            "score": "128-122",
-            "quarters": [
-              32,
-              32,
-              32,
-              32
-            ],
-            "halves": [
-              64,
-              64
-            ]
-          },
-          {
-            "date": "2026-03-12",
-            "opponent": "WAS",
-            "result": "W",
-            "score": "136-131",
-            "quarters": [
-              34,
-              34,
-              34,
-              34
-            ],
-            "halves": [
-              68,
-              68
-            ]
-          },
-          {
-            "date": "2026-03-14",
-            "opponent": "MIA",
-            "result": "W",
-            "score": "121-117",
-            "quarters": [
-              30,
-              30,
-              30,
-              30
-            ],
-            "halves": [
-              60,
-              60
-            ]
-          },
-          {
-            "date": "2026-03-16",
-            "opponent": "ATL",
-            "result": "L",
-            "score": "112-124",
-            "quarters": [
-              28,
-              28,
-              28,
-              28
-            ],
-            "halves": [
-              56,
-              56
-            ]
-          },
-          {
-            "date": "2026-03-17",
-            "opponent": "OKC",
-            "result": "L",
-            "score": "108-113",
-            "quarters": [
-              27,
-              27,
-              27,
-              27
-            ],
-            "halves": [
-              54,
-              54
-            ]
-          }
-        ],
-        "formB": [
           {
             "date": "2026-02-26",
             "opponent": "CHA",
@@ -30860,35 +30602,247 @@ const analyticsData = {
             ]
           }
         ],
-        "shap_explanation": {},
-        "match_id": "0022501039",
+        "formB": [
+          {
+            "date": "2026-02-28",
+            "opponent": "GSW",
+            "result": "W",
+            "score": "129-101",
+            "quarters": [
+              32,
+              32,
+              32,
+              32
+            ],
+            "halves": [
+              64,
+              64
+            ]
+          },
+          {
+            "date": "2026-03-01",
+            "opponent": "SAC",
+            "result": "W",
+            "score": "128-104",
+            "quarters": [
+              32,
+              32,
+              32,
+              32
+            ],
+            "halves": [
+              64,
+              64
+            ]
+          },
+          {
+            "date": "2026-03-03",
+            "opponent": "NOP",
+            "result": "W",
+            "score": "110-101",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-05",
+            "opponent": "DEN",
+            "result": "L",
+            "score": "113-120",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-06",
+            "opponent": "IND",
+            "result": "W",
+            "score": "128-117",
+            "quarters": [
+              32,
+              32,
+              32,
+              32
+            ],
+            "halves": [
+              64,
+              64
+            ]
+          },
+          {
+            "date": "2026-03-08",
+            "opponent": "NYK",
+            "result": "W",
+            "score": "110-97",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-10",
+            "opponent": "MIN",
+            "result": "W",
+            "score": "120-106",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          },
+          {
+            "date": "2026-03-12",
+            "opponent": "CHI",
+            "result": "W",
+            "score": "142-130",
+            "quarters": [
+              35,
+              35,
+              35,
+              35
+            ],
+            "halves": [
+              70,
+              70
+            ]
+          },
+          {
+            "date": "2026-03-14",
+            "opponent": "DEN",
+            "result": "W",
+            "score": "127-125",
+            "quarters": [
+              31,
+              31,
+              31,
+              31
+            ],
+            "halves": [
+              62,
+              62
+            ]
+          },
+          {
+            "date": "2026-03-16",
+            "opponent": "HOU",
+            "result": "W",
+            "score": "100-92",
+            "quarters": [
+              25,
+              25,
+              25,
+              25
+            ],
+            "halves": [
+              50,
+              50
+            ]
+          }
+        ],
+        "shap_explanation": {
+          "adj_ortg_10": -0.03362463210073322,
+          "adj_drtg_10": -0.037097871610708495,
+          "adj_pace_10": 0.002609565845920656,
+          "net_rating": 0.005346790555422665,
+          "roll_efg_pct_10": -0.0020059218820801306,
+          "roll_tov_pct_10": 0.007328289518687825,
+          "roll_orb_pct_10": -0.012343057766220794,
+          "roll_ft_rate_10": -0.0007131339141135129,
+          "sos_10": 0.002093427587472192,
+          "is_b2b": 0.0005751802272965279,
+          "p_pts": 0.007348268076010811,
+          "p_reb": 0.027125507137425373,
+          "p_ast": 0.010891043478774377,
+          "p_stl": 0.018330848414484607,
+          "p_blk": 0.0020377136977899114,
+          "p_tov": -0.0034513785719938283,
+          "p_pf": -0.0023704659161783324,
+          "p_pm": 0.001027271798315894,
+          "p_usage": 0.0075324133073493725,
+          "p_eff": 0.003922036782780367,
+          "opp_adj_ortg_10": -0.03671615514788357,
+          "opp_adj_drtg_10": -0.04434972731564365,
+          "opp_sos_10": 0.0014167098817259216,
+          "opp_is_b2b": -0.001531583841824542
+        },
+        "match_id": "0022501052",
         "time": "TBD"
       },
-      "ml_prob_A": 0.694973510175402,
-      "mc_win_A": 0.7372,
-      "shap_explanation": {},
+      "ml_prob_A": 0.44728152088322737,
+      "mc_win_A": 0.1958,
+      "shap_explanation": {
+        "adj_ortg_10": -0.03362463210073322,
+        "adj_drtg_10": -0.037097871610708495,
+        "adj_pace_10": 0.002609565845920656,
+        "net_rating": 0.005346790555422665,
+        "roll_efg_pct_10": -0.0020059218820801306,
+        "roll_tov_pct_10": 0.007328289518687825,
+        "roll_orb_pct_10": -0.012343057766220794,
+        "roll_ft_rate_10": -0.0007131339141135129,
+        "sos_10": 0.002093427587472192,
+        "is_b2b": 0.0005751802272965279,
+        "p_pts": 0.007348268076010811,
+        "p_reb": 0.027125507137425373,
+        "p_ast": 0.010891043478774377,
+        "p_stl": 0.018330848414484607,
+        "p_blk": 0.0020377136977899114,
+        "p_tov": -0.0034513785719938283,
+        "p_pf": -0.0023704659161783324,
+        "p_pm": 0.001027271798315894,
+        "p_usage": 0.0075324133073493725,
+        "p_eff": 0.003922036782780367,
+        "opp_adj_ortg_10": -0.03671615514788357,
+        "opp_adj_drtg_10": -0.04434972731564365,
+        "opp_sos_10": 0.0014167098817259216,
+        "opp_is_b2b": -0.001531583841824542
+      },
       "is_b2b_home": 0,
       "is_b2b_away": 0,
-      "rest_home": 6,
-      "rest_away": 6
+      "rest_home": 8,
+      "rest_away": 9
     },
     {
-      "matchId": "0022501040",
-      "matchTime": 1774306800,
+      "matchId": "0022501053",
+      "matchTime": 1774479600,
       "gameStatus": "7:00 pm ET",
       "homeTeam": "PHI",
-      "awayTeam": "OKC",
+      "awayTeam": "CHI",
       "homeName": "Philadelphia 76ers",
-      "awayName": "Oklahoma City Thunder",
+      "awayName": "Chicago Bulls",
       "prediction": {
         "main": {
-          "ptsA": 109.81600312732084,
-          "ptsB": 116.50659183364257,
-          "total": 226.32259496096341,
-          "spread": 6.6905887063217335,
-          "win_prob_A": 41.30084315743485,
-          "ml_prob_A": 0.48128071929058075,
-          "mc_win_A": 0.3106,
+          "ptsA": 114.66124968032065,
+          "ptsB": 117.67146484666445,
+          "total": 232.33271452698511,
+          "spread": 3.010215166343798,
+          "win_prob_A": 47.60044503377099,
+          "ml_prob_A": 0.5141407505628498,
+          "mc_win_A": 0.4188,
           "market": {
             "ml": {
               "home": null,
@@ -30910,46 +30864,46 @@ const analyticsData = {
           "blowout_risk": 0.11853559847642359,
           "recommended_bet": 0.0,
           "latent_strength_A": -6.388660634860212,
-          "latent_strength_B": 6.1475816204586655,
-          "form_state_A": 1,
-          "form_state_B": 2,
+          "latent_strength_B": -2.9535234490350355,
+          "form_state_A": 0,
+          "form_state_B": 1,
           "entropy_A": 3.3219280948873626
         },
         "halves": {
-          "h1_ptsA": 54.90800156366042,
-          "h1_ptsB": 58.25329591682129,
-          "h2_ptsA": 54.90800156366042,
-          "h2_ptsB": 58.25329591682129
+          "h1_ptsA": 57.330624840160326,
+          "h1_ptsB": 58.835732423332225,
+          "h2_ptsA": 57.330624840160326,
+          "h2_ptsB": 58.835732423332225
         },
         "quarters": [
           {
             "q": 1,
-            "ptsA": 27.45400078183021,
-            "ptsB": 29.126647958410643
+            "ptsA": 28.665312420080163,
+            "ptsB": 29.417866211666112
           },
           {
             "q": 2,
-            "ptsA": 27.45400078183021,
-            "ptsB": 29.126647958410643
+            "ptsA": 28.665312420080163,
+            "ptsB": 29.417866211666112
           },
           {
             "q": 3,
-            "ptsA": 27.45400078183021,
-            "ptsB": 29.126647958410643
+            "ptsA": 28.665312420080163,
+            "ptsB": 29.417866211666112
           },
           {
             "q": 4,
-            "ptsA": 27.45400078183021,
-            "ptsB": 29.126647958410643
+            "ptsA": 28.665312420080163,
+            "ptsB": 29.417866211666112
           }
         ],
         "players": [
           {
             "player": "Adem Bona",
             "team": "PHI",
-            "proj_pts": 5.520034556867941,
-            "proj_reb": 5.394994132260722,
-            "proj_ast": 0.8991656887101203,
+            "proj_pts": 5.934589558321514,
+            "proj_reb": 5.469395856509616,
+            "proj_ast": 0.911565976084936,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -30957,9 +30911,9 @@ const analyticsData = {
           {
             "player": "Andre Drummond",
             "team": "PHI",
-            "proj_pts": 4.416027645494353,
-            "proj_reb": 8.292305795882221,
-            "proj_ast": 1.7983313774202405,
+            "proj_pts": 4.747671646657211,
+            "proj_reb": 8.406664001672187,
+            "proj_ast": 1.823131952169872,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -30967,9 +30921,9 @@ const analyticsData = {
           {
             "player": "Cameron Payne",
             "team": "PHI",
-            "proj_pts": 8.924055866936504,
-            "proj_reb": 2.0980532736569475,
-            "proj_ast": 2.9972189623670675,
+            "proj_pts": 9.594253119286448,
+            "proj_reb": 2.126987277531517,
+            "proj_ast": 3.038553253616453,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -30977,9 +30931,9 @@ const analyticsData = {
           {
             "player": "Charles Bassey",
             "team": "PHI",
-            "proj_pts": 2.7600172784339705,
-            "proj_reb": 4.995364937278445,
-            "proj_ast": 0.6660486583037928,
+            "proj_pts": 2.967294779160757,
+            "proj_reb": 5.064255422694089,
+            "proj_ast": 0.6752340563592117,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -30987,9 +30941,9 @@ const analyticsData = {
           {
             "player": "Dalen Terry",
             "team": "PHI",
-            "proj_pts": 4.416027645494353,
-            "proj_reb": 1.7983313774202405,
-            "proj_ast": 1.9981459749113784,
+            "proj_pts": 4.747671646657211,
+            "proj_reb": 1.823131952169872,
+            "proj_ast": 2.0257021690776353,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -30997,9 +30951,9 @@ const analyticsData = {
           {
             "player": "Dominick Barlow",
             "team": "PHI",
-            "proj_pts": 7.728048379615117,
-            "proj_reb": 4.395921144805032,
-            "proj_ast": 1.298794883692396,
+            "proj_pts": 8.30842538165012,
+            "proj_reb": 4.4565447719707985,
+            "proj_ast": 1.316706409900463,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31007,9 +30961,9 @@ const analyticsData = {
           {
             "player": "Eric Gordon",
             "team": "PHI",
-            "proj_pts": 5.060031677128945,
-            "proj_reb": 0.3330243291518964,
-            "proj_ast": 0.4995364937278446,
+            "proj_pts": 5.440040428461388,
+            "proj_reb": 0.33761702817960587,
+            "proj_ast": 0.5064255422694088,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31017,9 +30971,9 @@ const analyticsData = {
           {
             "player": "Hunter Sallis",
             "team": "PHI",
-            "proj_pts": 0.9200057594779901,
-            "proj_reb": 0.1427247124936699,
-            "proj_ast": 0.5708988499746795,
+            "proj_pts": 0.9890982597202523,
+            "proj_reb": 0.14469301207697394,
+            "proj_ast": 0.5787720483078957,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31027,9 +30981,9 @@ const analyticsData = {
           {
             "player": "Jabari Walker",
             "team": "PHI",
-            "proj_pts": 7.636047803667319,
-            "proj_reb": 3.4967554560949123,
-            "proj_ast": 0.5994437924734135,
+            "proj_pts": 8.209515555678095,
+            "proj_reb": 3.5449787958858616,
+            "proj_ast": 0.6077106507232906,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31037,9 +30991,9 @@ const analyticsData = {
           {
             "player": "Jared McCain",
             "team": "PHI",
-            "proj_pts": 6.256039164450333,
-            "proj_reb": 0.9990729874556892,
-            "proj_ast": 1.4986094811835338,
+            "proj_pts": 6.725868166097715,
+            "proj_reb": 1.0128510845388177,
+            "proj_ast": 1.5192766268082265,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31047,9 +31001,9 @@ const analyticsData = {
           {
             "player": "Joel Embiid",
             "team": "PHI",
-            "proj_pts": 29.532184879243484,
-            "proj_reb": 8.891749588355633,
-            "proj_ast": 5.394994132260722,
+            "proj_pts": 31.7500541370201,
+            "proj_reb": 9.014374652395478,
+            "proj_ast": 5.469395856509616,
             "status": "Questionable",
             "injury": "Oblique",
             "market_line": null
@@ -31057,9 +31011,9 @@ const analyticsData = {
           {
             "player": "Johni Broome",
             "team": "PHI",
-            "proj_pts": 0.5520034556867941,
-            "proj_reb": 1.3987021824379648,
-            "proj_ast": 0.29972189623670675,
+            "proj_pts": 0.5934589558321514,
+            "proj_reb": 1.4179915183543446,
+            "proj_ast": 0.3038553253616453,
             "status": "Out",
             "injury": "Knee",
             "market_line": null
@@ -31067,9 +31021,9 @@ const analyticsData = {
           {
             "player": "Justin Edwards",
             "team": "PHI",
-            "proj_pts": 9.016056442884304,
-            "proj_reb": 2.4976824686392227,
-            "proj_ast": 2.397775169893654,
+            "proj_pts": 9.693162945258473,
+            "proj_reb": 2.5321277113470444,
+            "proj_ast": 2.4308426028931622,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31077,9 +31031,9 @@ const analyticsData = {
           {
             "player": "Kelly Oubre Jr.",
             "team": "PHI",
-            "proj_pts": 14.628091575700044,
-            "proj_reb": 5.494901431006291,
-            "proj_ast": 2.397775169893654,
+            "proj_pts": 15.726662329552013,
+            "proj_reb": 5.570680964963497,
+            "proj_ast": 2.4308426028931622,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31087,9 +31041,9 @@ const analyticsData = {
           {
             "player": "Kyle Lowry",
             "team": "PHI",
-            "proj_pts": 1.0120063354257893,
-            "proj_reb": 0.8991656887101203,
-            "proj_ast": 0.9990729874556892,
+            "proj_pts": 1.0880080856922776,
+            "proj_reb": 0.911565976084936,
+            "proj_ast": 1.0128510845388177,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31097,9 +31051,9 @@ const analyticsData = {
           {
             "player": "MarJon Beauchamp",
             "team": "PHI",
-            "proj_pts": 8.411481229513052,
-            "proj_reb": 2.854494249873398,
-            "proj_ast": 1.284522412443029,
+            "proj_pts": 9.043184088870879,
+            "proj_reb": 2.893860241539479,
+            "proj_ast": 1.3022371086927658,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31107,8 +31061,8 @@ const analyticsData = {
           {
             "player": "Patrick Baldwin Jr.",
             "team": "PHI",
-            "proj_pts": 3.066685864926634,
-            "proj_reb": 0.6660486583037928,
+            "proj_pts": 3.296994199067508,
+            "proj_reb": 0.6752340563592117,
             "proj_ast": 0.0,
             "status": "Active",
             "injury": "",
@@ -31117,9 +31071,9 @@ const analyticsData = {
           {
             "player": "Paul George",
             "team": "PHI",
-            "proj_pts": 14.812092727595642,
-            "proj_reb": 4.59573574229617,
-            "proj_ast": 4.196106547313895,
+            "proj_pts": 15.924481981496063,
+            "proj_reb": 4.659114988878561,
+            "proj_ast": 4.253974555063034,
             "status": "Out",
             "injury": "Suspension",
             "market_line": null
@@ -31127,9 +31081,9 @@ const analyticsData = {
           {
             "player": "Quentin Grimes",
             "team": "PHI",
-            "proj_pts": 16.008100214917025,
-            "proj_reb": 3.796477352331619,
-            "proj_ast": 2.4976824686392227,
+            "proj_pts": 17.21030971913239,
+            "proj_reb": 3.848834121247507,
+            "proj_ast": 2.5321277113470444,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31137,9 +31091,9 @@ const analyticsData = {
           {
             "player": "Trendon Watford",
             "team": "PHI",
-            "proj_pts": 7.360046075823921,
-            "proj_reb": 3.1970335598582054,
-            "proj_ast": 2.597589767384792,
+            "proj_pts": 7.912786077762019,
+            "proj_reb": 3.241123470524217,
+            "proj_ast": 2.633412819800926,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31147,9 +31101,9 @@ const analyticsData = {
           {
             "player": "Tyrese Martin",
             "team": "PHI",
-            "proj_pts": 2.3000143986949753,
-            "proj_reb": 1.6984240786746716,
-            "proj_ast": 1.098980286201258,
+            "proj_pts": 2.472745649300631,
+            "proj_reb": 1.72184684371599,
+            "proj_ast": 1.1141361929926996,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31157,9 +31111,9 @@ const analyticsData = {
           {
             "player": "Tyrese Maxey",
             "team": "PHI",
-            "proj_pts": 27.232170480548508,
-            "proj_reb": 3.8963846510771876,
-            "proj_ast": 5.794623327242997,
+            "proj_pts": 29.27730848771947,
+            "proj_reb": 3.950119229701389,
+            "proj_ast": 5.874536290325143,
             "status": "Out",
             "injury": "Finger",
             "market_line": null
@@ -31167,199 +31121,279 @@ const analyticsData = {
           {
             "player": "VJ Edgecombe",
             "team": "PHI",
-            "proj_pts": 15.548097335178031,
-            "proj_reb": 5.994437924734135,
-            "proj_ast": 3.1970335598582054,
+            "proj_pts": 16.715760589272264,
+            "proj_reb": 6.077106507232906,
+            "proj_ast": 3.241123470524217,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Aaron Wiggins",
-            "team": "OKC",
-            "proj_pts": 7.412154547784502,
-            "proj_reb": 2.697497066130361,
-            "proj_ast": 1.4986094811835338,
+            "player": "Anfernee Simons",
+            "team": "CHI",
+            "proj_pts": 15.830282684680318,
+            "proj_reb": 2.4308426028931622,
+            "proj_ast": 2.2282723859853992,
+            "status": "Out",
+            "injury": "Wrist",
+            "market_line": null
+          },
+          {
+            "player": "Ayo Dosunmu",
+            "team": "CHI",
+            "proj_pts": 17.333157623099336,
+            "proj_reb": 4.253974555063034,
+            "proj_ast": 4.152689446609152,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Ajay Mitchell",
-            "team": "OKC",
-            "proj_pts": 14.626651640961418,
-            "proj_reb": 3.69657005358605,
-            "proj_ast": 3.596662754840481,
+            "player": "Coby White",
+            "team": "CHI",
+            "proj_pts": 20.038332512253568,
+            "proj_reb": 4.051404338155271,
+            "proj_ast": 4.8616852057863245,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Alex Caruso",
-            "team": "OKC",
-            "proj_pts": 7.708640729695882,
-            "proj_reb": 3.396848157349343,
-            "proj_ast": 1.5985167799291027,
+            "player": "Collin Sexton",
+            "team": "CHI",
+            "proj_pts": 15.629899359557783,
+            "proj_reb": 1.823131952169872,
+            "proj_ast": 2.0257021690776353,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Branden Carlson",
-            "team": "OKC",
-            "proj_pts": 3.0636905464175945,
-            "proj_reb": 2.7974043648759297,
-            "proj_ast": 0.39962919498227567,
+            "player": "Dalen Terry",
+            "team": "CHI",
+            "proj_pts": 5.410349778308463,
+            "proj_reb": 2.633412819800926,
+            "proj_ast": 1.6205617352621084,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Emanuel Miller",
+            "team": "CHI",
+            "proj_pts": 3.005749876838035,
+            "proj_reb": 0.6077106507232906,
+            "proj_ast": 0.8102808676310542,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Guerschon Yabusele",
+            "team": "CHI",
+            "proj_pts": 10.419932906371855,
+            "proj_reb": 5.975821398779025,
+            "proj_ast": 1.6205617352621084,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Isaac Okoro",
+            "team": "CHI",
+            "proj_pts": 9.818782931004248,
+            "proj_reb": 3.241123470524217,
+            "proj_ast": 2.0257021690776353,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jaden Ivey",
+            "team": "CHI",
+            "proj_pts": 9.017249630514105,
+            "proj_reb": 3.342408578978098,
+            "proj_ast": 2.3295574944392805,
             "status": "Doubtful",
-            "injury": "Back",
+            "injury": "Knee",
             "market_line": null
           },
           {
-            "player": "Brooks Barnhizer",
-            "team": "OKC",
-            "proj_pts": 1.7789170914682806,
-            "proj_reb": 1.5985167799291027,
-            "proj_ast": 0.8991656887101203,
+            "player": "Jalen Smith",
+            "team": "CHI",
+            "proj_pts": 11.922807844790873,
+            "proj_reb": 6.583532049502315,
+            "proj_ast": 1.0128510845388177,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Buddy Boeheim",
-            "team": "OKC",
-            "proj_pts": 1.4824309095569004,
-            "proj_reb": 0.0,
+            "player": "Jevon Carter",
+            "team": "CHI",
+            "proj_pts": 4.107858165011981,
+            "proj_reb": 0.7089957591771723,
+            "proj_ast": 0.4051404338155271,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Josh Giddey",
+            "team": "CHI",
+            "proj_pts": 16.231049334925387,
+            "proj_reb": 9.318229977757122,
+            "proj_ast": 10.533651279203704,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Julian Phillips",
+            "team": "CHI",
+            "proj_pts": 2.7051748891542315,
+            "proj_reb": 1.0128510845388177,
             "proj_ast": 0.0,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Cason Wallace",
-            "team": "OKC",
-            "proj_pts": 8.696928002733816,
-            "proj_reb": 2.9972189623670675,
-            "proj_ast": 3.796477352331619,
+            "player": "Kevin Huerter",
+            "team": "CHI",
+            "proj_pts": 8.015333004901427,
+            "proj_reb": 4.152689446609152,
+            "proj_ast": 3.241123470524217,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Chet Holmgren",
-            "team": "OKC",
-            "proj_pts": 16.603226187037286,
-            "proj_reb": 10.989802862012581,
-            "proj_ast": 2.0980532736569475,
+            "player": "Lachlan Olbrich",
+            "team": "CHI",
+            "proj_pts": 1.5028749384190174,
+            "proj_reb": 1.0128510845388177,
+            "proj_ast": 0.5064255422694088,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Chris Youngblood",
-            "team": "OKC",
-            "proj_pts": 2.6683756372024208,
-            "proj_reb": 0.8991656887101203,
-            "proj_ast": 0.4995364937278446,
+            "player": "Leonard Miller",
+            "team": "CHI",
+            "proj_pts": 10.319741243810588,
+            "proj_reb": 5.773251181871261,
+            "proj_ast": 1.316706409900463,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Isaiah Hartenstein",
-            "team": "OKC",
-            "proj_pts": 6.720353456657948,
-            "proj_reb": 7.3931401071721,
-            "proj_ast": 4.196106547313895,
+            "player": "Mac McClung",
+            "team": "CHI",
+            "proj_pts": 5.761020597272901,
+            "proj_reb": 1.2660638556735222,
+            "proj_ast": 0.5064255422694088,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Isaiah Joe",
-            "team": "OKC",
-            "proj_pts": 10.57467382150589,
-            "proj_reb": 3.1970335598582054,
-            "proj_ast": 0.9990729874556892,
+            "player": "Matas Buzelis",
+            "team": "CHI",
+            "proj_pts": 22.843699063969066,
+            "proj_reb": 6.88738737486396,
+            "proj_ast": 2.2282723859853992,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Jalen Williams",
-            "team": "OKC",
-            "proj_pts": 18.283314551201773,
-            "proj_reb": 3.596662754840481,
-            "proj_ast": 5.494901431006291,
-            "status": "Doubtful",
-            "injury": "Hamstring",
-            "market_line": null
-          },
-          {
-            "player": "Jared McCain",
-            "team": "OKC",
-            "proj_pts": 11.46413236724003,
-            "proj_reb": 1.5985167799291027,
-            "proj_ast": 0.7992583899645513,
+            "player": "Nick Richards",
+            "team": "CHI",
+            "proj_pts": 10.219549581249318,
+            "proj_reb": 8.60923421857995,
+            "proj_ast": 0.7089957591771723,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Jaylin Williams",
-            "team": "OKC",
-            "proj_pts": 12.551248367581756,
-            "proj_reb": 7.892676600899945,
-            "proj_ast": 2.8973116636214984,
+            "player": "Nikola Vu\u010devi\u0107",
+            "team": "CHI",
+            "proj_pts": 18.635649236395817,
+            "proj_reb": 8.00152356785666,
+            "proj_ast": 4.253974555063034,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Kenrich Williams",
-            "team": "OKC",
-            "proj_pts": 5.534408729012428,
-            "proj_reb": 2.7974043648759297,
-            "proj_ast": 0.7992583899645513,
+            "player": "Noa Essengue",
+            "team": "CHI",
+            "proj_pts": 0.0,
+            "proj_reb": 0.0,
+            "proj_ast": 0.0,
+            "status": "Out For Season",
+            "injury": "Shoulder",
+            "market_line": null
+          },
+          {
+            "player": "Patrick Williams",
+            "team": "CHI",
+            "proj_pts": 7.614566354656355,
+            "proj_reb": 2.2282723859853992,
+            "proj_ast": 2.3295574944392805,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Luguentz Dort",
-            "team": "OKC",
-            "proj_pts": 6.325038547442776,
-            "proj_reb": 3.8963846510771876,
-            "proj_ast": 1.098980286201258,
+            "player": "Rob Dillingham",
+            "team": "CHI",
+            "proj_pts": 7.514374692095088,
+            "proj_reb": 3.241123470524217,
+            "proj_ast": 3.646263904339744,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Nikola Topi\u0107",
-            "team": "OKC",
-            "proj_pts": 3.162519273721388,
-            "proj_reb": 1.5985167799291027,
-            "proj_ast": 1.9981459749113784,
+            "player": "Tre Jones",
+            "team": "CHI",
+            "proj_pts": 16.130857672364122,
+            "proj_reb": 3.1398383620703347,
+            "proj_ast": 4.152689446609152,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Ousmane Dieng",
-            "team": "OKC",
-            "proj_pts": 2.5695469098986274,
-            "proj_reb": 1.198887584946827,
-            "proj_ast": 1.298794883692396,
+            "player": "Trentyn Flowers",
+            "team": "CHI",
+            "proj_pts": 2.0038332512253567,
+            "proj_reb": 0.5064255422694088,
+            "proj_ast": 0.5064255422694088,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Shai Gilgeous-Alexander",
-            "team": "OKC",
-            "proj_pts": 29.94510437304939,
-            "proj_reb": 4.795550339787308,
-            "proj_ast": 8.492120393373359,
+            "player": "Yuki Kawamura",
+            "team": "CHI",
+            "proj_pts": 2.8053665517154993,
+            "proj_reb": 2.0257021690776353,
+            "proj_ast": 3.038553253616453,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Zach Collins",
+            "team": "CHI",
+            "proj_pts": 9.71859126844298,
+            "proj_reb": 5.671966073417378,
+            "proj_ast": 1.5192766268082265,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31372,24 +31406,30 @@ const analyticsData = {
             "orb": 0.24359308339312774,
             "ftr": 0.26035162065276546,
             "sos": 1.7617539979661447,
-            "rest": 6,
+            "rest": 8,
             "is_b2b": 0,
-            "ml_influence": {}
+            "ml_influence": {
+              "roll_efg_pct_10": -0.00425363336195474,
+              "roll_tov_pct_10": 0.006836441713747519,
+              "roll_orb_pct_10": 0.002214264578139762,
+              "roll_ft_rate_10": -0.0007263321543160828,
+              "p_tov": -0.01718779873425788
+            }
           },
           "teamB": {
-            "efg": 0.5213843052463358,
-            "tov": 0.09811289459513786,
-            "orb": 0.19106999366496344,
-            "ftr": 0.24634092704043936,
-            "sos": 1.824814286493281,
-            "rest": 6,
+            "efg": 0.551011335857835,
+            "tov": 0.14594149888676644,
+            "orb": 0.2380334616250206,
+            "ftr": 0.24300909385913633,
+            "sos": 0.12609118927576074,
+            "rest": 9,
             "is_b2b": 0
           }
         },
         "margins": {
-          "1-5": 0.09323254451140926,
-          "6-10": 0.03928466499087641,
-          "11+": 0.05838715028535346
+          "1-5": 0.12954272994551141,
+          "6-10": 0.05458440263088842,
+          "11+": 0.08112650878876249
         },
         "formA": [
           {
@@ -31555,6 +31595,888 @@ const analyticsData = {
         ],
         "formB": [
           {
+            "date": "2026-02-24",
+            "opponent": "CHA",
+            "result": "L",
+            "score": "99-131",
+            "quarters": [
+              24,
+              24,
+              24,
+              24
+            ],
+            "halves": [
+              48,
+              48
+            ]
+          },
+          {
+            "date": "2026-02-26",
+            "opponent": "POR",
+            "result": "L",
+            "score": "112-121",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-01",
+            "opponent": "MIL",
+            "result": "W",
+            "score": "120-97",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          },
+          {
+            "date": "2026-03-03",
+            "opponent": "OKC",
+            "result": "L",
+            "score": "108-116",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-05",
+            "opponent": "PHX",
+            "result": "W",
+            "score": "105-103",
+            "quarters": [
+              26,
+              26,
+              26,
+              26
+            ],
+            "halves": [
+              52,
+              52
+            ]
+          },
+          {
+            "date": "2026-03-08",
+            "opponent": "SAC",
+            "result": "L",
+            "score": "110-126",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-10",
+            "opponent": "GSW",
+            "result": "W",
+            "score": "130-124",
+            "quarters": [
+              32,
+              32,
+              32,
+              32
+            ],
+            "halves": [
+              64,
+              64
+            ]
+          },
+          {
+            "date": "2026-03-12",
+            "opponent": "LAL",
+            "result": "L",
+            "score": "130-142",
+            "quarters": [
+              32,
+              32,
+              32,
+              32
+            ],
+            "halves": [
+              64,
+              64
+            ]
+          },
+          {
+            "date": "2026-03-13",
+            "opponent": "LAC",
+            "result": "L",
+            "score": "108-119",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-16",
+            "opponent": "MEM",
+            "result": "W",
+            "score": "132-107",
+            "quarters": [
+              33,
+              33,
+              33,
+              33
+            ],
+            "halves": [
+              66,
+              66
+            ]
+          }
+        ],
+        "shap_explanation": {
+          "adj_ortg_10": -0.02044497245028609,
+          "adj_drtg_10": -0.008995125528521584,
+          "adj_pace_10": 0.004033438316531317,
+          "net_rating": -0.002146754656751426,
+          "roll_efg_pct_10": -0.00425363336195474,
+          "roll_tov_pct_10": 0.006836441713747519,
+          "roll_orb_pct_10": 0.002214264578139762,
+          "roll_ft_rate_10": -0.0007263321543160828,
+          "sos_10": 0.005809570754774853,
+          "is_b2b": 0.0003219254545032868,
+          "p_pts": 0.003229640319472793,
+          "p_reb": 0.01620964019578121,
+          "p_ast": -0.006238725953427604,
+          "p_stl": 0.009283548976972754,
+          "p_blk": 0.005753181773246325,
+          "p_tov": -0.01718779873425788,
+          "p_pf": -0.010614480549884888,
+          "p_pm": -0.0015615098125979898,
+          "p_usage": 0.0009826278114547903,
+          "p_eff": 0.0030895373485537903,
+          "opp_adj_ortg_10": 0.025444160362275526,
+          "opp_adj_drtg_10": -0.018487579532584845,
+          "opp_sos_10": -0.0012085689111756893,
+          "opp_is_b2b": -0.0011021244043152478
+        },
+        "match_id": "0022501053",
+        "time": "TBD"
+      },
+      "ml_prob_A": 0.5141407505628498,
+      "mc_win_A": 0.4188,
+      "shap_explanation": {
+        "adj_ortg_10": -0.02044497245028609,
+        "adj_drtg_10": -0.008995125528521584,
+        "adj_pace_10": 0.004033438316531317,
+        "net_rating": -0.002146754656751426,
+        "roll_efg_pct_10": -0.00425363336195474,
+        "roll_tov_pct_10": 0.006836441713747519,
+        "roll_orb_pct_10": 0.002214264578139762,
+        "roll_ft_rate_10": -0.0007263321543160828,
+        "sos_10": 0.005809570754774853,
+        "is_b2b": 0.0003219254545032868,
+        "p_pts": 0.003229640319472793,
+        "p_reb": 0.01620964019578121,
+        "p_ast": -0.006238725953427604,
+        "p_stl": 0.009283548976972754,
+        "p_blk": 0.005753181773246325,
+        "p_tov": -0.01718779873425788,
+        "p_pf": -0.010614480549884888,
+        "p_pm": -0.0015615098125979898,
+        "p_usage": 0.0009826278114547903,
+        "p_eff": 0.0030895373485537903,
+        "opp_adj_ortg_10": 0.025444160362275526,
+        "opp_adj_drtg_10": -0.018487579532584845,
+        "opp_sos_10": -0.0012085689111756893,
+        "opp_is_b2b": -0.0011021244043152478
+      },
+      "is_b2b_home": 0,
+      "is_b2b_away": 0,
+      "rest_home": 8,
+      "rest_away": 9
+    },
+    {
+      "matchId": "0022501054",
+      "matchTime": 1774481400,
+      "gameStatus": "7:30 pm ET",
+      "homeTeam": "BOS",
+      "awayTeam": "OKC",
+      "homeName": "Boston Celtics",
+      "awayName": "Oklahoma City Thunder",
+      "prediction": {
+        "main": {
+          "ptsA": 112.87834855398411,
+          "ptsB": 111.01790388094574,
+          "total": 223.89625243492986,
+          "spread": -1.8604446730383728,
+          "win_prob_A": 52.375404425910155,
+          "ml_prob_A": 0.4789636820763251,
+          "mc_win_A": 0.5358,
+          "market": {
+            "ml": {
+              "home": "2.24",
+              "away": "1.68"
+            },
+            "spread": {
+              "hdp": 3.5,
+              "home": "1.85",
+              "away": "1.98"
+            },
+            "total": {
+              "hdp": 217.5,
+              "over": "1.87",
+              "under": "1.95"
+            },
+            "props": []
+          }
+        },
+        "advanced": {
+          "blowout_risk": 0.11853559847642359,
+          "recommended_bet": 6.4225274725274915,
+          "latent_strength_A": 7.091850752870968,
+          "latent_strength_B": 6.1475816204586655,
+          "form_state_A": 2,
+          "form_state_B": 2,
+          "entropy_A": 3.3219280948873626
+        },
+        "halves": {
+          "h1_ptsA": 56.439174276992055,
+          "h1_ptsB": 55.50895194047287,
+          "h2_ptsA": 56.439174276992055,
+          "h2_ptsB": 55.50895194047287
+        },
+        "quarters": [
+          {
+            "q": 1,
+            "ptsA": 28.219587138496028,
+            "ptsB": 27.754475970236435
+          },
+          {
+            "q": 2,
+            "ptsA": 28.219587138496028,
+            "ptsB": 27.754475970236435
+          },
+          {
+            "q": 3,
+            "ptsA": 28.219587138496028,
+            "ptsB": 27.754475970236435
+          },
+          {
+            "q": 4,
+            "ptsA": 28.219587138496028,
+            "ptsB": 27.754475970236435
+          }
+        ],
+        "players": [
+          {
+            "player": "Amari Williams",
+            "team": "BOS",
+            "proj_pts": 1.421280326390534,
+            "proj_reb": 2.0579041918240057,
+            "proj_ast": 0.5144760479560014,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Anfernee Simons",
+            "team": "BOS",
+            "proj_pts": 16.01309167733335,
+            "proj_reb": 2.778170658962408,
+            "proj_ast": 1.8521137726416053,
+            "status": "Out",
+            "injury": "Wrist",
+            "market_line": null
+          },
+          {
+            "player": "Baylor Scheierman",
+            "team": "BOS",
+            "proj_pts": 8.527681958343205,
+            "proj_reb": 5.762131737107215,
+            "proj_ast": 2.8810658685536077,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Chris Boucher",
+            "team": "BOS",
+            "proj_pts": 2.210880507718609,
+            "proj_reb": 2.0579041918240057,
+            "proj_ast": 0.3429840319706676,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Dalano Banton",
+            "team": "BOS",
+            "proj_pts": 1.8950404351873789,
+            "proj_reb": 0.2057904191824006,
+            "proj_ast": 0.8231616767296024,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Derrick White",
+            "team": "BOS",
+            "proj_pts": 18.571396264836313,
+            "proj_reb": 4.527389222012813,
+            "proj_ast": 5.762131737107215,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Hugo Gonz\u00e1lez",
+            "team": "BOS",
+            "proj_pts": 5.211361196765292,
+            "proj_reb": 4.321598802830413,
+            "proj_ast": 0.7202664671384019,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jaylen Brown",
+            "team": "BOS",
+            "proj_pts": 23.11949330928602,
+            "proj_reb": 7.408455090566421,
+            "proj_ast": 6.688188623428019,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jayson Tatum",
+            "team": "BOS",
+            "proj_pts": 18.95040435187379,
+            "proj_reb": 8.437407186478422,
+            "proj_ast": 4.527389222012813,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "John Tonje",
+            "team": "BOS",
+            "proj_pts": 0.6316801450624596,
+            "proj_reb": 0.6859680639413352,
+            "proj_ast": 0.3429840319706676,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jordan Walsh",
+            "team": "BOS",
+            "proj_pts": 3.505824805096651,
+            "proj_reb": 2.9839610781448083,
+            "proj_ast": 0.2057904191824006,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Josh Minott",
+            "team": "BOS",
+            "proj_pts": 2.2740485222248545,
+            "proj_reb": 1.1318473055032032,
+            "proj_ast": 0.2057904191824006,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Luka Garza",
+            "team": "BOS",
+            "proj_pts": 6.158881414358981,
+            "proj_reb": 2.9839610781448083,
+            "proj_ast": 0.9260568863208026,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Max Shulga",
+            "team": "BOS",
+            "proj_pts": 0.0,
+            "proj_reb": 0.0,
+            "proj_ast": 0.0,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Neemias Queta",
+            "team": "BOS",
+            "proj_pts": 9.948962284733739,
+            "proj_reb": 8.025826348113622,
+            "proj_ast": 1.5434281438680042,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Nikola Vu\u010devi\u0107",
+            "team": "BOS",
+            "proj_pts": 9.759458241215002,
+            "proj_reb": 6.99687425220162,
+            "proj_ast": 1.8521137726416053,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Payton Pritchard",
+            "team": "BOS",
+            "proj_pts": 11.654498676402381,
+            "proj_reb": 3.49843712610081,
+            "proj_ast": 5.144760479560015,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Ron Harper Jr.",
+            "team": "BOS",
+            "proj_pts": 4.642849066209078,
+            "proj_reb": 1.2347425150944034,
+            "proj_ast": 0.6173712575472017,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Sam Hauser",
+            "team": "BOS",
+            "proj_pts": 8.717186001861942,
+            "proj_reb": 4.938970060377613,
+            "proj_ast": 1.4405329342768038,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Xavier Tillman",
+            "team": "BOS",
+            "proj_pts": 1.5160323481499032,
+            "proj_reb": 1.4405329342768038,
+            "proj_ast": 0.30868562877360084,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Aaron Wiggins",
+            "team": "OKC",
+            "proj_pts": 7.338347891648525,
+            "proj_reb": 2.778170658962408,
+            "proj_ast": 1.5434281438680042,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Ajay Mitchell",
+            "team": "OKC",
+            "proj_pts": 14.481006506186423,
+            "proj_reb": 3.8071227548744107,
+            "proj_ast": 3.7042275452832105,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Alex Caruso",
+            "team": "OKC",
+            "proj_pts": 7.631881807314466,
+            "proj_reb": 3.49843712610081,
+            "proj_ast": 1.6463233534592048,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Branden Carlson",
+            "team": "OKC",
+            "proj_pts": 3.0331837952147236,
+            "proj_reb": 2.8810658685536077,
+            "proj_ast": 0.4115808383648012,
+            "status": "Doubtful",
+            "injury": "Back",
+            "market_line": null
+          },
+          {
+            "player": "Brooks Barnhizer",
+            "team": "OKC",
+            "proj_pts": 1.761203493995646,
+            "proj_reb": 1.6463233534592048,
+            "proj_ast": 0.9260568863208026,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Buddy Boeheim",
+            "team": "OKC",
+            "proj_pts": 1.467669578329705,
+            "proj_reb": 0.0,
+            "proj_ast": 0.0,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Cason Wallace",
+            "team": "OKC",
+            "proj_pts": 8.610328192867604,
+            "proj_reb": 3.0868562877360084,
+            "proj_ast": 3.910017964465611,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Chet Holmgren",
+            "team": "OKC",
+            "proj_pts": 16.437899277292697,
+            "proj_reb": 11.318473055032031,
+            "proj_ast": 2.1607994014152063,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Chris Youngblood",
+            "team": "OKC",
+            "proj_pts": 2.6418052409934694,
+            "proj_reb": 0.9260568863208026,
+            "proj_ast": 0.5144760479560014,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Isaiah Hartenstein",
+            "team": "OKC",
+            "proj_pts": 6.653435421761329,
+            "proj_reb": 7.614245509748821,
+            "proj_ast": 4.321598802830413,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Isaiah Joe",
+            "team": "OKC",
+            "proj_pts": 10.469376325418562,
+            "proj_reb": 3.2926467069184095,
+            "proj_ast": 1.0289520959120029,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jalen Williams",
+            "team": "OKC",
+            "proj_pts": 18.10125813273303,
+            "proj_reb": 3.7042275452832105,
+            "proj_ast": 5.659236527516016,
+            "status": "Doubtful",
+            "injury": "Hamstring",
+            "market_line": null
+          },
+          {
+            "player": "Jared McCain",
+            "team": "OKC",
+            "proj_pts": 11.349978072416386,
+            "proj_reb": 1.6463233534592048,
+            "proj_ast": 0.8231616767296024,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jaylin Williams",
+            "team": "OKC",
+            "proj_pts": 12.426269096524836,
+            "proj_reb": 8.128721557704823,
+            "proj_ast": 2.9839610781448083,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Kenrich Williams",
+            "team": "OKC",
+            "proj_pts": 5.479299759097565,
+            "proj_reb": 2.8810658685536077,
+            "proj_ast": 0.8231616767296024,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Luguentz Dort",
+            "team": "OKC",
+            "proj_pts": 6.262056867540075,
+            "proj_reb": 4.012913174056811,
+            "proj_ast": 1.1318473055032032,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Nikola Topi\u0107",
+            "team": "OKC",
+            "proj_pts": 3.1310284337700374,
+            "proj_reb": 1.6463233534592048,
+            "proj_ast": 2.0579041918240057,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Ousmane Dieng",
+            "team": "OKC",
+            "proj_pts": 2.5439606024381556,
+            "proj_reb": 1.2347425150944034,
+            "proj_ast": 1.3376377246856037,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Shai Gilgeous-Alexander",
+            "team": "OKC",
+            "proj_pts": 29.64692548226004,
+            "proj_reb": 4.938970060377613,
+            "proj_ast": 8.746092815252025,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          }
+        ],
+        "factors": {
+          "teamA": {
+            "efg": 0.5555151899161151,
+            "tov": 0.1159373669197821,
+            "orb": 0.2848773247368937,
+            "ftr": 0.23009417581054165,
+            "sos": -1.1461543075564808,
+            "rest": 9,
+            "is_b2b": 0,
+            "ml_influence": {
+              "roll_efg_pct_10": 2.1461891090268637e-05,
+              "roll_tov_pct_10": 0.008223958895011946,
+              "roll_orb_pct_10": 0.007292443985413684,
+              "roll_ft_rate_10": -0.006316336637787288,
+              "p_tov": -0.00672259877378508
+            }
+          },
+          "teamB": {
+            "efg": 0.5213843052463358,
+            "tov": 0.09811289459513786,
+            "orb": 0.19106999366496344,
+            "ftr": 0.24634092704043936,
+            "sos": 1.824814286493281,
+            "rest": 8,
+            "is_b2b": 0
+          }
+        },
+        "margins": {
+          "1-5": 0.18144174608423325,
+          "6-10": 0.07645268342329213,
+          "11+": 0.11362841754641431
+        },
+        "formA": [
+          {
+            "date": "2026-02-27",
+            "opponent": "BKN",
+            "result": "W",
+            "score": "148-111",
+            "quarters": [
+              37,
+              37,
+              37,
+              37
+            ],
+            "halves": [
+              74,
+              74
+            ]
+          },
+          {
+            "date": "2026-03-01",
+            "opponent": "PHI",
+            "result": "W",
+            "score": "114-98",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-02",
+            "opponent": "MIL",
+            "result": "W",
+            "score": "108-81",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-04",
+            "opponent": "CHA",
+            "result": "L",
+            "score": "89-118",
+            "quarters": [
+              22,
+              22,
+              22,
+              22
+            ],
+            "halves": [
+              44,
+              44
+            ]
+          },
+          {
+            "date": "2026-03-06",
+            "opponent": "DAL",
+            "result": "W",
+            "score": "120-100",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          },
+          {
+            "date": "2026-03-08",
+            "opponent": "CLE",
+            "result": "W",
+            "score": "109-98",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-10",
+            "opponent": "SAS",
+            "result": "L",
+            "score": "116-125",
+            "quarters": [
+              29,
+              29,
+              29,
+              29
+            ],
+            "halves": [
+              58,
+              58
+            ]
+          },
+          {
+            "date": "2026-03-12",
+            "opponent": "OKC",
+            "result": "L",
+            "score": "102-104",
+            "quarters": [
+              25,
+              25,
+              25,
+              25
+            ],
+            "halves": [
+              50,
+              50
+            ]
+          },
+          {
+            "date": "2026-03-14",
+            "opponent": "WAS",
+            "result": "W",
+            "score": "111-100",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-16",
+            "opponent": "PHX",
+            "result": "W",
+            "score": "120-112",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          }
+        ],
+        "formB": [
+          {
             "date": "2026-02-25",
             "opponent": "DET",
             "result": "L",
@@ -31715,35 +32637,85 @@ const analyticsData = {
             ]
           }
         ],
-        "shap_explanation": {},
-        "match_id": "0022501040",
+        "shap_explanation": {
+          "adj_ortg_10": 0.023552210038989756,
+          "adj_drtg_10": 0.02339562777468174,
+          "adj_pace_10": 0.003628204380950777,
+          "net_rating": -0.009212395477570965,
+          "roll_efg_pct_10": 2.1461891090268637e-05,
+          "roll_tov_pct_10": 0.008223958895011946,
+          "roll_orb_pct_10": 0.007292443985413684,
+          "roll_ft_rate_10": -0.006316336637787288,
+          "sos_10": -0.008531104397473826,
+          "is_b2b": 0.0003555788573174823,
+          "p_pts": -0.0024429647393463226,
+          "p_reb": 0.008327521853357495,
+          "p_ast": -0.016325459501322682,
+          "p_stl": 6.526094100081536e-05,
+          "p_blk": 0.005983427695067434,
+          "p_tov": -0.00672259877378508,
+          "p_pf": -0.010655762716067869,
+          "p_pm": -0.005715503028413735,
+          "p_usage": 0.016862450135360803,
+          "p_eff": 0.009192830140834971,
+          "opp_adj_ortg_10": 0.02318139450567486,
+          "opp_adj_drtg_10": -0.09763008241547645,
+          "opp_sos_10": -0.010584076008637453,
+          "opp_is_b2b": -0.0008827856458117366
+        },
+        "match_id": "0022501054",
         "time": "TBD"
       },
-      "ml_prob_A": 0.48128071929058075,
-      "mc_win_A": 0.3106,
-      "shap_explanation": {},
+      "ml_prob_A": 0.4789636820763251,
+      "mc_win_A": 0.5358,
+      "shap_explanation": {
+        "adj_ortg_10": 0.023552210038989756,
+        "adj_drtg_10": 0.02339562777468174,
+        "adj_pace_10": 0.003628204380950777,
+        "net_rating": -0.009212395477570965,
+        "roll_efg_pct_10": 2.1461891090268637e-05,
+        "roll_tov_pct_10": 0.008223958895011946,
+        "roll_orb_pct_10": 0.007292443985413684,
+        "roll_ft_rate_10": -0.006316336637787288,
+        "sos_10": -0.008531104397473826,
+        "is_b2b": 0.0003555788573174823,
+        "p_pts": -0.0024429647393463226,
+        "p_reb": 0.008327521853357495,
+        "p_ast": -0.016325459501322682,
+        "p_stl": 6.526094100081536e-05,
+        "p_blk": 0.005983427695067434,
+        "p_tov": -0.00672259877378508,
+        "p_pf": -0.010655762716067869,
+        "p_pm": -0.005715503028413735,
+        "p_usage": 0.016862450135360803,
+        "p_eff": 0.009192830140834971,
+        "opp_adj_ortg_10": 0.02318139450567486,
+        "opp_adj_drtg_10": -0.09763008241547645,
+        "opp_sos_10": -0.010584076008637453,
+        "opp_is_b2b": -0.0008827856458117366
+      },
       "is_b2b_home": 0,
       "is_b2b_away": 0,
-      "rest_home": 6,
-      "rest_away": 6
+      "rest_home": 9,
+      "rest_away": 8
     },
     {
-      "matchId": "0022501041",
-      "matchTime": 1774306800,
-      "gameStatus": "7:00 pm ET",
-      "homeTeam": "MIA",
-      "awayTeam": "SAS",
-      "homeName": "Miami Heat",
-      "awayName": "San Antonio Spurs",
+      "matchId": "0022501055",
+      "matchTime": 1774481400,
+      "gameStatus": "7:30 pm ET",
+      "homeTeam": "CLE",
+      "awayTeam": "MIA",
+      "homeName": "Cleveland Cavaliers",
+      "awayName": "Miami Heat",
       "prediction": {
         "main": {
-          "ptsA": 117.955594160842,
-          "ptsB": 120.19234301797306,
-          "total": 238.14793717881506,
-          "spread": 2.2367488571310616,
-          "win_prob_A": 49.30444652181387,
-          "ml_prob_A": 0.5285407753635645,
-          "mc_win_A": 0.4398,
+          "ptsA": 117.88724317480631,
+          "ptsB": 119.0297574700028,
+          "total": 236.91700064480912,
+          "spread": 1.1425142951964915,
+          "win_prob_A": 50.08554703205803,
+          "ml_prob_A": 0.5316924505343005,
+          "mc_win_A": 0.4546,
           "market": {
             "ml": {
               "home": null,
@@ -31764,47 +32736,277 @@ const analyticsData = {
         "advanced": {
           "blowout_risk": 0.11853559847642359,
           "recommended_bet": 0.0,
-          "latent_strength_A": 3.346266748432738,
-          "latent_strength_B": 11.701044463567804,
-          "form_state_A": 1,
-          "form_state_B": 2,
+          "latent_strength_A": 5.505910660887272,
+          "latent_strength_B": 3.346266748432738,
+          "form_state_A": 0,
+          "form_state_B": 1,
           "entropy_A": 3.3219280948873626
         },
         "halves": {
-          "h1_ptsA": 58.977797080421,
-          "h1_ptsB": 60.09617150898653,
-          "h2_ptsA": 58.977797080421,
-          "h2_ptsB": 60.09617150898653
+          "h1_ptsA": 58.94362158740316,
+          "h1_ptsB": 59.5148787350014,
+          "h2_ptsA": 58.94362158740316,
+          "h2_ptsB": 59.5148787350014
         },
         "quarters": [
           {
             "q": 1,
-            "ptsA": 29.4888985402105,
-            "ptsB": 30.048085754493265
+            "ptsA": 29.47181079370158,
+            "ptsB": 29.7574393675007
           },
           {
             "q": 2,
-            "ptsA": 29.4888985402105,
-            "ptsB": 30.048085754493265
+            "ptsA": 29.47181079370158,
+            "ptsB": 29.7574393675007
           },
           {
             "q": 3,
-            "ptsA": 29.4888985402105,
-            "ptsB": 30.048085754493265
+            "ptsA": 29.47181079370158,
+            "ptsB": 29.7574393675007
           },
           {
             "q": 4,
-            "ptsA": 29.4888985402105,
-            "ptsB": 30.048085754493265
+            "ptsA": 29.47181079370158,
+            "ptsB": 29.7574393675007
           }
         ],
         "players": [
           {
+            "player": "Chris Livingston",
+            "team": "CLE",
+            "proj_pts": 2.953605270830809,
+            "proj_reb": 1.0261496895812126,
+            "proj_ast": 0.34204989652707085,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Craig Porter Jr.",
+            "team": "CLE",
+            "proj_pts": 2.953605270830809,
+            "proj_reb": 2.975834099785516,
+            "proj_ast": 3.694138882492365,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Darius Brown",
+            "team": "CLE",
+            "proj_pts": 0.0,
+            "proj_reb": 1.0261496895812126,
+            "proj_ast": 0.0,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Darius Garland",
+            "team": "CLE",
+            "proj_pts": 18.70616671526179,
+            "proj_reb": 1.8470694412461826,
+            "proj_ast": 6.875202920194124,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "De'Andre Hunter",
+            "team": "CLE",
+            "proj_pts": 11.61751406526785,
+            "proj_reb": 3.591523913534244,
+            "proj_ast": 2.1549143481205464,
+            "status": "Out For Season",
+            "injury": "Eye",
+            "market_line": null
+          },
+          {
+            "player": "Dean Wade",
+            "team": "CLE",
+            "proj_pts": 6.202571068744699,
+            "proj_reb": 4.515058634157335,
+            "proj_ast": 1.3339945964555764,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Dennis Schr\u00f6der",
+            "team": "CLE",
+            "proj_pts": 8.860815812492426,
+            "proj_reb": 2.052299379162425,
+            "proj_ast": 4.8229035410317,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Donovan Mitchell",
+            "team": "CLE",
+            "proj_pts": 22.939667603452616,
+            "proj_reb": 4.515058634157335,
+            "proj_ast": 5.74643826165479,
+            "status": "Questionable",
+            "injury": "Eye",
+            "market_line": null
+          },
+          {
+            "player": "Evan Mobley",
+            "team": "CLE",
+            "proj_pts": 19.789155314566422,
+            "proj_reb": 10.158881926854004,
+            "proj_ast": 2.2575293170786677,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "James Harden",
+            "team": "CLE",
+            "proj_pts": 20.37987636873258,
+            "proj_reb": 5.3359783858223055,
+            "proj_ast": 7.2856627960266085,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jarrett Allen",
+            "team": "CLE",
+            "proj_pts": 19.099980751372563,
+            "proj_reb": 10.056266957895884,
+            "proj_ast": 1.4366095654136974,
+            "status": "Out",
+            "injury": "Knee",
+            "market_line": null
+          },
+          {
+            "player": "Jaylon Tyson",
+            "team": "CLE",
+            "proj_pts": 10.33761844790783,
+            "proj_reb": 3.796753851450487,
+            "proj_ast": 2.1549143481205464,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Keon Ellis",
+            "team": "CLE",
+            "proj_pts": 9.254629848603201,
+            "proj_reb": 3.181064037701759,
+            "proj_ast": 1.4366095654136974,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Larry Nance Jr.",
+            "team": "CLE",
+            "proj_pts": 2.7566982527754216,
+            "proj_reb": 2.46275925499491,
+            "proj_ast": 0.6156898137487276,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Lonzo Ball",
+            "team": "CLE",
+            "proj_pts": 2.953605270830809,
+            "proj_reb": 3.591523913534244,
+            "proj_ast": 2.2575293170786677,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Luke Travers",
+            "team": "CLE",
+            "proj_pts": 2.7566982527754216,
+            "proj_reb": 2.46275925499491,
+            "proj_ast": 0.9235347206230913,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Max Strus",
+            "team": "CLE",
+            "proj_pts": 14.768026354154046,
+            "proj_reb": 7.183047827068488,
+            "proj_ast": 2.5653742239530315,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Nae'Qwan Tomlin",
+            "team": "CLE",
+            "proj_pts": 3.052058779858503,
+            "proj_reb": 1.6418395033299402,
+            "proj_ast": 0.20522993791624253,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Riley Minix",
+            "team": "CLE",
+            "proj_pts": 2.5597912347200347,
+            "proj_reb": 1.0261496895812126,
+            "proj_ast": 0.6156898137487276,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Sam Merrill",
+            "team": "CLE",
+            "proj_pts": 11.322153538184768,
+            "proj_reb": 2.975834099785516,
+            "proj_ast": 2.3601442860367885,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Thomas Bryant",
+            "team": "CLE",
+            "proj_pts": 8.467001776381652,
+            "proj_reb": 3.591523913534244,
+            "proj_ast": 0.3078449068743638,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Tristan Enaruna",
+            "team": "CLE",
+            "proj_pts": 2.1331593622666953,
+            "proj_reb": 1.5392245343718187,
+            "proj_ast": 0.5130748447906063,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Tyrese Proctor",
+            "team": "CLE",
+            "proj_pts": 4.8242219423569885,
+            "proj_reb": 0.41045987583248505,
+            "proj_ast": 1.7444544722880613,
+            "status": "Out",
+            "injury": "Quadriceps",
+            "market_line": null
+          },
+          {
             "player": "Andrew Wiggins",
             "team": "MIA",
-            "proj_pts": 16.15780858334323,
-            "proj_reb": 6.104345227728905,
-            "proj_ast": 2.4614295273100426,
+            "proj_pts": 17.497682996488194,
+            "proj_reb": 6.362128075403518,
+            "proj_ast": 2.5653742239530315,
             "status": "Questionable",
             "injury": "Toe",
             "market_line": null
@@ -31812,9 +33014,9 @@ const analyticsData = {
           {
             "player": "Bam Adebayo",
             "team": "MIA",
-            "proj_pts": 27.11866118958775,
-            "proj_reb": 9.353432203778162,
-            "proj_ast": 2.7568010705872474,
+            "proj_pts": 29.367456257263807,
+            "proj_reb": 9.74842205102152,
+            "proj_ast": 2.873219130827395,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31822,9 +33024,9 @@ const analyticsData = {
           {
             "player": "Davion Mitchell",
             "team": "MIA",
-            "proj_pts": 8.220639454683395,
-            "proj_reb": 3.0521726138644527,
-            "proj_ast": 4.430573149158077,
+            "proj_pts": 8.90232994558171,
+            "proj_reb": 3.181064037701759,
+            "proj_ast": 4.617673603115456,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31832,9 +33034,9 @@ const analyticsData = {
           {
             "player": "Dru Smith",
             "team": "MIA",
-            "proj_pts": 4.346544999028002,
-            "proj_reb": 2.658343889494846,
-            "proj_ast": 1.969143621848034,
+            "proj_pts": 4.706979051686882,
+            "proj_reb": 2.770604161869274,
+            "proj_ast": 2.052299379162425,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31842,9 +33044,9 @@ const analyticsData = {
           {
             "player": "Jahmir Young",
             "team": "MIA",
-            "proj_pts": 1.7008219561413922,
-            "proj_reb": 0.2953715432772051,
-            "proj_ast": 0.4922859054620085,
+            "proj_pts": 1.8418613680513887,
+            "proj_reb": 0.3078449068743638,
+            "proj_ast": 0.5130748447906063,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31852,9 +33054,9 @@ const analyticsData = {
           {
             "player": "Jaime Jaquez Jr.",
             "team": "MIA",
-            "proj_pts": 14.173516301178267,
-            "proj_reb": 3.938287243696068,
-            "proj_ast": 5.415144960082094,
+            "proj_pts": 15.348844733761572,
+            "proj_reb": 4.10459875832485,
+            "proj_ast": 5.643823292696669,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31862,9 +33064,9 @@ const analyticsData = {
           {
             "player": "Kasparas Jaku\u010dionis",
             "team": "MIA",
-            "proj_pts": 6.89777793324009,
-            "proj_reb": 3.1506297949568545,
-            "proj_ast": 2.166057984032838,
+            "proj_pts": 7.469771103763965,
+            "proj_reb": 3.2836790066598804,
+            "proj_ast": 2.2575293170786677,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31872,9 +33074,9 @@ const analyticsData = {
           {
             "player": "Kel'el Ware",
             "team": "MIA",
-            "proj_pts": 10.110441628173831,
-            "proj_reb": 9.25497502268576,
-            "proj_ast": 0.5907430865544102,
+            "proj_pts": 10.94884257674992,
+            "proj_reb": 9.6458070820634,
+            "proj_ast": 0.6156898137487276,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31882,9 +33084,9 @@ const analyticsData = {
           {
             "player": "Keshad Johnson",
             "team": "MIA",
-            "proj_pts": 4.724505433726089,
-            "proj_reb": 1.4768577163860255,
-            "proj_ast": 0.1969143621848034,
+            "proj_pts": 5.116281577920524,
+            "proj_reb": 1.5392245343718187,
+            "proj_ast": 0.20522993791624253,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31892,9 +33094,9 @@ const analyticsData = {
           {
             "player": "Myron Gardner",
             "team": "MIA",
-            "proj_pts": 2.3622527168630447,
-            "proj_reb": 3.1506297949568545,
-            "proj_ast": 0.7876574487392136,
+            "proj_pts": 2.558140788960262,
+            "proj_reb": 3.2836790066598804,
+            "proj_ast": 0.8209197516649701,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31902,9 +33104,9 @@ const analyticsData = {
           {
             "player": "Nikola Jovi\u0107",
             "team": "MIA",
-            "proj_pts": 3.968584564329915,
-            "proj_reb": 2.166057984032838,
-            "proj_ast": 0.6892002676468119,
+            "proj_pts": 4.29767652545324,
+            "proj_reb": 2.2575293170786677,
+            "proj_ast": 0.7183047827068487,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31912,9 +33114,9 @@ const analyticsData = {
           {
             "player": "Norman Powell",
             "team": "MIA",
-            "proj_pts": 18.331081082857224,
-            "proj_reb": 2.953715432772051,
-            "proj_ast": 2.166057984032838,
+            "proj_pts": 19.85117252233163,
+            "proj_reb": 3.0784490687436374,
+            "proj_ast": 2.2575293170786677,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31922,9 +33124,9 @@ const analyticsData = {
           {
             "player": "Pelle Larsson",
             "team": "MIA",
-            "proj_pts": 12.850654779734963,
-            "proj_reb": 3.249086976049256,
-            "proj_ast": 3.347544157141658,
+            "proj_pts": 13.916285891943824,
+            "proj_reb": 3.3862939756180013,
+            "proj_ast": 3.4889089445761226,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31932,9 +33134,9 @@ const analyticsData = {
           {
             "player": "Simone Fontecchio",
             "team": "MIA",
-            "proj_pts": 7.3702284766126995,
-            "proj_reb": 2.264515165125239,
-            "proj_ast": 0.8861146298316154,
+            "proj_pts": 7.981399261556017,
+            "proj_reb": 2.3601442860367885,
+            "proj_ast": 0.9235347206230913,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31943,7 +33145,7 @@ const analyticsData = {
             "player": "Trevor Keels",
             "team": "MIA",
             "proj_pts": 0.0,
-            "proj_reb": 0.4922859054620085,
+            "proj_reb": 0.5130748447906063,
             "proj_ast": 0.0,
             "status": "Active",
             "injury": "",
@@ -31952,9 +33154,9 @@ const analyticsData = {
           {
             "player": "Tyler Herro",
             "team": "MIA",
-            "proj_pts": 19.46496238695149,
-            "proj_reb": 4.824401873527684,
-            "proj_ast": 5.0213162357124865,
+            "proj_pts": 21.07908010103256,
+            "proj_reb": 5.028133478947942,
+            "proj_ast": 5.233363416864184,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -31962,209 +33164,9 @@ const analyticsData = {
           {
             "player": "Vladislav Goldin",
             "team": "MIA",
-            "proj_pts": 0.7559208693961743,
-            "proj_reb": 0.7876574487392136,
-            "proj_ast": 0.3938287243696068,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Bismack Biyombo",
-            "team": "SAS",
-            "proj_pts": 0.7557146927737676,
-            "proj_reb": 1.1814861731088204,
-            "proj_ast": 0.1969143621848034,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Carter Bryant",
-            "team": "SAS",
-            "proj_pts": 6.423574888577024,
-            "proj_reb": 3.6429157004188633,
-            "proj_ast": 0.8861146298316154,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "David Jones Garcia",
-            "team": "SAS",
-            "proj_pts": 2.5505370881114655,
-            "proj_reb": 1.1814861731088204,
-            "proj_ast": 1.5753148974784272,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "De'Aaron Fox",
-            "team": "SAS",
-            "proj_pts": 17.759295280183537,
-            "proj_reb": 3.6429157004188633,
-            "proj_ast": 6.793545495375718,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Devin Vassell",
-            "team": "SAS",
-            "proj_pts": 13.130542786944211,
-            "proj_reb": 4.135201605880872,
-            "proj_ast": 2.953715432772051,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Dylan Harper",
-            "team": "SAS",
-            "proj_pts": 12.091435084380281,
-            "proj_reb": 3.1506297949568545,
-            "proj_ast": 4.529030330250478,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Harrison Barnes",
-            "team": "SAS",
-            "proj_pts": 8.02946861072128,
-            "proj_reb": 2.7568010705872474,
-            "proj_ast": 1.673772078570829,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Harrison Ingram",
-            "team": "SAS",
-            "proj_pts": 1.700358058740977,
-            "proj_reb": 0.5907430865544102,
-            "proj_ast": 0.1969143621848034,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jeremy Sochan",
-            "team": "SAS",
-            "proj_pts": 0.9446433659672094,
-            "proj_reb": 0.984571810924017,
-            "proj_ast": 0.2953715432772051,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jordan McLaughlin",
-            "team": "SAS",
-            "proj_pts": 1.5114293855475351,
-            "proj_reb": 0.5907430865544102,
-            "proj_ast": 0.6892002676468119,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Julian Champagnie",
-            "team": "SAS",
-            "proj_pts": 9.540897996268814,
-            "proj_reb": 5.612059322266897,
-            "proj_ast": 1.3784005352936237,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Keldon Johnson",
-            "team": "SAS",
-            "proj_pts": 9.918755342655698,
-            "proj_reb": 4.62748751134288,
-            "proj_ast": 0.6892002676468119,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Kelly Olynyk",
-            "team": "SAS",
-            "proj_pts": 2.4560727515147445,
-            "proj_reb": 1.7722292596632307,
-            "proj_ast": 0.8861146298316154,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Lindy Waters III",
-            "team": "SAS",
-            "proj_pts": 2.645001424708186,
-            "proj_reb": 0.4922859054620085,
-            "proj_ast": 0.4922859054620085,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Luke Kornet",
-            "team": "SAS",
-            "proj_pts": 3.96750213706228,
-            "proj_reb": 4.430573149158077,
-            "proj_ast": 1.4768577163860255,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Mason Plumlee",
-            "team": "SAS",
-            "proj_pts": 1.98375106853114,
-            "proj_reb": 3.4460013382340597,
-            "proj_ast": 1.3784005352936237,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Riley Minix",
-            "team": "SAS",
-            "proj_pts": 2.833930097901628,
-            "proj_reb": 0.656381207282678,
-            "proj_ast": 0.328190603641339,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Stanley Umude",
-            "team": "SAS",
-            "proj_pts": 0.9446433659672094,
-            "proj_reb": 0.0,
-            "proj_ast": 0.4922859054620085,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Stephon Castle",
-            "team": "SAS",
-            "proj_pts": 14.830900845685187,
-            "proj_reb": 5.415144960082094,
-            "proj_ast": 8.368860392854145,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Victor Wembanyama",
-            "team": "SAS",
-            "proj_pts": 23.710548485776958,
-            "proj_reb": 10.534918376886981,
-            "proj_ast": 3.1506297949568545,
+            "proj_pts": 0.8186050524672839,
+            "proj_reb": 0.8209197516649701,
+            "proj_ast": 0.41045987583248505,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -32172,31 +33174,199 @@ const analyticsData = {
         ],
         "factors": {
           "teamA": {
+            "efg": 0.569235178964745,
+            "tov": 0.11077883653280803,
+            "orb": 0.2456939360510789,
+            "ftr": 0.30392581494003346,
+            "sos": -1.5848900060583127,
+            "rest": 8,
+            "is_b2b": 0,
+            "ml_influence": {
+              "roll_efg_pct_10": 0.006641451371326497,
+              "roll_tov_pct_10": 0.025064593952418193,
+              "roll_orb_pct_10": 0.0018323016415891403,
+              "roll_ft_rate_10": -0.0012420661068354376,
+              "p_tov": -0.010310295901968658
+            }
+          },
+          "teamB": {
             "efg": 0.5384286060508854,
             "tov": 0.10878448158069254,
             "orb": 0.27475328913557406,
             "ftr": 0.32243325939884065,
             "sos": -2.2285996537857087,
-            "rest": 6,
-            "is_b2b": 0,
-            "ml_influence": {}
-          },
-          "teamB": {
-            "efg": 0.5857406442859878,
-            "tov": 0.11148269222701508,
-            "orb": 0.24598345442841113,
-            "ftr": 0.2610124461852198,
-            "sos": 3.510138994177261,
-            "rest": 6,
+            "rest": 8,
             "is_b2b": 0
           }
         },
         "margins": {
-          "1-5": 0.13765284255524904,
-          "6-10": 0.05800169708081986,
-          "11+": 0.08620549023518159
+          "1-5": 0.1492858987206301,
+          "6-10": 0.06290342658602628,
+          "11+": 0.09349072525869791
         },
         "formA": [
+          {
+            "date": "2026-02-25",
+            "opponent": "MIL",
+            "result": "L",
+            "score": "116-118",
+            "quarters": [
+              29,
+              29,
+              29,
+              29
+            ],
+            "halves": [
+              58,
+              58
+            ]
+          },
+          {
+            "date": "2026-02-27",
+            "opponent": "DET",
+            "result": "L",
+            "score": "119-122",
+            "quarters": [
+              29,
+              29,
+              29,
+              29
+            ],
+            "halves": [
+              58,
+              58
+            ]
+          },
+          {
+            "date": "2026-03-01",
+            "opponent": "BKN",
+            "result": "W",
+            "score": "106-102",
+            "quarters": [
+              26,
+              26,
+              26,
+              26
+            ],
+            "halves": [
+              52,
+              52
+            ]
+          },
+          {
+            "date": "2026-03-03",
+            "opponent": "DET",
+            "result": "W",
+            "score": "113-109",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-08",
+            "opponent": "BOS",
+            "result": "L",
+            "score": "98-109",
+            "quarters": [
+              24,
+              24,
+              24,
+              24
+            ],
+            "halves": [
+              48,
+              48
+            ]
+          },
+          {
+            "date": "2026-03-09",
+            "opponent": "PHI",
+            "result": "W",
+            "score": "115-101",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-11",
+            "opponent": "ORL",
+            "result": "L",
+            "score": "122-128",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          },
+          {
+            "date": "2026-03-13",
+            "opponent": "DAL",
+            "result": "W",
+            "score": "138-105",
+            "quarters": [
+              34,
+              34,
+              34,
+              34
+            ],
+            "halves": [
+              68,
+              68
+            ]
+          },
+          {
+            "date": "2026-03-15",
+            "opponent": "DAL",
+            "result": "L",
+            "score": "120-130",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          },
+          {
+            "date": "2026-03-17",
+            "opponent": "MIL",
+            "result": "W",
+            "score": "123-116",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          }
+        ],
+        "formB": [
           {
             "date": "2026-02-26",
             "opponent": "PHI",
@@ -32346,6 +33516,825 @@ const analyticsData = {
             "opponent": "CHA",
             "result": "L",
             "score": "106-136",
+            "quarters": [
+              26,
+              26,
+              26,
+              26
+            ],
+            "halves": [
+              52,
+              52
+            ]
+          }
+        ],
+        "shap_explanation": {
+          "adj_ortg_10": 0.04332925901215958,
+          "adj_drtg_10": -0.030840242895465338,
+          "adj_pace_10": 0.0039057774441064908,
+          "net_rating": -0.008026932607091766,
+          "roll_efg_pct_10": 0.006641451371326497,
+          "roll_tov_pct_10": 0.025064593952418193,
+          "roll_orb_pct_10": 0.0018323016415891403,
+          "roll_ft_rate_10": -0.0012420661068354376,
+          "sos_10": -0.003621462708476599,
+          "is_b2b": 0.0004081251867229696,
+          "p_pts": -0.0011085331293421063,
+          "p_reb": 0.015521484402901145,
+          "p_ast": -0.0044370237867683215,
+          "p_stl": 0.013295580309555178,
+          "p_blk": 0.004582595852528328,
+          "p_tov": -0.010310295901968658,
+          "p_pf": -0.006199582782522413,
+          "p_pm": -0.0035307228134350056,
+          "p_usage": 0.017346917205858715,
+          "p_eff": 0.003732495211836451,
+          "opp_adj_ortg_10": -0.036342887375568934,
+          "opp_adj_drtg_10": -0.026113003573996423,
+          "opp_sos_10": 0.004974289227059927,
+          "opp_is_b2b": -0.0010700447584517292
+        },
+        "match_id": "0022501055",
+        "time": "TBD"
+      },
+      "ml_prob_A": 0.5316924505343005,
+      "mc_win_A": 0.4546,
+      "shap_explanation": {
+        "adj_ortg_10": 0.04332925901215958,
+        "adj_drtg_10": -0.030840242895465338,
+        "adj_pace_10": 0.0039057774441064908,
+        "net_rating": -0.008026932607091766,
+        "roll_efg_pct_10": 0.006641451371326497,
+        "roll_tov_pct_10": 0.025064593952418193,
+        "roll_orb_pct_10": 0.0018323016415891403,
+        "roll_ft_rate_10": -0.0012420661068354376,
+        "sos_10": -0.003621462708476599,
+        "is_b2b": 0.0004081251867229696,
+        "p_pts": -0.0011085331293421063,
+        "p_reb": 0.015521484402901145,
+        "p_ast": -0.0044370237867683215,
+        "p_stl": 0.013295580309555178,
+        "p_blk": 0.004582595852528328,
+        "p_tov": -0.010310295901968658,
+        "p_pf": -0.006199582782522413,
+        "p_pm": -0.0035307228134350056,
+        "p_usage": 0.017346917205858715,
+        "p_eff": 0.003732495211836451,
+        "opp_adj_ortg_10": -0.036342887375568934,
+        "opp_adj_drtg_10": -0.026113003573996423,
+        "opp_sos_10": 0.004974289227059927,
+        "opp_is_b2b": -0.0010700447584517292
+      },
+      "is_b2b_home": 0,
+      "is_b2b_away": 0,
+      "rest_home": 8,
+      "rest_away": 8
+    },
+    {
+      "matchId": "0022501056",
+      "matchTime": 1774483200,
+      "gameStatus": "8:00 pm ET",
+      "homeTeam": "MEM",
+      "awayTeam": "SAS",
+      "homeName": "Memphis Grizzlies",
+      "awayName": "San Antonio Spurs",
+      "prediction": {
+        "main": {
+          "ptsA": 115.8251063283407,
+          "ptsB": 122.67073180349544,
+          "total": 238.49583813183614,
+          "spread": 6.845625475154748,
+          "win_prob_A": 42.15339281444884,
+          "ml_prob_A": 0.4924232135741473,
+          "mc_win_A": 0.3152,
+          "market": {
+            "ml": {
+              "home": null,
+              "away": null
+            },
+            "spread": {
+              "hdp": null,
+              "home": null,
+              "away": null
+            },
+            "total": {
+              "hdp": null,
+              "over": null,
+              "under": null
+            }
+          }
+        },
+        "advanced": {
+          "blowout_risk": 0.11853559847642359,
+          "recommended_bet": 0.0,
+          "latent_strength_A": -8.587878479366402,
+          "latent_strength_B": 11.701044463567804,
+          "form_state_A": 2,
+          "form_state_B": 1,
+          "entropy_A": 3.3219280948873626
+        },
+        "halves": {
+          "h1_ptsA": 57.91255316417035,
+          "h1_ptsB": 61.33536590174772,
+          "h2_ptsA": 57.91255316417035,
+          "h2_ptsB": 61.33536590174772
+        },
+        "quarters": [
+          {
+            "q": 1,
+            "ptsA": 28.956276582085174,
+            "ptsB": 30.66768295087386
+          },
+          {
+            "q": 2,
+            "ptsA": 28.956276582085174,
+            "ptsB": 30.66768295087386
+          },
+          {
+            "q": 3,
+            "ptsA": 28.956276582085174,
+            "ptsB": 30.66768295087386
+          },
+          {
+            "q": 4,
+            "ptsA": 28.956276582085174,
+            "ptsB": 30.66768295087386
+          }
+        ],
+        "players": [
+          {
+            "player": "Brandon Clarke",
+            "team": "MEM",
+            "proj_pts": 3.80599943398106,
+            "proj_reb": 2.974342876457815,
+            "proj_ast": 0.49572381274296917,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Cam Spencer",
+            "team": "MEM",
+            "proj_pts": 11.70344825949176,
+            "proj_reb": 2.379474301166252,
+            "proj_ast": 4.65980383978391,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Cedric Coward",
+            "team": "MEM",
+            "proj_pts": 10.181048485899334,
+            "proj_reb": 5.552106702721255,
+            "proj_ast": 2.478619063714846,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Charles Bassey",
+            "team": "MEM",
+            "proj_pts": 3.3302495047334273,
+            "proj_reb": 7.435857191144538,
+            "proj_ast": 0.9914476254859383,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Christian Koloko",
+            "team": "MEM",
+            "proj_pts": 2.7593495896362685,
+            "proj_reb": 4.263224789589534,
+            "proj_ast": 0.8923028629373445,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "DeJon Jarreau",
+            "team": "MEM",
+            "proj_pts": 5.233249221723957,
+            "proj_reb": 5.94868575291563,
+            "proj_ast": 4.461514314686722,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "GG Jackson",
+            "team": "MEM",
+            "proj_pts": 15.414297707623291,
+            "proj_reb": 5.849540990367037,
+            "proj_ast": 1.9828952509718767,
+            "status": "Doubtful",
+            "injury": "Knee",
+            "market_line": null
+          },
+          {
+            "player": "Ja Morant",
+            "team": "MEM",
+            "proj_pts": 18.744547212356718,
+            "proj_reb": 2.676908588812034,
+            "proj_ast": 8.129870528984693,
+            "status": "Out",
+            "injury": "Elbow",
+            "market_line": null
+          },
+          {
+            "player": "Jahmai Mashack",
+            "team": "MEM",
+            "proj_pts": 5.804149136821116,
+            "proj_reb": 2.7760533513606274,
+            "proj_ast": 1.685460963326095,
+            "status": "Out",
+            "injury": "Ankle",
+            "market_line": null
+          },
+          {
+            "player": "Jaren Jackson Jr.",
+            "team": "MEM",
+            "proj_pts": 20.552396943497726,
+            "proj_reb": 6.345264803110005,
+            "proj_ast": 1.784605725874689,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Javon Small",
+            "team": "MEM",
+            "proj_pts": 13.225848033084183,
+            "proj_reb": 4.560659077235316,
+            "proj_ast": 5.056382889978285,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jaylen Wells",
+            "team": "MEM",
+            "proj_pts": 14.843397792526133,
+            "proj_reb": 2.676908588812034,
+            "proj_ast": 1.4871714382289074,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jock Landale",
+            "team": "MEM",
+            "proj_pts": 11.988898217040338,
+            "proj_reb": 7.832436241338914,
+            "proj_ast": 1.5863162007775014,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "John Konchar",
+            "team": "MEM",
+            "proj_pts": 3.3302495047334273,
+            "proj_reb": 3.668356214297972,
+            "proj_ast": 1.4871714382289074,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Kentavious Caldwell-Pope",
+            "team": "MEM",
+            "proj_pts": 8.373198754758333,
+            "proj_reb": 2.478619063714846,
+            "proj_ast": 1.9828952509718767,
+            "status": "Out For Season",
+            "injury": "Finger",
+            "market_line": null
+          },
+          {
+            "player": "Kyle Anderson",
+            "team": "MEM",
+            "proj_pts": 6.565349023617329,
+            "proj_reb": 2.676908588812034,
+            "proj_ast": 2.1811847760690646,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Lawson Lovering",
+            "team": "MEM",
+            "proj_pts": 6.660499009466855,
+            "proj_reb": 7.435857191144538,
+            "proj_ast": 1.4871714382289074,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Olivier-Maxence Prosper",
+            "team": "MEM",
+            "proj_pts": 12.179198188739392,
+            "proj_reb": 4.65980383978391,
+            "proj_ast": 1.3880266756803137,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "PJ Hall",
+            "team": "MEM",
+            "proj_pts": 1.7670711657769207,
+            "proj_reb": 1.274718375624778,
+            "proj_ast": 0.2832707501388395,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Rayan Rupert",
+            "team": "MEM",
+            "proj_pts": 10.181048485899334,
+            "proj_reb": 5.452961940172661,
+            "proj_ast": 0.9914476254859383,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Santi Aldama",
+            "team": "MEM",
+            "proj_pts": 12.369498160438445,
+            "proj_reb": 6.642699090755787,
+            "proj_ast": 2.7760533513606274,
+            "status": "Out For Season",
+            "injury": "Knee",
+            "market_line": null
+          },
+          {
+            "player": "Scotty Pippen Jr.",
+            "team": "MEM",
+            "proj_pts": 10.847098386846021,
+            "proj_reb": 2.1811847760690646,
+            "proj_ast": 4.65980383978391,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Taj Gibson",
+            "team": "MEM",
+            "proj_pts": 2.3787496462381625,
+            "proj_reb": 2.478619063714846,
+            "proj_ast": 0.0,
+            "status": "Doubtful",
+            "injury": "Foot",
+            "market_line": null
+          },
+          {
+            "player": "Taylor Hendricks",
+            "team": "MEM",
+            "proj_pts": 12.369498160438445,
+            "proj_reb": 4.957238127429692,
+            "proj_ast": 1.4871714382289074,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Ty Jerome",
+            "team": "MEM",
+            "proj_pts": 19.22029714160435,
+            "proj_reb": 2.379474301166252,
+            "proj_ast": 5.056382889978285,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Tyler Burton",
+            "team": "MEM",
+            "proj_pts": 4.757499292476325,
+            "proj_reb": 4.626755585601046,
+            "proj_ast": 0.6609650836572922,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Vince Williams Jr.",
+            "team": "MEM",
+            "proj_pts": 7.802298839661172,
+            "proj_reb": 3.37092192665219,
+            "proj_ast": 3.1726324015550027,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Walter Clayton Jr.",
+            "team": "MEM",
+            "proj_pts": 8.373198754758333,
+            "proj_reb": 1.685460963326095,
+            "proj_ast": 6.74184385330438,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Zach Edey",
+            "team": "MEM",
+            "proj_pts": 13.03554806138513,
+            "proj_reb": 11.401647693088291,
+            "proj_ast": 1.189737150583126,
+            "status": "Out For Season",
+            "injury": "Ankle",
+            "market_line": null
+          },
+          {
+            "player": "Bismack Biyombo",
+            "team": "SAS",
+            "proj_pts": 0.8058405628136548,
+            "proj_reb": 1.189737150583126,
+            "proj_ast": 0.19828952509718767,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Carter Bryant",
+            "team": "SAS",
+            "proj_pts": 6.849644783916065,
+            "proj_reb": 3.668356214297972,
+            "proj_ast": 0.8923028629373445,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "David Jones Garcia",
+            "team": "SAS",
+            "proj_pts": 2.719711899496085,
+            "proj_reb": 1.189737150583126,
+            "proj_ast": 1.5863162007775014,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "De'Aaron Fox",
+            "team": "SAS",
+            "proj_pts": 18.937253226120887,
+            "proj_reb": 3.668356214297972,
+            "proj_ast": 6.840988615852975,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Devin Vassell",
+            "team": "SAS",
+            "proj_pts": 14.001479778887251,
+            "proj_reb": 4.164080027040941,
+            "proj_ast": 2.974342876457815,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Dylan Harper",
+            "team": "SAS",
+            "proj_pts": 12.893449005018477,
+            "proj_reb": 3.1726324015550027,
+            "proj_ast": 4.560659077235316,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Harrison Barnes",
+            "team": "SAS",
+            "proj_pts": 8.562055979895081,
+            "proj_reb": 2.7760533513606274,
+            "proj_ast": 1.685460963326095,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Harrison Ingram",
+            "team": "SAS",
+            "proj_pts": 1.8131412663307234,
+            "proj_reb": 0.594868575291563,
+            "proj_ast": 0.19828952509718767,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jeremy Sochan",
+            "team": "SAS",
+            "proj_pts": 1.0073007035170685,
+            "proj_reb": 0.9914476254859383,
+            "proj_ast": 0.2974342876457815,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jordan McLaughlin",
+            "team": "SAS",
+            "proj_pts": 1.6116811256273096,
+            "proj_reb": 0.594868575291563,
+            "proj_ast": 0.6940133378401568,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Julian Champagnie",
+            "team": "SAS",
+            "proj_pts": 10.173737105522392,
+            "proj_reb": 5.651251465269849,
+            "proj_ast": 1.3880266756803137,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Keldon Johnson",
+            "team": "SAS",
+            "proj_pts": 10.576657386929218,
+            "proj_reb": 4.65980383978391,
+            "proj_ast": 0.6940133378401568,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Kelly Olynyk",
+            "team": "SAS",
+            "proj_pts": 2.6189818291443783,
+            "proj_reb": 1.784605725874689,
+            "proj_ast": 0.8923028629373445,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Lindy Waters III",
+            "team": "SAS",
+            "proj_pts": 2.8204419698477916,
+            "proj_reb": 0.49572381274296917,
+            "proj_ast": 0.49572381274296917,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Luke Kornet",
+            "team": "SAS",
+            "proj_pts": 4.230662954771688,
+            "proj_reb": 4.461514314686722,
+            "proj_ast": 1.4871714382289074,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Mason Plumlee",
+            "team": "SAS",
+            "proj_pts": 2.115331477385844,
+            "proj_reb": 3.470066689200784,
+            "proj_ast": 1.3880266756803137,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Riley Minix",
+            "team": "SAS",
+            "proj_pts": 3.0219021105512054,
+            "proj_reb": 0.6609650836572922,
+            "proj_ast": 0.3304825418286461,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Stanley Umude",
+            "team": "SAS",
+            "proj_pts": 1.0073007035170685,
+            "proj_reb": 0.0,
+            "proj_ast": 0.49572381274296917,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Stephon Castle",
+            "team": "SAS",
+            "proj_pts": 15.814621045217974,
+            "proj_reb": 5.452961940172661,
+            "proj_ast": 8.427304816630476,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Victor Wembanyama",
+            "team": "SAS",
+            "proj_pts": 25.28324765827842,
+            "proj_reb": 10.60848959269954,
+            "proj_ast": 3.1726324015550027,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          }
+        ],
+        "factors": {
+          "teamA": {
+            "efg": 0.5443658578662921,
+            "tov": 0.1321596069385897,
+            "orb": 0.2723102213348293,
+            "ftr": 0.2600320568834138,
+            "sos": -3.993266010038102,
+            "rest": 10,
+            "is_b2b": 0,
+            "ml_influence": {
+              "roll_efg_pct_10": -0.0005372399504175007,
+              "roll_tov_pct_10": -0.01420824104311002,
+              "roll_orb_pct_10": -0.0011253588647920764,
+              "roll_ft_rate_10": -0.0010452013217768297,
+              "p_tov": -0.0020388375218956156
+            }
+          },
+          "teamB": {
+            "efg": 0.5857406442859878,
+            "tov": 0.11148269222701508,
+            "orb": 0.24598345442841113,
+            "ftr": 0.2610124461852198,
+            "sos": 3.510138994177261,
+            "rest": 9,
+            "is_b2b": 0
+          }
+        },
+        "margins": {
+          "1-5": 0.09181220333256278,
+          "6-10": 0.03868618698433759,
+          "11+": 0.057497657519706195
+        },
+        "formA": [
+          {
+            "date": "2026-02-27",
+            "opponent": "DAL",
+            "result": "W",
+            "score": "124-105",
+            "quarters": [
+              31,
+              31,
+              31,
+              31
+            ],
+            "halves": [
+              62,
+              62
+            ]
+          },
+          {
+            "date": "2026-03-01",
+            "opponent": "IND",
+            "result": "W",
+            "score": "125-106",
+            "quarters": [
+              31,
+              31,
+              31,
+              31
+            ],
+            "halves": [
+              62,
+              62
+            ]
+          },
+          {
+            "date": "2026-03-03",
+            "opponent": "MIN",
+            "result": "L",
+            "score": "110-117",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-04",
+            "opponent": "POR",
+            "result": "L",
+            "score": "114-122",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-07",
+            "opponent": "LAC",
+            "result": "L",
+            "score": "120-123",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          },
+          {
+            "date": "2026-03-09",
+            "opponent": "BKN",
+            "result": "L",
+            "score": "115-126",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-10",
+            "opponent": "PHI",
+            "result": "L",
+            "score": "129-139",
+            "quarters": [
+              32,
+              32,
+              32,
+              32
+            ],
+            "halves": [
+              64,
+              64
+            ]
+          },
+          {
+            "date": "2026-03-12",
+            "opponent": "DAL",
+            "result": "L",
+            "score": "112-120",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-13",
+            "opponent": "DET",
+            "result": "L",
+            "score": "110-126",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-16",
+            "opponent": "CHI",
+            "result": "L",
+            "score": "107-132",
             "quarters": [
               26,
               26,
@@ -32520,35 +34509,85 @@ const analyticsData = {
             ]
           }
         ],
-        "shap_explanation": {},
-        "match_id": "0022501041",
+        "shap_explanation": {
+          "adj_ortg_10": 0.0012324997026223628,
+          "adj_drtg_10": -0.029276903937053334,
+          "adj_pace_10": -0.0030000461064626904,
+          "net_rating": 0.003456572748127087,
+          "roll_efg_pct_10": -0.0005372399504175007,
+          "roll_tov_pct_10": -0.01420824104311002,
+          "roll_orb_pct_10": -0.0011253588647920764,
+          "roll_ft_rate_10": -0.0010452013217768297,
+          "sos_10": 0.004807551220143296,
+          "is_b2b": 0.0004875803402401857,
+          "p_pts": 0.005787931931535723,
+          "p_reb": 0.0332418741616015,
+          "p_ast": 0.009991788751771296,
+          "p_stl": 0.01789264554323623,
+          "p_blk": 0.004031481801983432,
+          "p_tov": -0.0020388375218956156,
+          "p_pf": 0.0011417827636488198,
+          "p_pm": -0.0029690228522799345,
+          "p_usage": -0.005901973838435026,
+          "p_eff": -0.005237956214745338,
+          "opp_adj_ortg_10": -0.02350643277378566,
+          "opp_adj_drtg_10": -0.02394407099183752,
+          "opp_sos_10": 4.7137395432628185e-06,
+          "opp_is_b2b": -0.0007623036449012943
+        },
+        "match_id": "0022501056",
         "time": "TBD"
       },
-      "ml_prob_A": 0.5285407753635645,
-      "mc_win_A": 0.4398,
-      "shap_explanation": {},
+      "ml_prob_A": 0.4924232135741473,
+      "mc_win_A": 0.3152,
+      "shap_explanation": {
+        "adj_ortg_10": 0.0012324997026223628,
+        "adj_drtg_10": -0.029276903937053334,
+        "adj_pace_10": -0.0030000461064626904,
+        "net_rating": 0.003456572748127087,
+        "roll_efg_pct_10": -0.0005372399504175007,
+        "roll_tov_pct_10": -0.01420824104311002,
+        "roll_orb_pct_10": -0.0011253588647920764,
+        "roll_ft_rate_10": -0.0010452013217768297,
+        "sos_10": 0.004807551220143296,
+        "is_b2b": 0.0004875803402401857,
+        "p_pts": 0.005787931931535723,
+        "p_reb": 0.0332418741616015,
+        "p_ast": 0.009991788751771296,
+        "p_stl": 0.01789264554323623,
+        "p_blk": 0.004031481801983432,
+        "p_tov": -0.0020388375218956156,
+        "p_pf": 0.0011417827636488198,
+        "p_pm": -0.0029690228522799345,
+        "p_usage": -0.005901973838435026,
+        "p_eff": -0.005237956214745338,
+        "opp_adj_ortg_10": -0.02350643277378566,
+        "opp_adj_drtg_10": -0.02394407099183752,
+        "opp_sos_10": 4.7137395432628185e-06,
+        "opp_is_b2b": -0.0007623036449012943
+      },
       "is_b2b_home": 0,
       "is_b2b_away": 0,
-      "rest_home": 6,
-      "rest_away": 6
+      "rest_home": 10,
+      "rest_away": 9
     },
     {
-      "matchId": "0022501037",
-      "matchTime": 1774308600,
-      "gameStatus": "7:30 pm ET",
-      "homeTeam": "ATL",
-      "awayTeam": "MEM",
-      "homeName": "Atlanta Hawks",
-      "awayName": "Memphis Grizzlies",
+      "matchId": "0022501057",
+      "matchTime": 1774486800,
+      "gameStatus": "9:00 pm ET",
+      "homeTeam": "UTA",
+      "awayTeam": "WAS",
+      "homeName": "Utah Jazz",
+      "awayName": "Washington Wizards",
       "prediction": {
         "main": {
-          "ptsA": 122.95530171922123,
-          "ptsB": 112.94075494419447,
-          "total": 235.8960566634157,
-          "spread": -10.014546775026758,
-          "win_prob_A": 64.22053778322203,
-          "ml_prob_A": 0.5858089630537004,
-          "mc_win_A": 0.7268,
+          "ptsA": 122.19924668028229,
+          "ptsB": 119.75534958938893,
+          "total": 241.9545962696712,
+          "spread": -2.4438970908933584,
+          "win_prob_A": 54.65728061091289,
+          "ml_prob_A": 0.5413546768485482,
+          "mc_win_A": 0.5544,
           "market": {
             "ml": {
               "home": null,
@@ -32568,1858 +34607,48 @@ const analyticsData = {
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
-          "recommended_bet": 106.64505494505495,
-          "latent_strength_A": 11.188497712009733,
-          "latent_strength_B": -8.587878479366402,
+          "recommended_bet": 16.182417582417575,
+          "latent_strength_A": -6.1037482940050465,
+          "latent_strength_B": -11.538579090957425,
           "form_state_A": 1,
-          "form_state_B": 2,
-          "entropy_A": 3.3219280948873626
-        },
-        "halves": {
-          "h1_ptsA": 61.47765085961061,
-          "h1_ptsB": 56.47037747209723,
-          "h2_ptsA": 61.47765085961061,
-          "h2_ptsB": 56.47037747209723
-        },
-        "quarters": [
-          {
-            "q": 1,
-            "ptsA": 30.738825429805306,
-            "ptsB": 28.235188736048617
-          },
-          {
-            "q": 2,
-            "ptsA": 30.738825429805306,
-            "ptsB": 28.235188736048617
-          },
-          {
-            "q": 3,
-            "ptsA": 30.738825429805306,
-            "ptsB": 28.235188736048617
-          },
-          {
-            "q": 4,
-            "ptsA": 30.738825429805306,
-            "ptsB": 28.235188736048617
-          }
-        ],
-        "players": [
-          {
-            "player": "Asa Newell",
-            "team": "ATL",
-            "proj_pts": 4.788357371167956,
-            "proj_reb": 2.105807326282354,
-            "proj_ast": 0.4011061573871151,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Buddy Hield",
-            "team": "ATL",
-            "proj_pts": 10.391754294875138,
-            "proj_reb": 2.306360404975911,
-            "proj_ast": 1.8049777082420178,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "CJ McCollum",
-            "team": "ATL",
-            "proj_pts": 17.21771054739116,
-            "proj_reb": 4.111338113217929,
-            "proj_ast": 4.01106157387115,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Caleb Houstan",
-            "team": "ATL",
-            "proj_pts": 2.343238713550276,
-            "proj_reb": 0.6016592360806725,
-            "proj_ast": 0.20055307869355754,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Christian Koloko",
-            "team": "ATL",
-            "proj_pts": 3.3620381542243094,
-            "proj_reb": 2.6071900230162477,
-            "proj_ast": 0.4011061573871151,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Corey Kispert",
-            "team": "ATL",
-            "proj_pts": 10.289874350807736,
-            "proj_reb": 2.105807326282354,
-            "proj_ast": 1.5041480902016815,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Dyson Daniels",
-            "team": "ATL",
-            "proj_pts": 11.003033959279561,
-            "proj_reb": 8.0221231477423,
-            "proj_ast": 6.016592360806726,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Gabe Vincent",
-            "team": "ATL",
-            "proj_pts": 3.9733178186287295,
-            "proj_reb": 0.9024888541210089,
-            "proj_ast": 1.5041480902016815,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jacob Toppin",
-            "team": "ATL",
-            "proj_pts": 1.6300791050784533,
-            "proj_reb": 0.20055307869355754,
-            "proj_ast": 0.20055307869355754,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jalen Johnson",
-            "team": "ATL",
-            "proj_pts": 20.885388533817682,
-            "proj_reb": 9.526271237943982,
-            "proj_ast": 8.122399687089079,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jock Landale",
-            "team": "ATL",
-            "proj_pts": 8.456035357594477,
-            "proj_reb": 3.108572719750142,
-            "proj_ast": 1.3035950115081238,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jonathan Kuminga",
-            "team": "ATL",
-            "proj_pts": 12.021833399953593,
-            "proj_reb": 6.317421978847062,
-            "proj_ast": 2.306360404975911,
-            "status": "Out",
-            "injury": "Knee",
-            "market_line": null
-          },
-          {
-            "player": "Keaton Wallace",
-            "team": "ATL",
-            "proj_pts": 1.2225593288088399,
-            "proj_reb": 0.4011061573871151,
-            "proj_ast": 0.4011061573871151,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Kristaps Porzi\u0146\u0123is",
-            "team": "ATL",
-            "proj_pts": 17.11583060332376,
-            "proj_reb": 4.311891191911487,
-            "proj_ast": 2.306360404975911,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Luke Kennard",
-            "team": "ATL",
-            "proj_pts": 8.252275469459668,
-            "proj_reb": 3.108572719750142,
-            "proj_ast": 1.3035950115081238,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Mouhamed Gueye",
-            "team": "ATL",
-            "proj_pts": 3.3620381542243094,
-            "proj_reb": 3.409402337790478,
-            "proj_ast": 0.30082961804033626,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "N'Faly Dante",
-            "team": "ATL",
-            "proj_pts": 0.764099580505525,
-            "proj_reb": 1.7548394385686283,
-            "proj_ast": 0.0,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Nickeil Alexander-Walker",
-            "team": "ATL",
-            "proj_pts": 22.71922752703094,
-            "proj_reb": 2.9080196410565837,
-            "proj_ast": 3.7102319558308143,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Onyeka Okongwu",
-            "team": "ATL",
-            "proj_pts": 14.161312225369063,
-            "proj_reb": 8.523505844476194,
-            "proj_ast": 3.309125798443699,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "RayJ Dennis",
-            "team": "ATL",
-            "proj_pts": 1.52819916101105,
-            "proj_reb": 0.8022123147742302,
-            "proj_ast": 0.7019357754274512,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Trae Young",
-            "team": "ATL",
-            "proj_pts": 19.662829205008844,
-            "proj_reb": 1.5041480902016815,
-            "proj_ast": 8.92461200186331,
-            "status": "Questionable",
-            "injury": "Quadriceps",
-            "market_line": null
-          },
-          {
-            "player": "V\u00edt Krej\u010d\u00ed",
-            "team": "ATL",
-            "proj_pts": 4.8902373152353595,
-            "proj_reb": 1.6044246295484603,
-            "proj_ast": 1.0027653934677876,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Zaccharie Risacher",
-            "team": "ATL",
-            "proj_pts": 8.252275469459668,
-            "proj_reb": 5.114103506685717,
-            "proj_ast": 1.0027653934677876,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Brandon Clarke",
-            "team": "MEM",
-            "proj_pts": 3.608414031978172,
-            "proj_reb": 3.008296180403363,
-            "proj_ast": 0.5013826967338938,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Cam Spencer",
-            "team": "MEM",
-            "proj_pts": 11.09587314833288,
-            "proj_reb": 2.40663694432269,
-            "proj_ast": 4.712997349298602,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Cedric Coward",
-            "team": "MEM",
-            "proj_pts": 9.65250753554161,
-            "proj_reb": 5.61548620341961,
-            "proj_ast": 2.506913483669469,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Charles Bassey",
-            "team": "MEM",
-            "proj_pts": 3.1573622779809005,
-            "proj_reb": 7.520740451008407,
-            "proj_ast": 1.0027653934677876,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Christian Koloko",
-            "team": "MEM",
-            "proj_pts": 2.6161001731841744,
-            "proj_reb": 4.311891191911487,
-            "proj_ast": 0.9024888541210089,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "DeJon Jarreau",
-            "team": "MEM",
-            "proj_pts": 4.961569293969986,
-            "proj_reb": 6.016592360806726,
-            "proj_ast": 4.5124442706050445,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "GG Jackson",
-            "team": "MEM",
-            "proj_pts": 14.614076829511596,
-            "proj_reb": 5.916315821459947,
-            "proj_ast": 2.005530786935575,
-            "status": "Doubtful",
-            "injury": "Knee",
-            "market_line": null
-          },
-          {
-            "player": "Ja Morant",
-            "team": "MEM",
-            "proj_pts": 17.771439107492498,
-            "proj_reb": 2.7074665623630265,
-            "proj_ast": 8.222676226435858,
-            "status": "Out",
-            "injury": "Elbow",
-            "market_line": null
-          },
-          {
-            "player": "Jahmai Mashack",
-            "team": "MEM",
-            "proj_pts": 5.502831398766712,
-            "proj_reb": 2.807743101709805,
-            "proj_ast": 1.704701168895239,
-            "status": "Out",
-            "injury": "Ankle",
-            "market_line": null
-          },
-          {
-            "player": "Jaren Jackson Jr.",
-            "team": "MEM",
-            "proj_pts": 19.48543577268213,
-            "proj_reb": 6.417698518193841,
-            "proj_ast": 1.8049777082420178,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Javon Small",
-            "team": "MEM",
-            "proj_pts": 12.539238761124148,
-            "proj_reb": 4.612720809951822,
-            "proj_ast": 5.114103506685717,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jaylen Wells",
-            "team": "MEM",
-            "proj_pts": 14.07281472471487,
-            "proj_reb": 2.7074665623630265,
-            "proj_ast": 1.5041480902016815,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jock Landale",
-            "team": "MEM",
-            "proj_pts": 11.36650420073124,
-            "proj_reb": 7.921846608395522,
-            "proj_ast": 1.6044246295484603,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "John Konchar",
-            "team": "MEM",
-            "proj_pts": 3.1573622779809005,
-            "proj_reb": 3.7102319558308143,
-            "proj_ast": 1.5041480902016815,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Kentavious Caldwell-Pope",
-            "team": "MEM",
-            "proj_pts": 7.938510870351979,
-            "proj_reb": 2.506913483669469,
-            "proj_ast": 2.005530786935575,
-            "status": "Out For Season",
-            "injury": "Finger",
-            "market_line": null
-          },
-          {
-            "player": "Kyle Anderson",
-            "team": "MEM",
-            "proj_pts": 6.224514205162347,
-            "proj_reb": 2.7074665623630265,
-            "proj_ast": 2.206083865629133,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Lawson Lovering",
-            "team": "MEM",
-            "proj_pts": 6.314724555961801,
-            "proj_reb": 7.520740451008407,
-            "proj_ast": 1.5041480902016815,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Olivier-Maxence Prosper",
-            "team": "MEM",
-            "proj_pts": 11.54692490233015,
-            "proj_reb": 4.712997349298602,
-            "proj_ast": 1.4038715508549025,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "PJ Hall",
-            "team": "MEM",
-            "proj_pts": 1.6753350862755798,
-            "proj_reb": 1.2892697916014413,
-            "proj_ast": 0.2865043981336536,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Rayan Rupert",
-            "team": "MEM",
-            "proj_pts": 9.65250753554161,
-            "proj_reb": 5.515209664072832,
-            "proj_ast": 1.0027653934677876,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Santi Aldama",
-            "team": "MEM",
-            "proj_pts": 11.72734560392906,
-            "proj_reb": 6.718528136234177,
-            "proj_ast": 2.807743101709805,
-            "status": "Out For Season",
-            "injury": "Knee",
-            "market_line": null
-          },
-          {
-            "player": "Scotty Pippen Jr.",
-            "team": "MEM",
-            "proj_pts": 10.283979991137791,
-            "proj_reb": 2.206083865629133,
-            "proj_ast": 4.712997349298602,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Taj Gibson",
-            "team": "MEM",
-            "proj_pts": 2.2552587699863573,
-            "proj_reb": 2.506913483669469,
-            "proj_ast": 0.0,
-            "status": "Doubtful",
-            "injury": "Foot",
-            "market_line": null
-          },
-          {
-            "player": "Taylor Hendricks",
-            "team": "MEM",
-            "proj_pts": 11.72734560392906,
-            "proj_reb": 5.013826967338938,
-            "proj_ast": 1.5041480902016815,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Ty Jerome",
-            "team": "MEM",
-            "proj_pts": 18.222490861489767,
-            "proj_reb": 2.40663694432269,
-            "proj_ast": 5.114103506685717,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Tyler Burton",
-            "team": "MEM",
-            "proj_pts": 4.510517539972715,
-            "proj_reb": 4.679571836183009,
-            "proj_ast": 0.6685102623118584,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Vince Williams Jr.",
-            "team": "MEM",
-            "proj_pts": 7.3972487655552515,
-            "proj_reb": 3.409402337790478,
-            "proj_ast": 3.2088492590969206,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Walter Clayton Jr.",
-            "team": "MEM",
-            "proj_pts": 7.938510870351979,
-            "proj_reb": 1.704701168895239,
-            "proj_ast": 6.818804675580956,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Zach Edey",
-            "team": "MEM",
-            "proj_pts": 12.358818059525237,
-            "proj_reb": 11.531802024879557,
-            "proj_ast": 1.203318472161345,
-            "status": "Out For Season",
-            "injury": "Ankle",
-            "market_line": null
-          }
-        ],
-        "factors": {
-          "teamA": {
-            "efg": 0.5626566017838438,
-            "tov": 0.11818843919910933,
-            "orb": 0.31135749848226196,
-            "ftr": 0.2700114986275803,
-            "sos": -9.250098758164969,
-            "rest": 7,
-            "is_b2b": 0,
-            "ml_influence": {}
-          },
-          "teamB": {
-            "efg": 0.5443658578662921,
-            "tov": 0.1321596069385897,
-            "orb": 0.2723102213348293,
-            "ftr": 0.2600320568834138,
-            "sos": -3.993266010038102,
-            "rest": 7,
-            "is_b2b": 0
-          }
-        },
-        "margins": {
-          "1-5": 0.2578203142636616,
-          "6-10": 0.10863572078579242,
-          "11+": 0.16146071647424917
-        },
-        "formA": [
-          {
-            "date": "2026-02-22",
-            "opponent": "BKN",
-            "result": "W",
-            "score": "115-104",
-            "quarters": [
-              28,
-              28,
-              28,
-              28
-            ],
-            "halves": [
-              56,
-              56
-            ]
-          },
-          {
-            "date": "2026-02-24",
-            "opponent": "WAS",
-            "result": "W",
-            "score": "119-98",
-            "quarters": [
-              29,
-              29,
-              29,
-              29
-            ],
-            "halves": [
-              58,
-              58
-            ]
-          },
-          {
-            "date": "2026-02-26",
-            "opponent": "WAS",
-            "result": "W",
-            "score": "126-96",
-            "quarters": [
-              31,
-              31,
-              31,
-              31
-            ],
-            "halves": [
-              62,
-              62
-            ]
-          },
-          {
-            "date": "2026-03-01",
-            "opponent": "POR",
-            "result": "W",
-            "score": "135-101",
-            "quarters": [
-              33,
-              33,
-              33,
-              33
-            ],
-            "halves": [
-              66,
-              66
-            ]
-          },
-          {
-            "date": "2026-03-04",
-            "opponent": "MIL",
-            "result": "W",
-            "score": "131-113",
-            "quarters": [
-              32,
-              32,
-              32,
-              32
-            ],
-            "halves": [
-              64,
-              64
-            ]
-          },
-          {
-            "date": "2026-03-07",
-            "opponent": "PHI",
-            "result": "W",
-            "score": "125-116",
-            "quarters": [
-              31,
-              31,
-              31,
-              31
-            ],
-            "halves": [
-              62,
-              62
-            ]
-          },
-          {
-            "date": "2026-03-10",
-            "opponent": "DAL",
-            "result": "W",
-            "score": "124-112",
-            "quarters": [
-              31,
-              31,
-              31,
-              31
-            ],
-            "halves": [
-              62,
-              62
-            ]
-          },
-          {
-            "date": "2026-03-12",
-            "opponent": "BKN",
-            "result": "W",
-            "score": "108-97",
-            "quarters": [
-              27,
-              27,
-              27,
-              27
-            ],
-            "halves": [
-              54,
-              54
-            ]
-          },
-          {
-            "date": "2026-03-14",
-            "opponent": "MIL",
-            "result": "W",
-            "score": "122-99",
-            "quarters": [
-              30,
-              30,
-              30,
-              30
-            ],
-            "halves": [
-              60,
-              60
-            ]
-          },
-          {
-            "date": "2026-03-16",
-            "opponent": "ORL",
-            "result": "W",
-            "score": "124-112",
-            "quarters": [
-              31,
-              31,
-              31,
-              31
-            ],
-            "halves": [
-              62,
-              62
-            ]
-          }
-        ],
-        "formB": [
-          {
-            "date": "2026-02-27",
-            "opponent": "DAL",
-            "result": "W",
-            "score": "124-105",
-            "quarters": [
-              31,
-              31,
-              31,
-              31
-            ],
-            "halves": [
-              62,
-              62
-            ]
-          },
-          {
-            "date": "2026-03-01",
-            "opponent": "IND",
-            "result": "W",
-            "score": "125-106",
-            "quarters": [
-              31,
-              31,
-              31,
-              31
-            ],
-            "halves": [
-              62,
-              62
-            ]
-          },
-          {
-            "date": "2026-03-03",
-            "opponent": "MIN",
-            "result": "L",
-            "score": "110-117",
-            "quarters": [
-              27,
-              27,
-              27,
-              27
-            ],
-            "halves": [
-              54,
-              54
-            ]
-          },
-          {
-            "date": "2026-03-04",
-            "opponent": "POR",
-            "result": "L",
-            "score": "114-122",
-            "quarters": [
-              28,
-              28,
-              28,
-              28
-            ],
-            "halves": [
-              56,
-              56
-            ]
-          },
-          {
-            "date": "2026-03-07",
-            "opponent": "LAC",
-            "result": "L",
-            "score": "120-123",
-            "quarters": [
-              30,
-              30,
-              30,
-              30
-            ],
-            "halves": [
-              60,
-              60
-            ]
-          },
-          {
-            "date": "2026-03-09",
-            "opponent": "BKN",
-            "result": "L",
-            "score": "115-126",
-            "quarters": [
-              28,
-              28,
-              28,
-              28
-            ],
-            "halves": [
-              56,
-              56
-            ]
-          },
-          {
-            "date": "2026-03-10",
-            "opponent": "PHI",
-            "result": "L",
-            "score": "129-139",
-            "quarters": [
-              32,
-              32,
-              32,
-              32
-            ],
-            "halves": [
-              64,
-              64
-            ]
-          },
-          {
-            "date": "2026-03-12",
-            "opponent": "DAL",
-            "result": "L",
-            "score": "112-120",
-            "quarters": [
-              28,
-              28,
-              28,
-              28
-            ],
-            "halves": [
-              56,
-              56
-            ]
-          },
-          {
-            "date": "2026-03-13",
-            "opponent": "DET",
-            "result": "L",
-            "score": "110-126",
-            "quarters": [
-              27,
-              27,
-              27,
-              27
-            ],
-            "halves": [
-              54,
-              54
-            ]
-          },
-          {
-            "date": "2026-03-16",
-            "opponent": "CHI",
-            "result": "L",
-            "score": "107-132",
-            "quarters": [
-              26,
-              26,
-              26,
-              26
-            ],
-            "halves": [
-              52,
-              52
-            ]
-          }
-        ],
-        "shap_explanation": {},
-        "match_id": "0022501037",
-        "time": "TBD"
-      },
-      "ml_prob_A": 0.5858089630537004,
-      "mc_win_A": 0.7268,
-      "shap_explanation": {},
-      "is_b2b_home": 0,
-      "is_b2b_away": 0,
-      "rest_home": 7,
-      "rest_away": 7
-    },
-    {
-      "matchId": "0022501042",
-      "matchTime": 1774310400,
-      "gameStatus": "8:00 pm ET",
-      "homeTeam": "CHI",
-      "awayTeam": "HOU",
-      "homeName": "Chicago Bulls",
-      "awayName": "Houston Rockets",
-      "prediction": {
-        "main": {
-          "ptsA": 115.97735884175827,
-          "ptsB": 115.33959858070531,
-          "total": 231.3169574224636,
-          "spread": -0.6377602610529607,
-          "win_prob_A": 51.43081124484398,
-          "ml_prob_A": 0.5190468540807329,
-          "mc_win_A": 0.5072,
-          "market": {
-            "ml": {
-              "home": null,
-              "away": null
-            },
-            "spread": {
-              "hdp": null,
-              "home": null,
-              "away": null
-            },
-            "total": {
-              "hdp": null,
-              "over": null,
-              "under": null
-            }
-          }
-        },
-        "advanced": {
-          "blowout_risk": 0.11853559847642359,
-          "recommended_bet": 0.0,
-          "latent_strength_A": -2.9535234490350355,
-          "latent_strength_B": -3.0522040387036955,
-          "form_state_A": 2,
           "form_state_B": 0,
           "entropy_A": 3.3219280948873626
         },
         "halves": {
-          "h1_ptsA": 57.98867942087914,
-          "h1_ptsB": 57.66979929035266,
-          "h2_ptsA": 57.98867942087914,
-          "h2_ptsB": 57.66979929035266
+          "h1_ptsA": 61.09962334014114,
+          "h1_ptsB": 59.877674794694464,
+          "h2_ptsA": 61.09962334014114,
+          "h2_ptsB": 59.877674794694464
         },
         "quarters": [
           {
             "q": 1,
-            "ptsA": 28.99433971043957,
-            "ptsB": 28.83489964517633
+            "ptsA": 30.54981167007057,
+            "ptsB": 29.938837397347232
           },
           {
             "q": 2,
-            "ptsA": 28.99433971043957,
-            "ptsB": 28.83489964517633
+            "ptsA": 30.54981167007057,
+            "ptsB": 29.938837397347232
           },
           {
             "q": 3,
-            "ptsA": 28.99433971043957,
-            "ptsB": 28.83489964517633
+            "ptsA": 30.54981167007057,
+            "ptsB": 29.938837397347232
           },
           {
             "q": 4,
-            "ptsA": 28.99433971043957,
-            "ptsB": 28.83489964517633
-          }
-        ],
-        "players": [
-          {
-            "player": "Anfernee Simons",
-            "team": "CHI",
-            "proj_pts": 15.229948661286583,
-            "proj_reb": 2.3329317152010445,
-            "proj_ast": 2.1385207389342913,
-            "status": "Out",
-            "injury": "Wrist",
-            "market_line": null
-          },
-          {
-            "player": "Ayo Dosunmu",
-            "team": "CHI",
-            "proj_pts": 16.67582986330746,
-            "proj_reb": 4.0826305016018285,
-            "proj_ast": 3.985425013468451,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Coby White",
-            "team": "CHI",
-            "proj_pts": 19.278416026945038,
-            "proj_reb": 3.8882195253350744,
-            "proj_ast": 4.665863430402089,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Collin Sexton",
-            "team": "CHI",
-            "proj_pts": 15.03716450101713,
-            "proj_reb": 1.7496987864007836,
-            "proj_ast": 1.9441097626675372,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Dalen Terry",
-            "team": "CHI",
-            "proj_pts": 5.205172327275161,
-            "proj_reb": 2.5273426914677986,
-            "proj_ast": 1.55528781013403,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Emanuel Miller",
-            "team": "CHI",
-            "proj_pts": 2.891762404041756,
-            "proj_reb": 0.5832329288002611,
-            "proj_ast": 0.777643905067015,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Guerschon Yabusele",
-            "team": "CHI",
-            "proj_pts": 10.02477633401142,
-            "proj_reb": 5.7351237998692355,
-            "proj_ast": 1.55528781013403,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Isaac Okoro",
-            "team": "CHI",
-            "proj_pts": 9.44642385320307,
-            "proj_reb": 3.11057562026806,
-            "proj_ast": 1.9441097626675372,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jaden Ivey",
-            "team": "CHI",
-            "proj_pts": 8.675287212125268,
-            "proj_reb": 3.207781108401436,
-            "proj_ast": 2.2357262270676674,
-            "status": "Doubtful",
-            "injury": "Knee",
-            "market_line": null
-          },
-          {
-            "player": "Jalen Smith",
-            "team": "CHI",
-            "proj_pts": 11.470657536032299,
-            "proj_reb": 6.318356728669496,
-            "proj_ast": 0.9720548813337686,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jevon Carter",
-            "team": "CHI",
-            "proj_pts": 3.952075285523733,
-            "proj_reb": 0.6804384169336379,
-            "proj_ast": 0.3888219525335075,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Josh Giddey",
-            "team": "CHI",
-            "proj_pts": 15.61551698182548,
-            "proj_reb": 8.94290490827067,
-            "proj_ast": 10.109370765871194,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Julian Phillips",
-            "team": "CHI",
-            "proj_pts": 2.6025861636375804,
-            "proj_reb": 0.9720548813337686,
-            "proj_ast": 0.0,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Kevin Huerter",
-            "team": "CHI",
-            "proj_pts": 7.711366410778016,
-            "proj_reb": 3.985425013468451,
-            "proj_ast": 3.11057562026806,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Lachlan Olbrich",
-            "team": "CHI",
-            "proj_pts": 1.445881202020878,
-            "proj_reb": 0.9720548813337686,
-            "proj_ast": 0.4860274406668843,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Leonard Miller",
-            "team": "CHI",
-            "proj_pts": 9.928384253876697,
-            "proj_reb": 5.540712823602481,
-            "proj_ast": 1.2636713457338993,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Mac McClung",
-            "team": "CHI",
-            "proj_pts": 5.542544607746699,
-            "proj_reb": 1.2150686016672108,
-            "proj_ast": 0.4860274406668843,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Matas Buzelis",
-            "team": "CHI",
-            "proj_pts": 21.977394270717348,
-            "proj_reb": 6.609973193069626,
-            "proj_ast": 2.1385207389342913,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Nick Richards",
-            "team": "CHI",
-            "proj_pts": 9.83199217374197,
-            "proj_reb": 8.262466491337033,
-            "proj_ast": 0.6804384169336379,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Nikola Vu\u010devi\u0107",
-            "team": "CHI",
-            "proj_pts": 17.928926905058887,
-            "proj_reb": 7.679233562536773,
-            "proj_ast": 4.0826305016018285,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Noa Essengue",
-            "team": "CHI",
-            "proj_pts": 0.0,
-            "proj_reb": 0.0,
-            "proj_ast": 0.0,
-            "status": "Out For Season",
-            "injury": "Shoulder",
-            "market_line": null
-          },
-          {
-            "player": "Patrick Williams",
-            "team": "CHI",
-            "proj_pts": 7.325798090239115,
-            "proj_reb": 2.1385207389342913,
-            "proj_ast": 2.2357262270676674,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Rob Dillingham",
-            "team": "CHI",
-            "proj_pts": 7.22940601010439,
-            "proj_reb": 3.11057562026806,
-            "proj_ast": 3.499397572801567,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Tre Jones",
-            "team": "CHI",
-            "proj_pts": 15.519124901690759,
-            "proj_reb": 3.013370132134683,
-            "proj_ast": 3.985425013468451,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Trentyn Flowers",
-            "team": "CHI",
-            "proj_pts": 1.927841602694504,
-            "proj_reb": 0.4860274406668843,
-            "proj_ast": 0.4860274406668843,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Yuki Kawamura",
-            "team": "CHI",
-            "proj_pts": 2.6989782437723053,
-            "proj_reb": 1.9441097626675372,
-            "proj_ast": 2.916164644001306,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Zach Collins",
-            "team": "CHI",
-            "proj_pts": 9.350031773068343,
-            "proj_reb": 5.4435073354691035,
-            "proj_ast": 1.458082322000653,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Aaron Holiday",
-            "team": "HOU",
-            "proj_pts": 3.9868869035706975,
-            "proj_reb": 1.0692603694671456,
-            "proj_ast": 0.8748493932003918,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Alperen Sengun",
-            "team": "HOU",
-            "proj_pts": 17.846065187411693,
-            "proj_reb": 7.776439050670149,
-            "proj_ast": 4.763068918535467,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Amen Thompson",
-            "team": "HOU",
-            "proj_pts": 18.89024985263259,
-            "proj_reb": 8.165261003203657,
-            "proj_ast": 5.054685382935597,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Clint Capela",
-            "team": "HOU",
-            "proj_pts": 5.125997447448039,
-            "proj_reb": 5.7351237998692355,
-            "proj_ast": 1.2636713457338993,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Dorian Finney-Smith",
-            "team": "HOU",
-            "proj_pts": 3.5122575102884714,
-            "proj_reb": 3.11057562026806,
-            "proj_ast": 1.458082322000653,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Isaiah Crawford",
-            "team": "HOU",
-            "proj_pts": 1.4238881798466776,
-            "proj_reb": 0.9720548813337686,
-            "proj_ast": 0.3888219525335075,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "JD Davison",
-            "team": "HOU",
-            "proj_pts": 2.847776359693355,
-            "proj_reb": 1.7496987864007836,
-            "proj_ast": 1.3608768338672759,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jabari Smith Jr.",
-            "team": "HOU",
-            "proj_pts": 16.042473492939234,
-            "proj_reb": 5.4435073354691035,
-            "proj_ast": 1.6524932982674065,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jae'Sean Tate",
-            "team": "HOU",
-            "proj_pts": 2.5629987237240197,
-            "proj_reb": 1.1664658576005222,
-            "proj_ast": 0.3888219525335075,
-            "status": "Out",
-            "injury": "Knee",
-            "market_line": null
-          },
-          {
-            "player": "Jeff Green",
-            "team": "HOU",
-            "proj_pts": 2.5629987237240197,
-            "proj_reb": 1.0692603694671456,
-            "proj_ast": 0.19441097626675374,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Josh Okogie",
-            "team": "HOU",
-            "proj_pts": 2.847776359693355,
-            "proj_reb": 1.6524932982674065,
-            "proj_ast": 0.8748493932003918,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Kevin Durant",
-            "team": "HOU",
-            "proj_pts": 24.490876693362857,
-            "proj_reb": 6.026740264269366,
-            "proj_ast": 3.6938085490683203,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Reed Sheppard",
-            "team": "HOU",
-            "proj_pts": 15.377992342344116,
-            "proj_reb": 3.596603060934944,
-            "proj_ast": 4.277041477868583,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Steven Adams",
-            "team": "HOU",
-            "proj_pts": 5.600626840730266,
-            "proj_reb": 8.456877467603785,
-            "proj_ast": 1.55528781013403,
-            "status": "Out For Season",
-            "injury": "Ankle",
-            "market_line": null
-          },
-          {
-            "player": "Tari Eason",
-            "team": "HOU",
-            "proj_pts": 5.885404476699601,
-            "proj_reb": 6.707178681203004,
-            "proj_ast": 1.9441097626675372,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          }
-        ],
-        "factors": {
-          "teamA": {
-            "efg": 0.551011335857835,
-            "tov": 0.14594149888676644,
-            "orb": 0.2380334616250206,
-            "ftr": 0.24300909385913633,
-            "sos": 0.12609118927576074,
-            "rest": 8,
-            "is_b2b": 0,
-            "ml_influence": {}
-          },
-          "teamB": {
-            "efg": 0.5268050399579487,
-            "tov": 0.14645450365704638,
-            "orb": 0.3440089618422577,
-            "ftr": 0.24797969229436614,
-            "sos": 1.6334978935257922,
-            "rest": 8,
-            "is_b2b": 0
-          }
-        },
-        "margins": {
-          "1-5": 0.16838570076778334,
-          "6-10": 0.07095136015628992,
-          "11+": 0.10545203145699829
-        },
-        "formA": [
-          {
-            "date": "2026-02-24",
-            "opponent": "CHA",
-            "result": "L",
-            "score": "99-131",
-            "quarters": [
-              24,
-              24,
-              24,
-              24
-            ],
-            "halves": [
-              48,
-              48
-            ]
-          },
-          {
-            "date": "2026-02-26",
-            "opponent": "POR",
-            "result": "L",
-            "score": "112-121",
-            "quarters": [
-              28,
-              28,
-              28,
-              28
-            ],
-            "halves": [
-              56,
-              56
-            ]
-          },
-          {
-            "date": "2026-03-01",
-            "opponent": "MIL",
-            "result": "W",
-            "score": "120-97",
-            "quarters": [
-              30,
-              30,
-              30,
-              30
-            ],
-            "halves": [
-              60,
-              60
-            ]
-          },
-          {
-            "date": "2026-03-03",
-            "opponent": "OKC",
-            "result": "L",
-            "score": "108-116",
-            "quarters": [
-              27,
-              27,
-              27,
-              27
-            ],
-            "halves": [
-              54,
-              54
-            ]
-          },
-          {
-            "date": "2026-03-05",
-            "opponent": "PHX",
-            "result": "W",
-            "score": "105-103",
-            "quarters": [
-              26,
-              26,
-              26,
-              26
-            ],
-            "halves": [
-              52,
-              52
-            ]
-          },
-          {
-            "date": "2026-03-08",
-            "opponent": "SAC",
-            "result": "L",
-            "score": "110-126",
-            "quarters": [
-              27,
-              27,
-              27,
-              27
-            ],
-            "halves": [
-              54,
-              54
-            ]
-          },
-          {
-            "date": "2026-03-10",
-            "opponent": "GSW",
-            "result": "W",
-            "score": "130-124",
-            "quarters": [
-              32,
-              32,
-              32,
-              32
-            ],
-            "halves": [
-              64,
-              64
-            ]
-          },
-          {
-            "date": "2026-03-12",
-            "opponent": "LAL",
-            "result": "L",
-            "score": "130-142",
-            "quarters": [
-              32,
-              32,
-              32,
-              32
-            ],
-            "halves": [
-              64,
-              64
-            ]
-          },
-          {
-            "date": "2026-03-13",
-            "opponent": "LAC",
-            "result": "L",
-            "score": "108-119",
-            "quarters": [
-              27,
-              27,
-              27,
-              27
-            ],
-            "halves": [
-              54,
-              54
-            ]
-          },
-          {
-            "date": "2026-03-16",
-            "opponent": "MEM",
-            "result": "W",
-            "score": "132-107",
-            "quarters": [
-              33,
-              33,
-              33,
-              33
-            ],
-            "halves": [
-              66,
-              66
-            ]
-          }
-        ],
-        "formB": [
-          {
-            "date": "2026-02-26",
-            "opponent": "ORL",
-            "result": "W",
-            "score": "113-108",
-            "quarters": [
-              28,
-              28,
-              28,
-              28
-            ],
-            "halves": [
-              56,
-              56
-            ]
-          },
-          {
-            "date": "2026-02-28",
-            "opponent": "MIA",
-            "result": "L",
-            "score": "105-115",
-            "quarters": [
-              26,
-              26,
-              26,
-              26
-            ],
-            "halves": [
-              52,
-              52
-            ]
-          },
-          {
-            "date": "2026-03-02",
-            "opponent": "WAS",
-            "result": "W",
-            "score": "123-118",
-            "quarters": [
-              30,
-              30,
-              30,
-              30
-            ],
-            "halves": [
-              60,
-              60
-            ]
-          },
-          {
-            "date": "2026-03-05",
-            "opponent": "GSW",
-            "result": "L",
-            "score": "113-115",
-            "quarters": [
-              28,
-              28,
-              28,
-              28
-            ],
-            "halves": [
-              56,
-              56
-            ]
-          },
-          {
-            "date": "2026-03-06",
-            "opponent": "POR",
-            "result": "W",
-            "score": "106-99",
-            "quarters": [
-              26,
-              26,
-              26,
-              26
-            ],
-            "halves": [
-              52,
-              52
-            ]
-          },
-          {
-            "date": "2026-03-08",
-            "opponent": "SAS",
-            "result": "L",
-            "score": "120-145",
-            "quarters": [
-              30,
-              30,
-              30,
-              30
-            ],
-            "halves": [
-              60,
-              60
-            ]
-          },
-          {
-            "date": "2026-03-10",
-            "opponent": "TOR",
-            "result": "W",
-            "score": "113-99",
-            "quarters": [
-              28,
-              28,
-              28,
-              28
-            ],
-            "halves": [
-              56,
-              56
-            ]
-          },
-          {
-            "date": "2026-03-11",
-            "opponent": "DEN",
-            "result": "L",
-            "score": "93-129",
-            "quarters": [
-              23,
-              23,
-              23,
-              23
-            ],
-            "halves": [
-              46,
-              46
-            ]
-          },
-          {
-            "date": "2026-03-13",
-            "opponent": "NOP",
-            "result": "W",
-            "score": "107-105",
-            "quarters": [
-              26,
-              26,
-              26,
-              26
-            ],
-            "halves": [
-              52,
-              52
-            ]
-          },
-          {
-            "date": "2026-03-16",
-            "opponent": "LAL",
-            "result": "L",
-            "score": "92-100",
-            "quarters": [
-              23,
-              23,
-              23,
-              23
-            ],
-            "halves": [
-              46,
-              46
-            ]
-          }
-        ],
-        "shap_explanation": {},
-        "match_id": "0022501042",
-        "time": "TBD"
-      },
-      "ml_prob_A": 0.5190468540807329,
-      "mc_win_A": 0.5072,
-      "shap_explanation": {},
-      "is_b2b_home": 0,
-      "is_b2b_away": 0,
-      "rest_home": 8,
-      "rest_away": 8
-    },
-    {
-      "matchId": "0022501043",
-      "matchTime": 1774314000,
-      "gameStatus": "9:00 pm ET",
-      "homeTeam": "UTA",
-      "awayTeam": "TOR",
-      "homeName": "Utah Jazz",
-      "awayName": "Toronto Raptors",
-      "prediction": {
-        "main": {
-          "ptsA": 114.96013121677716,
-          "ptsB": 117.33740125496692,
-          "total": 232.2975324717441,
-          "spread": 2.3772700381897636,
-          "win_prob_A": 46.63824510056778,
-          "ml_prob_A": 0.491304085009463,
-          "mc_win_A": 0.429,
-          "market": {
-            "ml": {
-              "home": null,
-              "away": null
-            },
-            "spread": {
-              "hdp": null,
-              "home": null,
-              "away": null
-            },
-            "total": {
-              "hdp": null,
-              "over": null,
-              "under": null
-            }
-          }
-        },
-        "advanced": {
-          "blowout_risk": 0.11853559847642359,
-          "recommended_bet": 0.0,
-          "latent_strength_A": -6.1037482940050465,
-          "latent_strength_B": 1.9461049922231322,
-          "form_state_A": 0,
-          "form_state_B": 1,
-          "entropy_A": 3.3219280948873626
-        },
-        "halves": {
-          "h1_ptsA": 57.48006560838858,
-          "h1_ptsB": 58.66870062748346,
-          "h2_ptsA": 57.48006560838858,
-          "h2_ptsB": 58.66870062748346
-        },
-        "quarters": [
-          {
-            "q": 1,
-            "ptsA": 28.74003280419429,
-            "ptsB": 29.33435031374173
-          },
-          {
-            "q": 2,
-            "ptsA": 28.74003280419429,
-            "ptsB": 29.33435031374173
-          },
-          {
-            "q": 3,
-            "ptsA": 28.74003280419429,
-            "ptsB": 29.33435031374173
-          },
-          {
-            "q": 4,
-            "ptsA": 28.74003280419429,
-            "ptsB": 29.33435031374173
+            "ptsA": 30.54981167007057,
+            "ptsB": 29.938837397347232
           }
         ],
         "players": [
           {
             "player": "Ace Bailey",
             "team": "UTA",
-            "proj_pts": 15.627349716275832,
-            "proj_reb": 4.4809435461837905,
-            "proj_ast": 1.4936478487279303,
+            "proj_pts": 17.303562149462547,
+            "proj_reb": 4.569086054313217,
+            "proj_ast": 1.5230286847710723,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -34427,9 +34656,9 @@ const analyticsData = {
           {
             "player": "Andersson Garcia",
             "team": "UTA",
-            "proj_pts": 4.883546786336198,
-            "proj_reb": 7.634200115720533,
-            "proj_ast": 1.6596087208088115,
+            "proj_pts": 5.407363171707046,
+            "proj_reb": 7.784368833274369,
+            "proj_ast": 1.6922540941900803,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -34437,9 +34666,9 @@ const analyticsData = {
           {
             "player": "Bez Mbeng",
             "team": "UTA",
-            "proj_pts": 2.9301280718017186,
-            "proj_reb": 3.485178313698504,
-            "proj_ast": 3.485178313698504,
+            "proj_pts": 3.2444179030242273,
+            "proj_reb": 3.5537335977991686,
+            "proj_ast": 3.5537335977991686,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -34447,9 +34676,9 @@ const analyticsData = {
           {
             "player": "Blake Hinson",
             "team": "UTA",
-            "proj_pts": 8.898907477323737,
-            "proj_reb": 2.323452209132336,
-            "proj_ast": 0.7744840697107787,
+            "proj_pts": 9.853417335110617,
+            "proj_reb": 2.3691557318661127,
+            "proj_ast": 0.7897185772887041,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -34457,9 +34686,9 @@ const analyticsData = {
           {
             "player": "Brice Sensabaugh",
             "team": "UTA",
-            "proj_pts": 17.483097495083587,
-            "proj_reb": 3.086872220704389,
-            "proj_ast": 2.1906835114676313,
+            "proj_pts": 19.35836015471122,
+            "proj_reb": 3.1475926151935494,
+            "proj_ast": 2.233775404330906,
             "status": "Questionable",
             "injury": "Illness",
             "market_line": null
@@ -34467,9 +34696,9 @@ const analyticsData = {
           {
             "player": "Cody Williams",
             "team": "UTA",
-            "proj_pts": 12.013525094387047,
-            "proj_reb": 4.4809435461837905,
-            "proj_ast": 3.7839078834440896,
+            "proj_pts": 13.302113402399334,
+            "proj_reb": 4.569086054313217,
+            "proj_ast": 3.8583393347533828,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -34477,9 +34706,9 @@ const analyticsData = {
           {
             "player": "Elijah Harkless",
             "team": "UTA",
-            "proj_pts": 7.7160039224111925,
-            "proj_reb": 1.8919539417220448,
-            "proj_ast": 2.9872956974558607,
+            "proj_pts": 8.543633811297132,
+            "proj_reb": 1.9291696673766914,
+            "proj_ast": 3.0460573695421447,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -34487,9 +34716,9 @@ const analyticsData = {
           {
             "player": "Isaiah Collier",
             "team": "UTA",
-            "proj_pts": 17.092413752176693,
-            "proj_reb": 2.1906835114676313,
-            "proj_ast": 6.074167918160249,
+            "proj_pts": 18.92577110097466,
+            "proj_reb": 2.233775404330906,
+            "proj_ast": 6.193649984735694,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -34497,9 +34726,9 @@ const analyticsData = {
           {
             "player": "Jaren Jackson Jr.",
             "team": "UTA",
-            "proj_pts": 21.096922116972376,
-            "proj_reb": 6.173744441408778,
-            "proj_ast": 2.1906835114676313,
+            "proj_pts": 23.35980890177444,
+            "proj_reb": 6.295185230387099,
+            "proj_ast": 2.233775404330906,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -34507,9 +34736,9 @@ const analyticsData = {
           {
             "player": "John Konchar",
             "team": "UTA",
-            "proj_pts": 3.3208118147086143,
-            "proj_reb": 4.580520069432319,
-            "proj_ast": 2.0911069882191025,
+            "proj_pts": 3.677006956760791,
+            "proj_reb": 4.670621299964621,
+            "proj_ast": 2.132240158679501,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -34517,9 +34746,9 @@ const analyticsData = {
           {
             "player": "Jusuf Nurki\u0107",
             "team": "UTA",
-            "proj_pts": 12.11119603011377,
-            "proj_reb": 12.148335836320499,
-            "proj_ast": 6.074167918160249,
+            "proj_pts": 13.410260665833475,
+            "proj_reb": 12.387299969471387,
+            "proj_ast": 6.193649984735694,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -34527,9 +34756,9 @@ const analyticsData = {
           {
             "player": "Kevin Love",
             "team": "UTA",
-            "proj_pts": 6.153268950783609,
-            "proj_reb": 5.974591394911721,
-            "proj_ast": 1.8919539417220448,
+            "proj_pts": 6.813277596350877,
+            "proj_reb": 6.092114739084289,
+            "proj_ast": 1.9291696673766914,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -34537,9 +34766,9 @@ const analyticsData = {
           {
             "player": "Keyonte George",
             "team": "UTA",
-            "proj_pts": 19.827199952524964,
-            "proj_reb": 2.489413081213217,
-            "proj_ast": 3.8834844066926184,
+            "proj_pts": 21.953894477130607,
+            "proj_reb": 2.5383811412851203,
+            "proj_ast": 3.959874580404788,
             "status": "Out",
             "injury": "Hamstring",
             "market_line": null
@@ -34547,9 +34776,9 @@ const analyticsData = {
           {
             "player": "Kyle Anderson",
             "team": "UTA",
-            "proj_pts": 5.860256143603437,
-            "proj_reb": 3.485178313698504,
-            "proj_ast": 3.186448743952918,
+            "proj_pts": 6.488835806048455,
+            "proj_reb": 3.5537335977991686,
+            "proj_ast": 3.249127860844954,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -34557,9 +34786,9 @@ const analyticsData = {
           {
             "player": "Kyle Filipowski",
             "team": "UTA",
-            "proj_pts": 13.8692728731948,
-            "proj_reb": 8.862310569119053,
-            "proj_ast": 3.9830609299411472,
+            "proj_pts": 15.35691140764801,
+            "proj_reb": 9.03663686297503,
+            "proj_ast": 4.061409826056193,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -34567,9 +34796,9 @@ const analyticsData = {
           {
             "player": "Lauri Markkanen",
             "team": "UTA",
-            "proj_pts": 22.366644281419784,
-            "proj_reb": 6.372897487905836,
-            "proj_ast": 1.9915304649705736,
+            "proj_pts": 24.765723326418268,
+            "proj_reb": 6.498255721689908,
+            "proj_ast": 2.0307049130280963,
             "status": "Out",
             "injury": "Hip",
             "market_line": null
@@ -34577,9 +34806,9 @@ const analyticsData = {
           {
             "player": "Mo Bamba",
             "team": "UTA",
-            "proj_pts": 2.441773393168099,
-            "proj_reb": 5.476708778669077,
-            "proj_ast": 0.2489413081213217,
+            "proj_pts": 2.703681585853523,
+            "proj_reb": 5.5844385108272645,
+            "proj_ast": 0.25383811412851204,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -34587,9 +34816,9 @@ const analyticsData = {
           {
             "player": "Oscar Tshiebwe",
             "team": "UTA",
-            "proj_pts": 5.371901464969818,
-            "proj_reb": 4.879249639177906,
-            "proj_ast": 0.597459139491172,
+            "proj_pts": 5.948099488877751,
+            "proj_reb": 4.975227036918836,
+            "proj_ast": 0.6092114739084289,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -34597,9 +34826,9 @@ const analyticsData = {
           {
             "player": "Svi Mykhailiuk",
             "team": "UTA",
-            "proj_pts": 9.669422636945672,
-            "proj_reb": 2.0911069882191025,
-            "proj_ast": 1.593224371976459,
+            "proj_pts": 10.706579079979951,
+            "proj_reb": 2.132240158679501,
+            "proj_ast": 1.624563930422477,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -34607,9 +34836,9 @@ const analyticsData = {
           {
             "player": "Taylor Hendricks",
             "team": "UTA",
-            "proj_pts": 3.809166493342234,
-            "proj_reb": 2.5889896044617458,
-            "proj_ast": 0.6970356627397007,
+            "proj_pts": 4.217743273931496,
+            "proj_reb": 2.6399163869365254,
+            "proj_ast": 0.7107467195598337,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -34617,9 +34846,9 @@ const analyticsData = {
           {
             "player": "Vince Williams Jr.",
             "team": "UTA",
-            "proj_pts": 7.325320179504296,
-            "proj_reb": 3.186448743952918,
-            "proj_ast": 2.788142650958803,
+            "proj_pts": 8.111044757560569,
+            "proj_reb": 3.249127860844954,
+            "proj_ast": 2.842986878239335,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -34627,9 +34856,9 @@ const analyticsData = {
           {
             "player": "Walker Kessler",
             "team": "UTA",
-            "proj_pts": 14.06461474464825,
-            "proj_reb": 10.754264510841098,
-            "proj_ast": 2.9872956974558607,
+            "proj_pts": 15.573205934516292,
+            "proj_reb": 10.96580653035172,
+            "proj_ast": 3.0460573695421447,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -34637,199 +34866,269 @@ const analyticsData = {
           {
             "player": "Walter Clayton Jr.",
             "team": "UTA",
-            "proj_pts": 5.664914272149989,
-            "proj_reb": 1.7923774184735164,
-            "proj_ast": 3.186448743952918,
+            "proj_pts": 6.272541279180173,
+            "proj_reb": 1.8276344217252867,
+            "proj_ast": 3.249127860844954,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "A.J. Lawson",
-            "team": "TOR",
-            "proj_pts": 3.256413798022951,
-            "proj_reb": 1.593224371976459,
-            "proj_ast": 0.298729569745586,
+            "player": "AJ Johnson",
+            "team": "WAS",
+            "proj_pts": 5.707056375967034,
+            "proj_reb": 2.4368458956337156,
+            "proj_ast": 1.5230286847710723,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Alijah Martin",
-            "team": "TOR",
-            "proj_pts": 1.83173276138791,
-            "proj_reb": 0.298729569745586,
-            "proj_ast": 0.19915304649705737,
+            "player": "Alex Sarr",
+            "team": "WAS",
+            "proj_pts": 15.66846386856404,
+            "proj_reb": 8.22435489776379,
+            "proj_ast": 2.132240158679501,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Brandon Ingram",
-            "team": "TOR",
-            "proj_pts": 21.98079313665492,
-            "proj_reb": 5.27755573217202,
-            "proj_ast": 3.7839078834440896,
+            "player": "Alondes Williams",
+            "team": "WAS",
+            "proj_pts": 11.414112751934068,
+            "proj_reb": 6.345952853212801,
+            "proj_ast": 3.0460573695421447,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Chucky Hepburn",
-            "team": "TOR",
-            "proj_pts": 0.0,
-            "proj_reb": 0.4978826162426434,
-            "proj_ast": 0.9957652324852868,
+            "player": "Anthony Gill",
+            "team": "WAS",
+            "proj_pts": 6.329644344254347,
+            "proj_reb": 3.6552688434505733,
+            "proj_ast": 1.8276344217252867,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Bilal Coulibaly",
+            "team": "WAS",
+            "proj_pts": 15.253405223039163,
+            "proj_reb": 4.772156545616027,
+            "proj_ast": 2.842986878239335,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Bub Carrington",
+            "team": "WAS",
+            "proj_pts": 11.414112751934068,
+            "proj_reb": 3.1475926151935494,
+            "proj_ast": 4.264480317359002,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "CJ McCollum",
+            "team": "WAS",
+            "proj_pts": 20.02657964657523,
+            "proj_reb": 4.366015563010407,
+            "proj_ast": 4.162945071707597,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Cam Whitmore",
+            "team": "WAS",
+            "proj_pts": 9.753878169834568,
+            "proj_reb": 3.350663106496359,
+            "proj_ast": 0.9138172108626433,
+            "status": "Out For Season",
+            "injury": "Shoulder",
+            "market_line": null
+          },
+          {
+            "player": "Corey Kispert",
+            "team": "WAS",
+            "proj_pts": 9.753878169834568,
+            "proj_reb": 2.233775404330906,
+            "proj_ast": 1.5230286847710723,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jaden Hardy",
+            "team": "WAS",
+            "proj_pts": 12.036700720221381,
+            "proj_reb": 1.8276344217252867,
+            "proj_ast": 0.9138172108626433,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jamir Watkins",
+            "team": "WAS",
+            "proj_pts": 10.583995460884317,
+            "proj_reb": 3.0460573695421447,
+            "proj_ast": 1.9291696673766914,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Julian Reese",
+            "team": "WAS",
+            "proj_pts": 9.54634884707213,
+            "proj_reb": 9.544313091232054,
+            "proj_ast": 1.8276344217252867,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Justin Champagnie",
+            "team": "WAS",
+            "proj_pts": 11.725406736077726,
+            "proj_reb": 4.873691791267431,
+            "proj_ast": 1.3199581934682627,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Kadary Richmond",
+            "team": "WAS",
+            "proj_pts": 8.647055115101567,
+            "proj_reb": 3.3845081883801607,
+            "proj_ast": 2.7076065507041283,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Keshon Gilbert",
+            "team": "WAS",
+            "proj_pts": 2.075293227624376,
+            "proj_reb": 1.6922540941900803,
+            "proj_ast": 1.0153524565140482,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Khris Middleton",
+            "team": "WAS",
+            "proj_pts": 12.036700720221381,
+            "proj_reb": 3.6552688434505733,
+            "proj_ast": 3.4521983521477635,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Kyshawn George",
+            "team": "WAS",
+            "proj_pts": 11.621642074696505,
+            "proj_reb": 2.4368458956337156,
+            "proj_ast": 2.132240158679501,
             "status": "Out",
-            "injury": "Knee",
+            "injury": "Elbow",
             "market_line": null
           },
           {
-            "player": "Collin Murray-Boyles",
-            "team": "TOR",
-            "proj_pts": 8.03927156386916,
-            "proj_reb": 4.381367022935263,
-            "proj_ast": 1.9915304649705736,
-            "status": "Doubtful",
-            "injury": "Thumb",
+            "player": "Leaky Black",
+            "team": "WAS",
+            "proj_pts": 10.37646613812188,
+            "proj_reb": 5.48290326517586,
+            "proj_ast": 1.4214934391196674,
+            "status": "Questionable",
+            "injury": "Ankle",
             "market_line": null
           },
           {
-            "player": "Garrett Temple",
-            "team": "TOR",
-            "proj_pts": 0.30528879356465166,
-            "proj_reb": 0.19915304649705737,
-            "proj_ast": 0.298729569745586,
+            "player": "Malaki Branham",
+            "team": "WAS",
+            "proj_pts": 6.225879682873128,
+            "proj_reb": 1.5230286847710723,
+            "proj_ast": 1.116887702165453,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Gradey Dick",
-            "team": "TOR",
-            "proj_pts": 5.189909490599078,
-            "proj_reb": 1.593224371976459,
-            "proj_ast": 0.4978826162426434,
+            "player": "Marvin Bagley III",
+            "team": "WAS",
+            "proj_pts": 10.583995460884317,
+            "proj_reb": 5.990579493432884,
+            "proj_ast": 0.9138172108626433,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Immanuel Quickley",
-            "team": "TOR",
-            "proj_pts": 16.790883646055843,
-            "proj_reb": 3.186448743952918,
-            "proj_ast": 5.8750148716631925,
+            "player": "Sharife Cooper",
+            "team": "WAS",
+            "proj_pts": 6.744702989779222,
+            "proj_reb": 1.624563930422477,
+            "proj_ast": 2.5383811412851203,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Ja'Kobe Walter",
-            "team": "TOR",
-            "proj_pts": 6.309301733669468,
-            "proj_reb": 2.489413081213217,
-            "proj_ast": 1.194918278982344,
+            "player": "Skal Labissiere",
+            "team": "WAS",
+            "proj_pts": 4.496468659852814,
+            "proj_reb": 3.0460573695421447,
+            "proj_ast": 1.0153524565140482,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Jakob Poeltl",
-            "team": "TOR",
-            "proj_pts": 11.193922430703894,
-            "proj_reb": 7.766968813385237,
-            "proj_ast": 2.1906835114676313,
+            "player": "Trae Young",
+            "team": "WAS",
+            "proj_pts": 18.677639048619383,
+            "proj_reb": 2.0307049130280963,
+            "proj_ast": 8.22435489776379,
+            "status": "Questionable",
+            "injury": "Quadriceps",
+            "market_line": null
+          },
+          {
+            "player": "Tre Johnson",
+            "team": "WAS",
+            "proj_pts": 11.206583429171632,
+            "proj_reb": 3.249127860844954,
+            "proj_ast": 1.5230286847710723,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Jamal Shead",
-            "team": "TOR",
-            "proj_pts": 6.004012940104817,
-            "proj_reb": 1.6928008952249876,
-            "proj_ast": 3.485178313698504,
+            "player": "Tristan Vukcevic",
+            "team": "WAS",
+            "proj_pts": 11.517877413315286,
+            "proj_reb": 4.772156545616027,
+            "proj_ast": 1.4214934391196674,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Jamison Battle",
-            "team": "TOR",
-            "proj_pts": 2.3405474173289957,
-            "proj_reb": 1.6928008952249876,
-            "proj_ast": 0.298729569745586,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jonathan Mogbo",
-            "team": "TOR",
-            "proj_pts": 0.7123405183175205,
-            "proj_reb": 1.593224371976459,
-            "proj_ast": 0.298729569745586,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Mo Bamba",
-            "team": "TOR",
-            "proj_pts": 0.0,
-            "proj_reb": 0.9957652324852868,
-            "proj_ast": 0.0,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Ochai Agbaji",
-            "team": "TOR",
-            "proj_pts": 4.884620697034427,
-            "proj_reb": 1.7923774184735164,
-            "proj_ast": 0.4978826162426434,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "RJ Barrett",
-            "team": "TOR",
-            "proj_pts": 22.38784486140779,
-            "proj_reb": 6.074167918160249,
-            "proj_ast": 2.489413081213217,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Sandro Mamukelashvili",
-            "team": "TOR",
-            "proj_pts": 7.428693976739857,
-            "proj_reb": 4.281790499686733,
-            "proj_ast": 1.194918278982344,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Scottie Barnes",
-            "team": "TOR",
-            "proj_pts": 15.875017265361887,
-            "proj_reb": 4.779673115929376,
-            "proj_ast": 3.9830609299411472,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Trayce Jackson-Davis",
-            "team": "TOR",
-            "proj_pts": 1.6282068990114755,
-            "proj_reb": 2.389836557964688,
-            "proj_ast": 0.4978826162426434,
+            "player": "Will Riley",
+            "team": "WAS",
+            "proj_pts": 15.979757852707696,
+            "proj_reb": 3.4521983521477635,
+            "proj_ast": 2.3353106499823104,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -34842,24 +35141,30 @@ const analyticsData = {
             "orb": 0.2775718593693616,
             "ftr": 0.2755253350377843,
             "sos": -1.5756467840982442,
-            "rest": 9,
+            "rest": 11,
             "is_b2b": 0,
-            "ml_influence": {}
+            "ml_influence": {
+              "roll_efg_pct_10": -0.0020437357938500613,
+              "roll_tov_pct_10": 0.007734077223612132,
+              "roll_orb_pct_10": 0.002908289026909898,
+              "roll_ft_rate_10": -0.0038452797794209913,
+              "p_tov": -0.011991119647429969
+            }
           },
           "teamB": {
-            "efg": 0.5427073718696395,
-            "tov": 0.11476880066085389,
-            "orb": 0.23069259181487606,
-            "ftr": 0.27086597908029403,
-            "sos": 3.047519908876628,
+            "efg": 0.5667290749191511,
+            "tov": 0.1440453646298851,
+            "orb": 0.23551925647430466,
+            "ftr": 0.272349011417918,
+            "sos": 4.296150719322084,
             "rest": 9,
             "is_b2b": 0
           }
         },
         "margins": {
-          "1-5": 0.1361711795256313,
-          "6-10": 0.057377380367670656,
-          "11+": 0.08527759448337191
+          "1-5": 0.18760791285740086,
+          "6-10": 0.07905087268468379,
+          "11+": 0.11748999729795088
         },
         "formA": [
           {
@@ -35025,58 +35330,690 @@ const analyticsData = {
         ],
         "formB": [
           {
-            "date": "2026-02-24",
-            "opponent": "OKC",
-            "result": "L",
-            "score": "107-116",
-            "quarters": [
-              26,
-              26,
-              26,
-              26
-            ],
-            "halves": [
-              52,
-              52
-            ]
-          },
-          {
-            "date": "2026-02-25",
-            "opponent": "SAS",
-            "result": "L",
-            "score": "107-110",
-            "quarters": [
-              26,
-              26,
-              26,
-              26
-            ],
-            "halves": [
-              52,
-              52
-            ]
-          },
-          {
             "date": "2026-02-28",
-            "opponent": "WAS",
-            "result": "W",
-            "score": "134-125",
+            "opponent": "TOR",
+            "result": "L",
+            "score": "125-134",
             "quarters": [
-              33,
-              33,
-              33,
-              33
+              31,
+              31,
+              31,
+              31
             ],
             "halves": [
-              66,
-              66
+              62,
+              62
+            ]
+          },
+          {
+            "date": "2026-03-02",
+            "opponent": "HOU",
+            "result": "L",
+            "score": "118-123",
+            "quarters": [
+              29,
+              29,
+              29,
+              29
+            ],
+            "halves": [
+              58,
+              58
             ]
           },
           {
             "date": "2026-03-03",
-            "opponent": "NYK",
+            "opponent": "ORL",
             "result": "L",
-            "score": "95-111",
+            "score": "109-126",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-05",
+            "opponent": "UTA",
+            "result": "L",
+            "score": "112-122",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-08",
+            "opponent": "NOP",
+            "result": "L",
+            "score": "118-138",
+            "quarters": [
+              29,
+              29,
+              29,
+              29
+            ],
+            "halves": [
+              58,
+              58
+            ]
+          },
+          {
+            "date": "2026-03-10",
+            "opponent": "MIA",
+            "result": "L",
+            "score": "129-150",
+            "quarters": [
+              32,
+              32,
+              32,
+              32
+            ],
+            "halves": [
+              64,
+              64
+            ]
+          },
+          {
+            "date": "2026-03-12",
+            "opponent": "ORL",
+            "result": "L",
+            "score": "131-136",
+            "quarters": [
+              32,
+              32,
+              32,
+              32
+            ],
+            "halves": [
+              64,
+              64
+            ]
+          },
+          {
+            "date": "2026-03-14",
+            "opponent": "BOS",
+            "result": "L",
+            "score": "100-111",
+            "quarters": [
+              25,
+              25,
+              25,
+              25
+            ],
+            "halves": [
+              50,
+              50
+            ]
+          },
+          {
+            "date": "2026-03-16",
+            "opponent": "GSW",
+            "result": "L",
+            "score": "117-125",
+            "quarters": [
+              29,
+              29,
+              29,
+              29
+            ],
+            "halves": [
+              58,
+              58
+            ]
+          },
+          {
+            "date": "2026-03-17",
+            "opponent": "DET",
+            "result": "L",
+            "score": "117-130",
+            "quarters": [
+              29,
+              29,
+              29,
+              29
+            ],
+            "halves": [
+              58,
+              58
+            ]
+          }
+        ],
+        "shap_explanation": {
+          "adj_ortg_10": -0.002053106471335582,
+          "adj_drtg_10": -0.03347059990182842,
+          "adj_pace_10": 0.00568332643284549,
+          "net_rating": 0.00022337350195627436,
+          "roll_efg_pct_10": -0.0020437357938500613,
+          "roll_tov_pct_10": 0.007734077223612132,
+          "roll_orb_pct_10": 0.002908289026909898,
+          "roll_ft_rate_10": -0.0038452797794209913,
+          "sos_10": -0.0070148865611254505,
+          "is_b2b": 0.0007296222767541849,
+          "p_pts": 0.0012049368795430837,
+          "p_reb": 0.015817251752636423,
+          "p_ast": -0.0015796041968064146,
+          "p_stl": 0.00395822794377203,
+          "p_blk": -0.0032663169738923158,
+          "p_tov": -0.011991119647429969,
+          "p_pf": -0.02147997929563239,
+          "p_pm": 0.0005473673303389859,
+          "p_usage": -0.004592377422549774,
+          "p_eff": -0.004682732548507715,
+          "opp_adj_ortg_10": 0.0014973977173941932,
+          "opp_adj_drtg_10": 0.07429325162362403,
+          "opp_sos_10": 0.0010872777937152023,
+          "opp_is_b2b": -0.002210360923393182
+        },
+        "match_id": "0022501057",
+        "time": "TBD"
+      },
+      "ml_prob_A": 0.5413546768485482,
+      "mc_win_A": 0.5544,
+      "shap_explanation": {
+        "adj_ortg_10": -0.002053106471335582,
+        "adj_drtg_10": -0.03347059990182842,
+        "adj_pace_10": 0.00568332643284549,
+        "net_rating": 0.00022337350195627436,
+        "roll_efg_pct_10": -0.0020437357938500613,
+        "roll_tov_pct_10": 0.007734077223612132,
+        "roll_orb_pct_10": 0.002908289026909898,
+        "roll_ft_rate_10": -0.0038452797794209913,
+        "sos_10": -0.0070148865611254505,
+        "is_b2b": 0.0007296222767541849,
+        "p_pts": 0.0012049368795430837,
+        "p_reb": 0.015817251752636423,
+        "p_ast": -0.0015796041968064146,
+        "p_stl": 0.00395822794377203,
+        "p_blk": -0.0032663169738923158,
+        "p_tov": -0.011991119647429969,
+        "p_pf": -0.02147997929563239,
+        "p_pm": 0.0005473673303389859,
+        "p_usage": -0.004592377422549774,
+        "p_eff": -0.004682732548507715,
+        "opp_adj_ortg_10": 0.0014973977173941932,
+        "opp_adj_drtg_10": 0.07429325162362403,
+        "opp_sos_10": 0.0010872777937152023,
+        "opp_is_b2b": -0.002210360923393182
+      },
+      "is_b2b_home": 0,
+      "is_b2b_away": 0,
+      "rest_home": 11,
+      "rest_away": 9
+    },
+    {
+      "matchId": "0022501058",
+      "matchTime": 1774488600,
+      "gameStatus": "9:30 pm ET",
+      "homeTeam": "MIN",
+      "awayTeam": "HOU",
+      "homeName": "Minnesota Timberwolves",
+      "awayName": "Houston Rockets",
+      "prediction": {
+        "main": {
+          "ptsA": 114.22348525690956,
+          "ptsB": 113.33542038372227,
+          "total": 227.55890564063182,
+          "spread": -0.8880648731872895,
+          "win_prob_A": 54.77245699651236,
+          "ml_prob_A": 0.6039847233421283,
+          "mc_win_A": 0.5152,
+          "market": {
+            "ml": {
+              "home": "1.93",
+              "away": "1.89"
+            },
+            "spread": {
+              "hdp": 1.5,
+              "home": "1.83",
+              "away": "2.00"
+            },
+            "total": {
+              "hdp": 222.5,
+              "over": "1.87",
+              "under": "1.95"
+            },
+            "props": []
+          }
+        },
+        "advanced": {
+          "blowout_risk": 0.11853559847642359,
+          "recommended_bet": 0.0,
+          "latent_strength_A": -1.9556884864469732,
+          "latent_strength_B": -3.0522040387036955,
+          "form_state_A": 2,
+          "form_state_B": 2,
+          "entropy_A": 3.3219280948873626
+        },
+        "halves": {
+          "h1_ptsA": 57.11174262845478,
+          "h1_ptsB": 56.66771019186113,
+          "h2_ptsA": 57.11174262845478,
+          "h2_ptsB": 56.66771019186113
+        },
+        "quarters": [
+          {
+            "q": 1,
+            "ptsA": 28.55587131422739,
+            "ptsB": 28.333855095930566
+          },
+          {
+            "q": 2,
+            "ptsA": 28.55587131422739,
+            "ptsB": 28.333855095930566
+          },
+          {
+            "q": 3,
+            "ptsA": 28.55587131422739,
+            "ptsB": 28.333855095930566
+          },
+          {
+            "q": 4,
+            "ptsA": 28.55587131422739,
+            "ptsB": 28.333855095930566
+          }
+        ],
+        "players": [
+          {
+            "player": "Anthony Edwards",
+            "team": "MIN",
+            "proj_pts": 28.934518650800204,
+            "proj_reb": 4.069136150553855,
+            "proj_ast": 4.069136150553855,
+            "status": "Out",
+            "injury": "Knee",
+            "market_line": null
+          },
+          {
+            "player": "Ayo Dosunmu",
+            "team": "MIN",
+            "proj_pts": 11.810007612571512,
+            "proj_reb": 2.977416695527211,
+            "proj_ast": 2.381933356421769,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Bones Hyland",
+            "team": "MIN",
+            "proj_pts": 9.44800609005721,
+            "proj_reb": 0.9924722318424037,
+            "proj_ast": 2.4811805796060096,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Donte DiVincenzo",
+            "team": "MIN",
+            "proj_pts": 9.349589359952448,
+            "proj_reb": 4.168383373738096,
+            "proj_ast": 2.977416695527211,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Enrique Freeman",
+            "team": "MIN",
+            "proj_pts": 0.0,
+            "proj_reb": 1.4887083477636056,
+            "proj_ast": 0.0,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jaden McDaniels",
+            "team": "MIN",
+            "proj_pts": 10.727423581419124,
+            "proj_reb": 3.374405588264173,
+            "proj_ast": 2.1834389100532885,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jaylen Clark",
+            "team": "MIN",
+            "proj_pts": 3.3461688235619285,
+            "proj_reb": 0.9924722318424037,
+            "proj_ast": 0.19849444636848076,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Joan Beringer",
+            "team": "MIN",
+            "proj_pts": 2.7556684429333527,
+            "proj_reb": 1.1909666782108845,
+            "proj_ast": 0.29774166955272113,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Joe Ingles",
+            "team": "MIN",
+            "proj_pts": 0.49208365052381303,
+            "proj_reb": 0.29774166955272113,
+            "proj_ast": 0.8932250086581633,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Johnny Juzang",
+            "team": "MIN",
+            "proj_pts": 2.8540851730381154,
+            "proj_reb": 1.1909666782108845,
+            "proj_ast": 0.29774166955272113,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Julian Phillips",
+            "team": "MIN",
+            "proj_pts": 3.2477520934571658,
+            "proj_reb": 0.5954833391054423,
+            "proj_ast": 0.09924722318424038,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Julius Randle",
+            "team": "MIN",
+            "proj_pts": 16.82926084791441,
+            "proj_reb": 7.046552846081066,
+            "proj_ast": 3.672147257816894,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Kyle Anderson",
+            "team": "MIN",
+            "proj_pts": 4.822419775133368,
+            "proj_reb": 3.374405588264173,
+            "proj_ast": 1.885697240500567,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Leonard Miller",
+            "team": "MIN",
+            "proj_pts": 2.8540851730381154,
+            "proj_reb": 1.389461124579365,
+            "proj_ast": 0.09924722318424038,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Mike Conley",
+            "team": "MIN",
+            "proj_pts": 1.2794174913619139,
+            "proj_reb": 1.7864500173163267,
+            "proj_ast": 2.2826861332375286,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Naz Reid",
+            "team": "MIN",
+            "proj_pts": 10.825840311523887,
+            "proj_reb": 5.160855605580499,
+            "proj_ast": 1.4887083477636056,
+            "status": "Questionable",
+            "injury": "Ankle",
+            "market_line": null
+          },
+          {
+            "player": "Rob Dillingham",
+            "team": "MIN",
+            "proj_pts": 2.7556684429333527,
+            "proj_reb": 0.8932250086581633,
+            "proj_ast": 0.8932250086581633,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Rocco Zikarsky",
+            "team": "MIN",
+            "proj_pts": 1.476250951571439,
+            "proj_reb": 1.2405902898030048,
+            "proj_ast": 0.0,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Rudy Gobert",
+            "team": "MIN",
+            "proj_pts": 8.463838789009584,
+            "proj_reb": 11.11568899663492,
+            "proj_ast": 2.1834389100532885,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Terrence Shannon Jr.",
+            "team": "MIN",
+            "proj_pts": 2.6572517128285904,
+            "proj_reb": 0.09924722318424038,
+            "proj_ast": 0.5954833391054423,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Aaron Holiday",
+            "team": "HOU",
+            "proj_pts": 4.103578997100169,
+            "proj_reb": 1.0917194550266442,
+            "proj_ast": 0.8932250086581633,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Alperen Sengun",
+            "team": "HOU",
+            "proj_pts": 18.368401225115043,
+            "proj_reb": 7.93977785473923,
+            "proj_ast": 4.863113936027779,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Amen Thompson",
+            "team": "HOU",
+            "proj_pts": 19.443148105307944,
+            "proj_reb": 8.336766747476192,
+            "proj_ast": 5.160855605580499,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Clint Capela",
+            "team": "HOU",
+            "proj_pts": 5.27603013912879,
+            "proj_reb": 5.855586167870182,
+            "proj_ast": 1.2902139013951248,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Dorian Finney-Smith",
+            "team": "HOU",
+            "proj_pts": 3.615057687921578,
+            "proj_reb": 3.1759111418956922,
+            "proj_ast": 1.4887083477636056,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Isaiah Crawford",
+            "team": "HOU",
+            "proj_pts": 1.4655639275357748,
+            "proj_reb": 0.9924722318424037,
+            "proj_ast": 0.39698889273696153,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "JD Davison",
+            "team": "HOU",
+            "proj_pts": 2.9311278550715496,
+            "proj_reb": 1.7864500173163267,
+            "proj_ast": 1.389461124579365,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jabari Smith Jr.",
+            "team": "HOU",
+            "proj_pts": 16.512020250236393,
+            "proj_reb": 5.55784449831746,
+            "proj_ast": 1.6872027941320864,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jae'Sean Tate",
+            "team": "HOU",
+            "proj_pts": 2.638015069564395,
+            "proj_reb": 1.1909666782108845,
+            "proj_ast": 0.39698889273696153,
+            "status": "Out",
+            "injury": "Knee",
+            "market_line": null
+          },
+          {
+            "player": "Jeff Green",
+            "team": "HOU",
+            "proj_pts": 2.638015069564395,
+            "proj_reb": 1.0917194550266442,
+            "proj_ast": 0.19849444636848076,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Josh Okogie",
+            "team": "HOU",
+            "proj_pts": 2.9311278550715496,
+            "proj_reb": 1.6872027941320864,
+            "proj_ast": 0.8932250086581633,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Kevin Durant",
+            "team": "HOU",
+            "proj_pts": 25.207699553615328,
+            "proj_reb": 6.1533278374229035,
+            "proj_ast": 3.771394481001134,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Reed Sheppard",
+            "team": "HOU",
+            "proj_pts": 15.828090417386367,
+            "proj_reb": 3.672147257816894,
+            "proj_ast": 4.366877820106577,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Steven Adams",
+            "team": "HOU",
+            "proj_pts": 5.764551448307381,
+            "proj_reb": 8.634508417028911,
+            "proj_ast": 1.5879555709478461,
+            "status": "Out For Season",
+            "injury": "Ankle",
+            "market_line": null
+          },
+          {
+            "player": "Tari Eason",
+            "team": "HOU",
+            "proj_pts": 6.057664233814536,
+            "proj_reb": 6.848058399712587,
+            "proj_ast": 1.9849444636848075,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          }
+        ],
+        "factors": {
+          "teamA": {
+            "efg": 0.5609039891841255,
+            "tov": 0.14738721590019405,
+            "orb": 0.23528362287469246,
+            "ftr": 0.3184854143816248,
+            "sos": 2.600767743972654,
+            "rest": 9,
+            "is_b2b": 0,
+            "ml_influence": {
+              "roll_efg_pct_10": 0.0028481260306830337,
+              "roll_tov_pct_10": -0.006095923363254627,
+              "roll_orb_pct_10": -0.006332723152349047,
+              "roll_ft_rate_10": 0.0137563037028103,
+              "p_tov": -0.017813877203944485
+            }
+          },
+          "teamB": {
+            "efg": 0.5268050399579487,
+            "tov": 0.14645450365704638,
+            "orb": 0.3440089618422577,
+            "ftr": 0.24797969229436614,
+            "sos": 1.6334978935257922,
+            "rest": 10,
+            "is_b2b": 0
+          }
+        },
+        "margins": {
+          "1-5": 0.17106869169794783,
+          "6-10": 0.07208187097112854,
+          "11+": 0.1071322622763404
+        },
+        "formA": [
+          {
+            "date": "2026-02-26",
+            "opponent": "LAC",
+            "result": "W",
+            "score": "94-88",
             "quarters": [
               23,
               23,
@@ -35089,10 +36026,220 @@ const analyticsData = {
             ]
           },
           {
+            "date": "2026-03-01",
+            "opponent": "DEN",
+            "result": "W",
+            "score": "117-108",
+            "quarters": [
+              29,
+              29,
+              29,
+              29
+            ],
+            "halves": [
+              58,
+              58
+            ]
+          },
+          {
+            "date": "2026-03-03",
+            "opponent": "MEM",
+            "result": "W",
+            "score": "117-110",
+            "quarters": [
+              29,
+              29,
+              29,
+              29
+            ],
+            "halves": [
+              58,
+              58
+            ]
+          },
+          {
             "date": "2026-03-05",
-            "opponent": "MIN",
+            "opponent": "TOR",
+            "result": "W",
+            "score": "115-107",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-07",
+            "opponent": "ORL",
             "result": "L",
-            "score": "107-115",
+            "score": "92-119",
+            "quarters": [
+              23,
+              23,
+              23,
+              23
+            ],
+            "halves": [
+              46,
+              46
+            ]
+          },
+          {
+            "date": "2026-03-10",
+            "opponent": "LAL",
+            "result": "L",
+            "score": "106-120",
+            "quarters": [
+              26,
+              26,
+              26,
+              26
+            ],
+            "halves": [
+              52,
+              52
+            ]
+          },
+          {
+            "date": "2026-03-11",
+            "opponent": "LAC",
+            "result": "L",
+            "score": "128-153",
+            "quarters": [
+              32,
+              32,
+              32,
+              32
+            ],
+            "halves": [
+              64,
+              64
+            ]
+          },
+          {
+            "date": "2026-03-13",
+            "opponent": "GSW",
+            "result": "W",
+            "score": "127-117",
+            "quarters": [
+              31,
+              31,
+              31,
+              31
+            ],
+            "halves": [
+              62,
+              62
+            ]
+          },
+          {
+            "date": "2026-03-15",
+            "opponent": "OKC",
+            "result": "L",
+            "score": "103-116",
+            "quarters": [
+              25,
+              25,
+              25,
+              25
+            ],
+            "halves": [
+              50,
+              50
+            ]
+          },
+          {
+            "date": "2026-03-17",
+            "opponent": "PHX",
+            "result": "W",
+            "score": "116-104",
+            "quarters": [
+              29,
+              29,
+              29,
+              29
+            ],
+            "halves": [
+              58,
+              58
+            ]
+          }
+        ],
+        "formB": [
+          {
+            "date": "2026-02-26",
+            "opponent": "ORL",
+            "result": "W",
+            "score": "113-108",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-02-28",
+            "opponent": "MIA",
+            "result": "L",
+            "score": "105-115",
+            "quarters": [
+              26,
+              26,
+              26,
+              26
+            ],
+            "halves": [
+              52,
+              52
+            ]
+          },
+          {
+            "date": "2026-03-02",
+            "opponent": "WAS",
+            "result": "W",
+            "score": "123-118",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          },
+          {
+            "date": "2026-03-05",
+            "opponent": "GSW",
+            "result": "L",
+            "score": "113-115",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-06",
+            "opponent": "POR",
+            "result": "W",
+            "score": "106-99",
             "quarters": [
               26,
               26,
@@ -35106,9 +36253,9 @@ const analyticsData = {
           },
           {
             "date": "2026-03-08",
-            "opponent": "DAL",
-            "result": "W",
-            "score": "122-92",
+            "opponent": "SAS",
+            "result": "L",
+            "score": "120-145",
             "quarters": [
               30,
               30,
@@ -35122,98 +36269,148 @@ const analyticsData = {
           },
           {
             "date": "2026-03-10",
-            "opponent": "HOU",
-            "result": "L",
-            "score": "99-113",
+            "opponent": "TOR",
+            "result": "W",
+            "score": "113-99",
             "quarters": [
-              24,
-              24,
-              24,
-              24
+              28,
+              28,
+              28,
+              28
             ],
             "halves": [
-              48,
-              48
+              56,
+              56
             ]
           },
           {
             "date": "2026-03-11",
-            "opponent": "NOP",
+            "opponent": "DEN",
             "result": "L",
-            "score": "111-122",
+            "score": "93-129",
             "quarters": [
-              27,
-              27,
-              27,
-              27
+              23,
+              23,
+              23,
+              23
             ],
             "halves": [
-              54,
-              54
+              46,
+              46
             ]
           },
           {
             "date": "2026-03-13",
-            "opponent": "PHX",
+            "opponent": "NOP",
             "result": "W",
-            "score": "122-115",
+            "score": "107-105",
             "quarters": [
-              30,
-              30,
-              30,
-              30
+              26,
+              26,
+              26,
+              26
             ],
             "halves": [
-              60,
-              60
+              52,
+              52
             ]
           },
           {
-            "date": "2026-03-15",
-            "opponent": "DET",
-            "result": "W",
-            "score": "119-108",
+            "date": "2026-03-16",
+            "opponent": "LAL",
+            "result": "L",
+            "score": "92-100",
             "quarters": [
-              29,
-              29,
-              29,
-              29
+              23,
+              23,
+              23,
+              23
             ],
             "halves": [
-              58,
-              58
+              46,
+              46
             ]
           }
         ],
-        "shap_explanation": {},
-        "match_id": "0022501043",
+        "shap_explanation": {
+          "adj_ortg_10": -0.0183712499294127,
+          "adj_drtg_10": 0.005903452404914731,
+          "adj_pace_10": 0.004951225951062668,
+          "net_rating": -0.0006556435333078525,
+          "roll_efg_pct_10": 0.0028481260306830337,
+          "roll_tov_pct_10": -0.006095923363254627,
+          "roll_orb_pct_10": -0.006332723152349047,
+          "roll_ft_rate_10": 0.0137563037028103,
+          "sos_10": 0.007526201028141983,
+          "is_b2b": 0.0003256763147237507,
+          "p_pts": 0.00428002344010423,
+          "p_reb": 0.0053517557493984215,
+          "p_ast": 0.0023143391612011044,
+          "p_stl": -0.0026359916280554786,
+          "p_blk": 0.0021488853826207334,
+          "p_tov": -0.017813877203944485,
+          "p_pf": -0.013361891065145386,
+          "p_pm": -0.004356562297487443,
+          "p_usage": 0.002579596591826032,
+          "p_eff": 0.006045495134919037,
+          "opp_adj_ortg_10": 0.04565461815353047,
+          "opp_adj_drtg_10": 0.05373306730955235,
+          "opp_sos_10": -0.005944010549694525,
+          "opp_is_b2b": -0.0017665450155544705
+        },
+        "match_id": "0022501058",
         "time": "TBD"
       },
-      "ml_prob_A": 0.491304085009463,
-      "mc_win_A": 0.429,
-      "shap_explanation": {},
+      "ml_prob_A": 0.6039847233421283,
+      "mc_win_A": 0.5152,
+      "shap_explanation": {
+        "adj_ortg_10": -0.0183712499294127,
+        "adj_drtg_10": 0.005903452404914731,
+        "adj_pace_10": 0.004951225951062668,
+        "net_rating": -0.0006556435333078525,
+        "roll_efg_pct_10": 0.0028481260306830337,
+        "roll_tov_pct_10": -0.006095923363254627,
+        "roll_orb_pct_10": -0.006332723152349047,
+        "roll_ft_rate_10": 0.0137563037028103,
+        "sos_10": 0.007526201028141983,
+        "is_b2b": 0.0003256763147237507,
+        "p_pts": 0.00428002344010423,
+        "p_reb": 0.0053517557493984215,
+        "p_ast": 0.0023143391612011044,
+        "p_stl": -0.0026359916280554786,
+        "p_blk": 0.0021488853826207334,
+        "p_tov": -0.017813877203944485,
+        "p_pf": -0.013361891065145386,
+        "p_pm": -0.004356562297487443,
+        "p_usage": 0.002579596591826032,
+        "p_eff": 0.006045495134919037,
+        "opp_adj_ortg_10": 0.04565461815353047,
+        "opp_adj_drtg_10": 0.05373306730955235,
+        "opp_sos_10": -0.005944010549694525,
+        "opp_is_b2b": -0.0017665450155544705
+      },
       "is_b2b_home": 0,
       "is_b2b_away": 0,
       "rest_home": 9,
-      "rest_away": 9
+      "rest_away": 10
     },
     {
-      "matchId": "0022501044",
-      "matchTime": 1774315800,
-      "gameStatus": "9:30 pm ET",
-      "homeTeam": "DAL",
-      "awayTeam": "GSW",
-      "homeName": "Dallas Mavericks",
-      "awayName": "Golden State Warriors",
+      "matchId": "0022501059",
+      "matchTime": 1774490400,
+      "gameStatus": "10:00 pm ET",
+      "homeTeam": "DEN",
+      "awayTeam": "DAL",
+      "homeName": "Denver Nuggets",
+      "awayName": "Dallas Mavericks",
       "prediction": {
         "main": {
-          "ptsA": 113.84734550880373,
-          "ptsB": 117.95906199981287,
-          "total": 231.8064075086166,
-          "spread": 4.1117164910091475,
-          "win_prob_A": 48.873133257372196,
-          "ml_prob_A": 0.5577522209562034,
-          "mc_win_A": 0.3852,
+          "ptsA": 121.83802374988423,
+          "ptsB": 114.92623413275425,
+          "total": 236.76425788263847,
+          "spread": -6.911789617129983,
+          "win_prob_A": 60.95248656250768,
+          "ml_prob_A": 0.573208109375128,
+          "mc_win_A": 0.664,
           "market": {
             "ml": {
               "home": null,
@@ -35233,48 +36430,238 @@ const analyticsData = {
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
-          "recommended_bet": 0.0,
-          "latent_strength_A": -10.618255735009239,
-          "latent_strength_B": -2.8732842108687136,
-          "form_state_A": 0,
+          "recommended_bet": 73.69230769230771,
+          "latent_strength_A": 5.837411202872655,
+          "latent_strength_B": -10.618255735009239,
+          "form_state_A": 2,
           "form_state_B": 2,
           "entropy_A": 3.3219280948873626
         },
         "halves": {
-          "h1_ptsA": 56.92367275440186,
-          "h1_ptsB": 58.97953099990644,
-          "h2_ptsA": 56.92367275440186,
-          "h2_ptsB": 58.97953099990644
+          "h1_ptsA": 60.919011874942115,
+          "h1_ptsB": 57.46311706637712,
+          "h2_ptsA": 60.919011874942115,
+          "h2_ptsB": 57.46311706637712
         },
         "quarters": [
           {
             "q": 1,
-            "ptsA": 28.46183637720093,
-            "ptsB": 29.48976549995322
+            "ptsA": 30.459505937471057,
+            "ptsB": 28.73155853318856
           },
           {
             "q": 2,
-            "ptsA": 28.46183637720093,
-            "ptsB": 29.48976549995322
+            "ptsA": 30.459505937471057,
+            "ptsB": 28.73155853318856
           },
           {
             "q": 3,
-            "ptsA": 28.46183637720093,
-            "ptsB": 29.48976549995322
+            "ptsA": 30.459505937471057,
+            "ptsB": 28.73155853318856
           },
           {
             "q": 4,
-            "ptsA": 28.46183637720093,
-            "ptsB": 29.48976549995322
+            "ptsA": 30.459505937471057,
+            "ptsB": 28.73155853318856
           }
         ],
         "players": [
           {
+            "player": "Aaron Gordon",
+            "team": "DEN",
+            "proj_pts": 14.234820135595292,
+            "proj_reb": 5.7492787907948735,
+            "proj_ast": 3.7667688629345726,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Bruce Brown",
+            "team": "DEN",
+            "proj_pts": 7.317900492242651,
+            "proj_reb": 2.9737648917904522,
+            "proj_ast": 1.6851334386812562,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Cameron Johnson",
+            "team": "DEN",
+            "proj_pts": 11.127218556697729,
+            "proj_reb": 3.8658943593275876,
+            "proj_ast": 2.3790119134323615,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Christian Braun",
+            "team": "DEN",
+            "proj_pts": 13.934084498927788,
+            "proj_reb": 5.650153294401859,
+            "proj_ast": 2.8746393953974367,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Curtis Jones",
+            "team": "DEN",
+            "proj_pts": 1.503678183337531,
+            "proj_reb": 0.8260458032751256,
+            "proj_ast": 0.49562748196507533,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "DaRon Holmes II",
+            "team": "DEN",
+            "proj_pts": 4.210298913345087,
+            "proj_reb": 1.3877569495022108,
+            "proj_ast": 0.2973764891790452,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "David Roddy",
+            "team": "DEN",
+            "proj_pts": 1.0024521222250207,
+            "proj_reb": 1.9825099278603013,
+            "proj_ast": 0.9912549639301507,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Hunter Tyson",
+            "team": "DEN",
+            "proj_pts": 3.40833721556507,
+            "proj_reb": 2.1807609206463314,
+            "proj_ast": 1.3877569495022108,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jalen Pickett",
+            "team": "DEN",
+            "proj_pts": 3.2078467911200663,
+            "proj_reb": 0.8921294675371356,
+            "proj_ast": 0.6938784747511054,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jamal Murray",
+            "team": "DEN",
+            "proj_pts": 25.66277432896053,
+            "proj_reb": 4.361521841292663,
+            "proj_ast": 5.451902301615829,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jonas Valan\u010di\u016bnas",
+            "team": "DEN",
+            "proj_pts": 5.5134866722376135,
+            "proj_reb": 3.5685178701485425,
+            "proj_ast": 0.7930039711441206,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Julian Strawther",
+            "team": "DEN",
+            "proj_pts": 7.017164855575144,
+            "proj_reb": 1.4868824458952261,
+            "proj_ast": 0.6938784747511054,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "KJ Simpson",
+            "team": "DEN",
+            "proj_pts": 5.5134866722376135,
+            "proj_reb": 1.9825099278603013,
+            "proj_ast": 2.4781374098253766,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Nikola Joki\u0107",
+            "team": "DEN",
+            "proj_pts": 25.76301954118303,
+            "proj_reb": 12.985440027484973,
+            "proj_ast": 11.102055596017687,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Peyton Watson",
+            "team": "DEN",
+            "proj_pts": 19.4475711711654,
+            "proj_reb": 4.361521841292663,
+            "proj_ast": 2.3790119134323615,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Spencer Jones",
+            "team": "DEN",
+            "proj_pts": 5.713977096682618,
+            "proj_reb": 4.064145352113617,
+            "proj_ast": 0.6938784747511054,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Tim Hardaway Jr.",
+            "team": "DEN",
+            "proj_pts": 13.232368013370271,
+            "proj_reb": 2.5772629062183916,
+            "proj_ast": 1.4868824458952261,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Tyus Jones",
+            "team": "DEN",
+            "proj_pts": 3.2078467911200663,
+            "proj_reb": 0.9912549639301507,
+            "proj_ast": 2.1807609206463314,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Zeke Nnaji",
+            "team": "DEN",
+            "proj_pts": 1.503678183337531,
+            "proj_reb": 1.8833844314672863,
+            "proj_ast": 0.2973764891790452,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
             "player": "AJ Johnson",
             "team": "DAL",
-            "proj_pts": 3.7138588131747077,
-            "proj_reb": 1.3886360219630227,
-            "proj_ast": 1.0910711601138037,
+            "proj_pts": 3.6575462446549576,
+            "proj_reb": 1.3877569495022108,
+            "proj_ast": 1.0903804603231657,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -35282,9 +36669,9 @@ const analyticsData = {
           {
             "player": "Anthony Davis",
             "team": "DAL",
-            "proj_pts": 21.179032691347658,
-            "proj_reb": 11.803406186685693,
-            "proj_ast": 2.3805188947937532,
+            "proj_pts": 20.85789885465395,
+            "proj_reb": 11.795934070768793,
+            "proj_ast": 2.3790119134323615,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -35292,9 +36679,9 @@ const analyticsData = {
           {
             "player": "Brandon Williams",
             "team": "DAL",
-            "proj_pts": 12.446445752261182,
-            "proj_reb": 3.669966629473703,
-            "proj_ast": 3.1740251930583376,
+            "proj_pts": 12.257722549654453,
+            "proj_reb": 3.6676433665415575,
+            "proj_ast": 3.1720158845764823,
             "status": "Questionable",
             "injury": "Concussion",
             "market_line": null
@@ -35302,9 +36689,9 @@ const analyticsData = {
           {
             "player": "Caleb Martin",
             "team": "DAL",
-            "proj_pts": 5.821724626057649,
-            "proj_reb": 2.3805188947937532,
-            "proj_ast": 0.6943180109815114,
+            "proj_pts": 5.733450869999663,
+            "proj_reb": 2.3790119134323615,
+            "proj_ast": 0.6938784747511054,
             "status": "Questionable",
             "injury": "Foot",
             "market_line": null
@@ -35312,9 +36699,9 @@ const analyticsData = {
           {
             "player": "Cooper Flagg",
             "team": "DAL",
-            "proj_pts": 19.271916003501183,
-            "proj_reb": 6.447238673399748,
-            "proj_ast": 5.852108949701311,
+            "proj_pts": 18.979699431723024,
+            "proj_reb": 6.443157265545979,
+            "proj_ast": 5.848404287187889,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -35322,9 +36709,9 @@ const analyticsData = {
           {
             "player": "D'Angelo Russell",
             "team": "DAL",
-            "proj_pts": 6.223222876130591,
-            "proj_reb": 1.3886360219630227,
-            "proj_ast": 2.3805188947937532,
+            "proj_pts": 6.128861274827226,
+            "proj_reb": 1.3877569495022108,
+            "proj_ast": 2.3790119134323615,
             "status": "Out",
             "injury": "Not Injury Related",
             "market_line": null
@@ -35332,9 +36719,9 @@ const analyticsData = {
           {
             "player": "Daniel Gafford",
             "team": "DAL",
-            "proj_pts": 12.647194877297652,
-            "proj_reb": 8.034251269928916,
-            "proj_ast": 1.3886360219630227,
+            "proj_pts": 12.455427752068234,
+            "proj_reb": 8.02916520783422,
+            "proj_ast": 1.3877569495022108,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -35342,9 +36729,9 @@ const analyticsData = {
           {
             "player": "Dereck Lively II",
             "team": "DAL",
-            "proj_pts": 4.3017669650672286,
-            "proj_reb": 5.242809470676718,
-            "proj_ast": 1.8420681923999283,
+            "proj_pts": 4.236540051723889,
+            "proj_reb": 5.2394905236307965,
+            "proj_ast": 1.8409020758702799,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -35352,9 +36739,9 @@ const analyticsData = {
           {
             "player": "Dwight Powell",
             "team": "DAL",
-            "proj_pts": 5.018728125911767,
-            "proj_reb": 4.959414364153653,
-            "proj_ast": 1.0910711601138037,
+            "proj_pts": 4.942630060344538,
+            "proj_reb": 4.956274819650753,
+            "proj_ast": 1.0903804603231657,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -35362,9 +36749,9 @@ const analyticsData = {
           {
             "player": "Jaden Hardy",
             "team": "DAL",
-            "proj_pts": 9.334834314195886,
-            "proj_reb": 1.4878243092460957,
-            "proj_ast": 1.3886360219630227,
+            "proj_pts": 9.19329191224084,
+            "proj_reb": 1.4868824458952261,
+            "proj_ast": 1.3877569495022108,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -35372,9 +36759,9 @@ const analyticsData = {
           {
             "player": "Jeremiah Robinson-Earl",
             "team": "DAL",
-            "proj_pts": 3.7138588131747077,
-            "proj_reb": 3.7691549167567757,
-            "proj_ast": 0.6943180109815114,
+            "proj_pts": 3.6575462446549576,
+            "proj_reb": 3.7667688629345726,
+            "proj_ast": 0.6938784747511054,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -35382,9 +36769,9 @@ const analyticsData = {
           {
             "player": "John Poulakidas",
             "team": "DAL",
-            "proj_pts": 4.349564375790197,
-            "proj_reb": 3.3062762427691017,
-            "proj_ast": 0.6612552485538203,
+            "proj_pts": 4.283612718965266,
+            "proj_reb": 3.3041832131005022,
+            "proj_ast": 0.6608366426201004,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -35392,9 +36779,9 @@ const analyticsData = {
           {
             "player": "Khris Middleton",
             "team": "DAL",
-            "proj_pts": 11.14157643952412,
-            "proj_reb": 3.2732134803414104,
-            "proj_ast": 2.3805188947937532,
+            "proj_pts": 10.972638733964873,
+            "proj_reb": 3.271141380969497,
+            "proj_ast": 2.3790119134323615,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -35402,9 +36789,9 @@ const analyticsData = {
           {
             "player": "Klay Thompson",
             "team": "DAL",
-            "proj_pts": 12.747569439815887,
-            "proj_reb": 1.4878243092460957,
-            "proj_ast": 1.2894477346799498,
+            "proj_pts": 12.554280353275123,
+            "proj_reb": 1.4868824458952261,
+            "proj_ast": 1.2886314531091958,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -35412,9 +36799,9 @@ const analyticsData = {
           {
             "player": "Marvin Bagley III",
             "team": "DAL",
-            "proj_pts": 9.736332564268826,
-            "proj_reb": 7.736686408079698,
-            "proj_ast": 1.0910711601138037,
+            "proj_pts": 9.588702317068401,
+            "proj_reb": 7.731788718655175,
+            "proj_ast": 1.0903804603231657,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -35422,9 +36809,9 @@ const analyticsData = {
           {
             "player": "Max Christie",
             "team": "DAL",
-            "proj_pts": 9.736332564268826,
-            "proj_reb": 3.0748369057752645,
-            "proj_ast": 1.2894477346799498,
+            "proj_pts": 9.588702317068401,
+            "proj_reb": 3.0728903881834673,
+            "proj_ast": 1.2886314531091958,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -35432,9 +36819,9 @@ const analyticsData = {
           {
             "player": "Miles Kelly",
             "team": "DAL",
-            "proj_pts": 3.1116114380652955,
-            "proj_reb": 1.6862008838122418,
-            "proj_ast": 0.9918828728307305,
+            "proj_pts": 3.064430637413613,
+            "proj_reb": 1.6851334386812562,
+            "proj_ast": 0.9912549639301507,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -35442,9 +36829,9 @@ const analyticsData = {
           {
             "player": "Moussa Cisse",
             "team": "DAL",
-            "proj_pts": 4.215731625765884,
-            "proj_reb": 5.752920662418237,
-            "proj_ast": 0.29756486184921915,
+            "proj_pts": 4.1518092506894115,
+            "proj_reb": 5.7492787907948735,
+            "proj_ast": 0.2973764891790452,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -35452,9 +36839,9 @@ const analyticsData = {
           {
             "player": "Naji Marshall",
             "team": "DAL",
-            "proj_pts": 16.059930002917653,
-            "proj_reb": 4.463472927738287,
-            "proj_ast": 4.066719778605995,
+            "proj_pts": 15.81641619310252,
+            "proj_reb": 4.460647337685678,
+            "proj_ast": 4.064145352113617,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -35462,9 +36849,9 @@ const analyticsData = {
           {
             "player": "P.J. Washington",
             "team": "DAL",
-            "proj_pts": 13.851689627516476,
-            "proj_reb": 6.546426960682821,
-            "proj_ast": 1.8845774583783879,
+            "proj_pts": 13.641658966550924,
+            "proj_reb": 6.542282761938994,
+            "proj_ast": 1.8833844314672863,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -35472,9 +36859,9 @@ const analyticsData = {
           {
             "player": "Ryan Nembhard",
             "team": "DAL",
-            "proj_pts": 4.717604438357061,
-            "proj_reb": 2.28133060751068,
-            "proj_ast": 3.967531491322922,
+            "proj_pts": 4.6460722567238655,
+            "proj_reb": 2.2798864170393465,
+            "proj_ast": 3.9650198557206027,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -35482,8 +36869,8 @@ const analyticsData = {
           {
             "player": "Tyler Smith",
             "team": "DAL",
-            "proj_pts": 1.50561843777353,
-            "proj_reb": 0.9918828728307305,
+            "proj_pts": 1.4827890181033612,
+            "proj_reb": 0.9912549639301507,
             "proj_ast": 0.0,
             "status": "Active",
             "injury": "",
@@ -35492,219 +36879,9 @@ const analyticsData = {
           {
             "player": "Tyus Jones",
             "team": "DAL",
-            "proj_pts": 3.1116114380652955,
-            "proj_reb": 0.9918828728307305,
-            "proj_ast": 3.1740251930583376,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Al Horford",
-            "team": "GSW",
-            "proj_pts": 10.532414801453394,
-            "proj_reb": 5.157790938719799,
-            "proj_ast": 3.3724017676244835,
-            "status": "Out",
-            "injury": "Calf",
-            "market_line": null
-          },
-          {
-            "player": "Brandin Podziemski",
-            "team": "GSW",
-            "proj_pts": 17.654333381483784,
-            "proj_reb": 6.546426960682821,
-            "proj_ast": 4.364284640455215,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Buddy Hield",
-            "team": "GSW",
-            "proj_pts": 10.532414801453394,
-            "proj_reb": 2.3805188947937532,
-            "proj_ast": 1.785389171095315,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "De'Anthony Melton",
-            "team": "GSW",
-            "proj_pts": 18.456803080642135,
-            "proj_reb": 3.868343204039849,
-            "proj_ast": 2.9756486184921913,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Draymond Green",
-            "team": "GSW",
-            "proj_pts": 8.827166690741892,
-            "proj_reb": 5.455355800569018,
-            "proj_ast": 6.348050386116675,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Gary Payton II",
-            "team": "GSW",
-            "proj_pts": 12.83951518653366,
-            "proj_reb": 5.0586026514367255,
-            "proj_ast": 1.983765745661461,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Gui Santos",
-            "team": "GSW",
-            "proj_pts": 15.949085270772281,
-            "proj_reb": 6.050485524267455,
-            "proj_ast": 4.364284640455215,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jimmy Butler III",
-            "team": "GSW",
-            "proj_pts": 21.064829602906787,
-            "proj_reb": 5.356167513285945,
-            "proj_ast": 4.7610377895875065,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jonathan Kuminga",
-            "team": "GSW",
-            "proj_pts": 8.125005703978331,
-            "proj_reb": 4.56266121502136,
-            "proj_ast": 1.8845774583783879,
-            "status": "Out",
-            "injury": "Knee",
-            "market_line": null
-          },
-          {
-            "player": "Kristaps Porzi\u0146\u0123is",
-            "team": "GSW",
-            "proj_pts": 15.547850421193104,
-            "proj_reb": 3.4715900549075567,
-            "proj_ast": 2.082954032944534,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "LJ Cryer",
-            "team": "GSW",
-            "proj_pts": 7.021609867635595,
-            "proj_reb": 1.6531381213845509,
-            "proj_ast": 0.551046040461517,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Malevy Leons",
-            "team": "GSW",
-            "proj_pts": 3.4104962214230032,
-            "proj_reb": 2.3805188947937532,
-            "proj_ast": 0.7935062982645844,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Moses Moody",
-            "team": "GSW",
-            "proj_pts": 15.748467845982692,
-            "proj_reb": 3.967531491322922,
-            "proj_ast": 2.4797071820768264,
-            "status": "Out",
-            "injury": "Wrist",
-            "market_line": null
-          },
-          {
-            "player": "Nate Williams",
-            "team": "GSW",
-            "proj_pts": 5.893136853194161,
-            "proj_reb": 1.611809668349937,
-            "proj_ast": 0.7439121546230478,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Omer Yurtseven",
-            "team": "GSW",
-            "proj_pts": 1.0030871239479422,
-            "proj_reb": 1.983765745661461,
-            "proj_ast": 0.49594143641536526,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Pat Spencer",
-            "team": "GSW",
-            "proj_pts": 8.526240553557509,
-            "proj_reb": 2.3805188947937532,
-            "proj_ast": 4.066719778605995,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Quinten Post",
-            "team": "GSW",
-            "proj_pts": 8.927475403136686,
-            "proj_reb": 5.256979226002872,
-            "proj_ast": 1.6862008838122418,
-            "status": "Questionable",
-            "injury": "Foot",
-            "market_line": null
-          },
-          {
-            "player": "Seth Curry",
-            "team": "GSW",
-            "proj_pts": 6.7708380866486095,
-            "proj_reb": 1.4878243092460957,
-            "proj_ast": 1.7357950274537783,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Stephen Curry",
-            "team": "GSW",
-            "proj_pts": 22.870386426013084,
-            "proj_reb": 2.6780837566429727,
-            "proj_ast": 5.356167513285945,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Trayce Jackson-Davis",
-            "team": "GSW",
-            "proj_pts": 2.60802652226465,
-            "proj_reb": 0.9918828728307305,
-            "proj_ast": 0.49594143641536526,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Will Richard",
-            "team": "GSW",
-            "proj_pts": 6.921301155240801,
-            "proj_reb": 3.2732134803414104,
-            "proj_ast": 1.4878243092460957,
+            "proj_pts": 3.064430637413613,
+            "proj_reb": 0.9912549639301507,
+            "proj_ast": 3.1720158845764823,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -35712,31 +36889,199 @@ const analyticsData = {
         ],
         "factors": {
           "teamA": {
+            "efg": 0.568796185515523,
+            "tov": 0.12154140010866335,
+            "orb": 0.21350215174165066,
+            "ftr": 0.3351645557303077,
+            "sos": 3.453082192613934,
+            "rest": 9,
+            "is_b2b": 0,
+            "ml_influence": {
+              "roll_efg_pct_10": 0.001119325851574473,
+              "roll_tov_pct_10": 0.00696371242434239,
+              "roll_orb_pct_10": -0.014294790112656698,
+              "roll_ft_rate_10": 0.008220477844747477,
+              "p_tov": -0.013958057753499559
+            }
+          },
+          "teamB": {
             "efg": 0.497388539687562,
             "tov": 0.13356192073100265,
             "orb": 0.2487507709873089,
             "ftr": 0.2672389993155808,
             "sos": 5.670759128668195,
-            "rest": 8,
-            "is_b2b": 0,
-            "ml_influence": {}
-          },
-          "teamB": {
-            "efg": 0.5309610017743458,
-            "tov": 0.12095294231821625,
-            "orb": 0.2981287556929685,
-            "ftr": 0.19842393388600962,
-            "sos": -1.1071306320688743,
-            "rest": 8,
+            "rest": 10,
             "is_b2b": 0
           }
         },
         "margins": {
-          "1-5": 0.11822497876250734,
-          "6-10": 0.04981553070956055,
-          "11+": 0.07403873442116031
+          "1-5": 0.231868542362325,
+          "6-10": 0.09770062649649212,
+          "11+": 0.14520834436410984
         },
         "formA": [
+          {
+            "date": "2026-02-27",
+            "opponent": "OKC",
+            "result": "L",
+            "score": "121-127",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          },
+          {
+            "date": "2026-03-01",
+            "opponent": "MIN",
+            "result": "L",
+            "score": "108-117",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-02",
+            "opponent": "UTA",
+            "result": "W",
+            "score": "128-125",
+            "quarters": [
+              32,
+              32,
+              32,
+              32
+            ],
+            "halves": [
+              64,
+              64
+            ]
+          },
+          {
+            "date": "2026-03-05",
+            "opponent": "LAL",
+            "result": "W",
+            "score": "120-113",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          },
+          {
+            "date": "2026-03-06",
+            "opponent": "NYK",
+            "result": "L",
+            "score": "103-142",
+            "quarters": [
+              25,
+              25,
+              25,
+              25
+            ],
+            "halves": [
+              50,
+              50
+            ]
+          },
+          {
+            "date": "2026-03-09",
+            "opponent": "OKC",
+            "result": "L",
+            "score": "126-129",
+            "quarters": [
+              31,
+              31,
+              31,
+              31
+            ],
+            "halves": [
+              62,
+              62
+            ]
+          },
+          {
+            "date": "2026-03-11",
+            "opponent": "HOU",
+            "result": "W",
+            "score": "129-93",
+            "quarters": [
+              32,
+              32,
+              32,
+              32
+            ],
+            "halves": [
+              64,
+              64
+            ]
+          },
+          {
+            "date": "2026-03-12",
+            "opponent": "SAS",
+            "result": "W",
+            "score": "136-131",
+            "quarters": [
+              34,
+              34,
+              34,
+              34
+            ],
+            "halves": [
+              68,
+              68
+            ]
+          },
+          {
+            "date": "2026-03-14",
+            "opponent": "LAL",
+            "result": "L",
+            "score": "125-127",
+            "quarters": [
+              31,
+              31,
+              31,
+              31
+            ],
+            "halves": [
+              62,
+              62
+            ]
+          },
+          {
+            "date": "2026-03-17",
+            "opponent": "PHI",
+            "result": "W",
+            "score": "124-96",
+            "quarters": [
+              31,
+              31,
+              31,
+              31
+            ],
+            "halves": [
+              62,
+              62
+            ]
+          }
+        ],
+        "formB": [
           {
             "date": "2026-03-01",
             "opponent": "OKC",
@@ -35898,7 +37243,594 @@ const analyticsData = {
             ]
           }
         ],
-        "formB": [
+        "shap_explanation": {
+          "adj_ortg_10": 0.02844009026199444,
+          "adj_drtg_10": -0.037680143232999654,
+          "adj_pace_10": -0.012723655072158663,
+          "net_rating": 0.009685584152126978,
+          "roll_efg_pct_10": 0.001119325851574473,
+          "roll_tov_pct_10": 0.00696371242434239,
+          "roll_orb_pct_10": -0.014294790112656698,
+          "roll_ft_rate_10": 0.008220477844747477,
+          "sos_10": -0.0018830141454590432,
+          "is_b2b": 0.000682516961153965,
+          "p_pts": 0.0012852300896707193,
+          "p_reb": 0.009057209599976659,
+          "p_ast": -0.007130391549894171,
+          "p_stl": 0.0007783798267206521,
+          "p_blk": 0.005001072493632037,
+          "p_tov": -0.013958057753499559,
+          "p_pf": -0.011612397190076536,
+          "p_pm": -0.0021529953928144606,
+          "p_usage": 0.01683240881129862,
+          "p_eff": -0.00036256699285544866,
+          "opp_adj_ortg_10": 0.028090179964268883,
+          "opp_adj_drtg_10": 0.03808019074463196,
+          "opp_sos_10": -0.00231219576003177,
+          "opp_is_b2b": -0.0008184389938628556
+        },
+        "match_id": "0022501059",
+        "time": "TBD"
+      },
+      "ml_prob_A": 0.573208109375128,
+      "mc_win_A": 0.664,
+      "shap_explanation": {
+        "adj_ortg_10": 0.02844009026199444,
+        "adj_drtg_10": -0.037680143232999654,
+        "adj_pace_10": -0.012723655072158663,
+        "net_rating": 0.009685584152126978,
+        "roll_efg_pct_10": 0.001119325851574473,
+        "roll_tov_pct_10": 0.00696371242434239,
+        "roll_orb_pct_10": -0.014294790112656698,
+        "roll_ft_rate_10": 0.008220477844747477,
+        "sos_10": -0.0018830141454590432,
+        "is_b2b": 0.000682516961153965,
+        "p_pts": 0.0012852300896707193,
+        "p_reb": 0.009057209599976659,
+        "p_ast": -0.007130391549894171,
+        "p_stl": 0.0007783798267206521,
+        "p_blk": 0.005001072493632037,
+        "p_tov": -0.013958057753499559,
+        "p_pf": -0.011612397190076536,
+        "p_pm": -0.0021529953928144606,
+        "p_usage": 0.01683240881129862,
+        "p_eff": -0.00036256699285544866,
+        "opp_adj_ortg_10": 0.028090179964268883,
+        "opp_adj_drtg_10": 0.03808019074463196,
+        "opp_sos_10": -0.00231219576003177,
+        "opp_is_b2b": -0.0008184389938628556
+      },
+      "is_b2b_home": 0,
+      "is_b2b_away": 0,
+      "rest_home": 9,
+      "rest_away": 10
+    },
+    {
+      "matchId": "0022501060",
+      "matchTime": 1774490400,
+      "gameStatus": "10:00 pm ET",
+      "homeTeam": "GSW",
+      "awayTeam": "BKN",
+      "homeName": "Golden State Warriors",
+      "awayName": "Brooklyn Nets",
+      "prediction": {
+        "main": {
+          "ptsA": 117.67049906563405,
+          "ptsB": 113.0015670427593,
+          "total": 230.67206610839335,
+          "spread": -4.668932022874742,
+          "win_prob_A": 54.72128580584843,
+          "ml_prob_A": 0.5073547634308071,
+          "mc_win_A": 0.607,
+          "market": {
+            "ml": {
+              "home": null,
+              "away": null
+            },
+            "spread": {
+              "hdp": null,
+              "home": null,
+              "away": null
+            },
+            "total": {
+              "hdp": null,
+              "over": null,
+              "under": null
+            }
+          }
+        },
+        "advanced": {
+          "blowout_risk": 0.11853559847642359,
+          "recommended_bet": 43.78296703296701,
+          "latent_strength_A": -2.8732842108687136,
+          "latent_strength_B": -13.547446377571957,
+          "form_state_A": 1,
+          "form_state_B": 0,
+          "entropy_A": 3.3219280948873626
+        },
+        "halves": {
+          "h1_ptsA": 58.83524953281702,
+          "h1_ptsB": 56.50078352137965,
+          "h2_ptsA": 58.83524953281702,
+          "h2_ptsB": 56.50078352137965
+        },
+        "quarters": [
+          {
+            "q": 1,
+            "ptsA": 29.41762476640851,
+            "ptsB": 28.250391760689826
+          },
+          {
+            "q": 2,
+            "ptsA": 29.41762476640851,
+            "ptsB": 28.250391760689826
+          },
+          {
+            "q": 3,
+            "ptsA": 29.41762476640851,
+            "ptsB": 28.250391760689826
+          },
+          {
+            "q": 4,
+            "ptsA": 29.41762476640851,
+            "ptsB": 28.250391760689826
+          }
+        ],
+        "players": [
+          {
+            "player": "Al Horford",
+            "team": "GSW",
+            "proj_pts": 10.751387130456509,
+            "proj_reb": 5.195007120376766,
+            "proj_ast": 3.396735424861731,
+            "status": "Out",
+            "injury": "Calf",
+            "market_line": null
+          },
+          {
+            "player": "Brandin Podziemski",
+            "team": "GSW",
+            "proj_pts": 18.021372713908054,
+            "proj_reb": 6.593662883555125,
+            "proj_ast": 4.395775255703417,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Buddy Hield",
+            "team": "GSW",
+            "proj_pts": 10.751387130456509,
+            "proj_reb": 2.3976955940200457,
+            "proj_ast": 1.7982716955150342,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "De'Anthony Melton",
+            "team": "GSW",
+            "proj_pts": 18.84052601908569,
+            "proj_reb": 3.896255340282574,
+            "proj_ast": 2.997119492525057,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Draymond Green",
+            "team": "GSW",
+            "proj_pts": 9.010686356954027,
+            "proj_reb": 5.494719069629271,
+            "proj_ast": 6.393854917386789,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Gary Payton II",
+            "team": "GSW",
+            "proj_pts": 13.10645288284222,
+            "proj_reb": 5.095103137292597,
+            "proj_ast": 1.9980796616833714,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Gui Santos",
+            "team": "GSW",
+            "proj_pts": 16.280671940405572,
+            "proj_reb": 6.094142968134283,
+            "proj_ast": 4.395775255703417,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jimmy Butler III",
+            "team": "GSW",
+            "proj_pts": 21.502774260913018,
+            "proj_reb": 5.394815086545103,
+            "proj_ast": 4.7953911880400915,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jonathan Kuminga",
+            "team": "GSW",
+            "proj_pts": 8.293927214923592,
+            "proj_reb": 4.595583221871753,
+            "proj_ast": 1.8981756785992028,
+            "status": "Out",
+            "injury": "Knee",
+            "market_line": null
+          },
+          {
+            "player": "Kristaps Porzi\u0146\u0123is",
+            "team": "GSW",
+            "proj_pts": 15.87109528781675,
+            "proj_reb": 3.4966394079459,
+            "proj_ast": 2.09798364476754,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "LJ Cryer",
+            "team": "GSW",
+            "proj_pts": 7.167591420304339,
+            "proj_reb": 1.6650663847361429,
+            "proj_ast": 0.555022128245381,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Malevy Leons",
+            "team": "GSW",
+            "proj_pts": 3.4814015470049644,
+            "proj_reb": 2.3976955940200457,
+            "proj_ast": 0.7992318646733486,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Moses Moody",
+            "team": "GSW",
+            "proj_pts": 16.07588361411116,
+            "proj_reb": 3.9961593233667427,
+            "proj_ast": 2.4975995771042143,
+            "status": "Out",
+            "injury": "Wrist",
+            "market_line": null
+          },
+          {
+            "player": "Nate Williams",
+            "team": "GSW",
+            "proj_pts": 6.015657084898285,
+            "proj_reb": 1.6234397251177393,
+            "proj_ast": 0.7492798731312642,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Omer Yurtseven",
+            "team": "GSW",
+            "proj_pts": 1.0239416314720484,
+            "proj_reb": 1.9980796616833714,
+            "proj_ast": 0.49951991542084284,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Pat Spencer",
+            "team": "GSW",
+            "proj_pts": 8.703503867512412,
+            "proj_reb": 2.3976955940200457,
+            "proj_ast": 4.096063306450911,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Quinten Post",
+            "team": "GSW",
+            "proj_pts": 9.113080520101231,
+            "proj_reb": 5.294911103460934,
+            "proj_ast": 1.6983677124308656,
+            "status": "Questionable",
+            "injury": "Foot",
+            "market_line": null
+          },
+          {
+            "player": "Seth Curry",
+            "team": "GSW",
+            "proj_pts": 6.9116060124363266,
+            "proj_reb": 1.4985597462625284,
+            "proj_ast": 1.74831970397295,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Stephen Curry",
+            "team": "GSW",
+            "proj_pts": 23.345869197562706,
+            "proj_reb": 2.6974075432725515,
+            "proj_ast": 5.394815086545103,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Trayce Jackson-Davis",
+            "team": "GSW",
+            "proj_pts": 2.662248241827326,
+            "proj_reb": 0.9990398308416857,
+            "proj_ast": 0.49951991542084284,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Will Richard",
+            "team": "GSW",
+            "proj_pts": 7.065197257157134,
+            "proj_reb": 3.2968314417775626,
+            "proj_ast": 1.4985597462625284,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Ben Saraf",
+            "team": "BKN",
+            "proj_pts": 7.481312526135619,
+            "proj_reb": 1.1988477970100229,
+            "proj_ast": 3.7963513571984056,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Cam Thomas",
+            "team": "BKN",
+            "proj_pts": 10.109881792075159,
+            "proj_reb": 1.7982716955150342,
+            "proj_ast": 3.9961593233667427,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Chaney Johnson",
+            "team": "BKN",
+            "proj_pts": 7.076917254452612,
+            "proj_reb": 4.7953911880400915,
+            "proj_ast": 1.1988477970100229,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Danny Wolf",
+            "team": "BKN",
+            "proj_pts": 11.727462878807184,
+            "proj_reb": 6.194046951218452,
+            "proj_ast": 2.8972155094408882,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Day'Ron Sharpe",
+            "team": "BKN",
+            "proj_pts": 10.312079427916661,
+            "proj_reb": 6.393854917386789,
+            "proj_ast": 2.597503560188383,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Drake Powell",
+            "team": "BKN",
+            "proj_pts": 5.762632621482841,
+            "proj_reb": 1.4985597462625284,
+            "proj_ast": 1.0989438139258543,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "E.J. Liddell",
+            "team": "BKN",
+            "proj_pts": 3.032964537622548,
+            "proj_reb": 2.09798364476754,
+            "proj_ast": 0.7992318646733486,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Egor D\u00ebmin",
+            "team": "BKN",
+            "proj_pts": 9.503288884550651,
+            "proj_reb": 3.396735424861731,
+            "proj_ast": 3.1969274586933945,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Grant Nelson",
+            "team": "BKN",
+            "proj_pts": 4.296699761631943,
+            "proj_reb": 1.4985597462625284,
+            "proj_ast": 1.2487997885521072,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jalen Wilson",
+            "team": "BKN",
+            "proj_pts": 4.549446806433822,
+            "proj_reb": 1.5984637293466972,
+            "proj_ast": 0.49951991542084284,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Josh Minott",
+            "team": "BKN",
+            "proj_pts": 6.167027893165847,
+            "proj_reb": 1.6983677124308656,
+            "proj_ast": 0.3996159323366743,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Malachi Smith",
+            "team": "BKN",
+            "proj_pts": 3.538458627226306,
+            "proj_reb": 3.4966394079459,
+            "proj_ast": 2.4975995771042143,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Michael Porter Jr.",
+            "team": "BKN",
+            "proj_pts": 22.24173994256535,
+            "proj_reb": 6.793470849723462,
+            "proj_ast": 2.597503560188383,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Nic Claxton",
+            "team": "BKN",
+            "proj_pts": 9.402190066629899,
+            "proj_reb": 6.094142968134283,
+            "proj_ast": 3.396735424861731,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Noah Clowney",
+            "team": "BKN",
+            "proj_pts": 11.120869971282675,
+            "proj_reb": 3.7963513571984056,
+            "proj_ast": 1.5984637293466972,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Nolan Traore",
+            "team": "BKN",
+            "proj_pts": 9.301091248709145,
+            "proj_reb": 1.5984637293466972,
+            "proj_ast": 3.2968314417775626,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Ochai Agbaji",
+            "team": "BKN",
+            "proj_pts": 6.571423164848854,
+            "proj_reb": 1.8981756785992028,
+            "proj_ast": 0.6993278815891799,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Terance Mann",
+            "team": "BKN",
+            "proj_pts": 6.975818436531861,
+            "proj_reb": 2.597503560188383,
+            "proj_ast": 2.2977916109358767,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Tyrese Martin",
+            "team": "BKN",
+            "proj_pts": 5.762632621482841,
+            "proj_reb": 2.09798364476754,
+            "proj_ast": 0.49951991542084284,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Tyson Etienne",
+            "team": "BKN",
+            "proj_pts": 5.459336167720586,
+            "proj_reb": 0.8991358477575171,
+            "proj_ast": 0.9990398308416857,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Ziaire Williams",
+            "team": "BKN",
+            "proj_pts": 9.503288884550651,
+            "proj_reb": 1.5984637293466972,
+            "proj_ast": 1.5984637293466972,
+            "status": "Questionable",
+            "injury": "Foot",
+            "market_line": null
+          }
+        ],
+        "factors": {
+          "teamA": {
+            "efg": 0.5309610017743458,
+            "tov": 0.12095294231821625,
+            "orb": 0.2981287556929685,
+            "ftr": 0.19842393388600962,
+            "sos": -1.1071306320688743,
+            "rest": 10,
+            "is_b2b": 0,
+            "ml_influence": {
+              "roll_efg_pct_10": 0.0007004602834539853,
+              "roll_tov_pct_10": 0.010086780500572417,
+              "roll_orb_pct_10": 0.010274472190828164,
+              "roll_ft_rate_10": -0.0007453594455385826,
+              "p_tov": -0.0173317137213904
+            }
+          },
+          "teamB": {
+            "efg": 0.518543216502516,
+            "tov": 0.16343091093443315,
+            "orb": 0.24259716544606674,
+            "ftr": 0.2931798691011724,
+            "sos": 5.017274364988298,
+            "rest": 10,
+            "is_b2b": 0
+          }
+        },
+        "margins": {
+          "1-5": 0.21044983394627997,
+          "6-10": 0.08867559356329116,
+          "11+": 0.13179481635455575
+        },
+        "formA": [
           {
             "date": "2026-02-25",
             "opponent": "MEM",
@@ -36057,679 +37989,6 @@ const analyticsData = {
             "halves": [
               62,
               62
-            ]
-          }
-        ],
-        "shap_explanation": {},
-        "match_id": "0022501044",
-        "time": "TBD"
-      },
-      "ml_prob_A": 0.5577522209562034,
-      "mc_win_A": 0.3852,
-      "shap_explanation": {},
-      "is_b2b_home": 0,
-      "is_b2b_away": 0,
-      "rest_home": 8,
-      "rest_away": 8
-    },
-    {
-      "matchId": "0022501045",
-      "matchTime": 1774317600,
-      "gameStatus": "10:00 pm ET",
-      "homeTeam": "POR",
-      "awayTeam": "BKN",
-      "homeName": "Portland Trail Blazers",
-      "awayName": "Brooklyn Nets",
-      "prediction": {
-        "main": {
-          "ptsA": 116.54672649292789,
-          "ptsB": 110.02676860121535,
-          "total": 226.57349509414325,
-          "spread": -6.5199578917125365,
-          "win_prob_A": 60.567779235922195,
-          "ml_prob_A": 0.5769296539320365,
-          "mc_win_A": 0.6488,
-          "market": {
-            "ml": {
-              "home": null,
-              "away": null
-            },
-            "spread": {
-              "hdp": null,
-              "home": null,
-              "away": null
-            },
-            "total": {
-              "hdp": null,
-              "over": null,
-              "under": null
-            }
-          }
-        },
-        "advanced": {
-          "blowout_risk": 0.11853559847642359,
-          "recommended_bet": 65.71648351648352,
-          "latent_strength_A": 1.2594966904526308,
-          "latent_strength_B": -13.547446377571957,
-          "form_state_A": 1,
-          "form_state_B": 0,
-          "entropy_A": 3.3219280948873626
-        },
-        "halves": {
-          "h1_ptsA": 58.273363246463944,
-          "h1_ptsB": 55.013384300607676,
-          "h2_ptsA": 58.273363246463944,
-          "h2_ptsB": 55.013384300607676
-        },
-        "quarters": [
-          {
-            "q": 1,
-            "ptsA": 29.136681623231972,
-            "ptsB": 27.506692150303838
-          },
-          {
-            "q": 2,
-            "ptsA": 29.136681623231972,
-            "ptsB": 27.506692150303838
-          },
-          {
-            "q": 3,
-            "ptsA": 29.136681623231972,
-            "ptsB": 27.506692150303838
-          },
-          {
-            "q": 4,
-            "ptsA": 29.136681623231972,
-            "ptsB": 27.506692150303838
-          }
-        ],
-        "players": [
-          {
-            "player": "Blake Wesley",
-            "team": "POR",
-            "proj_pts": 4.757677628755995,
-            "proj_reb": 0.3950615357849997,
-            "proj_ast": 1.4814807591937487,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Caleb Love",
-            "team": "POR",
-            "proj_pts": 11.641126112913604,
-            "proj_reb": 1.9753076789249984,
-            "proj_ast": 3.0617269023337474,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Deni Avdija",
-            "team": "POR",
-            "proj_pts": 16.500030925260152,
-            "proj_reb": 5.432096117043746,
-            "proj_ast": 6.320984572559995,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Donovan Clingan",
-            "team": "POR",
-            "proj_pts": 12.552170765228581,
-            "proj_reb": 12.24690760933499,
-            "proj_ast": 2.7654307504949975,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Duop Reath",
-            "team": "POR",
-            "proj_pts": 1.9233164882205083,
-            "proj_reb": 1.8765422949787485,
-            "proj_ast": 0.3950615357849997,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Javonte Cooke",
-            "team": "POR",
-            "proj_pts": 0.6073631015433184,
-            "proj_reb": 0.8888884555162493,
-            "proj_ast": 0.0,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jayson Kent",
-            "team": "POR",
-            "proj_pts": 2.0245436718110614,
-            "proj_reb": 0.9876538394624992,
-            "proj_ast": 0.0,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jerami Grant",
-            "team": "POR",
-            "proj_pts": 19.13193769861453,
-            "proj_reb": 3.2592576702262472,
-            "proj_ast": 2.172838446817498,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jrue Holiday",
-            "team": "POR",
-            "proj_pts": 18.119665862709,
-            "proj_reb": 4.543207661527496,
-            "proj_ast": 5.827157652828745,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Kris Murray",
-            "team": "POR",
-            "proj_pts": 5.26381354670876,
-            "proj_reb": 2.9629615183874973,
-            "proj_ast": 0.7901230715699994,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Matisse Thybulle",
-            "team": "POR",
-            "proj_pts": 4.150314527212675,
-            "proj_reb": 1.6790115270862487,
-            "proj_ast": 1.086419223408749,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Rayan Rupert",
-            "team": "POR",
-            "proj_pts": 3.6441786092599107,
-            "proj_reb": 2.172838446817498,
-            "proj_ast": 0.6913576876237494,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Robert Williams III",
-            "team": "POR",
-            "proj_pts": 8.30062905442535,
-            "proj_reb": 7.999996099646243,
-            "proj_ast": 0.6913576876237494,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Scoot Henderson",
-            "team": "POR",
-            "proj_pts": 14.17180570267743,
-            "proj_reb": 2.370369214709998,
-            "proj_ast": 3.1604922862799976,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Shaedon Sharpe",
-            "team": "POR",
-            "proj_pts": 20.954027003244484,
-            "proj_reb": 4.049380741796246,
-            "proj_ast": 2.469134598656248,
-            "status": "Out",
-            "injury": "Calf",
-            "market_line": null
-          },
-          {
-            "player": "Sidy Cissoko",
-            "team": "POR",
-            "proj_pts": 3.4417242420788043,
-            "proj_reb": 1.5802461431399988,
-            "proj_ast": 1.185184607354999,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Toumani Camara",
-            "team": "POR",
-            "proj_pts": 11.134990194960839,
-            "proj_reb": 5.234565349151246,
-            "proj_ast": 2.5678999826024977,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "V\u00edt Krej\u010d\u00ed",
-            "team": "POR",
-            "proj_pts": 6.478539749795397,
-            "proj_reb": 3.555553822064997,
-            "proj_ast": 1.8765422949787485,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Yang Hansen",
-            "team": "POR",
-            "proj_pts": 1.9233164882205083,
-            "proj_reb": 0.7901230715699994,
-            "proj_ast": 0.09876538394624992,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Ben Saraf",
-            "team": "BKN",
-            "proj_pts": 6.860076866829706,
-            "proj_reb": 1.185184607354999,
-            "proj_ast": 3.753084589957497,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Cam Thomas",
-            "team": "BKN",
-            "proj_pts": 9.270374144364467,
-            "proj_reb": 1.7777769110324986,
-            "proj_ast": 3.9506153578499967,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Chaney Johnson",
-            "team": "BKN",
-            "proj_pts": 6.489261901055127,
-            "proj_reb": 4.740738429419996,
-            "proj_ast": 1.185184607354999,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Danny Wolf",
-            "team": "BKN",
-            "proj_pts": 10.753634007462782,
-            "proj_reb": 6.123453804667495,
-            "proj_ast": 2.8641961344412477,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Day'Ron Sharpe",
-            "team": "BKN",
-            "proj_pts": 9.455781627251756,
-            "proj_reb": 6.320984572559995,
-            "proj_ast": 2.5678999826024977,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Drake Powell",
-            "team": "BKN",
-            "proj_pts": 5.284113262287747,
-            "proj_reb": 1.4814807591937487,
-            "proj_ast": 1.086419223408749,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "E.J. Liddell",
-            "team": "BKN",
-            "proj_pts": 2.78111224330934,
-            "proj_reb": 2.0740730628712485,
-            "proj_ast": 0.7901230715699994,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Egor D\u00ebmin",
-            "team": "BKN",
-            "proj_pts": 8.714151695702599,
-            "proj_reb": 3.3580230541724974,
-            "proj_ast": 3.1604922862799976,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Grant Nelson",
-            "team": "BKN",
-            "proj_pts": 3.9399090113548985,
-            "proj_reb": 1.4814807591937487,
-            "proj_ast": 1.234567299328124,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jalen Wilson",
-            "team": "BKN",
-            "proj_pts": 4.1716683649640105,
-            "proj_reb": 1.5802461431399988,
-            "proj_ast": 0.4938269197312496,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Josh Minott",
-            "team": "BKN",
-            "proj_pts": 5.6549282280623245,
-            "proj_reb": 1.6790115270862487,
-            "proj_ast": 0.3950615357849997,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Malachi Smith",
-            "team": "BKN",
-            "proj_pts": 3.2446309505275637,
-            "proj_reb": 3.456788438118747,
-            "proj_ast": 2.469134598656248,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Michael Porter Jr.",
-            "team": "BKN",
-            "proj_pts": 20.394823117601828,
-            "proj_reb": 6.716046108344995,
-            "proj_ast": 2.5678999826024977,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Nic Claxton",
-            "team": "BKN",
-            "proj_pts": 8.621447954258954,
-            "proj_reb": 6.024688420721245,
-            "proj_ast": 3.3580230541724974,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Noah Clowney",
-            "team": "BKN",
-            "proj_pts": 10.197411558800914,
-            "proj_reb": 3.753084589957497,
-            "proj_ast": 1.5802461431399988,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Nolan Traore",
-            "team": "BKN",
-            "proj_pts": 8.52874421281531,
-            "proj_reb": 1.5802461431399988,
-            "proj_ast": 3.2592576702262472,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Ochai Agbaji",
-            "team": "BKN",
-            "proj_pts": 6.025743193836903,
-            "proj_reb": 1.8765422949787485,
-            "proj_ast": 0.6913576876237494,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Terance Mann",
-            "team": "BKN",
-            "proj_pts": 6.396558159611483,
-            "proj_reb": 2.5678999826024977,
-            "proj_ast": 2.271603830763748,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Tyrese Martin",
-            "team": "BKN",
-            "proj_pts": 5.284113262287747,
-            "proj_reb": 2.0740730628712485,
-            "proj_ast": 0.4938269197312496,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Tyson Etienne",
-            "team": "BKN",
-            "proj_pts": 5.006002037956812,
-            "proj_reb": 0.8888884555162493,
-            "proj_ast": 0.9876538394624992,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Ziaire Williams",
-            "team": "BKN",
-            "proj_pts": 8.714151695702599,
-            "proj_reb": 1.5802461431399988,
-            "proj_ast": 1.5802461431399988,
-            "status": "Questionable",
-            "injury": "Foot",
-            "market_line": null
-          }
-        ],
-        "factors": {
-          "teamA": {
-            "efg": 0.5278167610573037,
-            "tov": 0.1490926400947112,
-            "orb": 0.2949927047272585,
-            "ftr": 0.2759079614473887,
-            "sos": -2.63007257569559,
-            "rest": 8,
-            "is_b2b": 0,
-            "ml_influence": {}
-          },
-          "teamB": {
-            "efg": 0.518543216502516,
-            "tov": 0.16343091093443315,
-            "orb": 0.24259716544606674,
-            "ftr": 0.2931798691011724,
-            "sos": 5.017274364988298,
-            "rest": 8,
-            "is_b2b": 0
-          }
-        },
-        "margins": {
-          "1-5": 0.2282701504917219,
-          "6-10": 0.09618440037734724,
-          "11+": 0.14295484106185055
-        },
-        "formA": [
-          {
-            "date": "2026-02-26",
-            "opponent": "CHI",
-            "result": "W",
-            "score": "121-112",
-            "quarters": [
-              30,
-              30,
-              30,
-              30
-            ],
-            "halves": [
-              60,
-              60
-            ]
-          },
-          {
-            "date": "2026-02-28",
-            "opponent": "CHA",
-            "result": "L",
-            "score": "93-109",
-            "quarters": [
-              23,
-              23,
-              23,
-              23
-            ],
-            "halves": [
-              46,
-              46
-            ]
-          },
-          {
-            "date": "2026-03-01",
-            "opponent": "ATL",
-            "result": "L",
-            "score": "101-135",
-            "quarters": [
-              25,
-              25,
-              25,
-              25
-            ],
-            "halves": [
-              50,
-              50
-            ]
-          },
-          {
-            "date": "2026-03-04",
-            "opponent": "MEM",
-            "result": "W",
-            "score": "122-114",
-            "quarters": [
-              30,
-              30,
-              30,
-              30
-            ],
-            "halves": [
-              60,
-              60
-            ]
-          },
-          {
-            "date": "2026-03-06",
-            "opponent": "HOU",
-            "result": "L",
-            "score": "99-106",
-            "quarters": [
-              24,
-              24,
-              24,
-              24
-            ],
-            "halves": [
-              48,
-              48
-            ]
-          },
-          {
-            "date": "2026-03-08",
-            "opponent": "IND",
-            "result": "W",
-            "score": "131-111",
-            "quarters": [
-              32,
-              32,
-              32,
-              32
-            ],
-            "halves": [
-              64,
-              64
-            ]
-          },
-          {
-            "date": "2026-03-10",
-            "opponent": "CHA",
-            "result": "L",
-            "score": "101-103",
-            "quarters": [
-              25,
-              25,
-              25,
-              25
-            ],
-            "halves": [
-              50,
-              50
-            ]
-          },
-          {
-            "date": "2026-03-13",
-            "opponent": "UTA",
-            "result": "W",
-            "score": "124-114",
-            "quarters": [
-              31,
-              31,
-              31,
-              31
-            ],
-            "halves": [
-              62,
-              62
-            ]
-          },
-          {
-            "date": "2026-03-15",
-            "opponent": "PHI",
-            "result": "L",
-            "score": "103-109",
-            "quarters": [
-              25,
-              25,
-              25,
-              25
-            ],
-            "halves": [
-              50,
-              50
-            ]
-          },
-          {
-            "date": "2026-03-16",
-            "opponent": "BKN",
-            "result": "W",
-            "score": "114-95",
-            "quarters": [
-              28,
-              28,
-              28,
-              28
-            ],
-            "halves": [
-              56,
-              56
             ]
           }
         ],
@@ -36895,35 +38154,85 @@ const analyticsData = {
             ]
           }
         ],
-        "shap_explanation": {},
-        "match_id": "0022501045",
+        "shap_explanation": {
+          "adj_ortg_10": -0.004355445849016917,
+          "adj_drtg_10": -0.04249241549842239,
+          "adj_pace_10": 0.002306989875265195,
+          "net_rating": -0.003982730389887834,
+          "roll_efg_pct_10": 0.0007004602834539853,
+          "roll_tov_pct_10": 0.010086780500572417,
+          "roll_orb_pct_10": 0.010274472190828164,
+          "roll_ft_rate_10": -0.0007453594455385826,
+          "sos_10": -0.008368422159894494,
+          "is_b2b": 0.000969618586857166,
+          "p_pts": -0.0017588050531099951,
+          "p_reb": 0.008770387260133745,
+          "p_ast": -0.006734377195346895,
+          "p_stl": -0.002219904985517971,
+          "p_blk": 0.003034673040015292,
+          "p_tov": -0.0173317137213904,
+          "p_pf": -0.03105054400806111,
+          "p_pm": -0.003922920738290543,
+          "p_usage": -0.0028938027067794535,
+          "p_eff": -0.0017411218615483648,
+          "opp_adj_ortg_10": 0.023050310668992536,
+          "opp_adj_drtg_10": 0.05588344991281083,
+          "opp_sos_10": -0.0021814814575246543,
+          "opp_is_b2b": -0.0018437131971302278
+        },
+        "match_id": "0022501060",
         "time": "TBD"
       },
-      "ml_prob_A": 0.5769296539320365,
-      "mc_win_A": 0.6488,
-      "shap_explanation": {},
+      "ml_prob_A": 0.5073547634308071,
+      "mc_win_A": 0.607,
+      "shap_explanation": {
+        "adj_ortg_10": -0.004355445849016917,
+        "adj_drtg_10": -0.04249241549842239,
+        "adj_pace_10": 0.002306989875265195,
+        "net_rating": -0.003982730389887834,
+        "roll_efg_pct_10": 0.0007004602834539853,
+        "roll_tov_pct_10": 0.010086780500572417,
+        "roll_orb_pct_10": 0.010274472190828164,
+        "roll_ft_rate_10": -0.0007453594455385826,
+        "sos_10": -0.008368422159894494,
+        "is_b2b": 0.000969618586857166,
+        "p_pts": -0.0017588050531099951,
+        "p_reb": 0.008770387260133745,
+        "p_ast": -0.006734377195346895,
+        "p_stl": -0.002219904985517971,
+        "p_blk": 0.003034673040015292,
+        "p_tov": -0.0173317137213904,
+        "p_pf": -0.03105054400806111,
+        "p_pm": -0.003922920738290543,
+        "p_usage": -0.0028938027067794535,
+        "p_eff": -0.0017411218615483648,
+        "opp_adj_ortg_10": 0.023050310668992536,
+        "opp_adj_drtg_10": 0.05588344991281083,
+        "opp_sos_10": -0.0021814814575246543,
+        "opp_is_b2b": -0.0018437131971302278
+      },
       "is_b2b_home": 0,
       "is_b2b_away": 0,
-      "rest_home": 8,
-      "rest_away": 8
+      "rest_home": 10,
+      "rest_away": 10
     },
     {
-      "matchId": "0022501046",
-      "matchTime": 1774319400,
-      "gameStatus": "10:30 pm ET",
-      "homeTeam": "LAC",
+      "matchId": "0022501061",
+      "matchTime": 1774490400,
+      "gameStatus": "10:00 pm ET",
+      "homeTeam": "POR",
       "awayTeam": "MIL",
-      "homeName": "Los Angeles Clippers",
+      "homeName": "Portland Trail Blazers",
       "awayName": "Milwaukee Bucks",
       "prediction": {
         "main": {
-          "ptsA": 122.49924473952599,
-          "ptsB": 112.8736930552043,
-          "total": 235.3729377947303,
-          "spread": -9.625551684321692,
-          "win_prob_A": 61.98054121582422,
-          "ml_prob_A": 0.5528756869304036,
-          "mc_win_A": 0.7202,
+          "ptsA": 116.96578893775236,
+          "ptsB": 110.95079539827017,
+          "total": 227.91658433602254,
+          "spread": -6.014993539482191,
+          "win_prob_A": 62.18906767789938,
+          "ml_prob_A": 0.6070177946316564,
+          "mc_win_A": 0.6442,
           "market": {
             "ml": {
               "home": null,
@@ -36943,298 +38252,228 @@ const analyticsData = {
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
-          "recommended_bet": 103.1818681318681,
-          "latent_strength_A": 4.390603830960883,
+          "recommended_bet": 63.30274725274723,
+          "latent_strength_A": 1.2594966904526308,
           "latent_strength_B": -9.425415769640134,
-          "form_state_A": 0,
-          "form_state_B": 0,
+          "form_state_A": 2,
+          "form_state_B": 1,
           "entropy_A": 3.3219280948873626
         },
         "halves": {
-          "h1_ptsA": 61.249622369762996,
-          "h1_ptsB": 56.43684652760215,
-          "h2_ptsA": 61.249622369762996,
-          "h2_ptsB": 56.43684652760215
+          "h1_ptsA": 58.48289446887618,
+          "h1_ptsB": 55.47539769913509,
+          "h2_ptsA": 58.48289446887618,
+          "h2_ptsB": 55.47539769913509
         },
         "quarters": [
           {
             "q": 1,
-            "ptsA": 30.624811184881498,
-            "ptsB": 28.218423263801075
+            "ptsA": 29.24144723443809,
+            "ptsB": 27.737698849567543
           },
           {
             "q": 2,
-            "ptsA": 30.624811184881498,
-            "ptsB": 28.218423263801075
+            "ptsA": 29.24144723443809,
+            "ptsB": 27.737698849567543
           },
           {
             "q": 3,
-            "ptsA": 30.624811184881498,
-            "ptsB": 28.218423263801075
+            "ptsA": 29.24144723443809,
+            "ptsB": 27.737698849567543
           },
           {
             "q": 4,
-            "ptsA": 30.624811184881498,
-            "ptsB": 28.218423263801075
+            "ptsA": 29.24144723443809,
+            "ptsB": 27.737698849567543
           }
         ],
         "players": [
           {
-            "player": "Bennedict Mathurin",
-            "team": "LAC",
-            "proj_pts": 19.995668186937067,
-            "proj_reb": 5.7460220441066365,
-            "proj_ast": 1.6841788749967728,
-            "status": "Out",
-            "injury": "Toe",
-            "market_line": null
-          },
-          {
-            "player": "Bogdan Bogdanovi\u0107",
-            "team": "LAC",
-            "proj_pts": 6.287297728882274,
-            "proj_reb": 2.2785949485250456,
-            "proj_ast": 2.080456257348955,
+            "player": "Blake Wesley",
+            "team": "POR",
+            "proj_pts": 4.8094431561889435,
+            "proj_reb": 0.3934250713784901,
+            "proj_ast": 1.4753440176693378,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Bradley Beal",
-            "team": "LAC",
-            "proj_pts": 8.417420456700311,
-            "proj_reb": 0.8255778799003789,
-            "proj_ast": 1.6511557598007578,
-            "status": "Out For Season",
-            "injury": "Hip",
-            "market_line": null
-          },
-          {
-            "player": "Brook Lopez",
-            "team": "LAC",
-            "proj_pts": 10.513186366327737,
-            "proj_reb": 3.5664964411696367,
-            "proj_ast": 1.6841788749967728,
+            "player": "Caleb Love",
+            "team": "POR",
+            "proj_pts": 11.767786445994222,
+            "proj_reb": 1.9671253568924503,
+            "proj_ast": 3.049044303183298,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Cam Christie",
-            "team": "LAC",
-            "proj_pts": 1.5460568185776085,
-            "proj_reb": 0.8916241102924092,
-            "proj_ast": 0.4953467279402273,
+            "player": "Deni Avdija",
+            "team": "POR",
+            "proj_pts": 16.67955817997442,
+            "proj_reb": 5.409594731454238,
+            "proj_ast": 6.294801142055841,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Chris Paul",
-            "team": "LAC",
-            "proj_pts": 3.1951840917270578,
-            "proj_reb": 1.6841788749967728,
-            "proj_ast": 2.8730110220533183,
+            "player": "Donovan Clingan",
+            "team": "POR",
+            "proj_pts": 12.68874364611551,
+            "proj_reb": 12.196177212733192,
+            "proj_ast": 2.7539754996494303,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Dalano Banton",
-            "team": "LAC",
-            "proj_pts": 3.092113637155217,
-            "proj_reb": 0.4953467279402273,
-            "proj_ast": 0.9906934558804547,
+            "player": "Duop Reath",
+            "team": "POR",
+            "proj_pts": 1.944242978033828,
+            "proj_reb": 1.8687690890478277,
+            "proj_ast": 0.3934250713784901,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Darius Garland",
-            "team": "LAC",
-            "proj_pts": 21.026372732655474,
-            "proj_reb": 2.1795256029370003,
-            "proj_ast": 6.637646154399047,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Derrick Jones Jr.",
-            "team": "LAC",
-            "proj_pts": 11.956172730333504,
-            "proj_reb": 3.9627738235218186,
-            "proj_ast": 1.1888321470565455,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Isaiah Jackson",
-            "team": "LAC",
-            "proj_pts": 6.905720456313318,
-            "proj_reb": 4.557189897050091,
-            "proj_ast": 1.287901492644591,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Ivica Zubac",
-            "team": "LAC",
-            "proj_pts": 12.780736366908231,
-            "proj_reb": 11.888321470565456,
-            "proj_ast": 1.486040183820682,
-            "status": "Questionable",
-            "injury": "Head",
-            "market_line": null
-          },
-          {
-            "player": "Jahmyl Telfort",
-            "team": "LAC",
-            "proj_pts": 0.1288380682148007,
-            "proj_reb": 0.3715100459551705,
-            "proj_ast": 0.12383668198505683,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "James Harden",
-            "team": "LAC",
-            "proj_pts": 24.943050006385416,
-            "proj_reb": 5.052536624990318,
-            "proj_ast": 8.619033066159954,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "John Collins",
-            "team": "LAC",
-            "proj_pts": 14.842145458345042,
-            "proj_reb": 6.3404381176349105,
-            "proj_ast": 1.1888321470565455,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jordan Miller",
-            "team": "LAC",
-            "proj_pts": 12.162313639477187,
-            "proj_reb": 2.8730110220533183,
-            "proj_ast": 3.3683577499935455,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Kawhi Leonard",
-            "team": "LAC",
-            "proj_pts": 31.230347735267692,
-            "proj_reb": 6.241368772046864,
-            "proj_ast": 3.5664964411696367,
-            "status": "Questionable",
-            "injury": "Ankle",
-            "market_line": null
-          },
-          {
-            "player": "Kobe Brown",
-            "team": "LAC",
-            "proj_pts": 2.370620455152333,
-            "proj_reb": 1.0897628014685001,
-            "proj_ast": 0.4953467279402273,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Kobe Sanders",
-            "team": "LAC",
-            "proj_pts": 7.627213638316202,
-            "proj_reb": 1.8823175661728637,
-            "proj_ast": 1.287901492644591,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Kris Dunn",
-            "team": "LAC",
-            "proj_pts": 6.905720456313318,
-            "proj_reb": 4.656259242638137,
-            "proj_ast": 3.9627738235218186,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Nicolas Batum",
-            "team": "LAC",
-            "proj_pts": 2.7829022734396953,
-            "proj_reb": 1.7832482205848184,
-            "proj_ast": 1.1888321470565455,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Norchad Omier",
-            "team": "LAC",
-            "proj_pts": 2.7485454552490816,
-            "proj_reb": 1.320924607840606,
-            "proj_ast": 0.3302311519601515,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Patrick Baldwin Jr.",
-            "team": "LAC",
-            "proj_pts": 5.153522728592028,
-            "proj_reb": 0.4953467279402273,
+            "player": "Javonte Cooke",
+            "team": "POR",
+            "proj_pts": 0.6139714667475246,
+            "proj_reb": 0.8852064106016027,
             "proj_ast": 0.0,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "RayJ Dennis",
-            "team": "LAC",
-            "proj_pts": 2.0614090914368113,
-            "proj_reb": 0.8916241102924092,
-            "proj_ast": 0.4953467279402273,
+            "player": "Jayson Kent",
+            "team": "POR",
+            "proj_pts": 2.046571555825082,
+            "proj_reb": 0.9835626784462251,
+            "proj_ast": 0.0,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Sean Pedulla",
-            "team": "LAC",
-            "proj_pts": 6.184227274310434,
-            "proj_reb": 0.9906934558804547,
-            "proj_ast": 2.972080367641364,
+            "player": "Jerami Grant",
+            "team": "POR",
+            "proj_pts": 19.340101202547025,
+            "proj_reb": 3.2457568388725426,
+            "proj_ast": 2.1638378925816957,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "TyTy Washington Jr.",
-            "team": "LAC",
-            "proj_pts": 2.1759318187388565,
-            "proj_reb": 0.22015410130676769,
-            "proj_ast": 1.2108475571872224,
+            "player": "Jrue Holiday",
+            "team": "POR",
+            "proj_pts": 18.316815424634484,
+            "proj_reb": 4.524388320852635,
+            "proj_ast": 5.803019802832728,
             "status": "Active",
             "injury": "",
             "market_line": null
           },
           {
-            "player": "Yanic Konan Niederh\u00e4user",
-            "team": "LAC",
-            "proj_pts": 7.111861365456999,
-            "proj_reb": 5.052536624990318,
-            "proj_ast": 0.3962773823521819,
+            "player": "Kris Murray",
+            "team": "POR",
+            "proj_pts": 5.321086045145214,
+            "proj_reb": 2.9506880353386755,
+            "proj_ast": 0.7868501427569802,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Matisse Thybulle",
+            "team": "POR",
+            "proj_pts": 4.195471689441418,
+            "proj_reb": 1.6720565533585827,
+            "proj_ast": 1.0819189462908478,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Rayan Rupert",
+            "team": "POR",
+            "proj_pts": 3.683828800485148,
+            "proj_reb": 2.1638378925816957,
+            "proj_ast": 0.6884938749123576,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Robert Williams III",
+            "team": "POR",
+            "proj_pts": 8.390943378882836,
+            "proj_reb": 7.966857695414423,
+            "proj_ast": 0.6884938749123576,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Scoot Henderson",
+            "team": "POR",
+            "proj_pts": 14.326000890775575,
+            "proj_reb": 2.3605504282709404,
+            "proj_ast": 3.1474005710279207,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Shaedon Sharpe",
+            "team": "POR",
+            "proj_pts": 21.182015602789598,
+            "proj_reb": 4.032606981629523,
+            "proj_ast": 2.458906696115563,
+            "status": "Out",
+            "injury": "Calf",
+            "market_line": null
+          },
+          {
+            "player": "Sidy Cissoko",
+            "team": "POR",
+            "proj_pts": 3.4791716449026393,
+            "proj_reb": 1.5737002855139604,
+            "proj_ast": 1.1802752141354702,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Toumani Camara",
+            "team": "POR",
+            "proj_pts": 11.256143557037952,
+            "proj_reb": 5.212882195764993,
+            "proj_ast": 2.5572629639601856,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "V\u00edt Krej\u010d\u00ed",
+            "team": "POR",
+            "proj_pts": 6.549028978640263,
+            "proj_reb": 3.5408256424064106,
+            "proj_ast": 1.8687690890478277,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Yang Hansen",
+            "team": "POR",
+            "proj_pts": 1.944242978033828,
+            "proj_reb": 0.7868501427569802,
+            "proj_ast": 0.09835626784462252,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -37242,9 +38481,9 @@ const analyticsData = {
           {
             "player": "AJ Green",
             "team": "MIL",
-            "proj_pts": 6.251636631196184,
-            "proj_reb": 1.8823175661728637,
-            "proj_ast": 0.8916241102924092,
+            "proj_pts": 5.908463007949063,
+            "proj_reb": 1.8687690890478277,
+            "proj_ast": 0.8852064106016027,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -37252,9 +38491,9 @@ const analyticsData = {
           {
             "player": "Amir Coffey",
             "team": "MIL",
-            "proj_pts": 4.1026365392224955,
-            "proj_reb": 1.0897628014685001,
-            "proj_ast": 0.2972080367641364,
+            "proj_pts": 3.8774288489665723,
+            "proj_reb": 1.0819189462908478,
+            "proj_ast": 0.29506880353386755,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -37262,9 +38501,9 @@ const analyticsData = {
           {
             "player": "Andre Jackson Jr.",
             "team": "MIL",
-            "proj_pts": 0.6837727565370825,
-            "proj_reb": 1.287901492644591,
-            "proj_ast": 0.2972080367641364,
+            "proj_pts": 0.6462381414944286,
+            "proj_reb": 1.2786314819800928,
+            "proj_ast": 0.29506880353386755,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -37272,9 +38511,9 @@ const analyticsData = {
           {
             "player": "Bobby Portis",
             "team": "MIL",
-            "proj_pts": 16.410546156889982,
-            "proj_reb": 5.547883352930546,
-            "proj_ast": 1.5851095294087276,
+            "proj_pts": 15.509715395866289,
+            "proj_reb": 5.507950999298861,
+            "proj_ast": 1.5737002855139604,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -37282,9 +38521,9 @@ const analyticsData = {
           {
             "player": "Cam Thomas",
             "team": "MIL",
-            "proj_pts": 7.130773032458146,
-            "proj_reb": 0.9906934558804547,
-            "proj_ast": 1.9813869117609093,
+            "proj_pts": 6.739340618441899,
+            "proj_reb": 0.9835626784462251,
+            "proj_ast": 1.9671253568924503,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -37292,9 +38531,9 @@ const analyticsData = {
           {
             "player": "Cole Anthony",
             "team": "MIL",
-            "proj_pts": 5.958591164108862,
-            "proj_reb": 1.8823175661728637,
-            "proj_ast": 2.1795256029370003,
+            "proj_pts": 5.63150380445145,
+            "proj_reb": 1.8687690890478277,
+            "proj_ast": 2.1638378925816957,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -37302,9 +38541,9 @@ const analyticsData = {
           {
             "player": "Gary Harris",
             "team": "MIL",
-            "proj_pts": 1.562909157799046,
-            "proj_reb": 0.4953467279402273,
-            "proj_ast": 0.8916241102924092,
+            "proj_pts": 1.4771157519872657,
+            "proj_reb": 0.49178133922311257,
+            "proj_ast": 0.8852064106016027,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -37312,8 +38551,8 @@ const analyticsData = {
           {
             "player": "Gary Trent Jr.",
             "team": "MIL",
-            "proj_pts": 2.930454670873211,
-            "proj_reb": 0.5944160735282727,
+            "proj_pts": 2.7695920349761227,
+            "proj_reb": 0.5901376070677351,
             "proj_ast": 0.0,
             "status": "Active",
             "injury": "",
@@ -37322,9 +38561,9 @@ const analyticsData = {
           {
             "player": "Giannis Antetokounmpo",
             "team": "MIL",
-            "proj_pts": 23.150591899898366,
-            "proj_reb": 9.906934558804547,
-            "proj_ast": 4.854397933814228,
+            "proj_pts": 21.87977707631137,
+            "proj_reb": 9.835626784462251,
+            "proj_ast": 4.819457124386504,
             "status": "Out",
             "injury": "Knee",
             "market_line": null
@@ -37332,9 +38571,9 @@ const analyticsData = {
           {
             "player": "Jericho Sims",
             "team": "MIL",
-            "proj_pts": 4.5910456510346975,
-            "proj_reb": 5.845091389694683,
-            "proj_ast": 1.5851095294087276,
+            "proj_pts": 4.339027521462593,
+            "proj_reb": 5.803019802832728,
+            "proj_ast": 1.5737002855139604,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -37342,9 +38581,9 @@ const analyticsData = {
           {
             "player": "Kevin Porter Jr.",
             "team": "MIL",
-            "proj_pts": 17.192000735789506,
-            "proj_reb": 5.151605970578364,
-            "proj_ast": 6.637646154399047,
+            "proj_pts": 16.248273271859922,
+            "proj_reb": 5.114525927920371,
+            "proj_ast": 6.589869945589709,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -37352,9 +38591,9 @@ const analyticsData = {
           {
             "player": "Kyle Kuzma",
             "team": "MIL",
-            "proj_pts": 13.480091486016772,
-            "proj_reb": 2.773941676465273,
-            "proj_ast": 3.2692884044055,
+            "proj_pts": 12.740123360890166,
+            "proj_reb": 2.7539754996494303,
+            "proj_ast": 3.2457568388725426,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -37362,9 +38601,9 @@ const analyticsData = {
           {
             "player": "Mark Sears",
             "team": "MIL",
-            "proj_pts": 3.070000131390983,
-            "proj_reb": 0.2830552731087013,
-            "proj_ast": 0.2830552731087013,
+            "proj_pts": 2.901477369974986,
+            "proj_reb": 0.2810179081274929,
+            "proj_ast": 0.2810179081274929,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -37372,9 +38611,9 @@ const analyticsData = {
           {
             "player": "Myles Turner",
             "team": "MIL",
-            "proj_pts": 9.865864058606476,
-            "proj_reb": 4.3590512058740005,
-            "proj_ast": 1.3869708382326364,
+            "proj_pts": 9.324293184419613,
+            "proj_reb": 4.327675785163391,
+            "proj_ast": 1.3769877498247152,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -37382,9 +38621,9 @@ const analyticsData = {
           {
             "player": "Ousmane Dieng",
             "team": "MIL",
-            "proj_pts": 8.10759125608255,
-            "proj_reb": 3.5664964411696367,
-            "proj_ast": 2.773941676465273,
+            "proj_pts": 7.662537963433941,
+            "proj_reb": 3.5408256424064106,
+            "proj_ast": 2.7539754996494303,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -37392,9 +38631,9 @@ const analyticsData = {
           {
             "player": "Pete Nance",
             "team": "MIL",
-            "proj_pts": 3.516545605047853,
-            "proj_reb": 2.080456257348955,
-            "proj_ast": 0.5944160735282727,
+            "proj_pts": 3.3235104419713477,
+            "proj_reb": 2.065481624737073,
+            "proj_ast": 0.5901376070677351,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -37402,9 +38641,9 @@ const analyticsData = {
           {
             "player": "Ryan Rollins",
             "team": "MIL",
-            "proj_pts": 14.456909709641174,
-            "proj_reb": 4.557189897050091,
-            "proj_ast": 6.538576808811,
+            "proj_pts": 13.663320705882207,
+            "proj_reb": 4.524388320852635,
+            "proj_ast": 6.491513677745085,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -37412,9 +38651,9 @@ const analyticsData = {
           {
             "player": "Taurean Prince",
             "team": "MIL",
-            "proj_pts": 5.47018205229666,
-            "proj_reb": 1.5851095294087276,
-            "proj_ast": 0.5944160735282727,
+            "proj_pts": 5.169905131955429,
+            "proj_reb": 1.5737002855139604,
+            "proj_ast": 0.5901376070677351,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -37422,9 +38661,9 @@ const analyticsData = {
           {
             "player": "Thanasis Antetokounmpo",
             "team": "MIL",
-            "proj_pts": 0.9768182236244036,
-            "proj_reb": 0.7925547647043638,
-            "proj_ast": 0.2972080367641364,
+            "proj_pts": 0.923197344992041,
+            "proj_reb": 0.7868501427569802,
+            "proj_ast": 0.29506880353386755,
             "status": "Active",
             "injury": "",
             "market_line": null
@@ -37432,14 +38671,20 @@ const analyticsData = {
         ],
         "factors": {
           "teamA": {
-            "efg": 0.5780380005774381,
-            "tov": 0.09988052785624454,
-            "orb": 0.2504721507438899,
-            "ftr": 0.3242163734971018,
-            "sos": -0.24137154569838107,
-            "rest": 8,
+            "efg": 0.5278167610573037,
+            "tov": 0.1490926400947112,
+            "orb": 0.2949927047272585,
+            "ftr": 0.2759079614473887,
+            "sos": -2.63007257569559,
+            "rest": 10,
             "is_b2b": 0,
-            "ml_influence": {}
+            "ml_influence": {
+              "roll_efg_pct_10": 0.0010297393838217773,
+              "roll_tov_pct_10": -0.01991607499801841,
+              "roll_orb_pct_10": 0.012287804421597244,
+              "roll_ft_rate_10": -0.0032150246936897987,
+              "p_tov": -0.025105902209389866
+            }
           },
           "teamB": {
             "efg": 0.5528536475022033,
@@ -37447,85 +38692,21 @@ const analyticsData = {
             "orb": 0.19159186063316172,
             "ftr": 0.22663890704115602,
             "sos": 2.0991903859160606,
-            "rest": 7,
+            "rest": 9,
             "is_b2b": 0
           }
         },
         "margins": {
-          "1-5": 0.25483111137673525,
-          "6-10": 0.10737618384385804,
-          "11+": 0.15958871953254797
+          "1-5": 0.22353821872779467,
+          "6-10": 0.09419054345667917,
+          "11+": 0.1399914551273752
         },
         "formA": [
           {
-            "date": "2026-03-01",
-            "opponent": "NOP",
+            "date": "2026-02-26",
+            "opponent": "CHI",
             "result": "W",
-            "score": "137-117",
-            "quarters": [
-              34,
-              34,
-              34,
-              34
-            ],
-            "halves": [
-              68,
-              68
-            ]
-          },
-          {
-            "date": "2026-03-02",
-            "opponent": "GSW",
-            "result": "W",
-            "score": "114-101",
-            "quarters": [
-              28,
-              28,
-              28,
-              28
-            ],
-            "halves": [
-              56,
-              56
-            ]
-          },
-          {
-            "date": "2026-03-04",
-            "opponent": "IND",
-            "result": "W",
-            "score": "130-107",
-            "quarters": [
-              32,
-              32,
-              32,
-              32
-            ],
-            "halves": [
-              64,
-              64
-            ]
-          },
-          {
-            "date": "2026-03-06",
-            "opponent": "SAS",
-            "result": "L",
-            "score": "112-116",
-            "quarters": [
-              28,
-              28,
-              28,
-              28
-            ],
-            "halves": [
-              56,
-              56
-            ]
-          },
-          {
-            "date": "2026-03-07",
-            "opponent": "MEM",
-            "result": "W",
-            "score": "123-120",
+            "score": "121-112",
             "quarters": [
               30,
               30,
@@ -37538,10 +38719,106 @@ const analyticsData = {
             ]
           },
           {
-            "date": "2026-03-09",
-            "opponent": "NYK",
+            "date": "2026-02-28",
+            "opponent": "CHA",
+            "result": "L",
+            "score": "93-109",
+            "quarters": [
+              23,
+              23,
+              23,
+              23
+            ],
+            "halves": [
+              46,
+              46
+            ]
+          },
+          {
+            "date": "2026-03-01",
+            "opponent": "ATL",
+            "result": "L",
+            "score": "101-135",
+            "quarters": [
+              25,
+              25,
+              25,
+              25
+            ],
+            "halves": [
+              50,
+              50
+            ]
+          },
+          {
+            "date": "2026-03-04",
+            "opponent": "MEM",
             "result": "W",
-            "score": "126-118",
+            "score": "122-114",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          },
+          {
+            "date": "2026-03-06",
+            "opponent": "HOU",
+            "result": "L",
+            "score": "99-106",
+            "quarters": [
+              24,
+              24,
+              24,
+              24
+            ],
+            "halves": [
+              48,
+              48
+            ]
+          },
+          {
+            "date": "2026-03-08",
+            "opponent": "IND",
+            "result": "W",
+            "score": "131-111",
+            "quarters": [
+              32,
+              32,
+              32,
+              32
+            ],
+            "halves": [
+              64,
+              64
+            ]
+          },
+          {
+            "date": "2026-03-10",
+            "opponent": "CHA",
+            "result": "L",
+            "score": "101-103",
+            "quarters": [
+              25,
+              25,
+              25,
+              25
+            ],
+            "halves": [
+              50,
+              50
+            ]
+          },
+          {
+            "date": "2026-03-13",
+            "opponent": "UTA",
+            "result": "W",
+            "score": "124-114",
             "quarters": [
               31,
               31,
@@ -37554,58 +38831,26 @@ const analyticsData = {
             ]
           },
           {
-            "date": "2026-03-11",
-            "opponent": "MIN",
-            "result": "W",
-            "score": "153-128",
-            "quarters": [
-              38,
-              38,
-              38,
-              38
-            ],
-            "halves": [
-              76,
-              76
-            ]
-          },
-          {
-            "date": "2026-03-13",
-            "opponent": "CHI",
-            "result": "W",
-            "score": "119-108",
-            "quarters": [
-              29,
-              29,
-              29,
-              29
-            ],
-            "halves": [
-              58,
-              58
-            ]
-          },
-          {
-            "date": "2026-03-14",
-            "opponent": "SAC",
+            "date": "2026-03-15",
+            "opponent": "PHI",
             "result": "L",
-            "score": "109-118",
+            "score": "103-109",
             "quarters": [
-              27,
-              27,
-              27,
-              27
+              25,
+              25,
+              25,
+              25
             ],
             "halves": [
-              54,
-              54
+              50,
+              50
             ]
           },
           {
             "date": "2026-03-16",
-            "opponent": "SAS",
-            "result": "L",
-            "score": "115-119",
+            "opponent": "BKN",
+            "result": "W",
+            "score": "114-95",
             "quarters": [
               28,
               28,
@@ -37780,17 +39025,1008 @@ const analyticsData = {
             ]
           }
         ],
-        "shap_explanation": {},
-        "match_id": "0022501046",
+        "shap_explanation": {
+          "adj_ortg_10": -0.028286007947416324,
+          "adj_drtg_10": 0.039706559985912125,
+          "adj_pace_10": 0.001700572599973711,
+          "net_rating": 0.0070821337839558395,
+          "roll_efg_pct_10": 0.0010297393838217773,
+          "roll_tov_pct_10": -0.01991607499801841,
+          "roll_orb_pct_10": 0.012287804421597244,
+          "roll_ft_rate_10": -0.0032150246936897987,
+          "sos_10": -0.005669934426344483,
+          "is_b2b": 0.0003652654291892077,
+          "p_pts": 0.00632729098366795,
+          "p_reb": -0.00986719995475397,
+          "p_ast": -0.004038585713859106,
+          "p_stl": 0.0001412382320339134,
+          "p_blk": -0.0018039857048400166,
+          "p_tov": -0.025105902209389866,
+          "p_pf": -0.015587129844427353,
+          "p_pm": -0.003363533030204593,
+          "p_usage": 0.009669133388451741,
+          "p_eff": 0.009218112051441523,
+          "opp_adj_ortg_10": 0.03890106866529493,
+          "opp_adj_drtg_10": 0.07717274364517834,
+          "opp_sos_10": -0.0023266558024766224,
+          "opp_is_b2b": -0.0013042079383353666
+        },
+        "match_id": "0022501061",
         "time": "TBD"
       },
-      "ml_prob_A": 0.5528756869304036,
-      "mc_win_A": 0.7202,
-      "shap_explanation": {},
+      "ml_prob_A": 0.6070177946316564,
+      "mc_win_A": 0.6442,
+      "shap_explanation": {
+        "adj_ortg_10": -0.028286007947416324,
+        "adj_drtg_10": 0.039706559985912125,
+        "adj_pace_10": 0.001700572599973711,
+        "net_rating": 0.0070821337839558395,
+        "roll_efg_pct_10": 0.0010297393838217773,
+        "roll_tov_pct_10": -0.01991607499801841,
+        "roll_orb_pct_10": 0.012287804421597244,
+        "roll_ft_rate_10": -0.0032150246936897987,
+        "sos_10": -0.005669934426344483,
+        "is_b2b": 0.0003652654291892077,
+        "p_pts": 0.00632729098366795,
+        "p_reb": -0.00986719995475397,
+        "p_ast": -0.004038585713859106,
+        "p_stl": 0.0001412382320339134,
+        "p_blk": -0.0018039857048400166,
+        "p_tov": -0.025105902209389866,
+        "p_pf": -0.015587129844427353,
+        "p_pm": -0.003363533030204593,
+        "p_usage": 0.009669133388451741,
+        "p_eff": 0.009218112051441523,
+        "opp_adj_ortg_10": 0.03890106866529493,
+        "opp_adj_drtg_10": 0.07717274364517834,
+        "opp_sos_10": -0.0023266558024766224,
+        "opp_is_b2b": -0.0013042079383353666
+      },
       "is_b2b_home": 0,
       "is_b2b_away": 0,
-      "rest_home": 8,
-      "rest_away": 7
+      "rest_home": 10,
+      "rest_away": 9
+    },
+    {
+      "matchId": "0022501062",
+      "matchTime": 1774492200,
+      "gameStatus": "10:30 pm ET",
+      "homeTeam": "LAC",
+      "awayTeam": "TOR",
+      "homeName": "Los Angeles Clippers",
+      "awayName": "Toronto Raptors",
+      "prediction": {
+        "main": {
+          "ptsA": 119.40077950408815,
+          "ptsB": 115.50904685998837,
+          "total": 234.90982636407654,
+          "spread": -3.8917326440997755,
+          "win_prob_A": 56.72233970219778,
+          "ml_prob_A": 0.5607056617032964,
+          "mc_win_A": 0.577,
+          "market": {
+            "ml": {
+              "home": null,
+              "away": null
+            },
+            "spread": {
+              "hdp": null,
+              "home": null,
+              "away": null
+            },
+            "total": {
+              "hdp": null,
+              "over": null,
+              "under": null
+            }
+          }
+        },
+        "advanced": {
+          "blowout_risk": 0.11853559847642359,
+          "recommended_bet": 28.041208791208764,
+          "latent_strength_A": 4.390603830960883,
+          "latent_strength_B": 1.9461049922231322,
+          "form_state_A": 1,
+          "form_state_B": 2,
+          "entropy_A": 3.3219280948873626
+        },
+        "halves": {
+          "h1_ptsA": 59.700389752044074,
+          "h1_ptsB": 57.75452342999419,
+          "h2_ptsA": 59.700389752044074,
+          "h2_ptsB": 57.75452342999419
+        },
+        "quarters": [
+          {
+            "q": 1,
+            "ptsA": 29.850194876022037,
+            "ptsB": 28.877261714997093
+          },
+          {
+            "q": 2,
+            "ptsA": 29.850194876022037,
+            "ptsB": 28.877261714997093
+          },
+          {
+            "q": 3,
+            "ptsA": 29.850194876022037,
+            "ptsB": 28.877261714997093
+          },
+          {
+            "q": 4,
+            "ptsA": 29.850194876022037,
+            "ptsB": 28.877261714997093
+          }
+        ],
+        "players": [
+          {
+            "player": "Bennedict Mathurin",
+            "team": "LAC",
+            "proj_pts": 18.9067315389366,
+            "proj_reb": 5.762810402191154,
+            "proj_ast": 1.689099600642235,
+            "status": "Out",
+            "injury": "Toe",
+            "market_line": null
+          },
+          {
+            "player": "Bogdan Bogdanovi\u0107",
+            "team": "LAC",
+            "proj_pts": 5.944900123067694,
+            "proj_reb": 2.285252400868906,
+            "proj_ast": 2.0865348007933493,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Bradley Beal",
+            "team": "LAC",
+            "proj_pts": 7.95901929044582,
+            "proj_reb": 0.8279900003148211,
+            "proj_ast": 1.6559800006296421,
+            "status": "Out For Season",
+            "injury": "Hip",
+            "market_line": null
+          },
+          {
+            "player": "Brook Lopez",
+            "team": "LAC",
+            "proj_pts": 9.940652664801718,
+            "proj_reb": 3.576916801360027,
+            "proj_ast": 1.689099600642235,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Cam Christie",
+            "team": "LAC",
+            "proj_pts": 1.4618606860002528,
+            "proj_reb": 0.8942292003400067,
+            "proj_ast": 0.49679400018889264,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Chris Paul",
+            "team": "LAC",
+            "proj_pts": 3.021178751067189,
+            "proj_reb": 1.689099600642235,
+            "proj_ast": 2.881405201095577,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Dalano Banton",
+            "team": "LAC",
+            "proj_pts": 2.9237213720005055,
+            "proj_reb": 0.49679400018889264,
+            "proj_ast": 0.9935880003777853,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Darius Garland",
+            "team": "LAC",
+            "proj_pts": 19.881305329603435,
+            "proj_reb": 2.1858936008311276,
+            "proj_ast": 6.657039602531161,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Derrick Jones Jr.",
+            "team": "LAC",
+            "proj_pts": 11.305055971735287,
+            "proj_reb": 3.974352001511141,
+            "proj_ast": 1.1923056004533423,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Isaiah Jackson",
+            "team": "LAC",
+            "proj_pts": 6.529644397467796,
+            "proj_reb": 4.570504801737812,
+            "proj_ast": 1.2916644004911209,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Ivica Zubac",
+            "team": "LAC",
+            "proj_pts": 12.084715004268755,
+            "proj_reb": 11.923056004533423,
+            "proj_ast": 1.490382000566678,
+            "status": "Questionable",
+            "injury": "Head",
+            "market_line": null
+          },
+          {
+            "player": "Jahmyl Telfort",
+            "team": "LAC",
+            "proj_pts": 0.12182172383335439,
+            "proj_reb": 0.3725955001416695,
+            "proj_ast": 0.12419850004722316,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "James Harden",
+            "team": "LAC",
+            "proj_pts": 23.58468573413741,
+            "proj_reb": 5.067298801926705,
+            "proj_ast": 8.644215603286732,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "John Collins",
+            "team": "LAC",
+            "proj_pts": 14.033862585602426,
+            "proj_reb": 6.358963202417826,
+            "proj_ast": 1.1923056004533423,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jordan Miller",
+            "team": "LAC",
+            "proj_pts": 11.499970729868656,
+            "proj_reb": 2.881405201095577,
+            "proj_ast": 3.37819920128447,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Kawhi Leonard",
+            "team": "LAC",
+            "proj_pts": 29.529585857205106,
+            "proj_reb": 6.259604402380047,
+            "proj_ast": 3.576916801360027,
+            "status": "Questionable",
+            "injury": "Ankle",
+            "market_line": null
+          },
+          {
+            "player": "Kobe Brown",
+            "team": "LAC",
+            "proj_pts": 2.241519718533721,
+            "proj_reb": 1.0929468004155638,
+            "proj_ast": 0.49679400018889264,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Kobe Sanders",
+            "team": "LAC",
+            "proj_pts": 7.2118460509345805,
+            "proj_reb": 1.887817200717792,
+            "proj_ast": 1.2916644004911209,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Kris Dunn",
+            "team": "LAC",
+            "proj_pts": 6.529644397467796,
+            "proj_reb": 4.669863601775591,
+            "proj_ast": 3.974352001511141,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Nicolas Batum",
+            "team": "LAC",
+            "proj_pts": 2.6313492348004552,
+            "proj_reb": 1.7884584006800135,
+            "proj_ast": 1.1923056004533423,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Norchad Omier",
+            "team": "LAC",
+            "proj_pts": 2.598863441778227,
+            "proj_reb": 1.3247840005037137,
+            "proj_ast": 0.3311960001259284,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Patrick Baldwin Jr.",
+            "team": "LAC",
+            "proj_pts": 4.872868953334176,
+            "proj_reb": 0.49679400018889264,
+            "proj_ast": 0.0,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "RayJ Dennis",
+            "team": "LAC",
+            "proj_pts": 1.9491475813336703,
+            "proj_reb": 0.8942292003400067,
+            "proj_ast": 0.49679400018889264,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Sean Pedulla",
+            "team": "LAC",
+            "proj_pts": 5.847442744001011,
+            "proj_reb": 0.9935880003777853,
+            "proj_ast": 2.980764001133356,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "TyTy Washington Jr.",
+            "team": "LAC",
+            "proj_pts": 2.05743355807443,
+            "proj_reb": 0.2207973334172856,
+            "proj_ast": 1.214385333795071,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Yanic Konan Niederh\u00e4user",
+            "team": "LAC",
+            "proj_pts": 6.724559155601163,
+            "proj_reb": 5.067298801926705,
+            "proj_ast": 0.3974352001511141,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "A.J. Lawson",
+            "team": "TOR",
+            "proj_pts": 3.1349511307503115,
+            "proj_reb": 1.5897408006044564,
+            "proj_ast": 0.2980764001133356,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Alijah Martin",
+            "team": "TOR",
+            "proj_pts": 1.7634100110470503,
+            "proj_reb": 0.2980764001133356,
+            "proj_ast": 0.19871760007555705,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Brandon Ingram",
+            "team": "TOR",
+            "proj_pts": 21.160920132564602,
+            "proj_reb": 5.266016402002262,
+            "proj_ast": 3.775634401435584,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Chucky Hepburn",
+            "team": "TOR",
+            "proj_pts": 0.0,
+            "proj_reb": 0.49679400018889264,
+            "proj_ast": 0.9935880003777853,
+            "status": "Out",
+            "injury": "Knee",
+            "market_line": null
+          },
+          {
+            "player": "Collin Murray-Boyles",
+            "team": "TOR",
+            "proj_pts": 7.739410604039832,
+            "proj_reb": 4.371787201662255,
+            "proj_ast": 1.9871760007555705,
+            "status": "Doubtful",
+            "injury": "Thumb",
+            "market_line": null
+          },
+          {
+            "player": "Garrett Temple",
+            "team": "TOR",
+            "proj_pts": 0.29390166850784166,
+            "proj_reb": 0.19871760007555705,
+            "proj_ast": 0.2980764001133356,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Gradey Dick",
+            "team": "TOR",
+            "proj_pts": 4.9963283646333085,
+            "proj_reb": 1.5897408006044564,
+            "proj_ast": 0.49679400018889264,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Immanuel Quickley",
+            "team": "TOR",
+            "proj_pts": 16.16459176793129,
+            "proj_reb": 3.179481601208913,
+            "proj_ast": 5.862169202228934,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Ja'Kobe Walter",
+            "team": "TOR",
+            "proj_pts": 6.073967815828729,
+            "proj_reb": 2.4839700009444634,
+            "proj_ast": 1.1923056004533423,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jakob Poeltl",
+            "team": "TOR",
+            "proj_pts": 10.776394511954196,
+            "proj_reb": 7.749986402946725,
+            "proj_ast": 2.1858936008311276,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jamal Shead",
+            "team": "TOR",
+            "proj_pts": 5.780066147320887,
+            "proj_reb": 1.689099600642235,
+            "proj_ast": 3.4775580013222482,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jamison Battle",
+            "team": "TOR",
+            "proj_pts": 2.253246125226786,
+            "proj_reb": 1.689099600642235,
+            "proj_ast": 0.2980764001133356,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jonathan Mogbo",
+            "team": "TOR",
+            "proj_pts": 0.6857705598516306,
+            "proj_reb": 1.5897408006044564,
+            "proj_ast": 0.2980764001133356,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Mo Bamba",
+            "team": "TOR",
+            "proj_pts": 0.0,
+            "proj_reb": 0.9935880003777853,
+            "proj_ast": 0.0,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Ochai Agbaji",
+            "team": "TOR",
+            "proj_pts": 4.702426696125467,
+            "proj_reb": 1.7884584006800135,
+            "proj_ast": 0.49679400018889264,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "RJ Barrett",
+            "team": "TOR",
+            "proj_pts": 21.552789023908392,
+            "proj_reb": 6.0608868023044895,
+            "proj_ast": 2.4839700009444634,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Sandro Mamukelashvili",
+            "team": "TOR",
+            "proj_pts": 7.151607267024148,
+            "proj_reb": 4.2724284016244765,
+            "proj_ast": 1.1923056004533423,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Scottie Barnes",
+            "team": "TOR",
+            "proj_pts": 15.282886762407768,
+            "proj_reb": 4.769222401813369,
+            "proj_ast": 3.974352001511141,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Trayce Jackson-Davis",
+            "team": "TOR",
+            "proj_pts": 1.5674755653751558,
+            "proj_reb": 2.3846112009066847,
+            "proj_ast": 0.49679400018889264,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          }
+        ],
+        "factors": {
+          "teamA": {
+            "efg": 0.5780380005774381,
+            "tov": 0.09988052785624454,
+            "orb": 0.2504721507438899,
+            "ftr": 0.3242163734971018,
+            "sos": -0.24137154569838107,
+            "rest": 10,
+            "is_b2b": 0,
+            "ml_influence": {
+              "roll_efg_pct_10": 0.006736571295075322,
+              "roll_tov_pct_10": 0.00025180971760221384,
+              "roll_orb_pct_10": 0.0023003541356777647,
+              "roll_ft_rate_10": 0.006962915848964571,
+              "p_tov": -0.011106608031383872
+            }
+          },
+          "teamB": {
+            "efg": 0.5427073718696395,
+            "tov": 0.11476880066085389,
+            "orb": 0.23069259181487606,
+            "ftr": 0.27086597908029403,
+            "sos": 3.047519908876628,
+            "rest": 11,
+            "is_b2b": 0
+          }
+        },
+        "margins": {
+          "1-5": 0.20261780556073858,
+          "6-10": 0.08537547327871203,
+          "11+": 0.12688998595673476
+        },
+        "formA": [
+          {
+            "date": "2026-03-01",
+            "opponent": "NOP",
+            "result": "W",
+            "score": "137-117",
+            "quarters": [
+              34,
+              34,
+              34,
+              34
+            ],
+            "halves": [
+              68,
+              68
+            ]
+          },
+          {
+            "date": "2026-03-02",
+            "opponent": "GSW",
+            "result": "W",
+            "score": "114-101",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-04",
+            "opponent": "IND",
+            "result": "W",
+            "score": "130-107",
+            "quarters": [
+              32,
+              32,
+              32,
+              32
+            ],
+            "halves": [
+              64,
+              64
+            ]
+          },
+          {
+            "date": "2026-03-06",
+            "opponent": "SAS",
+            "result": "L",
+            "score": "112-116",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-07",
+            "opponent": "MEM",
+            "result": "W",
+            "score": "123-120",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          },
+          {
+            "date": "2026-03-09",
+            "opponent": "NYK",
+            "result": "W",
+            "score": "126-118",
+            "quarters": [
+              31,
+              31,
+              31,
+              31
+            ],
+            "halves": [
+              62,
+              62
+            ]
+          },
+          {
+            "date": "2026-03-11",
+            "opponent": "MIN",
+            "result": "W",
+            "score": "153-128",
+            "quarters": [
+              38,
+              38,
+              38,
+              38
+            ],
+            "halves": [
+              76,
+              76
+            ]
+          },
+          {
+            "date": "2026-03-13",
+            "opponent": "CHI",
+            "result": "W",
+            "score": "119-108",
+            "quarters": [
+              29,
+              29,
+              29,
+              29
+            ],
+            "halves": [
+              58,
+              58
+            ]
+          },
+          {
+            "date": "2026-03-14",
+            "opponent": "SAC",
+            "result": "L",
+            "score": "109-118",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-16",
+            "opponent": "SAS",
+            "result": "L",
+            "score": "115-119",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          }
+        ],
+        "formB": [
+          {
+            "date": "2026-02-24",
+            "opponent": "OKC",
+            "result": "L",
+            "score": "107-116",
+            "quarters": [
+              26,
+              26,
+              26,
+              26
+            ],
+            "halves": [
+              52,
+              52
+            ]
+          },
+          {
+            "date": "2026-02-25",
+            "opponent": "SAS",
+            "result": "L",
+            "score": "107-110",
+            "quarters": [
+              26,
+              26,
+              26,
+              26
+            ],
+            "halves": [
+              52,
+              52
+            ]
+          },
+          {
+            "date": "2026-02-28",
+            "opponent": "WAS",
+            "result": "W",
+            "score": "134-125",
+            "quarters": [
+              33,
+              33,
+              33,
+              33
+            ],
+            "halves": [
+              66,
+              66
+            ]
+          },
+          {
+            "date": "2026-03-03",
+            "opponent": "NYK",
+            "result": "L",
+            "score": "95-111",
+            "quarters": [
+              23,
+              23,
+              23,
+              23
+            ],
+            "halves": [
+              46,
+              46
+            ]
+          },
+          {
+            "date": "2026-03-05",
+            "opponent": "MIN",
+            "result": "L",
+            "score": "107-115",
+            "quarters": [
+              26,
+              26,
+              26,
+              26
+            ],
+            "halves": [
+              52,
+              52
+            ]
+          },
+          {
+            "date": "2026-03-08",
+            "opponent": "DAL",
+            "result": "W",
+            "score": "122-92",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          },
+          {
+            "date": "2026-03-10",
+            "opponent": "HOU",
+            "result": "L",
+            "score": "99-113",
+            "quarters": [
+              24,
+              24,
+              24,
+              24
+            ],
+            "halves": [
+              48,
+              48
+            ]
+          },
+          {
+            "date": "2026-03-11",
+            "opponent": "NOP",
+            "result": "L",
+            "score": "111-122",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-13",
+            "opponent": "PHX",
+            "result": "W",
+            "score": "122-115",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          },
+          {
+            "date": "2026-03-15",
+            "opponent": "DET",
+            "result": "W",
+            "score": "119-108",
+            "quarters": [
+              29,
+              29,
+              29,
+              29
+            ],
+            "halves": [
+              58,
+              58
+            ]
+          }
+        ],
+        "shap_explanation": {
+          "adj_ortg_10": 0.01951630573668112,
+          "adj_drtg_10": -0.002032969002626288,
+          "adj_pace_10": 0.0020247070494089315,
+          "net_rating": 0.0009763869645536261,
+          "roll_efg_pct_10": 0.006736571295075322,
+          "roll_tov_pct_10": 0.00025180971760221384,
+          "roll_orb_pct_10": 0.0023003541356777647,
+          "roll_ft_rate_10": 0.006962915848964571,
+          "sos_10": -0.0019042884891173628,
+          "is_b2b": 0.0003282170532230566,
+          "p_pts": -0.0027024328394725217,
+          "p_reb": 0.007447245102808609,
+          "p_ast": -0.011439408256727575,
+          "p_stl": 0.00750189432709341,
+          "p_blk": 0.0015605000057995256,
+          "p_tov": -0.011106608031383872,
+          "p_pf": -0.010506855574779267,
+          "p_pm": -0.0036281401840230387,
+          "p_usage": 0.028032010753373485,
+          "p_eff": 0.008923881686016983,
+          "opp_adj_ortg_10": 0.0024839597149234295,
+          "opp_adj_drtg_10": -0.0066076492410780925,
+          "opp_sos_10": -0.007286053356605109,
+          "opp_is_b2b": -0.001027069751980889
+        },
+        "match_id": "0022501062",
+        "time": "TBD"
+      },
+      "ml_prob_A": 0.5607056617032964,
+      "mc_win_A": 0.577,
+      "shap_explanation": {
+        "adj_ortg_10": 0.01951630573668112,
+        "adj_drtg_10": -0.002032969002626288,
+        "adj_pace_10": 0.0020247070494089315,
+        "net_rating": 0.0009763869645536261,
+        "roll_efg_pct_10": 0.006736571295075322,
+        "roll_tov_pct_10": 0.00025180971760221384,
+        "roll_orb_pct_10": 0.0023003541356777647,
+        "roll_ft_rate_10": 0.006962915848964571,
+        "sos_10": -0.0019042884891173628,
+        "is_b2b": 0.0003282170532230566,
+        "p_pts": -0.0027024328394725217,
+        "p_reb": 0.007447245102808609,
+        "p_ast": -0.011439408256727575,
+        "p_stl": 0.00750189432709341,
+        "p_blk": 0.0015605000057995256,
+        "p_tov": -0.011106608031383872,
+        "p_pf": -0.010506855574779267,
+        "p_pm": -0.0036281401840230387,
+        "p_usage": 0.028032010753373485,
+        "p_eff": 0.008923881686016983,
+        "opp_adj_ortg_10": 0.0024839597149234295,
+        "opp_adj_drtg_10": -0.0066076492410780925,
+        "opp_sos_10": -0.007286053356605109,
+        "opp_is_b2b": -0.001027069751980889
+      },
+      "is_b2b_home": 0,
+      "is_b2b_away": 0,
+      "rest_home": 10,
+      "rest_away": 11
     }
   ]
 };
