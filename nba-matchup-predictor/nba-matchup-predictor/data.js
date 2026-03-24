@@ -43,7 +43,11 @@ const analyticsData = {
       "sos_10": -9.250098758164969,
       "latent_strength": 11.188497712009733,
       "form_state": 0,
+<<<<<<< HEAD
       "shooting_entropy": 3.3219280948873626,
+=======
+      "shooting_entropy": 3.321928094887362,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       "factors": {
         "efg": 0.5626566017838438,
         "tov": 0.11818843919910933,
@@ -230,8 +234,8 @@ const analyticsData = {
       "adj_pace_10": 100.58998487004719,
       "sos_10": 5.017274364988298,
       "latent_strength": -13.547446377571957,
-      "form_state": 0,
-      "shooting_entropy": 3.3219280948873626,
+      "form_state": 1,
+      "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.518543216502516,
         "tov": 0.16343091093443315,
@@ -418,8 +422,13 @@ const analyticsData = {
       "adj_pace_10": 96.89706179312411,
       "sos_10": -1.1461543075564808,
       "latent_strength": 7.091850752870968,
+<<<<<<< HEAD
       "form_state": 2,
       "shooting_entropy": 3.3219280948873626,
+=======
+      "form_state": 1,
+      "shooting_entropy": 3.321928094887362,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       "factors": {
         "efg": 0.5555151899161151,
         "tov": 0.1159373669197821,
@@ -606,8 +615,8 @@ const analyticsData = {
       "adj_pace_10": 99.61504835270482,
       "sos_10": -0.5873290595574725,
       "latent_strength": 8.583838975026982,
-      "form_state": 1,
-      "shooting_entropy": 3.3219280948873626,
+      "form_state": 0,
+      "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5501519471473828,
         "tov": 0.12141963932119418,
@@ -794,8 +803,13 @@ const analyticsData = {
       "adj_pace_10": 105.33777974184207,
       "sos_10": 0.12609118927576074,
       "latent_strength": -2.9535234490350355,
+<<<<<<< HEAD
       "form_state": 1,
       "shooting_entropy": 3.3219280948873626,
+=======
+      "form_state": 2,
+      "shooting_entropy": 3.321928094887362,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       "factors": {
         "efg": 0.551011335857835,
         "tov": 0.14594149888676644,
@@ -982,8 +996,13 @@ const analyticsData = {
       "adj_pace_10": 99.63426354257824,
       "sos_10": -1.5848900060583127,
       "latent_strength": 5.505910660887272,
+<<<<<<< HEAD
       "form_state": 0,
       "shooting_entropy": 3.3219280948873626,
+=======
+      "form_state": 1,
+      "shooting_entropy": 3.321928094887362,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       "factors": {
         "efg": 0.569235178964745,
         "tov": 0.11077883653280803,
@@ -1170,8 +1189,13 @@ const analyticsData = {
       "adj_pace_10": 102.44666860586938,
       "sos_10": 5.670759128668195,
       "latent_strength": -10.618255735009239,
+<<<<<<< HEAD
       "form_state": 2,
       "shooting_entropy": 3.3219280948873626,
+=======
+      "form_state": 0,
+      "shooting_entropy": 3.321928094887362,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       "factors": {
         "efg": 0.497388539687562,
         "tov": 0.13356192073100265,
@@ -1358,8 +1382,13 @@ const analyticsData = {
       "adj_pace_10": 104.27036480840103,
       "sos_10": 3.453082192613934,
       "latent_strength": 5.837411202872655,
+<<<<<<< HEAD
       "form_state": 2,
       "shooting_entropy": 3.3219280948873626,
+=======
+      "form_state": 1,
+      "shooting_entropy": 3.321928094887362,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       "factors": {
         "efg": 0.568796185515523,
         "tov": 0.12154140010866335,
@@ -1546,8 +1575,13 @@ const analyticsData = {
       "adj_pace_10": 100.27439512645745,
       "sos_10": -1.4079026901994962,
       "latent_strength": 7.5024314190974115,
+<<<<<<< HEAD
       "form_state": 0,
       "shooting_entropy": 3.3219280948873626,
+=======
+      "form_state": 2,
+      "shooting_entropy": 3.321928094887362,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       "factors": {
         "efg": 0.5496121611539099,
         "tov": 0.119577071549518,
@@ -1734,8 +1768,13 @@ const analyticsData = {
       "adj_pace_10": 100.78352333158567,
       "sos_10": -1.1071306320688743,
       "latent_strength": -2.8732842108687136,
+<<<<<<< HEAD
       "form_state": 1,
       "shooting_entropy": 3.3219280948873626,
+=======
+      "form_state": 0,
+      "shooting_entropy": 3.321928094887362,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       "factors": {
         "efg": 0.5309610017743458,
         "tov": 0.12095294231821625,
@@ -1922,8 +1961,13 @@ const analyticsData = {
       "adj_pace_10": 99.45042623199583,
       "sos_10": 1.6334978935257922,
       "latent_strength": -3.0522040387036955,
+<<<<<<< HEAD
       "form_state": 2,
       "shooting_entropy": 3.3219280948873626,
+=======
+      "form_state": 1,
+      "shooting_entropy": 3.321928094887362,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       "factors": {
         "efg": 0.5268050399579487,
         "tov": 0.14645450365704638,
@@ -2111,7 +2155,11 @@ const analyticsData = {
       "sos_10": 1.1798270763639958,
       "latent_strength": -13.733185111787689,
       "form_state": 2,
+<<<<<<< HEAD
       "shooting_entropy": 3.3219280948873626,
+=======
+      "shooting_entropy": 3.321928094887362,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       "factors": {
         "efg": 0.5337413513020539,
         "tov": 0.1288105340852691,
@@ -2298,8 +2346,13 @@ const analyticsData = {
       "adj_pace_10": 101.63788230594464,
       "sos_10": -0.24137154569838107,
       "latent_strength": 4.390603830960883,
+<<<<<<< HEAD
       "form_state": 1,
       "shooting_entropy": 3.3219280948873626,
+=======
+      "form_state": 0,
+      "shooting_entropy": 3.321928094887362,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       "factors": {
         "efg": 0.5780380005774381,
         "tov": 0.09988052785624454,
@@ -2486,8 +2539,8 @@ const analyticsData = {
       "adj_pace_10": 101.75295922902154,
       "sos_10": -2.7034910652100628,
       "latent_strength": 6.870047814537148,
-      "form_state": 2,
-      "shooting_entropy": 3.3219280948873626,
+      "form_state": 1,
+      "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5780753275432202,
         "tov": 0.11158933678254193,
@@ -2674,8 +2727,8 @@ const analyticsData = {
       "adj_pace_10": 103.37819246576208,
       "sos_10": -3.993266010038102,
       "latent_strength": -8.587878479366402,
-      "form_state": 2,
-      "shooting_entropy": 3.3219280948873626,
+      "form_state": 0,
+      "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5443658578662921,
         "tov": 0.1321596069385897,
@@ -2863,7 +2916,7 @@ const analyticsData = {
       "sos_10": -2.2285996537857087,
       "latent_strength": 3.346266748432738,
       "form_state": 1,
-      "shooting_entropy": 3.3219280948873626,
+      "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5384286060508854,
         "tov": 0.10878448158069254,
@@ -3050,8 +3103,13 @@ const analyticsData = {
       "adj_pace_10": 99.74608743414977,
       "sos_10": 2.0991903859160606,
       "latent_strength": -9.425415769640134,
+<<<<<<< HEAD
       "form_state": 1,
       "shooting_entropy": 3.3219280948873626,
+=======
+      "form_state": 2,
+      "shooting_entropy": 3.321928094887362,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       "factors": {
         "efg": 0.5528536475022033,
         "tov": 0.1383361461067417,
@@ -3238,8 +3296,8 @@ const analyticsData = {
       "adj_pace_10": 100.97059265650229,
       "sos_10": 2.600767743972654,
       "latent_strength": -1.9556884864469732,
-      "form_state": 2,
-      "shooting_entropy": 3.3219280948873626,
+      "form_state": 1,
+      "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5609039891841255,
         "tov": 0.14738721590019405,
@@ -3426,8 +3484,8 @@ const analyticsData = {
       "adj_pace_10": 103.81094708688204,
       "sos_10": -4.924666327714091,
       "latent_strength": 4.366050665867785,
-      "form_state": 0,
-      "shooting_entropy": 3.3219280948873626,
+      "form_state": 1,
+      "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5433758776892872,
         "tov": 0.12901185455829864,
@@ -3614,8 +3672,13 @@ const analyticsData = {
       "adj_pace_10": 99.22293524829601,
       "sos_10": -1.0037607266162287,
       "latent_strength": 10.342643187752282,
+<<<<<<< HEAD
       "form_state": 2,
       "shooting_entropy": 3.3219280948873626,
+=======
+      "form_state": 0,
+      "shooting_entropy": 3.321928094887362,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       "factors": {
         "efg": 0.5599335781178418,
         "tov": 0.12835313397666637,
@@ -3802,8 +3865,8 @@ const analyticsData = {
       "adj_pace_10": 102.50780784637571,
       "sos_10": 1.824814286493281,
       "latent_strength": 6.1475816204586655,
-      "form_state": 2,
-      "shooting_entropy": 3.3219280948873626,
+      "form_state": 1,
+      "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5213843052463358,
         "tov": 0.09811289459513786,
@@ -3991,7 +4054,7 @@ const analyticsData = {
       "sos_10": -0.47402304588076155,
       "latent_strength": 3.8521453438927282,
       "form_state": 2,
-      "shooting_entropy": 3.3219280948873626,
+      "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5409368307683738,
         "tov": 0.11518806144149815,
@@ -4178,8 +4241,13 @@ const analyticsData = {
       "adj_pace_10": 102.69821290966685,
       "sos_10": 1.7617539979661447,
       "latent_strength": -6.388660634860212,
+<<<<<<< HEAD
       "form_state": 0,
       "shooting_entropy": 3.3219280948873626,
+=======
+      "form_state": 1,
+      "shooting_entropy": 3.321928094887362,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       "factors": {
         "efg": 0.5010979297507788,
         "tov": 0.1240465240639588,
@@ -4367,7 +4435,11 @@ const analyticsData = {
       "sos_10": -3.7340221396635775,
       "latent_strength": -1.164924748401413,
       "form_state": 0,
+<<<<<<< HEAD
       "shooting_entropy": 3.3219280948873626,
+=======
+      "shooting_entropy": 3.321928094887362,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       "factors": {
         "efg": 0.5551261814109806,
         "tov": 0.117369043964513,
@@ -4554,8 +4626,13 @@ const analyticsData = {
       "adj_pace_10": 103.13666860586937,
       "sos_10": -2.63007257569559,
       "latent_strength": 1.2594966904526308,
+<<<<<<< HEAD
       "form_state": 2,
       "shooting_entropy": 3.3219280948873626,
+=======
+      "form_state": 0,
+      "shooting_entropy": 3.321928094887362,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       "factors": {
         "efg": 0.5278167610573037,
         "tov": 0.1490926400947112,
@@ -4930,8 +5007,13 @@ const analyticsData = {
       "adj_pace_10": 101.60993442865419,
       "sos_10": 3.510138994177261,
       "latent_strength": 11.701044463567804,
+<<<<<<< HEAD
       "form_state": 1,
       "shooting_entropy": 3.3219280948873626,
+=======
+      "form_state": 0,
+      "shooting_entropy": 3.321928094887362,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       "factors": {
         "efg": 0.5857406442859878,
         "tov": 0.11148269222701508,
@@ -5119,7 +5201,11 @@ const analyticsData = {
       "sos_10": 3.047519908876628,
       "latent_strength": 1.9461049922231322,
       "form_state": 2,
+<<<<<<< HEAD
       "shooting_entropy": 3.3219280948873626,
+=======
+      "shooting_entropy": 3.321928094887362,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       "factors": {
         "efg": 0.5427073718696395,
         "tov": 0.11476880066085389,
@@ -5306,8 +5392,13 @@ const analyticsData = {
       "adj_pace_10": 101.19152333158567,
       "sos_10": -1.5756467840982442,
       "latent_strength": -6.1037482940050465,
+<<<<<<< HEAD
       "form_state": 1,
       "shooting_entropy": 3.3219280948873626,
+=======
+      "form_state": 2,
+      "shooting_entropy": 3.321928094887362,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       "factors": {
         "efg": 0.5266638323672715,
         "tov": 0.12128744154923257,
@@ -5494,8 +5585,13 @@ const analyticsData = {
       "adj_pace_10": 104.29860025466257,
       "sos_10": 4.296150719322084,
       "latent_strength": -11.538579090957425,
+<<<<<<< HEAD
       "form_state": 0,
       "shooting_entropy": 3.3219280948873626,
+=======
+      "form_state": 2,
+      "shooting_entropy": 3.321928094887362,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       "factors": {
         "efg": 0.5667290749191511,
         "tov": 0.1440453646298851,
@@ -16010,7 +16106,7 @@ const analyticsData = {
       "std_reb": 2.3094010767585034,
       "std_ast": 3.0184617127124733,
       "std_stl": 1.349897115421105,
-      "std_blk": 0.9718253158075502,
+      "std_blk": 0.97182531580755,
       "std_tov": 0.9944289260117538,
       "roll_usage": 10.14,
       "roll_efficiency": 22.6
@@ -16240,7 +16336,7 @@ const analyticsData = {
       "std_reb": 2.3781411975649265,
       "std_ast": 2.366431913239846,
       "std_stl": 0.966091783079296,
-      "std_blk": 1.1972189997378648,
+      "std_blk": 1.1972189997378653,
       "std_tov": 1.2292725943057188,
       "roll_usage": 10.232000000000001,
       "roll_efficiency": 14.0
@@ -16378,7 +16474,7 @@ const analyticsData = {
       "std_reb": 2.270584848790186,
       "std_ast": 1.494434118097326,
       "std_stl": 0.31622776601683816,
-      "std_blk": 0.48304589153964794,
+      "std_blk": 0.48304589153964783,
       "std_tov": 0.7888106377466163,
       "roll_usage": 6.34,
       "roll_efficiency": 8.7
@@ -16400,7 +16496,7 @@ const analyticsData = {
       "std_pts": 3.433495141818157,
       "std_reb": 0.7071067811865486,
       "std_ast": 0.8755950357709126,
-      "std_stl": 0.6992058987801011,
+      "std_stl": 0.6992058987801005,
       "std_blk": 0.6992058987801011,
       "std_tov": 1.0327955589886444,
       "roll_usage": 7.328,
@@ -16447,7 +16543,7 @@ const analyticsData = {
       "std_reb": 2.8205594401741587,
       "std_ast": 2.013840995599096,
       "std_stl": 0.8755950357709129,
-      "std_blk": 0.9660917830792959,
+      "std_blk": 0.9660917830792958,
       "std_tov": 1.2649110640673513,
       "roll_usage": 24.284,
       "roll_efficiency": 25.7
@@ -16470,7 +16566,7 @@ const analyticsData = {
       "std_reb": 1.7763883459299004,
       "std_ast": 2.3570226039551576,
       "std_stl": 0.7888106377466155,
-      "std_blk": 0.674948557710553,
+      "std_blk": 0.6749485577105528,
       "std_tov": 0.8232726023485648,
       "roll_usage": 13.575999999999999,
       "roll_efficiency": 13.3
@@ -16562,7 +16658,7 @@ const analyticsData = {
       "std_reb": 1.1595018087284055,
       "std_ast": 1.5491933384829668,
       "std_stl": 0.8164965809277259,
-      "std_blk": 0.4216370213557839,
+      "std_blk": 0.42163702135578396,
       "std_tov": 1.07496769977314,
       "roll_usage": 16.172,
       "roll_efficiency": 13.2
@@ -16746,7 +16842,7 @@ const analyticsData = {
       "std_reb": 1.5951314818673838,
       "std_ast": 3.169297153067922,
       "std_stl": 1.509230856356236,
-      "std_blk": 0.483045891539648,
+      "std_blk": 0.4830458915396479,
       "std_tov": 1.5092308563562356,
       "roll_usage": 21.392000000000003,
       "roll_efficiency": 19.9
@@ -16815,7 +16911,7 @@ const analyticsData = {
       "std_reb": 1.3498971154211061,
       "std_ast": 1.6465452046971278,
       "std_stl": 0.8755950357709131,
-      "std_blk": 0.6324555320336759,
+      "std_blk": 0.632455532033676,
       "std_tov": 0.9718253158075492,
       "roll_usage": 10.867999999999999,
       "roll_efficiency": 11.6
@@ -16838,7 +16934,7 @@ const analyticsData = {
       "std_reb": 2.5927248643506737,
       "std_ast": 1.2692955176439848,
       "std_stl": 0.6992058987801009,
-      "std_blk": 0.42163702135578396,
+      "std_blk": 0.4216370213557838,
       "std_tov": 0.6992058987801004,
       "roll_usage": 4.872,
       "roll_efficiency": 7.1
@@ -16931,7 +17027,7 @@ const analyticsData = {
       "std_ast": 1.2472191289246475,
       "std_stl": 1.2472191289246473,
       "std_blk": 0.31622776601683805,
-      "std_tov": 0.7888106377466153,
+      "std_tov": 0.7888106377466152,
       "roll_usage": 10.443999999999999,
       "roll_efficiency": 9.5
     },
@@ -16999,7 +17095,7 @@ const analyticsData = {
       "std_reb": 1.6633299933166197,
       "std_ast": 1.7919573407620817,
       "std_stl": 0.7888106377466151,
-      "std_blk": 0.42163702135578396,
+      "std_blk": 0.4216370213557839,
       "std_tov": 1.1737877907772671,
       "roll_usage": 14.668000000000001,
       "roll_efficiency": 16.9
@@ -17069,7 +17165,7 @@ const analyticsData = {
       "std_ast": 1.5055453054181618,
       "std_stl": 1.1005049346146116,
       "std_blk": 0.4830458915396479,
-      "std_tov": 1.0327955589886444,
+      "std_tov": 1.0327955589886446,
       "roll_usage": 9.943999999999999,
       "roll_efficiency": 12.8
     },
@@ -17114,7 +17210,7 @@ const analyticsData = {
       "std_reb": 1.8135294011647258,
       "std_ast": 1.7919573407620835,
       "std_stl": 0.7071067811865478,
-      "std_blk": 0.42163702135578407,
+      "std_blk": 0.4216370213557843,
       "std_tov": 1.8378731669453614,
       "roll_usage": 19.552,
       "roll_efficiency": 22.0
@@ -17275,7 +17371,7 @@ const analyticsData = {
       "std_reb": 3.3349995835415385,
       "std_ast": 0.8755950357709145,
       "std_stl": 0.8498365855987979,
-      "std_blk": 0.6992058987801011,
+      "std_blk": 0.699205898780101,
       "std_tov": 0.8755950357709139,
       "roll_usage": 10.784,
       "roll_efficiency": 10.4
@@ -17413,7 +17509,7 @@ const analyticsData = {
       "std_reb": 2.1317702607092626,
       "std_ast": 1.6363916944844763,
       "std_stl": 0.8755950357709134,
-      "std_blk": 0.4216370213557839,
+      "std_blk": 0.42163702135578374,
       "std_tov": 1.4337208778404378,
       "roll_usage": 10.620000000000001,
       "roll_efficiency": 8.2
@@ -17436,7 +17532,7 @@ const analyticsData = {
       "std_reb": 3.2744804507314167,
       "std_ast": 2.0789954839350213,
       "std_stl": 0.6749485577105522,
-      "std_blk": 0.31622776601683794,
+      "std_blk": 0.31622776601683805,
       "std_tov": 1.6465452046971294,
       "roll_usage": 16.116,
       "roll_efficiency": 16.1
@@ -17551,7 +17647,7 @@ const analyticsData = {
       "std_reb": 1.3540064007726595,
       "std_ast": 0.6749485577105542,
       "std_stl": 0.7071067811865474,
-      "std_blk": 0.31622776601683794,
+      "std_blk": 0.31622776601683783,
       "std_tov": 0.7888106377466155,
       "roll_usage": 12.132,
       "roll_efficiency": 8.7
@@ -17712,7 +17808,7 @@ const analyticsData = {
       "std_reb": 1.5055453054181618,
       "std_ast": 1.1785113019775793,
       "std_stl": 0.699205898780101,
-      "std_blk": 0.31622776601683794,
+      "std_blk": 0.316227766016838,
       "std_tov": 0.7378647873726221,
       "roll_usage": 11.588,
       "roll_efficiency": 10.7
@@ -17735,7 +17831,7 @@ const analyticsData = {
       "std_reb": 1.4907119849998611,
       "std_ast": 1.1595018087284041,
       "std_stl": 1.0327955589886444,
-      "std_blk": 0.4216370213557839,
+      "std_blk": 0.42163702135578407,
       "std_tov": 0.816496580927726,
       "roll_usage": 7.272,
       "roll_efficiency": 8.7
@@ -17896,7 +17992,7 @@ const analyticsData = {
       "std_reb": 1.4757295747452432,
       "std_ast": 1.1595018087284066,
       "std_stl": 0.6992058987801013,
-      "std_blk": 0.6749485577105528,
+      "std_blk": 0.6749485577105527,
       "std_tov": 0.6992058987801006,
       "roll_usage": 7.4159999999999995,
       "roll_efficiency": 11.7
@@ -17942,7 +18038,7 @@ const analyticsData = {
       "std_reb": 1.9465068427541927,
       "std_ast": 0.8232726023485645,
       "std_stl": 0.9486832980505134,
-      "std_blk": 0.3162277660168376,
+      "std_blk": 0.316227766016838,
       "std_tov": 1.1352924243950935,
       "roll_usage": 9.088,
       "roll_efficiency": 10.0
@@ -17965,7 +18061,7 @@ const analyticsData = {
       "std_reb": 1.4757295747452441,
       "std_ast": 3.2335051500740737,
       "std_stl": 1.7126976771553506,
-      "std_blk": 0.6992058987801011,
+      "std_blk": 0.699205898780101,
       "std_tov": 1.178511301977579,
       "roll_usage": 9.344,
       "roll_efficiency": 7.5
@@ -18034,7 +18130,7 @@ const analyticsData = {
       "std_reb": 2.4129281427805154,
       "std_ast": 2.0655911179772892,
       "std_stl": 0.9428090415820634,
-      "std_blk": 0.316227766016838,
+      "std_blk": 0.31622776601683783,
       "std_tov": 1.229272594305718,
       "roll_usage": 17.384,
       "roll_efficiency": 19.1
@@ -18218,7 +18314,7 @@ const analyticsData = {
       "std_reb": 1.4944341180973242,
       "std_ast": 1.9002923751652294,
       "std_stl": 1.1785113019775788,
-      "std_blk": 0.4216370213557839,
+      "std_blk": 0.42163702135578396,
       "std_tov": 0.7888106377466155,
       "roll_usage": 7.164,
       "roll_efficiency": 9.2
@@ -18286,7 +18382,7 @@ const analyticsData = {
       "std_pts": 8.403702887550358,
       "std_reb": 1.4757295747452455,
       "std_ast": 2.0439612955674513,
-      "std_stl": 1.3703203194062976,
+      "std_stl": 1.370320319406298,
       "std_blk": 0.8164965809277258,
       "std_tov": 2.6331223544175333,
       "roll_usage": 23.119999999999997,
@@ -18425,7 +18521,7 @@ const analyticsData = {
       "std_reb": 1.5491933384829664,
       "std_ast": 1.3540064007726602,
       "std_stl": 0.6749485577105528,
-      "std_blk": 0.4216370213557839,
+      "std_blk": 0.42163702135578396,
       "std_tov": 1.1352924243950933,
       "roll_usage": 4.8,
       "roll_efficiency": 5.9
@@ -18471,7 +18567,7 @@ const analyticsData = {
       "std_reb": 1.828782229912693,
       "std_ast": 1.1005049346146119,
       "std_stl": 0.6992058987801005,
-      "std_blk": 0.31622776601683794,
+      "std_blk": 0.31622776601683783,
       "std_tov": 0.0,
       "roll_usage": 3.088,
       "roll_efficiency": 4.0
@@ -18654,9 +18750,9 @@ const analyticsData = {
       "std_pts": 2.347575581554532,
       "std_reb": 2.233582075700128,
       "std_ast": 1.5491933384829668,
-      "std_stl": 0.42163702135578396,
+      "std_stl": 0.42163702135578357,
       "std_blk": 0.6749485577105528,
-      "std_tov": 0.9660917830792959,
+      "std_tov": 0.9660917830792958,
       "roll_usage": 7.772,
       "roll_efficiency": 9.1
     },
@@ -18724,7 +18820,7 @@ const analyticsData = {
       "std_reb": 1.728840330651992,
       "std_ast": 1.4181364924121767,
       "std_stl": 1.577621275493231,
-      "std_blk": 0.5163977794943223,
+      "std_blk": 0.5163977794943224,
       "std_tov": 1.911950719959997,
       "roll_usage": 27.04,
       "roll_efficiency": 23.1
@@ -18747,7 +18843,7 @@ const analyticsData = {
       "std_reb": 2.0027758514399743,
       "std_ast": 2.170509412813294,
       "std_stl": 0.7378647873726216,
-      "std_blk": 0.6324555320336759,
+      "std_blk": 0.6324555320336755,
       "std_tov": 1.0801234497346437,
       "roll_usage": 24.552,
       "roll_efficiency": 30.7
@@ -18908,7 +19004,7 @@ const analyticsData = {
       "std_reb": 2.110818693198343,
       "std_ast": 1.9436506316150999,
       "std_stl": 1.3165611772087666,
-      "std_blk": 0.31622776601683794,
+      "std_blk": 0.31622776601683805,
       "std_tov": 1.054092553389459,
       "roll_usage": 6.587999999999999,
       "roll_efficiency": 13.9
@@ -19161,7 +19257,7 @@ const analyticsData = {
       "std_reb": 2.368778400591982,
       "std_ast": 1.3984117975602015,
       "std_stl": 1.0327955589886448,
-      "std_blk": 0.3162277660168379,
+      "std_blk": 0.3162277660168369,
       "std_tov": 0.9486832980505134,
       "roll_usage": 6.924000000000001,
       "roll_efficiency": 7.5
@@ -19206,7 +19302,7 @@ const analyticsData = {
       "std_pts": 5.45791983166562,
       "std_reb": 2.1730674684008844,
       "std_ast": 0.6666666666666663,
-      "std_stl": 0.7071067811865481,
+      "std_stl": 0.7071067811865477,
       "std_blk": 0.6992058987801011,
       "std_tov": 0.816496580927726,
       "roll_usage": 10.58,
@@ -19713,7 +19809,7 @@ const analyticsData = {
       "std_reb": 1.2292725943057097,
       "std_ast": 2.213594362117866,
       "std_stl": 0.9189365834726816,
-      "std_blk": 0.48304589153964794,
+      "std_blk": 0.48304589153964766,
       "std_tov": 1.7763883459298975,
       "roll_usage": 12.004000000000001,
       "roll_efficiency": 14.4
@@ -19759,8 +19855,8 @@ const analyticsData = {
       "std_reb": 3.3730961708462712,
       "std_ast": 2.6997942308422114,
       "std_stl": 0.9486832980505139,
-      "std_blk": 0.3162277660168374,
-      "std_tov": 0.699205898780101,
+      "std_blk": 0.31622776601683705,
+      "std_tov": 0.6992058987801008,
       "roll_usage": 9.676,
       "roll_efficiency": 9.0
     },
@@ -19943,7 +20039,7 @@ const analyticsData = {
       "std_reb": 2.250925735484552,
       "std_ast": 1.6996731711975976,
       "std_stl": 0.6324555320336754,
-      "std_blk": 0.31622776601683794,
+      "std_blk": 0.3162277660168388,
       "std_tov": 0.8164965809277258,
       "roll_usage": 9.784,
       "roll_efficiency": 11.7
@@ -20081,7 +20177,7 @@ const analyticsData = {
       "std_reb": 0.9189365834726816,
       "std_ast": 1.4181364924121747,
       "std_stl": 0.7071067811865474,
-      "std_blk": 0.7071067811865476,
+      "std_blk": 0.7071067811865475,
       "std_tov": 0.5270462766947298,
       "roll_usage": 3.5760000000000005,
       "roll_efficiency": 3.3
@@ -20334,7 +20430,7 @@ const analyticsData = {
       "std_reb": 1.7919573407620812,
       "std_ast": 3.6347092196090607,
       "std_stl": 0.9428090415820632,
-      "std_blk": 0.31622776601683794,
+      "std_blk": 0.316227766016838,
       "std_tov": 1.7669811040931425,
       "roll_usage": 24.24,
       "roll_efficiency": 24.0
@@ -20427,7 +20523,7 @@ const analyticsData = {
       "std_ast": 1.8737959096740244,
       "std_stl": 1.5634719199411424,
       "std_blk": 1.0540925533894596,
-      "std_tov": 0.7378647873726218,
+      "std_tov": 0.7378647873726216,
       "roll_usage": 11.552000000000001,
       "roll_efficiency": 11.6
     },
@@ -20518,7 +20614,7 @@ const analyticsData = {
       "std_reb": 1.7919573407620815,
       "std_ast": 0.8755950357709134,
       "std_stl": 0.42163702135578385,
-      "std_blk": 0.31622776601683794,
+      "std_blk": 0.31622776601683805,
       "std_tov": 0.9944289260117531,
       "roll_usage": 7.188,
       "roll_efficiency": 4.6
@@ -20679,7 +20775,7 @@ const analyticsData = {
       "std_reb": 1.8529256146249733,
       "std_ast": 1.2866839377079184,
       "std_stl": 0.6992058987801013,
-      "std_blk": 0.6324555320336759,
+      "std_blk": 0.6324555320336757,
       "std_tov": 0.9189365834726816,
       "roll_usage": 8.816,
       "roll_efficiency": 5.6
@@ -20817,7 +20913,7 @@ const analyticsData = {
       "std_reb": 2.0976176963403037,
       "std_ast": 2.250925735484551,
       "std_stl": 1.3165611772087669,
-      "std_blk": 0.31622776601683794,
+      "std_blk": 0.31622776601683933,
       "std_tov": 1.1595018087284072,
       "roll_usage": 17.976,
       "roll_efficiency": 23.0
@@ -20977,8 +21073,8 @@ const analyticsData = {
       "std_pts": 4.452215428550403,
       "std_reb": 1.9436506316151012,
       "std_ast": 0.8164965809277261,
-      "std_stl": 0.4216370213557839,
-      "std_blk": 0.4830458915396479,
+      "std_stl": 0.421637021355784,
+      "std_blk": 0.4830458915396478,
       "std_tov": 0.699205898780101,
       "roll_usage": 7.284000000000001,
       "roll_efficiency": 7.7
@@ -21024,7 +21120,7 @@ const analyticsData = {
       "std_reb": 2.514402955419482,
       "std_ast": 2.898275349237888,
       "std_stl": 1.7029386365926404,
-      "std_blk": 0.9428090415820632,
+      "std_blk": 0.9428090415820634,
       "std_tov": 1.897366596101027,
       "roll_usage": 29.48,
       "roll_efficiency": 25.6
@@ -21093,7 +21189,7 @@ const analyticsData = {
       "std_reb": 2.1499353995462798,
       "std_ast": 1.2692955176439893,
       "std_stl": 0.9428090415820636,
-      "std_blk": 0.4216370213557839,
+      "std_blk": 0.4216370213557843,
       "std_tov": 1.1972189997378646,
       "roll_usage": 17.656,
       "roll_efficiency": 14.7
@@ -21207,7 +21303,7 @@ const analyticsData = {
       "std_pts": 2.828427124746191,
       "std_reb": 2.043961295567453,
       "std_ast": 1.429840705968481,
-      "std_stl": 0.6749485577105528,
+      "std_stl": 0.6749485577105531,
       "std_blk": 0.9944289260117534,
       "std_tov": 1.5055453054181622,
       "roll_usage": 8.892,
@@ -21254,7 +21350,7 @@ const analyticsData = {
       "std_reb": 1.8135294011647265,
       "std_ast": 3.164033993355809,
       "std_stl": 0.8432740427115678,
-      "std_blk": 0.5163977794943223,
+      "std_blk": 0.5163977794943222,
       "std_tov": 1.9119507199599983,
       "roll_usage": 27.508,
       "roll_efficiency": 22.7
@@ -21300,7 +21396,7 @@ const analyticsData = {
       "std_reb": 2.1628170930011117,
       "std_ast": 2.7264140062238043,
       "std_stl": 0.7378647873726216,
-      "std_blk": 0.4216370213557839,
+      "std_blk": 0.42163702135578385,
       "std_tov": 0.7888106377466152,
       "roll_usage": 11.008,
       "roll_efficiency": 14.9
@@ -21461,7 +21557,7 @@ const analyticsData = {
       "std_reb": 3.3730961708462712,
       "std_ast": 0.7378647873726236,
       "std_stl": 0.6749485577105527,
-      "std_blk": 0.4216370213557839,
+      "std_blk": 0.421637021355784,
       "std_tov": 0.4216370213557837,
       "roll_usage": 4.576,
       "roll_efficiency": 7.4
@@ -21484,7 +21580,7 @@ const analyticsData = {
       "std_reb": 2.5841396591085743,
       "std_ast": 0.9660917830792957,
       "std_stl": 1.8408935028645435,
-      "std_blk": 0.5163977794943221,
+      "std_blk": 0.5163977794943223,
       "std_tov": 1.2516655570345734,
       "roll_usage": 13.336000000000002,
       "roll_efficiency": 11.6
@@ -21530,7 +21626,7 @@ const analyticsData = {
       "std_reb": 2.2827858224351885,
       "std_ast": 1.2692955176439846,
       "std_stl": 1.2292725943057186,
-      "std_blk": 0.31622776601683794,
+      "std_blk": 0.316227766016838,
       "std_tov": 1.5951314818673865,
       "roll_usage": 21.220000000000002,
       "roll_efficiency": 15.9
@@ -21553,7 +21649,7 @@ const analyticsData = {
       "std_reb": 2.118699810942759,
       "std_ast": 2.9981475762358474,
       "std_stl": 0.5676462121975466,
-      "std_blk": 0.4216370213557839,
+      "std_blk": 0.421637021355784,
       "std_tov": 0.9189365834726823,
       "roll_usage": 17.348000000000003,
       "roll_efficiency": 19.5
@@ -21829,7 +21925,7 @@ const analyticsData = {
       "std_reb": 3.900142447540998,
       "std_ast": 3.3082388735465353,
       "std_stl": 1.5670212364724214,
-      "std_blk": 0.4216370213557839,
+      "std_blk": 0.42163702135578424,
       "std_tov": 1.7795130420052188,
       "roll_usage": 17.796,
       "roll_efficiency": 18.4
@@ -21990,7 +22086,7 @@ const analyticsData = {
       "std_reb": 3.4075080500434787,
       "std_ast": 2.7988092706244436,
       "std_stl": 0.6992058987801015,
-      "std_blk": 0.4216370213557838,
+      "std_blk": 0.4216370213557837,
       "std_tov": 1.8135294011647283,
       "roll_usage": 15.912,
       "roll_efficiency": 20.9
@@ -22059,7 +22155,7 @@ const analyticsData = {
       "std_reb": 1.2292725943057186,
       "std_ast": 1.9550504398153565,
       "std_stl": 1.0327955589886442,
-      "std_blk": 0.4216370213557839,
+      "std_blk": 0.42163702135578374,
       "std_tov": 0.8432740427115674,
       "roll_usage": 11.06,
       "roll_efficiency": 15.9
@@ -22082,7 +22178,7 @@ const analyticsData = {
       "std_reb": 2.5407785333546022,
       "std_ast": 1.0593499054713809,
       "std_stl": 0.6324555320336757,
-      "std_blk": 0.31622776601683794,
+      "std_blk": 0.31622776601683816,
       "std_tov": 1.0749676997731403,
       "roll_usage": 10.208,
       "roll_efficiency": 10.5
@@ -22312,7 +22408,7 @@ const analyticsData = {
       "std_reb": 1.05934990547138,
       "std_ast": 1.7795130420052196,
       "std_stl": 0.707106781186546,
-      "std_blk": 0.4216370213557839,
+      "std_blk": 0.42163702135578385,
       "std_tov": 1.1352924243950935,
       "roll_usage": 7.116,
       "roll_efficiency": 7.0
@@ -22634,7 +22730,7 @@ const analyticsData = {
       "std_reb": 1.2649110640673527,
       "std_ast": 1.8287822299126941,
       "std_stl": 1.1352924243950933,
-      "std_blk": 0.31622776601683794,
+      "std_blk": 0.31622776601683805,
       "std_tov": 1.49071198499986,
       "roll_usage": 14.88,
       "roll_efficiency": 13.2
@@ -22749,7 +22845,7 @@ const analyticsData = {
       "std_reb": 1.5951314818673814,
       "std_ast": 2.097617696340306,
       "std_stl": 0.6992058987801005,
-      "std_blk": 0.42163702135578407,
+      "std_blk": 0.42163702135578374,
       "std_tov": 2.0682789409984754,
       "roll_usage": 9.628,
       "roll_efficiency": 13.9
@@ -22841,7 +22937,7 @@ const analyticsData = {
       "std_reb": 2.1705094128132942,
       "std_ast": 1.8378731669453627,
       "std_stl": 0.9486832980505139,
-      "std_blk": 0.31622776601683794,
+      "std_blk": 0.31622776601683783,
       "std_tov": 1.247219128924647,
       "roll_usage": 13.092000000000002,
       "roll_efficiency": 11.2
@@ -22862,6 +22958,7 @@ const analyticsData = {
           "ptsB": 112.05838536362137,
           "total": 230.32753193211653,
           "spread": -6.210761204873791,
+<<<<<<< HEAD
           "win_prob_A": 46.761933455062014,
           "ml_prob_A": 0.6162759144276383,
           "mc_win_A": 0.6358,
@@ -22879,17 +22976,42 @@ const analyticsData = {
               "hdp": 208.5,
               "over": "1.11",
               "under": "5.96"
+=======
+          "win_prob_A": 47.38672277372917,
+          "ml_prob_A": 0.6162759144276383,
+          "mc_win_A": 0.6516,
+          "market": {
+            "ml": {
+              "home": "1.07",
+              "away": "9.00"
+            },
+            "spread": {
+              "hdp": -17.5,
+              "home": "1.95",
+              "away": "1.87"
+            },
+            "total": {
+              "hdp": 230.5,
+              "over": "1.93",
+              "under": "1.89"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             },
             "props": [
               {
                 "label": "Miles Bridges (Assists)",
                 "hdp": 2.5,
+<<<<<<< HEAD
                 "over": "2.02",
                 "under": "1.75"
+=======
+                "over": "2.07",
+                "under": "1.71"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Kon Knueppel (Assists)",
                 "hdp": 2.5,
+<<<<<<< HEAD
                 "over": "1.63",
                 "under": "2.20"
               },
@@ -22898,30 +23020,60 @@ const analyticsData = {
                 "hdp": 4.5,
                 "over": "1.65",
                 "under": "2.17"
+=======
+                "over": "1.66",
+                "under": "2.15"
+              },
+              {
+                "label": "DeMar DeRozan (Assists)",
+                "hdp": 5.5,
+                "over": "2.12",
+                "under": "1.68"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Maxime Raynaud (Assists)",
                 "hdp": 1.5,
+<<<<<<< HEAD
                 "over": "1.56",
                 "under": "2.36"
+=======
+                "over": "1.59",
+                "under": "2.28"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Malik Monk (Assists)",
                 "hdp": 4.5,
+<<<<<<< HEAD
                 "over": "2.10",
                 "under": "1.69"
+=======
+                "over": "2.02",
+                "under": "1.75"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Precious Achiuwa (Assists)",
                 "hdp": 1.5,
+<<<<<<< HEAD
                 "over": "1.91",
                 "under": "1.84"
+=======
+                "over": "1.99",
+                "under": "1.76"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Killian Hayes (Assists)",
                 "hdp": 4.5,
+<<<<<<< HEAD
                 "over": "1.75",
                 "under": "2.01"
+=======
+                "over": "1.78",
+                "under": "1.97"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "LaMelo Ball (Assists)",
@@ -22932,44 +23084,79 @@ const analyticsData = {
               {
                 "label": "Brandon Miller (Assists)",
                 "hdp": 3.5,
+<<<<<<< HEAD
                 "over": "1.77",
                 "under": "1.99"
+=======
+                "over": "1.74",
+                "under": "2.02"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Moussa Diabat\u00e9 (Assists)",
                 "hdp": 2.5,
+<<<<<<< HEAD
                 "over": "2.37",
                 "under": "1.55"
+=======
+                "over": "2.32",
+                "under": "1.57"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Coby White (Assists)",
                 "hdp": 3.5,
+<<<<<<< HEAD
                 "over": "1.71",
                 "under": "2.06"
+=======
+                "over": "1.68",
+                "under": "2.11"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Moussa Diabat\u00e9 (Rebounds)",
                 "hdp": 9.5,
+<<<<<<< HEAD
                 "over": "1.72",
                 "under": "2.06"
+=======
+                "over": "1.74",
+                "under": "2.03"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Brandon Miller (Rebounds)",
                 "hdp": 5.5,
+<<<<<<< HEAD
                 "over": "2.13",
                 "under": "1.67"
+=======
+                "over": "2.09",
+                "under": "1.69"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Sion James (Rebounds)",
                 "hdp": 3.5,
+<<<<<<< HEAD
                 "over": "2.07",
                 "under": "1.71"
+=======
+                "over": "2.03",
+                "under": "1.74"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Kon Knueppel (Rebounds)",
                 "hdp": 4.5,
+<<<<<<< HEAD
                 "over": "2.03",
                 "under": "1.74"
+=======
+                "over": "1.93",
+                "under": "1.81"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Grant Williams (Rebounds)",
@@ -22980,12 +23167,18 @@ const analyticsData = {
               {
                 "label": "LaMelo Ball (Rebounds)",
                 "hdp": 4.5,
+<<<<<<< HEAD
                 "over": "1.94",
                 "under": "1.81"
+=======
+                "over": "1.88",
+                "under": "1.86"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Maxime Raynaud (Rebounds)",
                 "hdp": 8.5,
+<<<<<<< HEAD
                 "over": "1.74",
                 "under": "2.02"
               },
@@ -22993,11 +23186,15 @@ const analyticsData = {
                 "label": "Dylan Cardwell (Rebounds)",
                 "hdp": 6.5,
                 "over": "1.71",
+=======
+                "over": "1.72",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "2.06"
               },
               {
                 "label": "Miles Bridges (Rebounds)",
                 "hdp": 5.5,
+<<<<<<< HEAD
                 "over": "2.14",
                 "under": "1.67"
               },
@@ -23006,46 +23203,93 @@ const analyticsData = {
                 "hdp": 7.5,
                 "over": "1.70",
                 "under": "2.09"
+=======
+                "over": "2.16",
+                "under": "1.65"
+              },
+              {
+                "label": "Precious Achiuwa (Rebounds)",
+                "hdp": 8.5,
+                "over": "1.95",
+                "under": "1.80"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Ryan Kalkbrenner (Rebounds)",
                 "hdp": 4.5,
+<<<<<<< HEAD
                 "over": "1.81",
                 "under": "1.93"
+=======
+                "over": "1.78",
+                "under": "1.97"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "DeMar DeRozan (Points)",
                 "hdp": 16.5,
+<<<<<<< HEAD
                 "over": "1.93",
                 "under": "1.84"
               },
               {
                 "label": "Moussa Diabat\u00e9 (Points)",
                 "hdp": 8.5,
+=======
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "over": "1.96",
                 "under": "1.81"
               },
               {
+<<<<<<< HEAD
                 "label": "Killian Hayes (Points)",
                 "hdp": 7.5,
                 "over": "1.79",
                 "under": "2.00"
+=======
+                "label": "Moussa Diabat\u00e9 (Points)",
+                "hdp": 8.5,
+                "over": "2.10",
+                "under": "1.71"
+              },
+              {
+                "label": "Killian Hayes (Points)",
+                "hdp": 7.5,
+                "over": "1.87",
+                "under": "1.91"
+              },
+              {
+                "label": "Grant Williams (Points)",
+                "hdp": 6.5,
+                "over": "2.05",
+                "under": "1.75"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Precious Achiuwa (Points)",
                 "hdp": 13.5,
                 "over": "1.93",
+<<<<<<< HEAD
                 "under": "1.84"
+=======
+                "under": "1.85"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "LaMelo Ball (Points)",
                 "hdp": 20.5,
+<<<<<<< HEAD
                 "over": "1.83",
                 "under": "1.95"
+=======
+                "over": "1.95",
+                "under": "1.83"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Miles Bridges (Points)",
                 "hdp": 14.5,
+<<<<<<< HEAD
                 "over": "1.81",
                 "under": "1.96"
               },
@@ -23058,30 +23302,62 @@ const analyticsData = {
               {
                 "label": "Brandon Miller (Points)",
                 "hdp": 20.5,
+=======
+                "over": "1.94",
+                "under": "1.83"
+              },
+              {
+                "label": "Coby White (Points)",
+                "hdp": 15.5,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "over": "1.88",
                 "under": "1.89"
               },
               {
+<<<<<<< HEAD
                 "label": "Ryan Kalkbrenner (Points)",
                 "hdp": 6.5,
                 "over": "1.81",
                 "under": "1.96"
+=======
+                "label": "Brandon Miller (Points)",
+                "hdp": 20.5,
+                "over": "1.90",
+                "under": "1.87"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Points)",
+                "hdp": 6.5,
+                "over": "1.97",
+                "under": "1.81"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Malik Monk (Points)",
                 "hdp": 15.5,
+<<<<<<< HEAD
                 "over": "1.96",
                 "under": "1.82"
+=======
+                "over": "1.92",
+                "under": "1.85"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Kon Knueppel (Points)",
                 "hdp": 18.5,
+<<<<<<< HEAD
                 "over": "1.81",
                 "under": "1.97"
+=======
+                "over": "1.97",
+                "under": "1.81"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Dylan Cardwell (Points)",
                 "hdp": 5.5,
+<<<<<<< HEAD
                 "over": "1.71",
                 "under": "2.10"
               },
@@ -23090,6 +23366,16 @@ const analyticsData = {
                 "hdp": 16.5,
                 "over": "1.81",
                 "under": "1.97"
+=======
+                "over": "1.75",
+                "under": "2.04"
+              },
+              {
+                "label": "Maxime Raynaud (Points)",
+                "hdp": 17.5,
+                "over": "1.93",
+                "under": "1.84"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "LaMelo Ball (Steals)",
@@ -23100,71 +23386,125 @@ const analyticsData = {
               {
                 "label": "Precious Achiuwa (Steals)",
                 "hdp": 0.5,
+<<<<<<< HEAD
                 "over": "1.44",
                 "under": "2.67"
+=======
+                "over": "1.46",
+                "under": "2.63"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Brandon Miller (Steals)",
                 "hdp": 1.5,
+<<<<<<< HEAD
                 "over": "2.70",
                 "under": "1.44"
+=======
+                "over": "2.76",
+                "under": "1.42"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Brandon Miller (3 Point FG)",
                 "hdp": 3.5,
+<<<<<<< HEAD
                 "over": "2.28",
                 "under": "1.59"
+=======
+                "over": "2.32",
+                "under": "1.57"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Coby White (3 Point FG)",
                 "hdp": 2.5,
+<<<<<<< HEAD
                 "over": "2.39",
                 "under": "1.54"
+=======
+                "over": "2.18",
+                "under": "1.64"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Malik Monk (3 Point FG)",
                 "hdp": 2.5,
+<<<<<<< HEAD
                 "over": "2.24",
                 "under": "1.61"
+=======
+                "over": "2.17",
+                "under": "1.65"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Precious Achiuwa (3 Point FG)",
                 "hdp": 0.5,
+<<<<<<< HEAD
                 "over": "2.10",
                 "under": "1.69"
+=======
+                "over": "2.23",
+                "under": "1.62"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "LaMelo Ball (3 Point FG)",
                 "hdp": 3.5,
                 "over": "1.70",
+<<<<<<< HEAD
                 "under": "2.08"
+=======
+                "under": "2.09"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Maxime Raynaud (3 Point FG)",
                 "hdp": 0.5,
+<<<<<<< HEAD
                 "over": "2.70",
                 "under": "1.44"
+=======
+                "over": "2.78",
+                "under": "1.42"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Miles Bridges (3 Point FG)",
                 "hdp": 1.5,
+<<<<<<< HEAD
                 "over": "1.78",
                 "under": "1.97"
+=======
+                "over": "1.79",
+                "under": "1.96"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Kon Knueppel (3 Point FG)",
                 "hdp": 3.5,
+<<<<<<< HEAD
                 "over": "1.88",
                 "under": "1.86"
+=======
+                "over": "1.84",
+                "under": "1.91"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Grant Williams (3 Point FG)",
                 "hdp": 1.5,
+<<<<<<< HEAD
                 "over": "2.29",
+=======
+                "over": "2.30",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "1.58"
               },
               {
                 "label": "Killian Hayes (Pts+Asts)",
+<<<<<<< HEAD
                 "hdp": 13.5,
                 "over": "1.98",
                 "under": "1.78"
@@ -23189,25 +23529,64 @@ const analyticsData = {
               },
               {
                 "label": "Malik Monk (Pts+Asts)",
+=======
+                "hdp": 12.5,
+                "over": "1.78",
+                "under": "1.97"
+              },
+              {
+                "label": "Miles Bridges (Pts+Asts)",
+                "hdp": 16.5,
+                "over": "1.79",
+                "under": "1.96"
+              },
+              {
+                "label": "Coby White (Pts+Asts)",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "hdp": 19.5,
                 "over": "1.85",
                 "under": "1.89"
               },
               {
+<<<<<<< HEAD
                 "label": "Precious Achiuwa (Pts+Asts)",
                 "hdp": 15.5,
                 "over": "1.96",
                 "under": "1.79"
+=======
+                "label": "LaMelo Ball (Pts+Asts)",
+                "hdp": 27.5,
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "Malik Monk (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "1.79",
+                "under": "1.95"
+              },
+              {
+                "label": "Precious Achiuwa (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "1.79",
+                "under": "1.95"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Brandon Miller (Pts+Asts)",
                 "hdp": 24.5,
+<<<<<<< HEAD
                 "over": "1.86",
                 "under": "1.88"
+=======
+                "over": "1.85",
+                "under": "1.89"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Moussa Diabat\u00e9 (Pts+Asts)",
                 "hdp": 10.5,
+<<<<<<< HEAD
                 "over": "1.84",
                 "under": "1.91"
               },
@@ -23222,10 +23601,27 @@ const analyticsData = {
                 "hdp": 22.5,
                 "over": "1.96",
                 "under": "1.79"
+=======
+                "over": "1.93",
+                "under": "1.82"
+              },
+              {
+                "label": "Maxime Raynaud (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "1.90",
+                "under": "1.85"
+              },
+              {
+                "label": "Kon Knueppel (Pts+Asts)",
+                "hdp": 21.5,
+                "over": "1.94",
+                "under": "1.80"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "DeMar DeRozan (Pts+Asts)",
                 "hdp": 21.5,
+<<<<<<< HEAD
                 "over": "1.88",
                 "under": "1.86"
               },
@@ -23246,34 +23642,71 @@ const analyticsData = {
                 "hdp": 7.5,
                 "over": "2.08",
                 "under": "1.70"
+=======
+                "over": "1.91",
+                "under": "1.84"
+              },
+              {
+                "label": "Brandon Miller (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "2.06",
+                "under": "1.72"
+              },
+              {
+                "label": "Maxime Raynaud (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "2.04",
+                "under": "1.73"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Kon Knueppel (Rebs+Asts)",
                 "hdp": 7.5,
+<<<<<<< HEAD
                 "over": "1.95",
                 "under": "1.80"
+=======
+                "over": "1.96",
+                "under": "1.79"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Moussa Diabat\u00e9 (Rebs+Asts)",
                 "hdp": 12.5,
+<<<<<<< HEAD
                 "over": "1.98",
                 "under": "1.78"
+=======
+                "over": "2.00",
+                "under": "1.76"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Precious Achiuwa (Rebs+Asts)",
                 "hdp": 9.5,
+<<<<<<< HEAD
                 "over": "1.79",
                 "under": "1.95"
+=======
+                "over": "1.72",
+                "under": "2.05"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Miles Bridges (Rebs+Asts)",
                 "hdp": 7.5,
+<<<<<<< HEAD
                 "over": "1.81",
                 "under": "1.94"
+=======
+                "over": "1.87",
+                "under": "1.88"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "LaMelo Ball (Rebs+Asts)",
                 "hdp": 11.5,
+<<<<<<< HEAD
                 "over": "1.86",
                 "under": "1.88"
               },
@@ -23310,18 +23743,64 @@ const analyticsData = {
               {
                 "label": "Brandon Miller (Pts+Rebs+Asts)",
                 "hdp": 29.5,
+=======
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "over": "1.81",
                 "under": "1.93"
               },
               {
+<<<<<<< HEAD
                 "label": "Moussa Diabat\u00e9 (Pts+Rebs+Asts)",
                 "hdp": 20.5,
                 "over": "1.81",
                 "under": "1.94"
+=======
+                "label": "Miles Bridges (Pts+Rebs+Asts)",
+                "hdp": 22.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Kon Knueppel (Pts+Rebs+Asts)",
+                "hdp": 25.5,
+                "over": "1.82",
+                "under": "1.93"
+              },
+              {
+                "label": "LaMelo Ball (Pts+Rebs+Asts)",
+                "hdp": 32.5,
+                "over": "1.92",
+                "under": "1.83"
+              },
+              {
+                "label": "Precious Achiuwa (Pts+Rebs+Asts)",
+                "hdp": 23.5,
+                "over": "1.85",
+                "under": "1.89"
+              },
+              {
+                "label": "Maxime Raynaud (Pts+Rebs+Asts)",
+                "hdp": 28.5,
+                "over": "1.87",
+                "under": "1.88"
+              },
+              {
+                "label": "Brandon Miller (Pts+Rebs+Asts)",
+                "hdp": 29.5,
+                "over": "1.79",
+                "under": "1.96"
+              },
+              {
+                "label": "Moussa Diabat\u00e9 (Pts+Rebs+Asts)",
+                "hdp": 20.5,
+                "over": "1.88",
+                "under": "1.85"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Ryan Kalkbrenner (Pts+Rebs)",
                 "hdp": 11.5,
+<<<<<<< HEAD
                 "over": "1.79",
                 "under": "1.95"
               },
@@ -23330,11 +23809,22 @@ const analyticsData = {
                 "hdp": 25.5,
                 "over": "1.88",
                 "under": "1.85"
+=======
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "LaMelo Ball (Pts+Rebs)",
+                "hdp": 24.5,
+                "over": "1.81",
+                "under": "1.93"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Grant Williams (Pts+Rebs)",
                 "hdp": 9.5,
                 "over": "1.81",
+<<<<<<< HEAD
                 "under": "1.94"
               },
               {
@@ -23342,11 +23832,21 @@ const analyticsData = {
                 "hdp": 23.5,
                 "over": "1.87",
                 "under": "1.88"
+=======
+                "under": "1.93"
+              },
+              {
+                "label": "Kon Knueppel (Pts+Rebs)",
+                "hdp": 22.5,
+                "over": "1.83",
+                "under": "1.93"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Brandon Miller (Pts+Rebs)",
                 "hdp": 25.5,
                 "over": "1.83",
+<<<<<<< HEAD
                 "under": "1.92"
               },
               {
@@ -23354,16 +23854,31 @@ const analyticsData = {
                 "hdp": 25.5,
                 "over": "1.81",
                 "under": "1.94"
+=======
+                "under": "1.93"
+              },
+              {
+                "label": "Maxime Raynaud (Pts+Rebs)",
+                "hdp": 26.5,
+                "over": "1.88",
+                "under": "1.86"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Moussa Diabat\u00e9 (Pts+Rebs)",
                 "hdp": 18.5,
+<<<<<<< HEAD
                 "over": "1.85",
                 "under": "1.89"
+=======
+                "over": "1.97",
+                "under": "1.78"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Precious Achiuwa (Pts+Rebs)",
                 "hdp": 21.5,
+<<<<<<< HEAD
                 "over": "1.85",
                 "under": "1.89"
               },
@@ -23382,66 +23897,128 @@ const analyticsData = {
               {
                 "label": "Killian Hayes (Double+Double)",
                 "over": "25.00",
+=======
+                "over": "1.82",
+                "under": "1.93"
+              },
+              {
+                "label": "Miles Bridges (Pts+Rebs)",
+                "hdp": 19.5,
+                "over": "1.86",
+                "under": "1.88"
+              },
+              {
+                "label": "Killian Hayes (Double+Double)",
+                "over": "23.00",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "Ryan Kalkbrenner (Double+Double)",
+<<<<<<< HEAD
                 "over": "22.00",
+=======
+                "over": "24.00",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "DeMar DeRozan (Double+Double)",
+<<<<<<< HEAD
                 "over": "13.40",
+=======
+                "over": "12.00",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "Kon Knueppel (Double+Double)",
+<<<<<<< HEAD
                 "over": "16.20",
+=======
+                "over": "15.40",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "LaMelo Ball (Double+Double)",
+<<<<<<< HEAD
                 "over": "3.96",
+=======
+                "over": "3.90",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "Malik Monk (Double+Double)",
+<<<<<<< HEAD
                 "over": "17.80",
+=======
+                "over": "17.60",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "Dylan Cardwell (Double+Double)",
+<<<<<<< HEAD
                 "over": "11.80",
+=======
+                "over": "9.70",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "Moussa Diabat\u00e9 (Double+Double)",
+<<<<<<< HEAD
                 "over": "3.43",
+=======
+                "over": "3.74",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "Miles Bridges (Double+Double)",
+<<<<<<< HEAD
                 "over": "11.40",
+=======
+                "over": "12.20",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "Coby White (Double+Double)",
+<<<<<<< HEAD
                 "over": "29.00",
+=======
+                "over": "26.00",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "Maxime Raynaud (Double+Double)",
+<<<<<<< HEAD
                 "over": "2.27",
+=======
+                "over": "2.21",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "Precious Achiuwa (Double+Double)",
+<<<<<<< HEAD
                 "over": "3.15",
+=======
+                "over": "2.77",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "Brandon Miller (Double+Double)",
+<<<<<<< HEAD
                 "over": "7.80",
+=======
+                "over": "8.30",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
@@ -23459,12 +24036,21 @@ const analyticsData = {
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
+<<<<<<< HEAD
           "recommended_bet": 58.89505494505494,
           "latent_strength_A": 8.583838975026982,
           "latent_strength_B": -6.94613037736287,
           "form_state_A": 1,
           "form_state_B": 2,
           "entropy_A": 3.3219280948873626
+=======
+          "recommended_bet": 67.18571428571427,
+          "latent_strength_A": 8.583838975026982,
+          "latent_strength_B": -6.94613037736287,
+          "form_state_A": 0,
+          "form_state_B": 0,
+          "entropy_A": 3.321928094887362
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "halves": {
           "h1_ptsA": 59.13457328424758,
@@ -23528,7 +24114,11 @@ const analyticsData = {
             "injury": "",
             "market_line": null,
             "market_ast": 3.5,
+<<<<<<< HEAD
             "market_pts": 14.5
+=======
+            "market_pts": 15.5
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           },
           {
             "player": "Collin Sexton",
@@ -23559,7 +24149,12 @@ const analyticsData = {
             "status": "Active",
             "injury": "",
             "market_line": null,
+<<<<<<< HEAD
             "market_reb": 3.5
+=======
+            "market_reb": 3.5,
+            "market_pts": 6.5
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           },
           {
             "player": "Josh Green",
@@ -23765,7 +24360,11 @@ const analyticsData = {
             "status": "Active",
             "injury": "",
             "market_line": null,
+<<<<<<< HEAD
             "market_ast": 4.5,
+=======
+            "market_ast": 5.5,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             "market_pts": 16.5
           },
           {
@@ -23827,7 +24426,10 @@ const analyticsData = {
             "status": "Active",
             "injury": "",
             "market_line": null,
+<<<<<<< HEAD
             "market_reb": 6.5,
+=======
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             "market_pts": 5.5
           },
           {
@@ -23905,7 +24507,11 @@ const analyticsData = {
             "market_line": null,
             "market_ast": 1.5,
             "market_reb": 8.5,
+<<<<<<< HEAD
             "market_pts": 16.5
+=======
+            "market_pts": 17.5
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           },
           {
             "player": "Nique Clifford",
@@ -23937,7 +24543,11 @@ const analyticsData = {
             "injury": "",
             "market_line": null,
             "market_ast": 1.5,
+<<<<<<< HEAD
             "market_reb": 7.5,
+=======
+            "market_reb": 8.5,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             "market_pts": 13.5
           },
           {
@@ -23971,11 +24581,19 @@ const analyticsData = {
             "rest": 7,
             "is_b2b": 0,
             "ml_influence": {
+<<<<<<< HEAD
               "roll_efg_pct_10": 0.0031933045682474414,
               "roll_tov_pct_10": 0.004218244139870819,
               "roll_orb_pct_10": 0.00937600332579251,
               "roll_ft_rate_10": -0.00179428278525819,
               "p_tov": -0.021900887250843937
+=======
+              "roll_efg_pct_10": 0.004289187448047783,
+              "roll_tov_pct_10": 0.003856311029913293,
+              "roll_orb_pct_10": 0.011229961188088848,
+              "roll_ft_rate_10": -0.0030295943210115793,
+              "p_tov": -0.024125021493556092
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             }
           },
           "teamB": {
@@ -24318,6 +24936,7 @@ const analyticsData = {
           }
         ],
         "shap_explanation": {
+<<<<<<< HEAD
           "adj_ortg_10": 0.02120631587543812,
           "adj_drtg_10": 0.043415509187526596,
           "adj_pace_10": 0.00417476771082903,
@@ -24342,11 +24961,38 @@ const analyticsData = {
           "opp_adj_drtg_10": 0.040712214772681464,
           "opp_sos_10": 0.00624034316962792,
           "opp_is_b2b": -0.0014097637890358784
+=======
+          "adj_ortg_10": 0.023828004403631975,
+          "adj_drtg_10": 0.049010553186100515,
+          "adj_pace_10": 0.01010462313277444,
+          "net_rating": 0.010262110324448142,
+          "roll_efg_pct_10": 0.004289187448047783,
+          "roll_tov_pct_10": 0.003856311029913293,
+          "roll_orb_pct_10": 0.011229961188088848,
+          "roll_ft_rate_10": -0.0030295943210115793,
+          "sos_10": -0.003934207316929269,
+          "is_b2b": 0.0012697241491330257,
+          "p_pts": -0.0006378097645336217,
+          "p_reb": -0.01570754759577319,
+          "p_ast": -0.014446100596005219,
+          "p_stl": 0.005997864988272135,
+          "p_blk": 0.0036129926002078506,
+          "p_tov": -0.024125021493556092,
+          "p_pf": -0.02461710427432288,
+          "p_pm": -0.0051842383690718676,
+          "p_usage": 0.012678331968351393,
+          "p_eff": 0.0023570494111001127,
+          "opp_adj_ortg_10": 0.01626595631283474,
+          "opp_adj_drtg_10": 0.04864794482750259,
+          "opp_sos_10": 0.0058227184562165855,
+          "opp_is_b2b": -0.0014285472776764357
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "match_id": "0022501047",
         "time": "TBD"
       },
       "ml_prob_A": 0.6162759144276383,
+<<<<<<< HEAD
       "mc_win_A": 0.6358,
       "shap_explanation": {
         "adj_ortg_10": 0.02120631587543812,
@@ -24373,6 +25019,34 @@ const analyticsData = {
         "opp_adj_drtg_10": 0.040712214772681464,
         "opp_sos_10": 0.00624034316962792,
         "opp_is_b2b": -0.0014097637890358784
+=======
+      "mc_win_A": 0.6516,
+      "shap_explanation": {
+        "adj_ortg_10": 0.023828004403631975,
+        "adj_drtg_10": 0.049010553186100515,
+        "adj_pace_10": 0.01010462313277444,
+        "net_rating": 0.010262110324448142,
+        "roll_efg_pct_10": 0.004289187448047783,
+        "roll_tov_pct_10": 0.003856311029913293,
+        "roll_orb_pct_10": 0.011229961188088848,
+        "roll_ft_rate_10": -0.0030295943210115793,
+        "sos_10": -0.003934207316929269,
+        "is_b2b": 0.0012697241491330257,
+        "p_pts": -0.0006378097645336217,
+        "p_reb": -0.01570754759577319,
+        "p_ast": -0.014446100596005219,
+        "p_stl": 0.005997864988272135,
+        "p_blk": 0.0036129926002078506,
+        "p_tov": -0.024125021493556092,
+        "p_pf": -0.02461710427432288,
+        "p_pm": -0.0051842383690718676,
+        "p_usage": 0.012678331968351393,
+        "p_eff": 0.0023570494111001127,
+        "opp_adj_ortg_10": 0.01626595631283474,
+        "opp_adj_drtg_10": 0.04864794482750259,
+        "opp_sos_10": 0.0058227184562165855,
+        "opp_is_b2b": -0.0014285472776764357
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       },
       "is_b2b_home": 0,
       "is_b2b_away": 0,
@@ -24393,15 +25067,22 @@ const analyticsData = {
           "ptsB": 114.56563381407345,
           "total": 232.1955229574698,
           "spread": -3.064255329322876,
+<<<<<<< HEAD
           "win_prob_A": 47.62005592126929,
           "ml_prob_A": 0.590693603354926,
           "mc_win_A": 0.5602,
+=======
+          "win_prob_A": 48.044055921269276,
+          "ml_prob_A": 0.591693603354926,
+          "mc_win_A": 0.573,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           "market": {
             "ml": {
               "home": "1.26",
               "away": "4.00"
             },
             "spread": {
+<<<<<<< HEAD
               "hdp": 1.5,
               "home": "1.22",
               "away": "4.03"
@@ -24579,14 +25260,176 @@ const analyticsData = {
                 "hdp": 7.5,
                 "over": "1.98",
                 "under": "1.80"
+=======
+              "hdp": -9.5,
+              "home": "1.98",
+              "away": "1.85"
+            },
+            "total": {
+              "hdp": 232.5,
+              "over": "1.98",
+              "under": "1.85"
+            },
+            "props": [
+              {
+                "label": "Karl-Anthony Towns (Assists)",
+                "hdp": 2.5,
+                "over": "1.59",
+                "under": "2.28"
               },
               {
-                "label": "Jose Alvarado (Points)",
+                "label": "Dejounte Murray (Assists)",
                 "hdp": 6.5,
+                "over": "2.06",
+                "under": "1.71"
+              },
+              {
+                "label": "Saddiq Bey (Assists)",
+                "hdp": 2.5,
+                "over": "1.73",
+                "under": "2.04"
+              },
+              {
+                "label": "Zion Williamson (Assists)",
+                "hdp": 2.5,
+                "over": "1.82",
+                "under": "1.93"
+              },
+              {
+                "label": "Mikal Bridges (Assists)",
+                "hdp": 3.5,
+                "over": "1.70",
+                "under": "2.08"
+              },
+              {
+                "label": "Jalen Brunson (Assists)",
+                "hdp": 6.5,
+                "over": "1.71",
+                "under": "2.06"
+              },
+              {
+                "label": "Herbert Jones (Assists)",
+                "hdp": 2.5,
+                "over": "1.83",
+                "under": "1.92"
+              },
+              {
+                "label": "Josh Hart (Assists)",
+                "hdp": 4.5,
+                "over": "1.66",
+                "under": "2.15"
+              },
+              {
+                "label": "Trey Murphy III (Assists)",
+                "hdp": 3.5,
+                "over": "1.81",
+                "under": "1.94"
+              },
+              {
+                "label": "Jordan Clarkson (Assists)",
+                "hdp": 1.5,
+                "over": "1.78",
+                "under": "1.97"
+              },
+              {
+                "label": "Herbert Jones (Rebounds)",
+                "hdp": 2.5,
+                "over": "1.58",
+                "under": "2.30"
+              },
+              {
+                "label": "OG Anunoby (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.63",
+                "under": "2.20"
+              },
+              {
+                "label": "Derik Queen (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.95",
+                "under": "1.80"
+              },
+              {
+                "label": "Zion Williamson (Rebounds)",
+                "hdp": 5.5,
+                "over": "1.99",
+                "under": "1.77"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
+              },
+              {
+                "label": "Karl-Anthony Towns (Rebounds)",
+                "hdp": 12.5,
+                "over": "1.85",
+                "under": "1.90"
+              },
+              {
+                "label": "Dejounte Murray (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.68",
+                "under": "2.12"
+              },
+              {
+                "label": "Mitchell Robinson (Rebounds)",
+                "hdp": 8.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "Mikal Bridges (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.75",
+                "under": "2.02"
+              },
+              {
+                "label": "Trey Murphy III (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.67",
+                "under": "2.13"
+              },
+              {
+                "label": "Jordan Clarkson (Rebounds)",
+                "hdp": 1.5,
+                "over": "1.63",
+                "under": "2.21"
+              },
+              {
+                "label": "Josh Hart (Rebounds)",
+                "hdp": 7.5,
+                "over": "1.99",
+                "under": "1.77"
+              },
+              {
+                "label": "Saddiq Bey (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.71",
+                "under": "2.07"
+              },
+              {
+                "label": "Jalen Brunson (Rebounds)",
+                "hdp": 3.5,
+                "over": "2.16",
+                "under": "1.65"
+              },
+              {
+                "label": "Zion Williamson (Points)",
+                "hdp": 19.5,
+                "over": "1.79",
+                "under": "1.99"
+              },
+              {
+                "label": "Dejounte Murray (Points)",
+                "hdp": 16.5,
+                "over": "1.92",
+                "under": "1.86"
+              },
+              {
+                "label": "Josh Hart (Points)",
+                "hdp": 11.5,
                 "over": "1.80",
                 "under": "1.98"
               },
               {
+<<<<<<< HEAD
                 "label": "OG Anunoby (Points)",
                 "hdp": 16.5,
                 "over": "1.79",
@@ -24603,22 +25446,114 @@ const analyticsData = {
                 "hdp": 1.5,
                 "over": "2.24",
                 "under": "1.61"
+=======
+                "label": "Trey Murphy III (Points)",
+                "hdp": 20.5,
+                "over": "1.92",
+                "under": "1.85"
               },
               {
-                "label": "OG Anunoby (Steals)",
+                "label": "Jalen Brunson (Points)",
+                "hdp": 25.5,
+                "over": "1.94",
+                "under": "1.83"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
+              },
+              {
+                "label": "Mitchell Robinson (Points)",
+                "hdp": 5.5,
+                "over": "1.69",
+                "under": "2.13"
+              },
+              {
+                "label": "Karl-Anthony Towns (Points)",
+                "hdp": 21.5,
+                "over": "1.86",
+                "under": "1.91"
+              },
+              {
+                "label": "Saddiq Bey (Points)",
+                "hdp": 17.5,
+                "over": "1.80",
+                "under": "1.98"
+              },
+              {
+                "label": "Mikal Bridges (Points)",
+                "hdp": 12.5,
+                "over": "1.78",
+                "under": "2.01"
+              },
+              {
+                "label": "Jeremiah Fears (Points)",
+                "hdp": 7.5,
+                "over": "1.76",
+                "under": "2.03"
+              },
+              {
+                "label": "Herbert Jones (Points)",
+                "hdp": 8.5,
+                "over": "1.87",
+                "under": "1.90"
+              },
+              {
+                "label": "Derik Queen (Points)",
+                "hdp": 7.5,
+                "over": "1.98",
+                "under": "1.80"
+              },
+              {
+                "label": "Jose Alvarado (Points)",
+                "hdp": 7.5,
+                "over": "1.91",
+                "under": "1.86"
+              },
+              {
+                "label": "OG Anunoby (Points)",
+                "hdp": 17.5,
+                "over": "1.91",
+                "under": "1.86"
+              },
+              {
+                "label": "Jose Alvarado (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.52",
+                "under": "1.50"
+              },
+              {
+                "label": "Jalen Brunson (3 Point FG)",
+                "hdp": 2.5,
+                "over": "1.79",
+                "under": "1.96"
+              },
+              {
+                "label": "Mikal Bridges (3 Point FG)",
                 "hdp": 1.5,
                 "over": "1.86",
                 "under": "1.88"
               },
               {
+<<<<<<< HEAD
                 "label": "Trey Murphy III (Steals)",
                 "hdp": 1.5,
                 "over": "2.71",
                 "under": "1.43"
+=======
+                "label": "Herbert Jones (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.96",
+                "under": "1.79"
+              },
+              {
+                "label": "Dejounte Murray (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.60",
+                "under": "2.26"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Jose Alvarado (3 Point FG)",
                 "hdp": 1.5,
+<<<<<<< HEAD
                 "over": "2.45",
                 "under": "1.52"
               },
@@ -24651,40 +25586,70 @@ const analyticsData = {
                 "hdp": 1.5,
                 "over": "2.25",
                 "under": "1.61"
+=======
+                "over": "2.26",
+                "under": "1.60"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Karl-Anthony Towns (3 Point FG)",
                 "hdp": 1.5,
+<<<<<<< HEAD
                 "over": "2.09",
                 "under": "1.69"
+=======
+                "over": "1.88",
+                "under": "1.86"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Saddiq Bey (3 Point FG)",
                 "hdp": 2.5,
+<<<<<<< HEAD
                 "over": "2.19",
                 "under": "1.64"
+=======
+                "over": "2.02",
+                "under": "1.74"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "OG Anunoby (3 Point FG)",
                 "hdp": 2.5,
+<<<<<<< HEAD
                 "over": "2.04",
                 "under": "1.73"
+=======
+                "over": "1.92",
+                "under": "1.83"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Trey Murphy III (3 Point FG)",
                 "hdp": 3.5,
+<<<<<<< HEAD
                 "over": "1.93",
                 "under": "1.82"
+=======
+                "over": "2.06",
+                "under": "1.72"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Herbert Jones (Pts+Asts)",
                 "hdp": 11.5,
+<<<<<<< HEAD
                 "over": "1.95",
                 "under": "1.80"
+=======
+                "over": "1.90",
+                "under": "1.84"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Zion Williamson (Pts+Asts)",
                 "hdp": 22.5,
+<<<<<<< HEAD
                 "over": "1.85",
                 "under": "1.90"
               },
@@ -24703,24 +25668,50 @@ const analyticsData = {
               {
                 "label": "Karl-Anthony Towns (Pts+Asts)",
                 "hdp": 23.5,
+=======
+                "over": "1.79",
+                "under": "1.95"
+              },
+              {
+                "label": "Saddiq Bey (Pts+Asts)",
+                "hdp": 20.5,
+                "over": "1.79",
+                "under": "1.96"
+              },
+              {
+                "label": "Karl-Anthony Towns (Pts+Asts)",
+                "hdp": 24.5,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "over": "1.81",
                 "under": "1.94"
               },
               {
                 "label": "Mikal Bridges (Pts+Asts)",
+<<<<<<< HEAD
                 "hdp": 15.5,
                 "over": "1.81",
                 "under": "1.93"
+=======
+                "hdp": 16.5,
+                "over": "1.77",
+                "under": "1.98"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Jalen Brunson (Pts+Asts)",
                 "hdp": 32.5,
+<<<<<<< HEAD
                 "over": "1.84",
                 "under": "1.90"
+=======
+                "over": "1.90",
+                "under": "1.84"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "OG Anunoby (Pts+Asts)",
                 "hdp": 19.5,
+<<<<<<< HEAD
                 "over": "1.93",
                 "under": "1.81"
               },
@@ -24805,10 +25796,61 @@ const analyticsData = {
               {
                 "label": "Derik Queen (Pts+Rebs+Asts)",
                 "hdp": 13.5,
+=======
+                "over": "1.83",
+                "under": "1.92"
+              },
+              {
+                "label": "Dejounte Murray (Pts+Asts)",
+                "hdp": 22.5,
+                "over": "1.83",
+                "under": "1.93"
+              },
+              {
+                "label": "Josh Hart (Pts+Asts)",
+                "hdp": 17.5,
+                "over": "1.97",
+                "under": "1.78"
+              },
+              {
+                "label": "Trey Murphy III (Pts+Asts)",
+                "hdp": 24.5,
+                "over": "1.95",
+                "under": "1.79"
+              },
+              {
+                "label": "Dejounte Murray (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "1.97",
+                "under": "1.79"
+              },
+              {
+                "label": "OG Anunoby (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "2.05",
+                "under": "1.72"
+              },
+              {
+                "label": "Josh Hart (Rebs+Asts)",
+                "hdp": 12.5,
+                "over": "1.91",
+                "under": "1.83"
+              },
+              {
+                "label": "Zion Williamson (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "2.07",
+                "under": "1.71"
+              },
+              {
+                "label": "Herbert Jones (Rebs+Asts)",
+                "hdp": 5.5,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "over": "1.79",
                 "under": "1.95"
               },
               {
+<<<<<<< HEAD
                 "label": "Josh Hart (Pts+Rebs+Asts)",
                 "hdp": 25.5,
                 "over": "1.94",
@@ -24819,22 +25861,75 @@ const analyticsData = {
                 "hdp": 26.5,
                 "over": "1.88",
                 "under": "1.85"
+=======
+                "label": "Saddiq Bey (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.78",
+                "under": "1.98"
+              },
+              {
+                "label": "Mikal Bridges (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.81",
+                "under": "1.94"
+              },
+              {
+                "label": "Karl-Anthony Towns (Rebs+Asts)",
+                "hdp": 15.5,
+                "over": "1.83",
+                "under": "1.92"
+              },
+              {
+                "label": "Jalen Brunson (Rebs+Asts)",
+                "hdp": 10.5,
+                "over": "2.00",
+                "under": "1.76"
+              },
+              {
+                "label": "Trey Murphy III (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "1.79",
+                "under": "1.96"
+              },
+              {
+                "label": "Josh Hart (Pts+Rebs+Asts)",
+                "hdp": 24.5,
+                "over": "1.88",
+                "under": "1.86"
+              },
+              {
+                "label": "Saddiq Bey (Pts+Rebs+Asts)",
+                "hdp": 25.5,
+                "over": "1.79",
+                "under": "1.95"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "OG Anunoby (Pts+Rebs+Asts)",
                 "hdp": 24.5,
+<<<<<<< HEAD
                 "over": "1.93",
                 "under": "1.82"
+=======
+                "over": "1.80",
+                "under": "1.95"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Trey Murphy III (Pts+Rebs+Asts)",
                 "hdp": 29.5,
+<<<<<<< HEAD
                 "over": "1.89",
                 "under": "1.85"
+=======
+                "over": "1.93",
+                "under": "1.82"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Herbert Jones (Pts+Rebs+Asts)",
                 "hdp": 14.5,
+<<<<<<< HEAD
                 "over": "1.90",
                 "under": "1.84"
               },
@@ -24909,69 +26004,195 @@ const analyticsData = {
                 "hdp": 22.5,
                 "over": "1.86",
                 "under": "1.88"
-              },
-              {
-                "label": "Derik Queen (Pts+Rebs)",
-                "hdp": 11.5,
-                "over": "1.85",
-                "under": "1.89"
-              },
-              {
-                "label": "Jalen Brunson (Pts+Rebs)",
-                "hdp": 28.5,
-                "over": "1.80",
-                "under": "1.94"
-              },
-              {
-                "label": "Herbert Jones (Pts+Rebs)",
-                "hdp": 11.5,
-                "over": "1.88",
-                "under": "1.86"
-              },
-              {
-                "label": "Zion Williamson (Pts+Rebs)",
-                "hdp": 25.5,
+=======
                 "over": "1.87",
                 "under": "1.87"
               },
               {
+                "label": "Dejounte Murray (Pts+Rebs+Asts)",
+                "hdp": 27.5,
+                "over": "1.80",
+                "under": "1.95"
+              },
+              {
+                "label": "Karl-Anthony Towns (Pts+Rebs+Asts)",
+                "hdp": 37.5,
+                "over": "1.85",
+                "under": "1.89"
+              },
+              {
+                "label": "Mikal Bridges (Pts+Rebs+Asts)",
+                "hdp": 20.5,
+                "over": "1.79",
+                "under": "1.96"
+              },
+              {
+                "label": "Zion Williamson (Pts+Rebs+Asts)",
+                "hdp": 28.5,
+                "over": "1.87",
+                "under": "1.88"
+              },
+              {
+                "label": "Jalen Brunson (Pts+Rebs+Asts)",
+                "hdp": 35.5,
+                "over": "1.87",
+                "under": "1.87"
+              },
+              {
+                "label": "OG Anunoby (Pts+Rebs)",
+                "hdp": 22.5,
+                "over": "1.85",
+                "under": "1.89"
+              },
+              {
+                "label": "Mitchell Robinson (Pts+Rebs)",
+                "hdp": 14.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "Saddiq Bey (Pts+Rebs)",
+                "hdp": 22.5,
+                "over": "1.79",
+                "under": "1.96"
+              },
+              {
+                "label": "Trey Murphy III (Pts+Rebs)",
+                "hdp": 25.5,
+                "over": "1.88",
+                "under": "1.87"
+              },
+              {
+                "label": "Karl-Anthony Towns (Pts+Rebs)",
+                "hdp": 34.5,
+                "over": "1.87",
+                "under": "1.87"
+              },
+              {
+                "label": "Mikal Bridges (Pts+Rebs)",
+                "hdp": 16.5,
+                "over": "1.78",
+                "under": "1.97"
+              },
+              {
+                "label": "Dejounte Murray (Pts+Rebs)",
+                "hdp": 21.5,
+                "over": "1.88",
+                "under": "1.87"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
+              },
+              {
+                "label": "Derik Queen (Pts+Rebs)",
+                "hdp": 11.5,
+<<<<<<< HEAD
+                "over": "1.85",
+                "under": "1.89"
+=======
+                "over": "1.83",
+                "under": "1.92"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
+              },
+              {
+                "label": "Jalen Brunson (Pts+Rebs)",
+                "hdp": 28.5,
+<<<<<<< HEAD
+                "over": "1.80",
+                "under": "1.94"
+=======
+                "over": "1.88",
+                "under": "1.85"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
+              },
+              {
+                "label": "Herbert Jones (Pts+Rebs)",
+                "hdp": 11.5,
+<<<<<<< HEAD
+                "over": "1.88",
+                "under": "1.86"
+=======
+                "over": "1.79",
+                "under": "1.96"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
+              },
+              {
+                "label": "Zion Williamson (Pts+Rebs)",
+                "hdp": 25.5,
+<<<<<<< HEAD
+                "over": "1.87",
+                "under": "1.87"
+=======
+                "over": "1.84",
+                "under": "1.90"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
+              },
+              {
                 "label": "Josh Hart (Pts+Rebs)",
                 "hdp": 19.5,
+<<<<<<< HEAD
                 "over": "1.81",
                 "under": "1.93"
               },
               {
                 "label": "Dejounte Murray (Double+Double)",
                 "over": "4.97",
+=======
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "Dejounte Murray (Double+Double)",
+                "over": "5.11",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "Zion Williamson (Double+Double)",
+<<<<<<< HEAD
                 "over": "10.70",
+=======
+                "over": "11.20",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "Mitchell Robinson (Double+Double)",
+<<<<<<< HEAD
                 "over": "7.30",
+=======
+                "over": "7.60",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "Jalen Brunson (Double+Double)",
+<<<<<<< HEAD
                 "over": "4.24",
+=======
+                "over": "4.64",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "Karl-Anthony Towns (Double+Double)",
+<<<<<<< HEAD
                 "over": "1.28",
+=======
+                "over": "1.24",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "Josh Hart (Double+Double)",
+<<<<<<< HEAD
                 "over": "3.46",
+=======
+                "over": "3.98",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "OG Anunoby (Double+Double)",
+<<<<<<< HEAD
                 "over": "13.60",
                 "under": "N/A"
               },
@@ -25003,6 +26224,29 @@ const analyticsData = {
               {
                 "label": "Josh Hart (Triple+Double)",
                 "over": "24.00",
+=======
+                "over": "14.60",
+                "under": "N/A"
+              },
+              {
+                "label": "Saddiq Bey (Double+Double)",
+                "over": "14.80",
+                "under": "N/A"
+              },
+              {
+                "label": "Mikal Bridges (Double+Double)",
+                "over": "33.00",
+                "under": "N/A"
+              },
+              {
+                "label": "Trey Murphy III (Double+Double)",
+                "over": "14.20",
+                "under": "N/A"
+              },
+              {
+                "label": "Dejounte Murray (Triple+Double)",
+                "over": "40.00",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               }
             ]
@@ -25010,12 +26254,21 @@ const analyticsData = {
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
+<<<<<<< HEAD
           "recommended_bet": 19.225824175824172,
           "latent_strength_A": 10.342643187752282,
           "latent_strength_B": 4.366050665867785,
           "form_state_A": 2,
           "form_state_B": 0,
           "entropy_A": 3.3219280948873626
+=======
+          "recommended_bet": 25.94230769230767,
+          "latent_strength_A": 10.342643187752282,
+          "latent_strength_B": 4.366050665867785,
+          "form_state_A": 0,
+          "form_state_B": 1,
+          "entropy_A": 3.321928094887362
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "halves": {
           "h1_ptsA": 58.81494457169816,
@@ -25107,7 +26360,9 @@ const analyticsData = {
             "proj_ast": 0.8184957714750324,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 1.5,
+            "market_reb": 1.5
           },
           {
             "player": "Jose Alvarado",
@@ -25118,7 +26373,11 @@ const analyticsData = {
             "status": "Active",
             "injury": "",
             "market_line": null,
+<<<<<<< HEAD
             "market_pts": 6.5
+=======
+            "market_pts": 7.5
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           },
           {
             "player": "Josh Hart",
@@ -25129,9 +26388,9 @@ const analyticsData = {
             "status": "Out",
             "injury": "Knee",
             "market_line": null,
-            "market_ast": 5.5,
+            "market_ast": 4.5,
             "market_reb": 7.5,
-            "market_pts": 12.5
+            "market_pts": 11.5
           },
           {
             "player": "Karl-Anthony Towns",
@@ -25142,6 +26401,10 @@ const analyticsData = {
             "status": "Active",
             "injury": "",
             "market_line": null,
+<<<<<<< HEAD
+=======
+            "market_ast": 2.5,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             "market_reb": 12.5,
             "market_pts": 21.5
           },
@@ -25176,7 +26439,11 @@ const analyticsData = {
             "market_line": null,
             "market_ast": 3.5,
             "market_reb": 3.5,
+<<<<<<< HEAD
             "market_pts": 11.5
+=======
+            "market_pts": 12.5
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           },
           {
             "player": "Miles McBride",
@@ -25220,7 +26487,11 @@ const analyticsData = {
             "injury": "",
             "market_line": null,
             "market_reb": 4.5,
+<<<<<<< HEAD
             "market_pts": 16.5
+=======
+            "market_pts": 17.5
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           },
           {
             "player": "Pac\u00f4me Dadiet",
@@ -25288,12 +26559,14 @@ const analyticsData = {
             "proj_pts": 18.85525765935524,
             "proj_reb": 5.627158428890848,
             "proj_ast": 5.3713785003049,
+<<<<<<< HEAD
+=======
             "status": "Active",
             "injury": "",
             "market_line": null,
-            "market_ast": 5.5,
+            "market_ast": 6.5,
             "market_reb": 4.5,
-            "market_pts": 17.5
+            "market_pts": 16.5
           },
           {
             "player": "Derik Queen",
@@ -25305,6 +26578,147 @@ const analyticsData = {
             "injury": "",
             "market_line": null,
             "market_reb": 4.5,
+            "market_pts": 7.5
+          },
+          {
+            "player": "Herbert Jones",
+            "team": "NOP",
+            "proj_pts": 8.878678290228036,
+            "proj_reb": 4.092478857375162,
+            "proj_ast": 3.2739830859001295,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_ast": 2.5,
+            "market_reb": 2.5,
+            "market_pts": 8.5
+          },
+          {
+            "player": "Hunter Dickinson",
+            "team": "NOP",
+            "proj_pts": 1.9093931806942013,
+            "proj_reb": 0.0,
+            "proj_ast": 0.0,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jeremiah Fears",
+            "team": "NOP",
+            "proj_pts": 12.888403969685859,
+            "proj_reb": 3.683230971637646,
+            "proj_ast": 3.683230971637646,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_pts": 7.5
+          },
+          {
+            "player": "Jordan Hawkins",
+            "team": "NOP",
+            "proj_pts": 1.8139235216594911,
+            "proj_reb": 0.8184957714750324,
+            "proj_ast": 0.3069359143031371,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jordan Poole",
+            "team": "NOP",
+            "proj_pts": 9.260556926366876,
+            "proj_reb": 3.1716711144657506,
+            "proj_ast": 2.5577992858594762,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jose Alvarado",
+            "team": "NOP",
+            "proj_pts": 6.205527837256154,
+            "proj_reb": 2.967047171596992,
+            "proj_ast": 3.069359143031371,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_pts": 7.5
+          },
+          {
+            "player": "Karlo Matkovi\u0107",
+            "team": "NOP",
+            "proj_pts": 7.446633404707385,
+            "proj_reb": 5.524846457456468,
+            "proj_ast": 1.4323676000813066,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Kevon Looney",
+            "team": "NOP",
+            "proj_pts": 3.055029089110722,
+            "proj_reb": 6.650278143234638,
+            "proj_ast": 1.3300556286469276,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Micah Peavy",
+            "team": "NOP",
+            "proj_pts": 1.0501662493818107,
+            "proj_reb": 0.5115598571718952,
+            "proj_ast": 0.2046239428687581,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Saddiq Bey",
+            "team": "NOP",
+            "proj_pts": 18.807522829837882,
+            "proj_reb": 5.422534486022089,
+            "proj_ast": 2.864735200162613,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_ast": 5.5,
+            "market_reb": 4.5,
+            "market_pts": 17.5
+          },
+          {
+<<<<<<< HEAD
+            "player": "Derik Queen",
+            "team": "NOP",
+            "proj_pts": 7.2556940866379644,
+            "proj_reb": 5.3202225145877104,
+            "proj_ast": 2.762423228728234,
+=======
+            "player": "Trey Alexander",
+            "team": "NOP",
+            "proj_pts": 2.6731504529718815,
+            "proj_reb": 0.8184957714750324,
+            "proj_ast": 1.0231197143437905,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Trey Murphy III",
+            "team": "NOP",
+            "proj_pts": 19.380340784046144,
+            "proj_reb": 5.1155985717189525,
+            "proj_ast": 5.013286600284574,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_ast": 3.5,
+            "market_reb": 4.5,
+<<<<<<< HEAD
             "market_pts": 7.5
           },
           {
@@ -25454,6 +26868,30 @@ const analyticsData = {
             "status": "Active",
             "injury": "",
             "market_line": null,
+=======
+            "market_pts": 20.5
+          },
+          {
+            "player": "Yves Missi",
+            "team": "NOP",
+            "proj_pts": 4.868952610770213,
+            "proj_reb": 5.729470400325226,
+            "proj_ast": 1.0231197143437905,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Zion Williamson",
+            "team": "NOP",
+            "proj_pts": 19.380340784046144,
+            "proj_reb": 5.217910543153331,
+            "proj_ast": 2.14855140012196,
+            "status": "Active",
+            "injury": "",
+            "market_line": null,
+            "market_ast": 2.5,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             "market_reb": 5.5,
             "market_pts": 19.5
           }
@@ -25468,11 +26906,19 @@ const analyticsData = {
             "rest": 7,
             "is_b2b": 0,
             "ml_influence": {
+<<<<<<< HEAD
               "roll_efg_pct_10": 0.002179233991972751,
               "roll_tov_pct_10": 0.0036543704527056773,
               "roll_orb_pct_10": 0.01902054777154859,
               "roll_ft_rate_10": -0.0008153264692835194,
               "p_tov": -0.0007910606050819524
+=======
+              "roll_efg_pct_10": 0.0034051334772778764,
+              "roll_tov_pct_10": 0.0021549049529299338,
+              "roll_orb_pct_10": 0.02029278372808721,
+              "roll_ft_rate_10": -0.00332293842287468,
+              "p_tov": -0.0027566540309628394
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             }
           },
           "teamB": {
@@ -25815,6 +27261,7 @@ const analyticsData = {
           }
         ],
         "shap_explanation": {
+<<<<<<< HEAD
           "adj_ortg_10": 0.029035355888282766,
           "adj_drtg_10": 0.04064759192515055,
           "adj_pace_10": 0.007974090207420232,
@@ -25839,10 +27286,37 @@ const analyticsData = {
           "opp_adj_drtg_10": -0.023596508248153326,
           "opp_sos_10": -0.010865545522598268,
           "opp_is_b2b": -0.0006427844213501998
+=======
+          "adj_ortg_10": 0.03205766357653197,
+          "adj_drtg_10": 0.044019312929281,
+          "adj_pace_10": 0.013670089847844428,
+          "net_rating": 0.026628037997452312,
+          "roll_efg_pct_10": 0.0034051334772778764,
+          "roll_tov_pct_10": 0.0021549049529299338,
+          "roll_orb_pct_10": 0.02029278372808721,
+          "roll_ft_rate_10": -0.00332293842287468,
+          "sos_10": -0.004455018874608832,
+          "is_b2b": 0.001915316356453173,
+          "p_pts": 0.008507094908379458,
+          "p_reb": 0.007968771357118331,
+          "p_ast": -0.01335194011461416,
+          "p_stl": 0.007242380453923221,
+          "p_blk": -0.0026567197429595425,
+          "p_tov": -0.0027566540309628394,
+          "p_pf": -0.00860038209004885,
+          "p_pm": 0.00794420286164263,
+          "p_usage": 0.0013083055892697158,
+          "p_eff": 0.004437768176008887,
+          "opp_adj_ortg_10": -0.02308415017086335,
+          "opp_adj_drtg_10": -0.017964272987607815,
+          "opp_sos_10": -0.013239298517058852,
+          "opp_is_b2b": -0.0005795399155714316
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "match_id": "0022501048",
         "time": "TBD"
       },
+<<<<<<< HEAD
       "ml_prob_A": 0.590693603354926,
       "mc_win_A": 0.5602,
       "shap_explanation": {
@@ -25870,6 +27344,35 @@ const analyticsData = {
         "opp_adj_drtg_10": -0.023596508248153326,
         "opp_sos_10": -0.010865545522598268,
         "opp_is_b2b": -0.0006427844213501998
+=======
+      "ml_prob_A": 0.591693603354926,
+      "mc_win_A": 0.573,
+      "shap_explanation": {
+        "adj_ortg_10": 0.03205766357653197,
+        "adj_drtg_10": 0.044019312929281,
+        "adj_pace_10": 0.013670089847844428,
+        "net_rating": 0.026628037997452312,
+        "roll_efg_pct_10": 0.0034051334772778764,
+        "roll_tov_pct_10": 0.0021549049529299338,
+        "roll_orb_pct_10": 0.02029278372808721,
+        "roll_ft_rate_10": -0.00332293842287468,
+        "sos_10": -0.004455018874608832,
+        "is_b2b": 0.001915316356453173,
+        "p_pts": 0.008507094908379458,
+        "p_reb": 0.007968771357118331,
+        "p_ast": -0.01335194011461416,
+        "p_stl": 0.007242380453923221,
+        "p_blk": -0.0026567197429595425,
+        "p_tov": -0.0027566540309628394,
+        "p_pf": -0.00860038209004885,
+        "p_pm": 0.00794420286164263,
+        "p_usage": 0.0013083055892697158,
+        "p_eff": 0.004437768176008887,
+        "opp_adj_ortg_10": -0.02308415017086335,
+        "opp_adj_drtg_10": -0.017964272987607815,
+        "opp_sos_10": -0.013239298517058852,
+        "opp_is_b2b": -0.0005795399155714316
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       },
       "is_b2b_home": 0,
       "is_b2b_away": 0,
@@ -25890,6 +27393,7 @@ const analyticsData = {
           "ptsB": 117.84942433720893,
           "total": 234.02396988302087,
           "spread": 1.674878791396992,
+<<<<<<< HEAD
           "win_prob_A": 40.328076047371106,
           "ml_prob_A": 0.5170556877591487,
           "mc_win_A": 0.4466,
@@ -26036,12 +27540,73 @@ const analyticsData = {
                 "under": "1.63"
               },
               {
+=======
+          "win_prob_A": 40.82302895440927,
+          "ml_prob_A": 0.5180556877591487,
+          "mc_win_A": 0.4462,
+          "market": {
+            "ml": {
+              "home": "1.24",
+              "away": "4.30"
+            },
+            "spread": {
+              "hdp": -10.5,
+              "home": "1.98",
+              "away": "1.85"
+            },
+            "total": {
+              "hdp": 229.5,
+              "over": "1.91",
+              "under": "1.91"
+            },
+            "props": [
+              {
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "label": "Keon Ellis (Rebounds)",
                 "hdp": 2.5,
                 "over": "1.88",
                 "under": "1.86"
               },
               {
+<<<<<<< HEAD
+=======
+                "label": "Dean Wade (Rebounds)",
+                "hdp": 4.5,
+                "over": "2.11",
+                "under": "1.68"
+              },
+              {
+                "label": "James Harden (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.65",
+                "under": "2.18"
+              },
+              {
+                "label": "Sam Merrill (Rebounds)",
+                "hdp": 3.5,
+                "over": "2.24",
+                "under": "1.61"
+              },
+              {
+                "label": "Max Strus (Rebounds)",
+                "hdp": 4.5,
+                "over": "2.10",
+                "under": "1.69"
+              },
+              {
+                "label": "Evan Mobley (Rebounds)",
+                "hdp": 9.5,
+                "over": "1.98",
+                "under": "1.78"
+              },
+              {
+                "label": "Donovan Mitchell (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.75",
+                "under": "2.02"
+              },
+              {
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "label": "Max Strus (Points)",
                 "hdp": 8.5,
                 "over": "1.89",
@@ -26049,6 +27614,7 @@ const analyticsData = {
               },
               {
                 "label": "Donovan Mitchell (Points)",
+<<<<<<< HEAD
                 "hdp": 28.5,
                 "over": "1.93",
                 "under": "1.84"
@@ -26064,10 +27630,16 @@ const analyticsData = {
                 "hdp": 10.5,
                 "over": "1.79",
                 "under": "1.99"
+=======
+                "hdp": 27.5,
+                "over": "1.94",
+                "under": "1.83"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Sam Merrill (Points)",
                 "hdp": 11.5,
+<<<<<<< HEAD
                 "over": "1.79",
                 "under": "1.99"
               },
@@ -26076,12 +27648,21 @@ const analyticsData = {
                 "hdp": 6.5,
                 "over": "2.03",
                 "under": "1.76"
+=======
+                "over": "1.82",
+                "under": "1.95"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Evan Mobley (Points)",
                 "hdp": 18.5,
+<<<<<<< HEAD
                 "over": "1.83",
                 "under": "1.94"
+=======
+                "over": "1.85",
+                "under": "1.93"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Dean Wade (Points)",
@@ -26090,6 +27671,7 @@ const analyticsData = {
                 "under": "1.73"
               },
               {
+<<<<<<< HEAD
                 "label": "Tristan da Silva (Points)",
                 "hdp": 11.5,
                 "over": "1.87",
@@ -26110,10 +27692,15 @@ const analyticsData = {
               {
                 "label": "James Harden (Points)",
                 "hdp": 21.5,
+=======
+                "label": "Keon Ellis (Points)",
+                "hdp": 7.5,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "over": "1.93",
                 "under": "1.85"
               },
               {
+<<<<<<< HEAD
                 "label": "Jevon Carter (Points)",
                 "hdp": 9.5,
                 "over": "1.88",
@@ -26129,11 +27716,17 @@ const analyticsData = {
                 "label": "Donovan Mitchell (Steals)",
                 "hdp": 1.5,
                 "over": "1.77",
+=======
+                "label": "James Harden (Points)",
+                "hdp": 20.5,
+                "over": "1.80",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "1.98"
               },
               {
                 "label": "Donovan Mitchell (3 Point FG)",
                 "hdp": 2.5,
+<<<<<<< HEAD
                 "over": "1.70",
                 "under": "2.08"
               },
@@ -26272,16 +27865,30 @@ const analyticsData = {
               {
                 "label": "Desmond Bane (Rebs+Asts)",
                 "hdp": 8.5,
+=======
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "over": "1.72",
                 "under": "2.05"
               },
               {
+<<<<<<< HEAD
                 "label": "Jevon Carter (Rebs+Asts)",
                 "hdp": 4.5,
+=======
+                "label": "Keon Ellis (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.29",
+                "under": "1.58"
+              },
+              {
+                "label": "Sam Merrill (3 Point FG)",
+                "hdp": 2.5,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "over": "1.69",
                 "under": "2.09"
               },
               {
+<<<<<<< HEAD
                 "label": "Paolo Banchero (Rebs+Asts)",
                 "hdp": 13.5,
                 "over": "1.79",
@@ -26338,10 +27945,15 @@ const analyticsData = {
               {
                 "label": "Dean Wade (Pts+Rebs+Asts)",
                 "hdp": 10.5,
+=======
+                "label": "James Harden (3 Point FG)",
+                "hdp": 2.5,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "over": "1.78",
                 "under": "1.97"
               },
               {
+<<<<<<< HEAD
                 "label": "Max Strus (Pts+Rebs+Asts)",
                 "hdp": 15.5,
                 "over": "1.83",
@@ -26503,6 +28115,12 @@ const analyticsData = {
                 "label": "James Harden (Triple+Double)",
                 "over": "22.00",
                 "under": "N/A"
+=======
+                "label": "Max Strus (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.59",
+                "under": "2.28"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               }
             ]
           }
@@ -26512,9 +28130,15 @@ const analyticsData = {
           "recommended_bet": 0.0,
           "latent_strength_A": 5.505910660887272,
           "latent_strength_B": 3.8521453438927282,
+<<<<<<< HEAD
           "form_state_A": 0,
           "form_state_B": 2,
           "entropy_A": 3.3219280948873626
+=======
+          "form_state_A": 1,
+          "form_state_B": 2,
+          "entropy_A": 3.321928094887362
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "halves": {
           "h1_ptsA": 58.08727277290597,
@@ -26626,9 +28250,14 @@ const analyticsData = {
             "status": "Questionable",
             "injury": "Eye",
             "market_line": null,
+<<<<<<< HEAD
             "market_ast": 5.5,
             "market_reb": 4.5,
             "market_pts": 28.5
+=======
+            "market_reb": 4.5,
+            "market_pts": 27.5
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           },
           {
             "player": "Evan Mobley",
@@ -26639,7 +28268,10 @@ const analyticsData = {
             "status": "Active",
             "injury": "",
             "market_line": null,
+<<<<<<< HEAD
             "market_ast": 2.5,
+=======
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             "market_reb": 9.5,
             "market_pts": 18.5
           },
@@ -26652,9 +28284,14 @@ const analyticsData = {
             "status": "Active",
             "injury": "",
             "market_line": null,
+<<<<<<< HEAD
             "market_ast": 7.5,
             "market_reb": 4.5,
             "market_pts": 21.5
+=======
+            "market_reb": 4.5,
+            "market_pts": 20.5
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           },
           {
             "player": "Jarrett Allen",
@@ -26759,7 +28396,10 @@ const analyticsData = {
             "status": "Active",
             "injury": "",
             "market_line": null,
+<<<<<<< HEAD
             "market_ast": 1.5,
+=======
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             "market_reb": 3.5,
             "market_pts": 11.5
           },
@@ -26811,10 +28451,14 @@ const analyticsData = {
             "proj_ast": 4.897529088214523,
             "status": "Active",
             "injury": "",
+<<<<<<< HEAD
             "market_line": null,
             "market_ast": 4.5,
             "market_reb": 3.5,
             "market_pts": 20.5
+=======
+            "market_line": null
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           },
           {
             "player": "Franz Wagner",
@@ -26834,9 +28478,13 @@ const analyticsData = {
             "proj_ast": 0.9182867040402233,
             "status": "Active",
             "injury": "",
+<<<<<<< HEAD
             "market_line": null,
             "market_reb": 5.5,
             "market_pts": 6.5
+=======
+            "market_line": null
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           },
           {
             "player": "Jalen Suggs",
@@ -26886,10 +28534,14 @@ const analyticsData = {
             "proj_ast": 2.958923824129608,
             "status": "Active",
             "injury": "",
+<<<<<<< HEAD
             "market_line": null,
             "market_ast": 2.5,
             "market_reb": 2.5,
             "market_pts": 9.5
+=======
+            "market_line": null
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           },
           {
             "player": "Jonathan Isaac",
@@ -26939,10 +28591,14 @@ const analyticsData = {
             "proj_ast": 4.795497232210055,
             "status": "Active",
             "injury": "",
+<<<<<<< HEAD
             "market_line": null,
             "market_ast": 5.5,
             "market_reb": 7.5,
             "market_pts": 25.5
+=======
+            "market_line": null
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           },
           {
             "player": "Tristan da Silva",
@@ -26952,10 +28608,14 @@ const analyticsData = {
             "proj_ast": 2.4487645441072616,
             "status": "Active",
             "injury": "",
+<<<<<<< HEAD
             "market_line": null,
             "market_ast": 1.5,
             "market_reb": 4.5,
             "market_pts": 11.5
+=======
+            "market_line": null
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           },
           {
             "player": "Tyus Jones",
@@ -26975,10 +28635,14 @@ const analyticsData = {
             "proj_ast": 2.2447008320983235,
             "status": "Active",
             "injury": "",
+<<<<<<< HEAD
             "market_line": null,
             "market_ast": 2.5,
             "market_reb": 6.5,
             "market_pts": 10.5
+=======
+            "market_line": null
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           }
         ],
         "factors": {
@@ -26991,11 +28655,19 @@ const analyticsData = {
             "rest": 8,
             "is_b2b": 0,
             "ml_influence": {
+<<<<<<< HEAD
               "roll_efg_pct_10": 0.005539915350035471,
               "roll_tov_pct_10": 0.023080589511714465,
               "roll_orb_pct_10": 0.0018313172534189447,
               "roll_ft_rate_10": -0.0009541118575097585,
               "p_tov": -0.010245161400961678
+=======
+              "roll_efg_pct_10": 0.007770065359510609,
+              "roll_tov_pct_10": 0.024294722887898638,
+              "roll_orb_pct_10": 0.0031632762099810066,
+              "roll_ft_rate_10": -0.00382211040650659,
+              "p_tov": -0.011333976444283547
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             }
           },
           "teamB": {
@@ -27338,6 +29010,7 @@ const analyticsData = {
           }
         ],
         "shap_explanation": {
+<<<<<<< HEAD
           "adj_ortg_10": 0.040077240473035264,
           "adj_drtg_10": -0.027279208634756743,
           "adj_pace_10": 0.001160332532568873,
@@ -27362,10 +29035,37 @@ const analyticsData = {
           "opp_adj_drtg_10": -0.04184227676901202,
           "opp_sos_10": 0.0031573863078681085,
           "opp_is_b2b": -0.0009145741727832047
+=======
+          "adj_ortg_10": 0.04530742404853837,
+          "adj_drtg_10": -0.032419571104484284,
+          "adj_pace_10": 0.006928228027392392,
+          "net_rating": -0.010181857330852445,
+          "roll_efg_pct_10": 0.007770065359510609,
+          "roll_tov_pct_10": 0.024294722887898638,
+          "roll_orb_pct_10": 0.0031632762099810066,
+          "roll_ft_rate_10": -0.00382211040650659,
+          "sos_10": -0.00151266272738548,
+          "is_b2b": 0.0010063127225285098,
+          "p_pts": -0.0010171611136460684,
+          "p_reb": 0.021112208936135888,
+          "p_ast": -0.003286449483815432,
+          "p_stl": 0.013193654912732621,
+          "p_blk": 0.0026931181892535213,
+          "p_tov": -0.011333976444283547,
+          "p_pf": -0.006292391373084151,
+          "p_pm": -0.0035784764280200236,
+          "p_usage": 0.019874855093194595,
+          "p_eff": 0.0049307061505575655,
+          "opp_adj_ortg_10": -0.022077081415600077,
+          "opp_adj_drtg_10": -0.03850564833853218,
+          "opp_sos_10": 0.0025057528702466833,
+          "opp_is_b2b": -0.0008500034925071875
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "match_id": "0022501049",
         "time": "TBD"
       },
+<<<<<<< HEAD
       "ml_prob_A": 0.5170556877591487,
       "mc_win_A": 0.4466,
       "shap_explanation": {
@@ -27393,6 +29093,35 @@ const analyticsData = {
         "opp_adj_drtg_10": -0.04184227676901202,
         "opp_sos_10": 0.0031573863078681085,
         "opp_is_b2b": -0.0009145741727832047
+=======
+      "ml_prob_A": 0.5180556877591487,
+      "mc_win_A": 0.4462,
+      "shap_explanation": {
+        "adj_ortg_10": 0.04530742404853837,
+        "adj_drtg_10": -0.032419571104484284,
+        "adj_pace_10": 0.006928228027392392,
+        "net_rating": -0.010181857330852445,
+        "roll_efg_pct_10": 0.007770065359510609,
+        "roll_tov_pct_10": 0.024294722887898638,
+        "roll_orb_pct_10": 0.0031632762099810066,
+        "roll_ft_rate_10": -0.00382211040650659,
+        "sos_10": -0.00151266272738548,
+        "is_b2b": 0.0010063127225285098,
+        "p_pts": -0.0010171611136460684,
+        "p_reb": 0.021112208936135888,
+        "p_ast": -0.003286449483815432,
+        "p_stl": 0.013193654912732621,
+        "p_blk": 0.0026931181892535213,
+        "p_tov": -0.011333976444283547,
+        "p_pf": -0.006292391373084151,
+        "p_pm": -0.0035784764280200236,
+        "p_usage": 0.019874855093194595,
+        "p_eff": 0.0049307061505575655,
+        "opp_adj_ortg_10": -0.022077081415600077,
+        "opp_adj_drtg_10": -0.03850564833853218,
+        "opp_sos_10": 0.0025057528702466833,
+        "opp_is_b2b": -0.0008500034925071875
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       },
       "is_b2b_home": 0,
       "is_b2b_away": 0,
@@ -27413,6 +29142,7 @@ const analyticsData = {
           "ptsB": 118.1472701441821,
           "total": 236.76716026664974,
           "spread": -0.47261997828555025,
+<<<<<<< HEAD
           "win_prob_A": 58.611513887046065,
           "ml_prob_A": 0.5891783783539806,
           "mc_win_A": 0.4984,
@@ -27430,10 +29160,30 @@ const analyticsData = {
               "hdp": 212.5,
               "over": "1.11",
               "under": "5.78"
+=======
+          "win_prob_A": 58.06344499331415,
+          "ml_prob_A": 0.5891783783539806,
+          "mc_win_A": 0.4926,
+          "market": {
+            "ml": {
+              "home": "2.80",
+              "away": "1.46"
+            },
+            "spread": {
+              "hdp": 4.5,
+              "home": "1.95",
+              "away": "1.87"
+            },
+            "total": {
+              "hdp": 234.5,
+              "over": "1.93",
+              "under": "1.89"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             },
             "props": [
               {
                 "label": "Aaron Gordon (Assists)",
+<<<<<<< HEAD
                 "hdp": 2.5,
                 "over": "2.16",
                 "under": "1.65"
@@ -27501,10 +29251,14 @@ const analyticsData = {
               {
                 "label": "Cameron Johnson (Rebounds)",
                 "hdp": 3.5,
+=======
+                "hdp": 2.5,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "over": "1.89",
                 "under": "1.85"
               },
               {
+<<<<<<< HEAD
                 "label": "Christian Braun (Rebounds)",
                 "hdp": 5.5,
                 "over": "2.11",
@@ -27566,11 +29320,15 @@ const analyticsData = {
               },
               {
                 "label": "Royce O'Neale (Rebounds)",
+=======
+                "label": "Collin Gillespie (Assists)",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "hdp": 4.5,
                 "over": "1.97",
                 "under": "1.78"
               },
               {
+<<<<<<< HEAD
                 "label": "Devin Booker (Rebounds)",
                 "hdp": 3.5,
                 "over": "1.71",
@@ -27581,12 +29339,149 @@ const analyticsData = {
                 "hdp": 9.5,
                 "over": "2.01",
                 "under": "1.78"
+=======
+                "label": "Christian Braun (Assists)",
+                "hdp": 2.5,
+                "over": "1.70",
+                "under": "2.08"
+              },
+              {
+                "label": "Jamal Murray (Assists)",
+                "hdp": 6.5,
+                "over": "1.69",
+                "under": "2.10"
+              },
+              {
+                "label": "Nikola Joki\u0107 (Assists)",
+                "hdp": 10.5,
+                "over": "1.70",
+                "under": "2.09"
+              },
+              {
+                "label": "Devin Booker (Assists)",
+                "hdp": 6.5,
+                "over": "2.11",
+                "under": "1.68"
+              },
+              {
+                "label": "Grayson Allen (Assists)",
+                "hdp": 3.5,
+                "over": "2.04",
+                "under": "1.73"
+              },
+              {
+                "label": "Royce O'Neale (Assists)",
+                "hdp": 2.5,
+                "over": "2.17",
+                "under": "1.65"
+              },
+              {
+                "label": "Jalen Green (Assists)",
+                "hdp": 2.5,
+                "over": "1.57",
+                "under": "2.32"
+              },
+              {
+                "label": "Cameron Johnson (Assists)",
+                "hdp": 2.5,
+                "over": "2.34",
+                "under": "1.56"
+              },
+              {
+                "label": "Oso Ighodaro (Assists)",
+                "hdp": 2.5,
+                "over": "1.62",
+                "under": "2.23"
+              },
+              {
+                "label": "Cameron Johnson (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.78",
+                "under": "1.97"
+              },
+              {
+                "label": "Christian Braun (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.62",
+                "under": "2.22"
+              },
+              {
+                "label": "Tim Hardaway Jr. (Rebounds)",
+                "hdp": 2.5,
+                "over": "1.85",
+                "under": "1.88"
+              },
+              {
+                "label": "Collin Gillespie (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.63",
+                "under": "2.20"
+              },
+              {
+                "label": "Jalen Green (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.68",
+                "under": "2.11"
+              },
+              {
+                "label": "Aaron Gordon (Rebounds)",
+                "hdp": 5.5,
+                "over": "1.95",
+                "under": "1.79"
+              },
+              {
+                "label": "Oso Ighodaro (Rebounds)",
+                "hdp": 6.5,
+                "over": "1.80",
+                "under": "1.95"
+              },
+              {
+                "label": "Grayson Allen (Rebounds)",
+                "hdp": 2.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "Nikola Joki\u0107 (Rebounds)",
+                "hdp": 13.5,
+                "over": "2.05",
+                "under": "1.72"
+              },
+              {
+                "label": "Jamal Murray (Rebounds)",
+                "hdp": 4.5,
+                "over": "2.02",
+                "under": "1.75"
+              },
+              {
+                "label": "Royce O'Neale (Rebounds)",
+                "hdp": 4.5,
+                "over": "2.07",
+                "under": "1.71"
+              },
+              {
+                "label": "Devin Booker (Rebounds)",
+                "hdp": 4.5,
+                "over": "2.24",
+                "under": "1.61"
+              },
+              {
+                "label": "Royce O'Neale (Points)",
+                "hdp": 8.5,
+                "over": "1.91",
+                "under": "1.86"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Aaron Gordon (Points)",
                 "hdp": 15.5,
+<<<<<<< HEAD
                 "over": "1.88",
                 "under": "1.88"
+=======
+                "over": "1.79",
+                "under": "2.00"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Tim Hardaway Jr. (Points)",
@@ -27596,6 +29491,7 @@ const analyticsData = {
               },
               {
                 "label": "Jalen Green (Points)",
+<<<<<<< HEAD
                 "hdp": 22.5,
                 "over": "1.87",
                 "under": "1.90"
@@ -27627,31 +29523,82 @@ const analyticsData = {
               {
                 "label": "Jamal Murray (Points)",
                 "hdp": 23.5,
+=======
+                "hdp": 21.5,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "over": "1.85",
                 "under": "1.93"
               },
               {
+<<<<<<< HEAD
                 "label": "Devin Booker (Points)",
                 "hdp": 25.5,
                 "over": "1.87",
                 "under": "1.91"
+=======
+                "label": "Rasheer Fleming (Points)",
+                "hdp": 7.5,
+                "over": "2.06",
+                "under": "1.74"
+              },
+              {
+                "label": "Christian Braun (Points)",
+                "hdp": 11.5,
+                "over": "1.88",
+                "under": "1.89"
+              },
+              {
+                "label": "Cameron Johnson (Points)",
+                "hdp": 11.5,
+                "over": "1.88",
+                "under": "1.89"
+              },
+              {
+                "label": "Oso Ighodaro (Points)",
+                "hdp": 8.5,
+                "over": "2.11",
+                "under": "1.70"
+              },
+              {
+                "label": "Jamal Murray (Points)",
+                "hdp": 24.5,
+                "over": "1.96",
+                "under": "1.81"
+              },
+              {
+                "label": "Devin Booker (Points)",
+                "hdp": 26.5,
+                "over": "1.88",
+                "under": "1.88"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Nikola Joki\u0107 (Points)",
                 "hdp": 28.5,
+<<<<<<< HEAD
                 "over": "1.89",
                 "under": "1.88"
+=======
+                "over": "1.93",
+                "under": "1.85"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Collin Gillespie (Points)",
                 "hdp": 13.5,
+<<<<<<< HEAD
                 "over": "1.95",
                 "under": "1.82"
+=======
+                "over": "1.85",
+                "under": "1.93"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Grayson Allen (Points)",
                 "hdp": 13.5,
                 "over": "1.83",
+<<<<<<< HEAD
                 "under": "1.95"
               },
               {
@@ -27659,42 +29606,75 @@ const analyticsData = {
                 "hdp": 1.5,
                 "over": "2.10",
                 "under": "1.68"
+=======
+                "under": "1.94"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Grayson Allen (3 Point FG)",
                 "hdp": 2.5,
+<<<<<<< HEAD
                 "over": "1.68",
                 "under": "2.11"
+=======
+                "over": "1.71",
+                "under": "2.06"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Royce O'Neale (3 Point FG)",
                 "hdp": 2.5,
+<<<<<<< HEAD
                 "over": "2.22",
                 "under": "1.62"
+=======
+                "over": "2.28",
+                "under": "1.59"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Jamal Murray (3 Point FG)",
                 "hdp": 2.5,
+<<<<<<< HEAD
                 "over": "1.81",
                 "under": "1.93"
+=======
+                "over": "1.79",
+                "under": "1.96"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Nikola Joki\u0107 (3 Point FG)",
                 "hdp": 1.5,
+<<<<<<< HEAD
                 "over": "1.70",
                 "under": "2.08"
+=======
+                "over": "1.74",
+                "under": "2.04"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Aaron Gordon (3 Point FG)",
                 "hdp": 1.5,
+<<<<<<< HEAD
                 "over": "1.94",
                 "under": "1.81"
+=======
+                "over": "1.83",
+                "under": "1.92"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Devin Booker (3 Point FG)",
                 "hdp": 1.5,
+<<<<<<< HEAD
                 "over": "1.53",
                 "under": "2.41"
+=======
+                "over": "1.52",
+                "under": "2.45"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Cameron Johnson (3 Point FG)",
@@ -27705,24 +29685,40 @@ const analyticsData = {
               {
                 "label": "Christian Braun (3 Point FG)",
                 "hdp": 0.5,
+<<<<<<< HEAD
                 "over": "1.44",
                 "under": "2.71"
+=======
+                "over": "1.42",
+                "under": "2.79"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Tim Hardaway Jr. (3 Point FG)",
                 "hdp": 2.5,
+<<<<<<< HEAD
                 "over": "2.20",
                 "under": "1.63"
+=======
+                "over": "2.25",
+                "under": "1.61"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Collin Gillespie (3 Point FG)",
                 "hdp": 2.5,
+<<<<<<< HEAD
                 "over": "1.63",
                 "under": "2.19"
+=======
+                "over": "1.58",
+                "under": "2.29"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Jalen Green (3 Point FG)",
                 "hdp": 2.5,
+<<<<<<< HEAD
                 "over": "1.76",
                 "under": "2.00"
               },
@@ -27731,16 +29727,32 @@ const analyticsData = {
                 "hdp": 10.5,
                 "over": "1.76",
                 "under": "2.00"
+=======
+                "over": "1.72",
+                "under": "2.06"
+              },
+              {
+                "label": "Oso Ighodaro (Pts+Asts)",
+                "hdp": 11.5,
+                "over": "1.94",
+                "under": "1.81"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Aaron Gordon (Pts+Asts)",
                 "hdp": 18.5,
+<<<<<<< HEAD
                 "over": "1.97",
                 "under": "1.78"
+=======
+                "over": "1.82",
+                "under": "1.93"
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
               },
               {
                 "label": "Christian Braun (Pts+Asts)",
                 "hdp": 14.5,
+<<<<<<< HEAD
                 "over": "1.91",
                 "under": "1.83"
               },
@@ -27873,10 +29885,247 @@ const analyticsData = {
               {
                 "label": "Nikola Joki\u0107 (Pts+Rebs+Asts)",
                 "hdp": 53.5,
+=======
+                "over": "1.87",
+                "under": "1.88"
+              },
+              {
+                "label": "Grayson Allen (Pts+Asts)",
+                "hdp": 17.5,
+                "over": "1.92",
+                "under": "1.83"
+              },
+              {
+                "label": "Jamal Murray (Pts+Asts)",
+                "hdp": 31.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Collin Gillespie (Pts+Asts)",
+                "hdp": 18.5,
+                "over": "1.92",
+                "under": "1.83"
+              },
+              {
+                "label": "Cameron Johnson (Pts+Asts)",
+                "hdp": 13.5,
+                "over": "1.83",
+                "under": "1.92"
+              },
+              {
+                "label": "Jalen Green (Pts+Asts)",
+                "hdp": 24.5,
+                "over": "1.83",
+                "under": "1.92"
+              },
+              {
+                "label": "Nikola Joki\u0107 (Pts+Asts)",
+                "hdp": 39.5,
+                "over": "1.85",
+                "under": "1.89"
+              },
+              {
+                "label": "Devin Booker (Pts+Asts)",
+                "hdp": 32.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "Royce O'Neale (Pts+Asts)",
+                "hdp": 10.5,
+                "over": "1.80",
+                "under": "1.95"
+              },
+              {
+                "label": "Aaron Gordon (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "2.09",
+                "under": "1.69"
+              },
+              {
+                "label": "Cameron Johnson (Rebs+Asts)",
+                "hdp": 5.5,
+                "over": "1.68",
+                "under": "2.12"
+              },
+              {
+                "label": "Nikola Joki\u0107 (Rebs+Asts)",
+                "hdp": 24.5,
+                "over": "1.94",
+                "under": "1.80"
+              },
+              {
+                "label": "Devin Booker (Rebs+Asts)",
+                "hdp": 10.5,
+                "over": "1.94",
+                "under": "1.81"
+              },
+              {
+                "label": "Jamal Murray (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "1.92",
+                "under": "1.83"
+              },
+              {
+                "label": "Collin Gillespie (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "Christian Braun (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.72",
+                "under": "2.06"
+              },
+              {
+                "label": "Grayson Allen (Rebs+Asts)",
+                "hdp": 6.5,
+                "over": "2.14",
+                "under": "1.67"
+              },
+              {
+                "label": "Royce O'Neale (Rebs+Asts)",
+                "hdp": 6.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "Oso Ighodaro (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.78",
+                "under": "1.98"
+              },
+              {
+                "label": "Jalen Green (Rebs+Asts)",
+                "hdp": 6.5,
+                "over": "1.67",
+                "under": "2.14"
+              },
+              {
+                "label": "Jamal Murray (Pts+Rebs+Asts)",
+                "hdp": 35.5,
+                "over": "1.85",
+                "under": "1.89"
+              },
+              {
+                "label": "Christian Braun (Pts+Rebs+Asts)",
+                "hdp": 19.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "Nikola Joki\u0107 (Pts+Rebs+Asts)",
+                "hdp": 52.5,
+                "over": "1.82",
+                "under": "1.93"
+              },
+              {
+                "label": "Royce O'Neale (Pts+Rebs+Asts)",
+                "hdp": 15.5,
+                "over": "1.95",
+                "under": "1.80"
+              },
+              {
+                "label": "Jalen Green (Pts+Rebs+Asts)",
+                "hdp": 28.5,
+                "over": "1.81",
+                "under": "1.94"
+              },
+              {
+                "label": "Cameron Johnson (Pts+Rebs+Asts)",
+                "hdp": 17.5,
                 "over": "1.83",
                 "under": "1.91"
               },
               {
+                "label": "Grayson Allen (Pts+Rebs+Asts)",
+                "hdp": 20.5,
+                "over": "1.96",
+                "under": "1.79"
+              },
+              {
+                "label": "Devin Booker (Pts+Rebs+Asts)",
+                "hdp": 37.5,
+                "over": "1.92",
+                "under": "1.83"
+              },
+              {
+                "label": "Aaron Gordon (Pts+Rebs+Asts)",
+                "hdp": 24.5,
+                "over": "1.91",
+                "under": "1.83"
+              },
+              {
+                "label": "Collin Gillespie (Pts+Rebs+Asts)",
+                "hdp": 22.5,
+                "over": "1.91",
+                "under": "1.83"
+              },
+              {
+                "label": "Oso Ighodaro (Pts+Rebs+Asts)",
+                "hdp": 18.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Cameron Johnson (Pts+Rebs)",
+                "hdp": 15.5,
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "Aaron Gordon (Pts+Rebs)",
+                "hdp": 21.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "Tim Hardaway Jr. (Pts+Rebs)",
+                "hdp": 14.5,
+                "over": "1.93",
+                "under": "1.82"
+              },
+              {
+                "label": "Jamal Murray (Pts+Rebs)",
+                "hdp": 28.5,
+                "over": "1.88",
+                "under": "1.86"
+              },
+              {
+                "label": "Grayson Allen (Pts+Rebs)",
+                "hdp": 16.5,
+                "over": "1.87",
+                "under": "1.87"
+              },
+              {
+                "label": "Devin Booker (Pts+Rebs)",
+                "hdp": 30.5,
+                "over": "1.82",
+                "under": "1.93"
+              },
+              {
+                "label": "Christian Braun (Pts+Rebs)",
+                "hdp": 16.5,
+                "over": "1.82",
+                "under": "1.93"
+              },
+              {
+                "label": "Royce O'Neale (Pts+Rebs)",
+                "hdp": 12.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "Collin Gillespie (Pts+Rebs)",
+                "hdp": 17.5,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
+                "over": "1.83",
+                "under": "1.91"
+              },
+              {
+<<<<<<< HEAD
                 "label": "Royce O'Neale (Pts+Rebs+Asts)",
                 "hdp": 16.5,
                 "over": "1.93",
@@ -28005,46 +30254,100 @@ const analyticsData = {
               {
                 "label": "Jamal Murray (Double+Double)",
                 "over": "4.23",
+=======
+                "label": "Oso Ighodaro (Pts+Rebs)",
+                "hdp": 15.5,
+                "over": "1.99",
+                "under": "1.77"
+              },
+              {
+                "label": "Nikola Joki\u0107 (Pts+Rebs)",
+                "hdp": 41.5,
+                "over": "1.86",
+                "under": "1.88"
+              },
+              {
+                "label": "Jalen Green (Pts+Rebs)",
+                "hdp": 25.5,
+                "over": "1.86",
+                "under": "1.88"
+              },
+              {
+                "label": "Jamal Murray (Double+Double)",
+                "over": "4.46",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "Royce O'Neale (Double+Double)",
+<<<<<<< HEAD
                 "over": "30.00",
+=======
+                "over": "35.00",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "Collin Gillespie (Double+Double)",
+<<<<<<< HEAD
                 "over": "22.00",
+=======
+                "over": "18.00",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "Nikola Joki\u0107 (Double+Double)",
+<<<<<<< HEAD
                 "over": "1.05",
+=======
+                "over": "1.07",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "Devin Booker (Double+Double)",
+<<<<<<< HEAD
                 "over": "5.77",
+=======
+                "over": "6.47",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "Oso Ighodaro (Double+Double)",
+<<<<<<< HEAD
                 "over": "9.80",
+=======
+                "over": "8.70",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "Cameron Johnson (Double+Double)",
+<<<<<<< HEAD
                 "over": "51.00",
+=======
+                "over": "42.00",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "Aaron Gordon (Double+Double)",
+<<<<<<< HEAD
                 "over": "15.40",
+=======
+                "over": "12.00",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "Jalen Green (Double+Double)",
+<<<<<<< HEAD
                 "over": "25.00",
+=======
+                "over": "35.00",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
@@ -28054,17 +30357,29 @@ const analyticsData = {
               },
               {
                 "label": "Christian Braun (Double+Double)",
+<<<<<<< HEAD
                 "over": "17.20",
+=======
+                "over": "18.20",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "Jamal Murray (Triple+Double)",
+<<<<<<< HEAD
                 "over": "38.00",
+=======
+                "over": "49.00",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               },
               {
                 "label": "Nikola Joki\u0107 (Triple+Double)",
+<<<<<<< HEAD
                 "over": "1.54",
+=======
+                "over": "1.64",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
                 "under": "N/A"
               }
             ]
@@ -28076,8 +30391,13 @@ const analyticsData = {
           "latent_strength_A": -1.164924748401413,
           "latent_strength_B": 5.837411202872655,
           "form_state_A": 0,
+<<<<<<< HEAD
           "form_state_B": 2,
           "entropy_A": 3.3219280948873626
+=======
+          "form_state_B": 1,
+          "entropy_A": 3.321928094887362
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "halves": {
           "h1_ptsA": 59.309945061233826,
@@ -28141,8 +30461,13 @@ const analyticsData = {
             "injury": "",
             "market_line": null,
             "market_ast": 6.5,
+<<<<<<< HEAD
             "market_reb": 3.5,
             "market_pts": 25.5
+=======
+            "market_reb": 4.5,
+            "market_pts": 26.5
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           },
           {
             "player": "Dillon Brooks",
@@ -28197,8 +30522,13 @@ const analyticsData = {
             "injury": "",
             "market_line": null,
             "market_ast": 2.5,
+<<<<<<< HEAD
             "market_reb": 4.5,
             "market_pts": 22.5
+=======
+            "market_reb": 3.5,
+            "market_pts": 21.5
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           },
           {
             "player": "Jamaree Bouyea",
@@ -28292,8 +30622,12 @@ const analyticsData = {
             "status": "Active",
             "injury": "",
             "market_line": null,
+<<<<<<< HEAD
             "market_reb": 3.5,
             "market_pts": 6.5
+=======
+            "market_pts": 7.5
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           },
           {
             "player": "Royce O'Neale",
@@ -28364,7 +30698,11 @@ const analyticsData = {
             "injury": "",
             "market_line": null,
             "market_ast": 2.5,
+<<<<<<< HEAD
             "market_reb": 5.5,
+=======
+            "market_reb": 4.5,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             "market_pts": 11.5
           },
           {
@@ -28428,7 +30766,11 @@ const analyticsData = {
             "market_line": null,
             "market_ast": 6.5,
             "market_reb": 4.5,
+<<<<<<< HEAD
             "market_pts": 23.5
+=======
+            "market_pts": 24.5
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           },
           {
             "player": "Jonas Valan\u010di\u016bnas",
@@ -28469,7 +30811,11 @@ const analyticsData = {
             "status": "Active",
             "injury": "",
             "market_line": null,
+<<<<<<< HEAD
             "market_ast": 11.5,
+=======
+            "market_ast": 10.5,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             "market_reb": 13.5,
             "market_pts": 28.5
           },
@@ -28536,11 +30882,19 @@ const analyticsData = {
             "rest": 8,
             "is_b2b": 0,
             "ml_influence": {
+<<<<<<< HEAD
               "roll_efg_pct_10": 0.0052119558519527235,
               "roll_tov_pct_10": 0.012826365896900213,
               "roll_orb_pct_10": 0.007984760376754708,
               "roll_ft_rate_10": 0.0018586260637819408,
               "p_tov": -0.0015924813573872142
+=======
+              "roll_efg_pct_10": 0.007406883357524411,
+              "roll_tov_pct_10": 0.012891544153359885,
+              "roll_orb_pct_10": 0.009691192769072567,
+              "roll_ft_rate_10": 0.0001125723294850317,
+              "p_tov": -0.003386822377609146
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             }
           },
           "teamB": {
@@ -28883,6 +31237,7 @@ const analyticsData = {
           }
         ],
         "shap_explanation": {
+<<<<<<< HEAD
           "adj_ortg_10": 0.036922917716244966,
           "adj_drtg_10": -0.0023300122177847982,
           "adj_pace_10": 0.006850167218042529,
@@ -28907,11 +31262,38 @@ const analyticsData = {
           "opp_adj_drtg_10": 0.031042905380408284,
           "opp_sos_10": 0.010194348625004323,
           "opp_is_b2b": -0.0017613576767308815
+=======
+          "adj_ortg_10": 0.0418915837675011,
+          "adj_drtg_10": 0.00035133969416730214,
+          "adj_pace_10": 0.013620733829927166,
+          "net_rating": -0.0037279708821213904,
+          "roll_efg_pct_10": 0.007406883357524411,
+          "roll_tov_pct_10": 0.012891544153359885,
+          "roll_orb_pct_10": 0.009691192769072567,
+          "roll_ft_rate_10": 0.0001125723294850317,
+          "sos_10": -0.0005774589835574053,
+          "is_b2b": 0.0008877450345867764,
+          "p_pts": 0.009226520469121246,
+          "p_reb": 0.00034068857767886933,
+          "p_ast": -0.0073811989939391726,
+          "p_stl": 0.0057781452419154635,
+          "p_blk": 0.0048961584913542995,
+          "p_tov": -0.003386822377609146,
+          "p_pf": -0.017400810463806315,
+          "p_pm": -0.004556633937264716,
+          "p_usage": 0.023756047897844797,
+          "p_eff": 0.010152260486545009,
+          "opp_adj_ortg_10": -0.0646160016741871,
+          "opp_adj_drtg_10": 0.040590961797376264,
+          "opp_sos_10": 0.011239941110728928,
+          "opp_is_b2b": -0.0021617953516204023
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "match_id": "0022501050",
         "time": "TBD"
       },
       "ml_prob_A": 0.5891783783539806,
+<<<<<<< HEAD
       "mc_win_A": 0.4984,
       "shap_explanation": {
         "adj_ortg_10": 0.036922917716244966,
@@ -28938,6 +31320,34 @@ const analyticsData = {
         "opp_adj_drtg_10": 0.031042905380408284,
         "opp_sos_10": 0.010194348625004323,
         "opp_is_b2b": -0.0017613576767308815
+=======
+      "mc_win_A": 0.4926,
+      "shap_explanation": {
+        "adj_ortg_10": 0.0418915837675011,
+        "adj_drtg_10": 0.00035133969416730214,
+        "adj_pace_10": 0.013620733829927166,
+        "net_rating": -0.0037279708821213904,
+        "roll_efg_pct_10": 0.007406883357524411,
+        "roll_tov_pct_10": 0.012891544153359885,
+        "roll_orb_pct_10": 0.009691192769072567,
+        "roll_ft_rate_10": 0.0001125723294850317,
+        "sos_10": -0.0005774589835574053,
+        "is_b2b": 0.0008877450345867764,
+        "p_pts": 0.009226520469121246,
+        "p_reb": 0.00034068857767886933,
+        "p_ast": -0.0073811989939391726,
+        "p_stl": 0.0057781452419154635,
+        "p_blk": 0.0048961584913542995,
+        "p_tov": -0.003386822377609146,
+        "p_pf": -0.017400810463806315,
+        "p_pm": -0.004556633937264716,
+        "p_usage": 0.023756047897844797,
+        "p_eff": 0.010152260486545009,
+        "opp_adj_ortg_10": -0.0646160016741871,
+        "opp_adj_drtg_10": 0.040590961797376264,
+        "opp_sos_10": 0.011239941110728928,
+        "opp_is_b2b": -0.0021617953516204023
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       },
       "is_b2b_home": 0,
       "is_b2b_away": 0,
@@ -28958,9 +31368,15 @@ const analyticsData = {
           "ptsB": 118.30030076689121,
           "total": 231.44001747934743,
           "spread": 5.160584054434992,
+<<<<<<< HEAD
           "win_prob_A": 45.439092207215296,
           "ml_prob_A": 0.5218515367869215,
           "mc_win_A": 0.3532,
+=======
+          "win_prob_A": 45.851092207215295,
+          "ml_prob_A": 0.5228515367869215,
+          "mc_win_A": 0.362,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           "market": {
             "ml": {
               "home": null,
@@ -28983,9 +31399,15 @@ const analyticsData = {
           "recommended_bet": 0.0,
           "latent_strength_A": 7.5024314190974115,
           "latent_strength_B": 11.188497712009733,
+<<<<<<< HEAD
           "form_state_A": 0,
           "form_state_B": 0,
           "entropy_A": 3.3219280948873626
+=======
+          "form_state_A": 2,
+          "form_state_B": 0,
+          "entropy_A": 3.321928094887362
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "halves": {
           "h1_ptsA": 56.56985835622811,
@@ -29457,11 +31879,19 @@ const analyticsData = {
             "rest": 8,
             "is_b2b": 0,
             "ml_influence": {
+<<<<<<< HEAD
               "roll_efg_pct_10": 0.001569408279210478,
               "roll_tov_pct_10": 0.01133518551521746,
               "roll_orb_pct_10": 0.01399259486296998,
               "roll_ft_rate_10": 0.0010986969304659056,
               "p_tov": -0.01152833609255822
+=======
+              "roll_efg_pct_10": 0.0023865333900728205,
+              "roll_tov_pct_10": 0.011577205595894523,
+              "roll_orb_pct_10": 0.015583413016032973,
+              "roll_ft_rate_10": -0.0004503633553321326,
+              "p_tov": -0.013217163172641211
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             }
           },
           "teamB": {
@@ -29804,6 +32234,7 @@ const analyticsData = {
           }
         ],
         "shap_explanation": {
+<<<<<<< HEAD
           "adj_ortg_10": 0.03662638993658519,
           "adj_drtg_10": 0.009147209559747438,
           "adj_pace_10": -0.0030082765673674315,
@@ -29828,10 +32259,37 @@ const analyticsData = {
           "opp_adj_drtg_10": -0.04803133392206739,
           "opp_sos_10": -0.009707498942969437,
           "opp_is_b2b": -0.001233146303883359
+=======
+          "adj_ortg_10": 0.04107579580100857,
+          "adj_drtg_10": 0.009370207767253256,
+          "adj_pace_10": 0.0006112247224420318,
+          "net_rating": 0.0046985905471814615,
+          "roll_efg_pct_10": 0.0023865333900728205,
+          "roll_tov_pct_10": 0.011577205595894523,
+          "roll_orb_pct_10": 0.015583413016032973,
+          "roll_ft_rate_10": -0.0004503633553321326,
+          "sos_10": -0.003424050951511773,
+          "is_b2b": 0.00023474552891613706,
+          "p_pts": 0.010579894494192681,
+          "p_reb": 0.011971072497248846,
+          "p_ast": -0.01054153326887133,
+          "p_stl": 0.009035424173475035,
+          "p_blk": 0.006055684900947943,
+          "p_tov": -0.013217163172641211,
+          "p_pf": -0.004112474913479364,
+          "p_pm": -0.0024214272123233883,
+          "p_usage": 0.015095780633666026,
+          "p_eff": 0.008623006261285308,
+          "opp_adj_ortg_10": -0.03126320514532356,
+          "opp_adj_drtg_10": -0.04656530671864962,
+          "opp_sos_10": -0.011032391998235708,
+          "opp_is_b2b": -0.0011718778162240707
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "match_id": "0022501051",
         "time": "TBD"
       },
+<<<<<<< HEAD
       "ml_prob_A": 0.5218515367869215,
       "mc_win_A": 0.3532,
       "shap_explanation": {
@@ -29859,6 +32317,35 @@ const analyticsData = {
         "opp_adj_drtg_10": -0.04803133392206739,
         "opp_sos_10": -0.009707498942969437,
         "opp_is_b2b": -0.001233146303883359
+=======
+      "ml_prob_A": 0.5228515367869215,
+      "mc_win_A": 0.362,
+      "shap_explanation": {
+        "adj_ortg_10": 0.04107579580100857,
+        "adj_drtg_10": 0.009370207767253256,
+        "adj_pace_10": 0.0006112247224420318,
+        "net_rating": 0.0046985905471814615,
+        "roll_efg_pct_10": 0.0023865333900728205,
+        "roll_tov_pct_10": 0.011577205595894523,
+        "roll_orb_pct_10": 0.015583413016032973,
+        "roll_ft_rate_10": -0.0004503633553321326,
+        "sos_10": -0.003424050951511773,
+        "is_b2b": 0.00023474552891613706,
+        "p_pts": 0.010579894494192681,
+        "p_reb": 0.011971072497248846,
+        "p_ast": -0.01054153326887133,
+        "p_stl": 0.009035424173475035,
+        "p_blk": 0.006055684900947943,
+        "p_tov": -0.013217163172641211,
+        "p_pf": -0.004112474913479364,
+        "p_pm": -0.0024214272123233883,
+        "p_usage": 0.015095780633666026,
+        "p_eff": 0.008623006261285308,
+        "opp_adj_ortg_10": -0.03126320514532356,
+        "opp_adj_drtg_10": -0.04656530671864962,
+        "opp_sos_10": -0.011032391998235708,
+        "opp_is_b2b": -0.0011718778162240707
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       },
       "is_b2b_home": 0,
       "is_b2b_away": 0,
@@ -29879,9 +32366,15 @@ const analyticsData = {
           "ptsB": 123.78928883212522,
           "total": 235.37093904431373,
           "spread": 12.20763861993673,
+<<<<<<< HEAD
           "win_prob_A": 34.66889125299364,
           "ml_prob_A": 0.44728152088322737,
           "mc_win_A": 0.1958,
+=======
+          "win_prob_A": 34.68489125299364,
+          "ml_prob_A": 0.44728152088322737,
+          "mc_win_A": 0.1962,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           "market": {
             "ml": {
               "home": null,
@@ -29905,8 +32398,13 @@ const analyticsData = {
           "latent_strength_A": -13.733185111787689,
           "latent_strength_B": 6.870047814537148,
           "form_state_A": 2,
+<<<<<<< HEAD
           "form_state_B": 2,
           "entropy_A": 3.3219280948873626
+=======
+          "form_state_B": 1,
+          "entropy_A": 3.321928094887362
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "halves": {
           "h1_ptsA": 55.790825106094246,
@@ -30418,11 +32916,19 @@ const analyticsData = {
             "rest": 8,
             "is_b2b": 0,
             "ml_influence": {
+<<<<<<< HEAD
               "roll_efg_pct_10": -0.0020059218820801306,
               "roll_tov_pct_10": 0.007328289518687825,
               "roll_orb_pct_10": -0.012343057766220794,
               "roll_ft_rate_10": -0.0007131339141135129,
               "p_tov": -0.0034513785719938283
+=======
+              "roll_efg_pct_10": -0.0026842668116517808,
+              "roll_tov_pct_10": 0.007245572194615118,
+              "roll_orb_pct_10": -0.013341010277298879,
+              "roll_ft_rate_10": -0.0012857560536922343,
+              "p_tov": -0.0026684542058864028
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             }
           },
           "teamB": {
@@ -30765,6 +33271,7 @@ const analyticsData = {
           }
         ],
         "shap_explanation": {
+<<<<<<< HEAD
           "adj_ortg_10": -0.03362463210073322,
           "adj_drtg_10": -0.037097871610708495,
           "adj_pace_10": 0.002609565845920656,
@@ -30789,11 +33296,38 @@ const analyticsData = {
           "opp_adj_drtg_10": -0.04434972731564365,
           "opp_sos_10": 0.0014167098817259216,
           "opp_is_b2b": -0.001531583841824542
+=======
+          "adj_ortg_10": -0.038125397341544943,
+          "adj_drtg_10": -0.03907124481382306,
+          "adj_pace_10": 0.0074464757850489964,
+          "net_rating": 0.0034086751042051978,
+          "roll_efg_pct_10": -0.0026842668116517808,
+          "roll_tov_pct_10": 0.007245572194615118,
+          "roll_orb_pct_10": -0.013341010277298879,
+          "roll_ft_rate_10": -0.0012857560536922343,
+          "sos_10": 0.003875614227639538,
+          "is_b2b": 0.001297045980082055,
+          "p_pts": 0.009592317664381797,
+          "p_reb": 0.03305076851054507,
+          "p_ast": 0.014435859011060034,
+          "p_stl": 0.02184709711090402,
+          "p_blk": 0.0030512436943563367,
+          "p_tov": -0.0026684542058864028,
+          "p_pf": -0.00205436952142432,
+          "p_pm": 0.001266051063932604,
+          "p_usage": 0.009824457419690681,
+          "p_eff": 0.005016739350672157,
+          "opp_adj_ortg_10": -0.03398723718048656,
+          "opp_adj_drtg_10": -0.04077072352290261,
+          "opp_sos_10": 0.0014093340888778735,
+          "opp_is_b2b": -0.0016500226039680517
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "match_id": "0022501052",
         "time": "TBD"
       },
       "ml_prob_A": 0.44728152088322737,
+<<<<<<< HEAD
       "mc_win_A": 0.1958,
       "shap_explanation": {
         "adj_ortg_10": -0.03362463210073322,
@@ -30820,6 +33354,34 @@ const analyticsData = {
         "opp_adj_drtg_10": -0.04434972731564365,
         "opp_sos_10": 0.0014167098817259216,
         "opp_is_b2b": -0.001531583841824542
+=======
+      "mc_win_A": 0.1962,
+      "shap_explanation": {
+        "adj_ortg_10": -0.038125397341544943,
+        "adj_drtg_10": -0.03907124481382306,
+        "adj_pace_10": 0.0074464757850489964,
+        "net_rating": 0.0034086751042051978,
+        "roll_efg_pct_10": -0.0026842668116517808,
+        "roll_tov_pct_10": 0.007245572194615118,
+        "roll_orb_pct_10": -0.013341010277298879,
+        "roll_ft_rate_10": -0.0012857560536922343,
+        "sos_10": 0.003875614227639538,
+        "is_b2b": 0.001297045980082055,
+        "p_pts": 0.009592317664381797,
+        "p_reb": 0.03305076851054507,
+        "p_ast": 0.014435859011060034,
+        "p_stl": 0.02184709711090402,
+        "p_blk": 0.0030512436943563367,
+        "p_tov": -0.0026684542058864028,
+        "p_pf": -0.00205436952142432,
+        "p_pm": 0.001266051063932604,
+        "p_usage": 0.009824457419690681,
+        "p_eff": 0.005016739350672157,
+        "opp_adj_ortg_10": -0.03398723718048656,
+        "opp_adj_drtg_10": -0.04077072352290261,
+        "opp_sos_10": 0.0014093340888778735,
+        "opp_is_b2b": -0.0016500226039680517
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       },
       "is_b2b_home": 0,
       "is_b2b_away": 0,
@@ -30840,9 +33402,15 @@ const analyticsData = {
           "ptsB": 117.67146484666445,
           "total": 232.33271452698511,
           "spread": 3.010215166343798,
+<<<<<<< HEAD
           "win_prob_A": 47.60044503377099,
           "ml_prob_A": 0.5141407505628498,
           "mc_win_A": 0.4188,
+=======
+          "win_prob_A": 47.952445033770985,
+          "ml_prob_A": 0.5141407505628498,
+          "mc_win_A": 0.4276,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           "market": {
             "ml": {
               "home": null,
@@ -30865,9 +33433,15 @@ const analyticsData = {
           "recommended_bet": 0.0,
           "latent_strength_A": -6.388660634860212,
           "latent_strength_B": -2.9535234490350355,
+<<<<<<< HEAD
           "form_state_A": 0,
           "form_state_B": 1,
           "entropy_A": 3.3219280948873626
+=======
+          "form_state_A": 1,
+          "form_state_B": 2,
+          "entropy_A": 3.321928094887362
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "halves": {
           "h1_ptsA": 57.330624840160326,
@@ -31409,11 +33983,19 @@ const analyticsData = {
             "rest": 8,
             "is_b2b": 0,
             "ml_influence": {
+<<<<<<< HEAD
               "roll_efg_pct_10": -0.00425363336195474,
               "roll_tov_pct_10": 0.006836441713747519,
               "roll_orb_pct_10": 0.002214264578139762,
               "roll_ft_rate_10": -0.0007263321543160828,
               "p_tov": -0.01718779873425788
+=======
+              "roll_efg_pct_10": -0.007320123002950777,
+              "roll_tov_pct_10": 0.00724512747058412,
+              "roll_orb_pct_10": 0.003058017690784643,
+              "roll_ft_rate_10": -0.0011465670569493012,
+              "p_tov": -0.017995590811229808
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             }
           },
           "teamB": {
@@ -31756,6 +34338,7 @@ const analyticsData = {
           }
         ],
         "shap_explanation": {
+<<<<<<< HEAD
           "adj_ortg_10": -0.02044497245028609,
           "adj_drtg_10": -0.008995125528521584,
           "adj_pace_10": 0.004033438316531317,
@@ -31780,11 +34363,38 @@ const analyticsData = {
           "opp_adj_drtg_10": -0.018487579532584845,
           "opp_sos_10": -0.0012085689111756893,
           "opp_is_b2b": -0.0011021244043152478
+=======
+          "adj_ortg_10": -0.02301494737616212,
+          "adj_drtg_10": -0.004909186351553179,
+          "adj_pace_10": 0.009807004262198932,
+          "net_rating": -0.0013968750274693084,
+          "roll_efg_pct_10": -0.007320123002950777,
+          "roll_tov_pct_10": 0.00724512747058412,
+          "roll_orb_pct_10": 0.003058017690784643,
+          "roll_ft_rate_10": -0.0011465670569493012,
+          "sos_10": 0.006700882143243531,
+          "is_b2b": 0.0010048822147065847,
+          "p_pts": 0.004698822204712741,
+          "p_reb": 0.020843979482430774,
+          "p_ast": -0.0047932768327721585,
+          "p_stl": 0.012563925093375125,
+          "p_blk": 0.00646598852258297,
+          "p_tov": -0.017995590811229808,
+          "p_pf": -0.009710257159420952,
+          "p_pm": -0.0019886521597379217,
+          "p_usage": 0.0010343402424494133,
+          "p_eff": 0.0024431631523918773,
+          "opp_adj_ortg_10": 0.027665638352488694,
+          "opp_adj_drtg_10": -0.014649733961591662,
+          "opp_sos_10": -0.0014489578343305513,
+          "opp_is_b2b": -0.0011696047048264718
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "match_id": "0022501053",
         "time": "TBD"
       },
       "ml_prob_A": 0.5141407505628498,
+<<<<<<< HEAD
       "mc_win_A": 0.4188,
       "shap_explanation": {
         "adj_ortg_10": -0.02044497245028609,
@@ -31811,6 +34421,34 @@ const analyticsData = {
         "opp_adj_drtg_10": -0.018487579532584845,
         "opp_sos_10": -0.0012085689111756893,
         "opp_is_b2b": -0.0011021244043152478
+=======
+      "mc_win_A": 0.4276,
+      "shap_explanation": {
+        "adj_ortg_10": -0.02301494737616212,
+        "adj_drtg_10": -0.004909186351553179,
+        "adj_pace_10": 0.009807004262198932,
+        "net_rating": -0.0013968750274693084,
+        "roll_efg_pct_10": -0.007320123002950777,
+        "roll_tov_pct_10": 0.00724512747058412,
+        "roll_orb_pct_10": 0.003058017690784643,
+        "roll_ft_rate_10": -0.0011465670569493012,
+        "sos_10": 0.006700882143243531,
+        "is_b2b": 0.0010048822147065847,
+        "p_pts": 0.004698822204712741,
+        "p_reb": 0.020843979482430774,
+        "p_ast": -0.0047932768327721585,
+        "p_stl": 0.012563925093375125,
+        "p_blk": 0.00646598852258297,
+        "p_tov": -0.017995590811229808,
+        "p_pf": -0.009710257159420952,
+        "p_pm": -0.0019886521597379217,
+        "p_usage": 0.0010343402424494133,
+        "p_eff": 0.0024431631523918773,
+        "opp_adj_ortg_10": 0.027665638352488694,
+        "opp_adj_drtg_10": -0.014649733961591662,
+        "opp_sos_10": -0.0014489578343305513,
+        "opp_is_b2b": -0.0011696047048264718
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       },
       "is_b2b_home": 0,
       "is_b2b_away": 0,
@@ -31831,6 +34469,7 @@ const analyticsData = {
           "ptsB": 111.01790388094574,
           "total": 223.89625243492986,
           "spread": -1.8604446730383728,
+<<<<<<< HEAD
           "win_prob_A": 52.375404425910155,
           "ml_prob_A": 0.4789636820763251,
           "mc_win_A": 0.5358,
@@ -31850,16 +34489,45 @@ const analyticsData = {
               "under": "1.95"
             },
             "props": []
+=======
+          "win_prob_A": 49.593820924579504,
+          "ml_prob_A": 0.4789636820763251,
+          "mc_win_A": 0.5214,
+          "market": {
+            "ml": {
+              "home": null,
+              "away": null
+            },
+            "spread": {
+              "hdp": null,
+              "home": null,
+              "away": null
+            },
+            "total": {
+              "hdp": null,
+              "over": null,
+              "under": null
+            }
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           }
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
+<<<<<<< HEAD
           "recommended_bet": 6.4225274725274915,
           "latent_strength_A": 7.091850752870968,
           "latent_strength_B": 6.1475816204586655,
           "form_state_A": 2,
           "form_state_B": 2,
           "entropy_A": 3.3219280948873626
+=======
+          "recommended_bet": 0.0,
+          "latent_strength_A": 7.091850752870968,
+          "latent_strength_B": 6.1475816204586655,
+          "form_state_A": 1,
+          "form_state_B": 1,
+          "entropy_A": 3.321928094887362
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "halves": {
           "h1_ptsA": 56.439174276992055,
@@ -32291,11 +34959,19 @@ const analyticsData = {
             "rest": 9,
             "is_b2b": 0,
             "ml_influence": {
+<<<<<<< HEAD
               "roll_efg_pct_10": 2.1461891090268637e-05,
               "roll_tov_pct_10": 0.008223958895011946,
               "roll_orb_pct_10": 0.007292443985413684,
               "roll_ft_rate_10": -0.006316336637787288,
               "p_tov": -0.00672259877378508
+=======
+              "roll_efg_pct_10": 0.001430067277213591,
+              "roll_tov_pct_10": 0.00947290460478399,
+              "roll_orb_pct_10": 0.0076776454975609545,
+              "roll_ft_rate_10": -0.007835741981650796,
+              "p_tov": -0.009464557061532571
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             }
           },
           "teamB": {
@@ -32638,6 +35314,7 @@ const analyticsData = {
           }
         ],
         "shap_explanation": {
+<<<<<<< HEAD
           "adj_ortg_10": 0.023552210038989756,
           "adj_drtg_10": 0.02339562777468174,
           "adj_pace_10": 0.003628204380950777,
@@ -32662,11 +35339,38 @@ const analyticsData = {
           "opp_adj_drtg_10": -0.09763008241547645,
           "opp_sos_10": -0.010584076008637453,
           "opp_is_b2b": -0.0008827856458117366
+=======
+          "adj_ortg_10": 0.02792765294233867,
+          "adj_drtg_10": 0.026824446460479674,
+          "adj_pace_10": 0.009398931647762879,
+          "net_rating": -0.011111298405748054,
+          "roll_efg_pct_10": 0.001430067277213591,
+          "roll_tov_pct_10": 0.00947290460478399,
+          "roll_orb_pct_10": 0.0076776454975609545,
+          "roll_ft_rate_10": -0.007835741981650796,
+          "sos_10": -0.007447019081818724,
+          "is_b2b": 0.0009296754894825045,
+          "p_pts": -0.0023106454015107696,
+          "p_reb": 0.012004405122253045,
+          "p_ast": -0.016673736531722917,
+          "p_stl": -1.5021064362309665e-05,
+          "p_blk": 0.005933890628336777,
+          "p_tov": -0.009464557061532571,
+          "p_pf": -0.010389652531434633,
+          "p_pm": -0.006410722408537647,
+          "p_usage": 0.020528138118469555,
+          "p_eff": 0.009958154315480859,
+          "opp_adj_ortg_10": 0.025485034510702005,
+          "opp_adj_drtg_10": -0.0951323436570754,
+          "opp_sos_10": -0.011347941185790937,
+          "opp_is_b2b": -0.0006213372372493196
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "match_id": "0022501054",
         "time": "TBD"
       },
       "ml_prob_A": 0.4789636820763251,
+<<<<<<< HEAD
       "mc_win_A": 0.5358,
       "shap_explanation": {
         "adj_ortg_10": 0.023552210038989756,
@@ -32693,6 +35397,34 @@ const analyticsData = {
         "opp_adj_drtg_10": -0.09763008241547645,
         "opp_sos_10": -0.010584076008637453,
         "opp_is_b2b": -0.0008827856458117366
+=======
+      "mc_win_A": 0.5214,
+      "shap_explanation": {
+        "adj_ortg_10": 0.02792765294233867,
+        "adj_drtg_10": 0.026824446460479674,
+        "adj_pace_10": 0.009398931647762879,
+        "net_rating": -0.011111298405748054,
+        "roll_efg_pct_10": 0.001430067277213591,
+        "roll_tov_pct_10": 0.00947290460478399,
+        "roll_orb_pct_10": 0.0076776454975609545,
+        "roll_ft_rate_10": -0.007835741981650796,
+        "sos_10": -0.007447019081818724,
+        "is_b2b": 0.0009296754894825045,
+        "p_pts": -0.0023106454015107696,
+        "p_reb": 0.012004405122253045,
+        "p_ast": -0.016673736531722917,
+        "p_stl": -1.5021064362309665e-05,
+        "p_blk": 0.005933890628336777,
+        "p_tov": -0.009464557061532571,
+        "p_pf": -0.010389652531434633,
+        "p_pm": -0.006410722408537647,
+        "p_usage": 0.020528138118469555,
+        "p_eff": 0.009958154315480859,
+        "opp_adj_ortg_10": 0.025485034510702005,
+        "opp_adj_drtg_10": -0.0951323436570754,
+        "opp_sos_10": -0.011347941185790937,
+        "opp_is_b2b": -0.0006213372372493196
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       },
       "is_b2b_home": 0,
       "is_b2b_away": 0,
@@ -32713,9 +35445,15 @@ const analyticsData = {
           "ptsB": 119.0297574700028,
           "total": 236.91700064480912,
           "spread": 1.1425142951964915,
+<<<<<<< HEAD
           "win_prob_A": 50.08554703205803,
           "ml_prob_A": 0.5316924505343005,
           "mc_win_A": 0.4546,
+=======
+          "win_prob_A": 50.15354703205803,
+          "ml_prob_A": 0.5326924505343005,
+          "mc_win_A": 0.4548,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           "market": {
             "ml": {
               "home": null,
@@ -32738,9 +35476,15 @@ const analyticsData = {
           "recommended_bet": 0.0,
           "latent_strength_A": 5.505910660887272,
           "latent_strength_B": 3.346266748432738,
+<<<<<<< HEAD
           "form_state_A": 0,
           "form_state_B": 1,
           "entropy_A": 3.3219280948873626
+=======
+          "form_state_A": 1,
+          "form_state_B": 1,
+          "entropy_A": 3.321928094887362
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "halves": {
           "h1_ptsA": 58.94362158740316,
@@ -33182,11 +35926,19 @@ const analyticsData = {
             "rest": 8,
             "is_b2b": 0,
             "ml_influence": {
+<<<<<<< HEAD
               "roll_efg_pct_10": 0.006641451371326497,
               "roll_tov_pct_10": 0.025064593952418193,
               "roll_orb_pct_10": 0.0018323016415891403,
               "roll_ft_rate_10": -0.0012420661068354376,
               "p_tov": -0.010310295901968658
+=======
+              "roll_efg_pct_10": 0.008836451018399577,
+              "roll_tov_pct_10": 0.025743458984319897,
+              "roll_orb_pct_10": 0.00323764909704569,
+              "roll_ft_rate_10": -0.0037353497874612787,
+              "p_tov": -0.011096904644480082
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             }
           },
           "teamB": {
@@ -33529,6 +36281,7 @@ const analyticsData = {
           }
         ],
         "shap_explanation": {
+<<<<<<< HEAD
           "adj_ortg_10": 0.04332925901215958,
           "adj_drtg_10": -0.030840242895465338,
           "adj_pace_10": 0.0039057774441064908,
@@ -33553,10 +36306,37 @@ const analyticsData = {
           "opp_adj_drtg_10": -0.026113003573996423,
           "opp_sos_10": 0.004974289227059927,
           "opp_is_b2b": -0.0010700447584517292
+=======
+          "adj_ortg_10": 0.04822093741864626,
+          "adj_drtg_10": -0.03534609746969075,
+          "adj_pace_10": 0.009904330085514562,
+          "net_rating": -0.009733993128317905,
+          "roll_efg_pct_10": 0.008836451018399577,
+          "roll_tov_pct_10": 0.025743458984319897,
+          "roll_orb_pct_10": 0.00323764909704569,
+          "roll_ft_rate_10": -0.0037353497874612787,
+          "sos_10": -0.0019564089064302423,
+          "is_b2b": 0.0009047317437789404,
+          "p_pts": 0.0007387725127429548,
+          "p_reb": 0.019842490587190068,
+          "p_ast": -0.0035395193646118915,
+          "p_stl": 0.015276336296451833,
+          "p_blk": 0.0051159382809533895,
+          "p_tov": -0.011096904644480082,
+          "p_pf": -0.006024895990691222,
+          "p_pm": -0.004331477296335508,
+          "p_usage": 0.018367614004909133,
+          "p_eff": 0.004592918662725105,
+          "opp_adj_ortg_10": -0.03465573127888962,
+          "opp_adj_drtg_10": -0.021251928079415245,
+          "opp_sos_10": 0.004413154595811837,
+          "opp_is_b2b": -0.0009827788177613295
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "match_id": "0022501055",
         "time": "TBD"
       },
+<<<<<<< HEAD
       "ml_prob_A": 0.5316924505343005,
       "mc_win_A": 0.4546,
       "shap_explanation": {
@@ -33584,6 +36364,35 @@ const analyticsData = {
         "opp_adj_drtg_10": -0.026113003573996423,
         "opp_sos_10": 0.004974289227059927,
         "opp_is_b2b": -0.0010700447584517292
+=======
+      "ml_prob_A": 0.5326924505343005,
+      "mc_win_A": 0.4548,
+      "shap_explanation": {
+        "adj_ortg_10": 0.04822093741864626,
+        "adj_drtg_10": -0.03534609746969075,
+        "adj_pace_10": 0.009904330085514562,
+        "net_rating": -0.009733993128317905,
+        "roll_efg_pct_10": 0.008836451018399577,
+        "roll_tov_pct_10": 0.025743458984319897,
+        "roll_orb_pct_10": 0.00323764909704569,
+        "roll_ft_rate_10": -0.0037353497874612787,
+        "sos_10": -0.0019564089064302423,
+        "is_b2b": 0.0009047317437789404,
+        "p_pts": 0.0007387725127429548,
+        "p_reb": 0.019842490587190068,
+        "p_ast": -0.0035395193646118915,
+        "p_stl": 0.015276336296451833,
+        "p_blk": 0.0051159382809533895,
+        "p_tov": -0.011096904644480082,
+        "p_pf": -0.006024895990691222,
+        "p_pm": -0.004331477296335508,
+        "p_usage": 0.018367614004909133,
+        "p_eff": 0.004592918662725105,
+        "opp_adj_ortg_10": -0.03465573127888962,
+        "opp_adj_drtg_10": -0.021251928079415245,
+        "opp_sos_10": 0.004413154595811837,
+        "opp_is_b2b": -0.0009827788177613295
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       },
       "is_b2b_home": 0,
       "is_b2b_away": 0,
@@ -33604,9 +36413,15 @@ const analyticsData = {
           "ptsB": 122.67073180349544,
           "total": 238.49583813183614,
           "spread": 6.845625475154748,
+<<<<<<< HEAD
           "win_prob_A": 42.15339281444884,
           "ml_prob_A": 0.4924232135741473,
           "mc_win_A": 0.3152,
+=======
+          "win_prob_A": 41.97739281444884,
+          "ml_prob_A": 0.4924232135741473,
+          "mc_win_A": 0.3108,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           "market": {
             "ml": {
               "home": null,
@@ -33629,9 +36444,15 @@ const analyticsData = {
           "recommended_bet": 0.0,
           "latent_strength_A": -8.587878479366402,
           "latent_strength_B": 11.701044463567804,
+<<<<<<< HEAD
           "form_state_A": 2,
           "form_state_B": 1,
           "entropy_A": 3.3219280948873626
+=======
+          "form_state_A": 0,
+          "form_state_B": 0,
+          "entropy_A": 3.321928094887362
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "halves": {
           "h1_ptsA": 57.91255316417035,
@@ -34163,11 +36984,19 @@ const analyticsData = {
             "rest": 10,
             "is_b2b": 0,
             "ml_influence": {
+<<<<<<< HEAD
               "roll_efg_pct_10": -0.0005372399504175007,
               "roll_tov_pct_10": -0.01420824104311002,
               "roll_orb_pct_10": -0.0011253588647920764,
               "roll_ft_rate_10": -0.0010452013217768297,
               "p_tov": -0.0020388375218956156
+=======
+              "roll_efg_pct_10": 0.0011601994443648617,
+              "roll_tov_pct_10": -0.01573663441953092,
+              "roll_orb_pct_10": 0.00021093475293237722,
+              "roll_ft_rate_10": -0.0018099983652971176,
+              "p_tov": 8.463459520288816e-05
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             }
           },
           "teamB": {
@@ -34510,6 +37339,7 @@ const analyticsData = {
           }
         ],
         "shap_explanation": {
+<<<<<<< HEAD
           "adj_ortg_10": 0.0012324997026223628,
           "adj_drtg_10": -0.029276903937053334,
           "adj_pace_10": -0.0030000461064626904,
@@ -34534,11 +37364,38 @@ const analyticsData = {
           "opp_adj_drtg_10": -0.02394407099183752,
           "opp_sos_10": 4.7137395432628185e-06,
           "opp_is_b2b": -0.0007623036449012943
+=======
+          "adj_ortg_10": 0.00017782901107158647,
+          "adj_drtg_10": -0.03281272612446566,
+          "adj_pace_10": -0.002456387374998836,
+          "net_rating": 0.002977746755798894,
+          "roll_efg_pct_10": 0.0011601994443648617,
+          "roll_tov_pct_10": -0.01573663441953092,
+          "roll_orb_pct_10": 0.00021093475293237722,
+          "roll_ft_rate_10": -0.0018099983652971176,
+          "sos_10": 0.009257975690810938,
+          "is_b2b": 0.001104876320822038,
+          "p_pts": 0.007315726304612424,
+          "p_reb": 0.037661396711501025,
+          "p_ast": 0.013022468020856973,
+          "p_stl": 0.020975468225444223,
+          "p_blk": 0.005002569040476464,
+          "p_tov": 8.463459520288816e-05,
+          "p_pf": 0.001977272287602772,
+          "p_pm": -0.003505265732734667,
+          "p_usage": -0.006849182858122852,
+          "p_eff": -0.005570445861947916,
+          "opp_adj_ortg_10": -0.018822006149898356,
+          "opp_adj_drtg_10": -0.020306481192566006,
+          "opp_sos_10": -4.4463166451452317e-05,
+          "opp_is_b2b": -0.0007450443512313318
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "match_id": "0022501056",
         "time": "TBD"
       },
       "ml_prob_A": 0.4924232135741473,
+<<<<<<< HEAD
       "mc_win_A": 0.3152,
       "shap_explanation": {
         "adj_ortg_10": 0.0012324997026223628,
@@ -34565,6 +37422,34 @@ const analyticsData = {
         "opp_adj_drtg_10": -0.02394407099183752,
         "opp_sos_10": 4.7137395432628185e-06,
         "opp_is_b2b": -0.0007623036449012943
+=======
+      "mc_win_A": 0.3108,
+      "shap_explanation": {
+        "adj_ortg_10": 0.00017782901107158647,
+        "adj_drtg_10": -0.03281272612446566,
+        "adj_pace_10": -0.002456387374998836,
+        "net_rating": 0.002977746755798894,
+        "roll_efg_pct_10": 0.0011601994443648617,
+        "roll_tov_pct_10": -0.01573663441953092,
+        "roll_orb_pct_10": 0.00021093475293237722,
+        "roll_ft_rate_10": -0.0018099983652971176,
+        "sos_10": 0.009257975690810938,
+        "is_b2b": 0.001104876320822038,
+        "p_pts": 0.007315726304612424,
+        "p_reb": 0.037661396711501025,
+        "p_ast": 0.013022468020856973,
+        "p_stl": 0.020975468225444223,
+        "p_blk": 0.005002569040476464,
+        "p_tov": 8.463459520288816e-05,
+        "p_pf": 0.001977272287602772,
+        "p_pm": -0.003505265732734667,
+        "p_usage": -0.006849182858122852,
+        "p_eff": -0.005570445861947916,
+        "opp_adj_ortg_10": -0.018822006149898356,
+        "opp_adj_drtg_10": -0.020306481192566006,
+        "opp_sos_10": -4.4463166451452317e-05,
+        "opp_is_b2b": -0.0007450443512313318
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       },
       "is_b2b_home": 0,
       "is_b2b_away": 0,
@@ -34585,9 +37470,15 @@ const analyticsData = {
           "ptsB": 119.75534958938893,
           "total": 241.9545962696712,
           "spread": -2.4438970908933584,
+<<<<<<< HEAD
           "win_prob_A": 54.65728061091289,
           "ml_prob_A": 0.5413546768485482,
           "mc_win_A": 0.5544,
+=======
+          "win_prob_A": 54.50528061091289,
+          "ml_prob_A": 0.5413546768485482,
+          "mc_win_A": 0.5506,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           "market": {
             "ml": {
               "home": null,
@@ -34607,12 +37498,21 @@ const analyticsData = {
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
+<<<<<<< HEAD
           "recommended_bet": 16.182417582417575,
           "latent_strength_A": -6.1037482940050465,
           "latent_strength_B": -11.538579090957425,
           "form_state_A": 1,
           "form_state_B": 0,
           "entropy_A": 3.3219280948873626
+=======
+          "recommended_bet": 14.188461538461532,
+          "latent_strength_A": -6.1037482940050465,
+          "latent_strength_B": -11.538579090957425,
+          "form_state_A": 2,
+          "form_state_B": 2,
+          "entropy_A": 3.321928094887362
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "halves": {
           "h1_ptsA": 61.09962334014114,
@@ -35144,11 +38044,19 @@ const analyticsData = {
             "rest": 11,
             "is_b2b": 0,
             "ml_influence": {
+<<<<<<< HEAD
               "roll_efg_pct_10": -0.0020437357938500613,
               "roll_tov_pct_10": 0.007734077223612132,
               "roll_orb_pct_10": 0.002908289026909898,
               "roll_ft_rate_10": -0.0038452797794209913,
               "p_tov": -0.011991119647429969
+=======
+              "roll_efg_pct_10": -0.003811730035082056,
+              "roll_tov_pct_10": 0.008210063440737181,
+              "roll_orb_pct_10": 0.004915470484667329,
+              "roll_ft_rate_10": -0.00552552193182289,
+              "p_tov": -0.011838130786526905
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             }
           },
           "teamB": {
@@ -35366,6 +38274,7 @@ const analyticsData = {
             "opponent": "ORL",
             "result": "L",
             "score": "109-126",
+<<<<<<< HEAD
             "quarters": [
               27,
               27,
@@ -36288,6 +39197,8 @@ const analyticsData = {
             "opponent": "DEN",
             "result": "L",
             "score": "93-129",
+=======
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             "quarters": [
               23,
               23,
@@ -36300,6 +39211,7 @@ const analyticsData = {
             ]
           },
           {
+<<<<<<< HEAD
             "date": "2026-03-13",
             "opponent": "NOP",
             "result": "W",
@@ -36320,6 +39232,108 @@ const analyticsData = {
             "opponent": "LAL",
             "result": "L",
             "score": "92-100",
+=======
+            "date": "2026-03-05",
+            "opponent": "UTA",
+            "result": "L",
+            "score": "112-122",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-08",
+            "opponent": "NOP",
+            "result": "L",
+            "score": "118-138",
+            "quarters": [
+              29,
+              29,
+              29,
+              29
+            ],
+            "halves": [
+              58,
+              58
+            ]
+          },
+          {
+            "date": "2026-03-10",
+            "opponent": "MIA",
+            "result": "L",
+            "score": "129-150",
+            "quarters": [
+              32,
+              32,
+              32,
+              32
+            ],
+            "halves": [
+              64,
+              64
+            ]
+          },
+          {
+            "date": "2026-03-12",
+            "opponent": "ORL",
+            "result": "L",
+            "score": "131-136",
+            "quarters": [
+              32,
+              32,
+              32,
+              32
+            ],
+            "halves": [
+              64,
+              64
+            ]
+          },
+          {
+            "date": "2026-03-14",
+            "opponent": "BOS",
+            "result": "L",
+            "score": "100-111",
+            "quarters": [
+              25,
+              25,
+              25,
+              25
+            ],
+            "halves": [
+              50,
+              50
+            ]
+          },
+          {
+            "date": "2026-03-16",
+            "opponent": "GSW",
+            "result": "L",
+            "score": "117-125",
+            "quarters": [
+              29,
+              29,
+              29,
+              29
+            ],
+            "halves": [
+              58,
+              58
+            ]
+          },
+          {
+            "date": "2026-03-17",
+            "opponent": "DET",
+            "result": "L",
+            "score": "117-130",
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             "quarters": [
               23,
               23,
@@ -36333,6 +39347,7 @@ const analyticsData = {
           }
         ],
         "shap_explanation": {
+<<<<<<< HEAD
           "adj_ortg_10": -0.0183712499294127,
           "adj_drtg_10": 0.005903452404914731,
           "adj_pace_10": 0.004951225951062668,
@@ -36411,6 +39426,86 @@ const analyticsData = {
           "win_prob_A": 60.95248656250768,
           "ml_prob_A": 0.573208109375128,
           "mc_win_A": 0.664,
+=======
+          "adj_ortg_10": -0.0038972513593281926,
+          "adj_drtg_10": -0.036942479322458435,
+          "adj_pace_10": 0.012870616957779813,
+          "net_rating": -0.0013751132793268165,
+          "roll_efg_pct_10": -0.003811730035082056,
+          "roll_tov_pct_10": 0.008210063440737181,
+          "roll_orb_pct_10": 0.004915470484667329,
+          "roll_ft_rate_10": -0.00552552193182289,
+          "sos_10": -0.005902541242327555,
+          "is_b2b": 0.0015542741990963492,
+          "p_pts": 0.0016279709961921171,
+          "p_reb": 0.02082643848803493,
+          "p_ast": 0.00019056054721108308,
+          "p_stl": 0.006431244755172941,
+          "p_blk": -0.0029850982775462384,
+          "p_tov": -0.011838130786526905,
+          "p_pf": -0.020970508860273084,
+          "p_pm": -0.0005293576290499129,
+          "p_usage": -0.005707472874982089,
+          "p_eff": -0.004704285285428823,
+          "opp_adj_ortg_10": 0.0010779481018297714,
+          "opp_adj_drtg_10": 0.087892399877918,
+          "opp_sos_10": 0.0024851574507433584,
+          "opp_is_b2b": -0.002690729576577965
+        },
+        "match_id": "0022501057",
+        "time": "TBD"
+      },
+      "ml_prob_A": 0.5413546768485482,
+      "mc_win_A": 0.5506,
+      "shap_explanation": {
+        "adj_ortg_10": -0.0038972513593281926,
+        "adj_drtg_10": -0.036942479322458435,
+        "adj_pace_10": 0.012870616957779813,
+        "net_rating": -0.0013751132793268165,
+        "roll_efg_pct_10": -0.003811730035082056,
+        "roll_tov_pct_10": 0.008210063440737181,
+        "roll_orb_pct_10": 0.004915470484667329,
+        "roll_ft_rate_10": -0.00552552193182289,
+        "sos_10": -0.005902541242327555,
+        "is_b2b": 0.0015542741990963492,
+        "p_pts": 0.0016279709961921171,
+        "p_reb": 0.02082643848803493,
+        "p_ast": 0.00019056054721108308,
+        "p_stl": 0.006431244755172941,
+        "p_blk": -0.0029850982775462384,
+        "p_tov": -0.011838130786526905,
+        "p_pf": -0.020970508860273084,
+        "p_pm": -0.0005293576290499129,
+        "p_usage": -0.005707472874982089,
+        "p_eff": -0.004704285285428823,
+        "opp_adj_ortg_10": 0.0010779481018297714,
+        "opp_adj_drtg_10": 0.087892399877918,
+        "opp_sos_10": 0.0024851574507433584,
+        "opp_is_b2b": -0.002690729576577965
+      },
+      "is_b2b_home": 0,
+      "is_b2b_away": 0,
+      "rest_home": 11,
+      "rest_away": 9
+    },
+    {
+      "matchId": "0022501058",
+      "matchTime": 1774488600,
+      "gameStatus": "9:30 pm ET",
+      "homeTeam": "MIN",
+      "awayTeam": "HOU",
+      "homeName": "Minnesota Timberwolves",
+      "awayName": "Houston Rockets",
+      "prediction": {
+        "main": {
+          "ptsA": 114.22348525690956,
+          "ptsB": 113.33542038372227,
+          "total": 227.55890564063182,
+          "spread": -0.8880648731872895,
+          "win_prob_A": 56.591083400527694,
+          "ml_prob_A": 0.6039847233421283,
+          "mc_win_A": 0.5088,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           "market": {
             "ml": {
               "home": null,
@@ -36430,12 +39525,890 @@ const analyticsData = {
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
+<<<<<<< HEAD
           "recommended_bet": 73.69230769230771,
           "latent_strength_A": 5.837411202872655,
           "latent_strength_B": -10.618255735009239,
           "form_state_A": 2,
           "form_state_B": 2,
           "entropy_A": 3.3219280948873626
+        },
+        "halves": {
+          "h1_ptsA": 60.919011874942115,
+          "h1_ptsB": 57.46311706637712,
+          "h2_ptsA": 60.919011874942115,
+          "h2_ptsB": 57.46311706637712
+=======
+          "recommended_bet": 0.0,
+          "latent_strength_A": -1.9556884864469732,
+          "latent_strength_B": -3.0522040387036955,
+          "form_state_A": 1,
+          "form_state_B": 1,
+          "entropy_A": 3.321928094887362
+        },
+        "halves": {
+          "h1_ptsA": 57.11174262845478,
+          "h1_ptsB": 56.66771019186113,
+          "h2_ptsA": 57.11174262845478,
+          "h2_ptsB": 56.66771019186113
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
+        },
+        "quarters": [
+          {
+            "q": 1,
+<<<<<<< HEAD
+            "ptsA": 30.459505937471057,
+            "ptsB": 28.73155853318856
+          },
+          {
+            "q": 2,
+            "ptsA": 30.459505937471057,
+            "ptsB": 28.73155853318856
+          },
+          {
+            "q": 3,
+            "ptsA": 30.459505937471057,
+            "ptsB": 28.73155853318856
+          },
+          {
+            "q": 4,
+            "ptsA": 30.459505937471057,
+            "ptsB": 28.73155853318856
+=======
+            "ptsA": 28.55587131422739,
+            "ptsB": 28.333855095930566
+          },
+          {
+            "q": 2,
+            "ptsA": 28.55587131422739,
+            "ptsB": 28.333855095930566
+          },
+          {
+            "q": 3,
+            "ptsA": 28.55587131422739,
+            "ptsB": 28.333855095930566
+          },
+          {
+            "q": 4,
+            "ptsA": 28.55587131422739,
+            "ptsB": 28.333855095930566
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
+          }
+        ],
+        "players": [
+          {
+<<<<<<< HEAD
+=======
+            "player": "Anthony Edwards",
+            "team": "MIN",
+            "proj_pts": 28.934518650800204,
+            "proj_reb": 4.069136150553855,
+            "proj_ast": 4.069136150553855,
+            "status": "Out",
+            "injury": "Knee",
+            "market_line": null
+          },
+          {
+            "player": "Ayo Dosunmu",
+            "team": "MIN",
+            "proj_pts": 11.810007612571512,
+            "proj_reb": 2.977416695527211,
+            "proj_ast": 2.381933356421769,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Bones Hyland",
+            "team": "MIN",
+            "proj_pts": 9.44800609005721,
+            "proj_reb": 0.9924722318424037,
+            "proj_ast": 2.4811805796060096,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Donte DiVincenzo",
+            "team": "MIN",
+            "proj_pts": 9.349589359952448,
+            "proj_reb": 4.168383373738096,
+            "proj_ast": 2.977416695527211,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Enrique Freeman",
+            "team": "MIN",
+            "proj_pts": 0.0,
+            "proj_reb": 1.4887083477636056,
+            "proj_ast": 0.0,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jaden McDaniels",
+            "team": "MIN",
+            "proj_pts": 10.727423581419124,
+            "proj_reb": 3.374405588264173,
+            "proj_ast": 2.1834389100532885,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jaylen Clark",
+            "team": "MIN",
+            "proj_pts": 3.3461688235619285,
+            "proj_reb": 0.9924722318424037,
+            "proj_ast": 0.19849444636848076,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Joan Beringer",
+            "team": "MIN",
+            "proj_pts": 2.7556684429333527,
+            "proj_reb": 1.1909666782108845,
+            "proj_ast": 0.29774166955272113,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Joe Ingles",
+            "team": "MIN",
+            "proj_pts": 0.49208365052381303,
+            "proj_reb": 0.29774166955272113,
+            "proj_ast": 0.8932250086581633,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Johnny Juzang",
+            "team": "MIN",
+            "proj_pts": 2.8540851730381154,
+            "proj_reb": 1.1909666782108845,
+            "proj_ast": 0.29774166955272113,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Julian Phillips",
+            "team": "MIN",
+            "proj_pts": 3.2477520934571658,
+            "proj_reb": 0.5954833391054423,
+            "proj_ast": 0.09924722318424038,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Julius Randle",
+            "team": "MIN",
+            "proj_pts": 16.82926084791441,
+            "proj_reb": 7.046552846081066,
+            "proj_ast": 3.672147257816894,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Kyle Anderson",
+            "team": "MIN",
+            "proj_pts": 4.822419775133368,
+            "proj_reb": 3.374405588264173,
+            "proj_ast": 1.885697240500567,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Leonard Miller",
+            "team": "MIN",
+            "proj_pts": 2.8540851730381154,
+            "proj_reb": 1.389461124579365,
+            "proj_ast": 0.09924722318424038,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Mike Conley",
+            "team": "MIN",
+            "proj_pts": 1.2794174913619139,
+            "proj_reb": 1.7864500173163267,
+            "proj_ast": 2.2826861332375286,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Naz Reid",
+            "team": "MIN",
+            "proj_pts": 10.825840311523887,
+            "proj_reb": 5.160855605580499,
+            "proj_ast": 1.4887083477636056,
+            "status": "Questionable",
+            "injury": "Ankle",
+            "market_line": null
+          },
+          {
+            "player": "Rob Dillingham",
+            "team": "MIN",
+            "proj_pts": 2.7556684429333527,
+            "proj_reb": 0.8932250086581633,
+            "proj_ast": 0.8932250086581633,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Rocco Zikarsky",
+            "team": "MIN",
+            "proj_pts": 1.476250951571439,
+            "proj_reb": 1.2405902898030048,
+            "proj_ast": 0.0,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Rudy Gobert",
+            "team": "MIN",
+            "proj_pts": 8.463838789009584,
+            "proj_reb": 11.11568899663492,
+            "proj_ast": 2.1834389100532885,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Terrence Shannon Jr.",
+            "team": "MIN",
+            "proj_pts": 2.6572517128285904,
+            "proj_reb": 0.09924722318424038,
+            "proj_ast": 0.5954833391054423,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Aaron Holiday",
+            "team": "HOU",
+            "proj_pts": 4.103578997100169,
+            "proj_reb": 1.0917194550266442,
+            "proj_ast": 0.8932250086581633,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Alperen Sengun",
+            "team": "HOU",
+            "proj_pts": 18.368401225115043,
+            "proj_reb": 7.93977785473923,
+            "proj_ast": 4.863113936027779,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Amen Thompson",
+            "team": "HOU",
+            "proj_pts": 19.443148105307944,
+            "proj_reb": 8.336766747476192,
+            "proj_ast": 5.160855605580499,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Clint Capela",
+            "team": "HOU",
+            "proj_pts": 5.27603013912879,
+            "proj_reb": 5.855586167870182,
+            "proj_ast": 1.2902139013951248,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Dorian Finney-Smith",
+            "team": "HOU",
+            "proj_pts": 3.615057687921578,
+            "proj_reb": 3.1759111418956922,
+            "proj_ast": 1.4887083477636056,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Isaiah Crawford",
+            "team": "HOU",
+            "proj_pts": 1.4655639275357748,
+            "proj_reb": 0.9924722318424037,
+            "proj_ast": 0.39698889273696153,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "JD Davison",
+            "team": "HOU",
+            "proj_pts": 2.9311278550715496,
+            "proj_reb": 1.7864500173163267,
+            "proj_ast": 1.389461124579365,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jabari Smith Jr.",
+            "team": "HOU",
+            "proj_pts": 16.512020250236393,
+            "proj_reb": 5.55784449831746,
+            "proj_ast": 1.6872027941320864,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jae'Sean Tate",
+            "team": "HOU",
+            "proj_pts": 2.638015069564395,
+            "proj_reb": 1.1909666782108845,
+            "proj_ast": 0.39698889273696153,
+            "status": "Out",
+            "injury": "Knee",
+            "market_line": null
+          },
+          {
+            "player": "Jeff Green",
+            "team": "HOU",
+            "proj_pts": 2.638015069564395,
+            "proj_reb": 1.0917194550266442,
+            "proj_ast": 0.19849444636848076,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Josh Okogie",
+            "team": "HOU",
+            "proj_pts": 2.9311278550715496,
+            "proj_reb": 1.6872027941320864,
+            "proj_ast": 0.8932250086581633,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Kevin Durant",
+            "team": "HOU",
+            "proj_pts": 25.207699553615328,
+            "proj_reb": 6.1533278374229035,
+            "proj_ast": 3.771394481001134,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Reed Sheppard",
+            "team": "HOU",
+            "proj_pts": 15.828090417386367,
+            "proj_reb": 3.672147257816894,
+            "proj_ast": 4.366877820106577,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Steven Adams",
+            "team": "HOU",
+            "proj_pts": 5.764551448307381,
+            "proj_reb": 8.634508417028911,
+            "proj_ast": 1.5879555709478461,
+            "status": "Out For Season",
+            "injury": "Ankle",
+            "market_line": null
+          },
+          {
+            "player": "Tari Eason",
+            "team": "HOU",
+            "proj_pts": 6.057664233814536,
+            "proj_reb": 6.848058399712587,
+            "proj_ast": 1.9849444636848075,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          }
+        ],
+        "factors": {
+          "teamA": {
+            "efg": 0.5609039891841255,
+            "tov": 0.14738721590019405,
+            "orb": 0.23528362287469246,
+            "ftr": 0.3184854143816248,
+            "sos": 2.600767743972654,
+            "rest": 9,
+            "is_b2b": 0,
+            "ml_influence": {
+              "roll_efg_pct_10": 0.004012133110858161,
+              "roll_tov_pct_10": -0.008191087348292665,
+              "roll_orb_pct_10": -0.006685534394715597,
+              "roll_ft_rate_10": 0.014096012489630855,
+              "p_tov": -0.019204176707262915
+            }
+          },
+          "teamB": {
+            "efg": 0.5268050399579487,
+            "tov": 0.14645450365704638,
+            "orb": 0.3440089618422577,
+            "ftr": 0.24797969229436614,
+            "sos": 1.6334978935257922,
+            "rest": 10,
+            "is_b2b": 0
+          }
+        },
+        "margins": {
+          "1-5": 0.17106869169794783,
+          "6-10": 0.07208187097112854,
+          "11+": 0.1071322622763404
+        },
+        "formA": [
+          {
+            "date": "2026-02-26",
+            "opponent": "LAC",
+            "result": "W",
+            "score": "94-88",
+            "quarters": [
+              23,
+              23,
+              23,
+              23
+            ],
+            "halves": [
+              46,
+              46
+            ]
+          },
+          {
+            "date": "2026-03-01",
+            "opponent": "DEN",
+            "result": "W",
+            "score": "117-108",
+            "quarters": [
+              29,
+              29,
+              29,
+              29
+            ],
+            "halves": [
+              58,
+              58
+            ]
+          },
+          {
+            "date": "2026-03-03",
+            "opponent": "MEM",
+            "result": "W",
+            "score": "117-110",
+            "quarters": [
+              29,
+              29,
+              29,
+              29
+            ],
+            "halves": [
+              58,
+              58
+            ]
+          },
+          {
+            "date": "2026-03-05",
+            "opponent": "TOR",
+            "result": "W",
+            "score": "115-107",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-07",
+            "opponent": "ORL",
+            "result": "L",
+            "score": "92-119",
+            "quarters": [
+              23,
+              23,
+              23,
+              23
+            ],
+            "halves": [
+              46,
+              46
+            ]
+          },
+          {
+            "date": "2026-03-10",
+            "opponent": "LAL",
+            "result": "L",
+            "score": "106-120",
+            "quarters": [
+              26,
+              26,
+              26,
+              26
+            ],
+            "halves": [
+              52,
+              52
+            ]
+          },
+          {
+            "date": "2026-03-11",
+            "opponent": "LAC",
+            "result": "L",
+            "score": "128-153",
+            "quarters": [
+              32,
+              32,
+              32,
+              32
+            ],
+            "halves": [
+              64,
+              64
+            ]
+          },
+          {
+            "date": "2026-03-13",
+            "opponent": "GSW",
+            "result": "W",
+            "score": "127-117",
+            "quarters": [
+              31,
+              31,
+              31,
+              31
+            ],
+            "halves": [
+              62,
+              62
+            ]
+          },
+          {
+            "date": "2026-03-15",
+            "opponent": "OKC",
+            "result": "L",
+            "score": "103-116",
+            "quarters": [
+              25,
+              25,
+              25,
+              25
+            ],
+            "halves": [
+              50,
+              50
+            ]
+          },
+          {
+            "date": "2026-03-17",
+            "opponent": "PHX",
+            "result": "W",
+            "score": "116-104",
+            "quarters": [
+              29,
+              29,
+              29,
+              29
+            ],
+            "halves": [
+              58,
+              58
+            ]
+          }
+        ],
+        "formB": [
+          {
+            "date": "2026-02-26",
+            "opponent": "ORL",
+            "result": "W",
+            "score": "113-108",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-02-28",
+            "opponent": "MIA",
+            "result": "L",
+            "score": "105-115",
+            "quarters": [
+              26,
+              26,
+              26,
+              26
+            ],
+            "halves": [
+              52,
+              52
+            ]
+          },
+          {
+            "date": "2026-03-02",
+            "opponent": "WAS",
+            "result": "W",
+            "score": "123-118",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          },
+          {
+            "date": "2026-03-05",
+            "opponent": "GSW",
+            "result": "L",
+            "score": "113-115",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-06",
+            "opponent": "POR",
+            "result": "W",
+            "score": "106-99",
+            "quarters": [
+              26,
+              26,
+              26,
+              26
+            ],
+            "halves": [
+              52,
+              52
+            ]
+          },
+          {
+            "date": "2026-03-08",
+            "opponent": "SAS",
+            "result": "L",
+            "score": "120-145",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          },
+          {
+            "date": "2026-03-10",
+            "opponent": "TOR",
+            "result": "W",
+            "score": "113-99",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-11",
+            "opponent": "DEN",
+            "result": "L",
+            "score": "93-129",
+            "quarters": [
+              23,
+              23,
+              23,
+              23
+            ],
+            "halves": [
+              46,
+              46
+            ]
+          },
+          {
+            "date": "2026-03-13",
+            "opponent": "NOP",
+            "result": "W",
+            "score": "107-105",
+            "quarters": [
+              26,
+              26,
+              26,
+              26
+            ],
+            "halves": [
+              52,
+              52
+            ]
+          },
+          {
+            "date": "2026-03-16",
+            "opponent": "LAL",
+            "result": "L",
+            "score": "92-100",
+            "quarters": [
+              23,
+              23,
+              23,
+              23
+            ],
+            "halves": [
+              46,
+              46
+            ]
+          }
+        ],
+        "shap_explanation": {
+          "adj_ortg_10": -0.023467554673617552,
+          "adj_drtg_10": 0.012966174665533122,
+          "adj_pace_10": 0.012116975079975443,
+          "net_rating": 0.00018992762108740324,
+          "roll_efg_pct_10": 0.004012133110858161,
+          "roll_tov_pct_10": -0.008191087348292665,
+          "roll_orb_pct_10": -0.006685534394715597,
+          "roll_ft_rate_10": 0.014096012489630855,
+          "sos_10": 0.007152572658528099,
+          "is_b2b": 0.0008379694376268044,
+          "p_pts": 0.005014358724299787,
+          "p_reb": 0.006842886077491653,
+          "p_ast": 0.0018722959262221128,
+          "p_stl": -0.0028485059891856747,
+          "p_blk": 0.0021794095034832466,
+          "p_tov": -0.019204176707262915,
+          "p_pf": -0.012951878409609973,
+          "p_pm": -0.006319459070407196,
+          "p_usage": 0.007018904043795904,
+          "p_eff": 0.006502686616027182,
+          "opp_adj_ortg_10": 0.04470919367684796,
+          "opp_adj_drtg_10": 0.06545560125433775,
+          "opp_sos_10": -0.005239515563793825,
+          "opp_is_b2b": -0.0022274173966276385
+        },
+        "match_id": "0022501058",
+        "time": "TBD"
+      },
+      "ml_prob_A": 0.6039847233421283,
+      "mc_win_A": 0.5088,
+      "shap_explanation": {
+        "adj_ortg_10": -0.023467554673617552,
+        "adj_drtg_10": 0.012966174665533122,
+        "adj_pace_10": 0.012116975079975443,
+        "net_rating": 0.00018992762108740324,
+        "roll_efg_pct_10": 0.004012133110858161,
+        "roll_tov_pct_10": -0.008191087348292665,
+        "roll_orb_pct_10": -0.006685534394715597,
+        "roll_ft_rate_10": 0.014096012489630855,
+        "sos_10": 0.007152572658528099,
+        "is_b2b": 0.0008379694376268044,
+        "p_pts": 0.005014358724299787,
+        "p_reb": 0.006842886077491653,
+        "p_ast": 0.0018722959262221128,
+        "p_stl": -0.0028485059891856747,
+        "p_blk": 0.0021794095034832466,
+        "p_tov": -0.019204176707262915,
+        "p_pf": -0.012951878409609973,
+        "p_pm": -0.006319459070407196,
+        "p_usage": 0.007018904043795904,
+        "p_eff": 0.006502686616027182,
+        "opp_adj_ortg_10": 0.04470919367684796,
+        "opp_adj_drtg_10": 0.06545560125433775,
+        "opp_sos_10": -0.005239515563793825,
+        "opp_is_b2b": -0.0022274173966276385
+      },
+      "is_b2b_home": 0,
+      "is_b2b_away": 0,
+      "rest_home": 9,
+      "rest_away": 10
+    },
+    {
+      "matchId": "0022501059",
+      "matchTime": 1774490400,
+      "gameStatus": "10:00 pm ET",
+      "homeTeam": "DEN",
+      "awayTeam": "DAL",
+      "homeName": "Denver Nuggets",
+      "awayName": "Dallas Mavericks",
+      "prediction": {
+        "main": {
+          "ptsA": 121.83802374988423,
+          "ptsB": 114.92623413275425,
+          "total": 236.76425788263847,
+          "spread": -6.911789617129983,
+          "win_prob_A": 61.112486562507684,
+          "ml_prob_A": 0.573208109375128,
+          "mc_win_A": 0.668,
+          "market": {
+            "ml": {
+              "home": null,
+              "away": null
+            },
+            "spread": {
+              "hdp": null,
+              "home": null,
+              "away": null
+            },
+            "total": {
+              "hdp": null,
+              "over": null,
+              "under": null
+            }
+          }
+        },
+        "advanced": {
+          "blowout_risk": 0.11853559847642359,
+          "recommended_bet": 75.7912087912088,
+          "latent_strength_A": 5.837411202872655,
+          "latent_strength_B": -10.618255735009239,
+          "form_state_A": 1,
+          "form_state_B": 0,
+          "entropy_A": 3.321928094887362
         },
         "halves": {
           "h1_ptsA": 60.919011874942115,
@@ -36467,6 +40440,7 @@ const analyticsData = {
         ],
         "players": [
           {
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             "player": "Aaron Gordon",
             "team": "DEN",
             "proj_pts": 14.234820135595292,
@@ -36897,11 +40871,19 @@ const analyticsData = {
             "rest": 9,
             "is_b2b": 0,
             "ml_influence": {
+<<<<<<< HEAD
               "roll_efg_pct_10": 0.001119325851574473,
               "roll_tov_pct_10": 0.00696371242434239,
               "roll_orb_pct_10": -0.014294790112656698,
               "roll_ft_rate_10": 0.008220477844747477,
               "p_tov": -0.013958057753499559
+=======
+              "roll_efg_pct_10": 0.003895505655533251,
+              "roll_tov_pct_10": 0.006206638494257789,
+              "roll_orb_pct_10": -0.016106728857199357,
+              "roll_ft_rate_10": 0.009132351619560348,
+              "p_tov": -0.01573433638241061
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             }
           },
           "teamB": {
@@ -37244,6 +41226,7 @@ const analyticsData = {
           }
         ],
         "shap_explanation": {
+<<<<<<< HEAD
           "adj_ortg_10": 0.02844009026199444,
           "adj_drtg_10": -0.037680143232999654,
           "adj_pace_10": -0.012723655072158663,
@@ -37268,11 +41251,38 @@ const analyticsData = {
           "opp_adj_drtg_10": 0.03808019074463196,
           "opp_sos_10": -0.00231219576003177,
           "opp_is_b2b": -0.0008184389938628556
+=======
+          "adj_ortg_10": 0.03458466841447833,
+          "adj_drtg_10": -0.04080780241996666,
+          "adj_pace_10": -0.01455392428691256,
+          "net_rating": 0.017602396867163233,
+          "roll_efg_pct_10": 0.003895505655533251,
+          "roll_tov_pct_10": 0.006206638494257789,
+          "roll_orb_pct_10": -0.016106728857199357,
+          "roll_ft_rate_10": 0.009132351619560348,
+          "sos_10": -0.0032784647423835045,
+          "is_b2b": 0.0012922678062879816,
+          "p_pts": 0.0019754659254726287,
+          "p_reb": 0.013087215908817453,
+          "p_ast": -0.005579257739185988,
+          "p_stl": 0.0012320582711509455,
+          "p_blk": 0.0046492732317405805,
+          "p_tov": -0.01573433638241061,
+          "p_pf": -0.011724384843338594,
+          "p_pm": -0.0028351994515570995,
+          "p_usage": 0.017418875743103142,
+          "p_eff": -0.0014178530552678712,
+          "opp_adj_ortg_10": 0.028020303499708944,
+          "opp_adj_drtg_10": 0.04601628020607235,
+          "opp_sos_10": 0.0010756560530865147,
+          "opp_is_b2b": -0.0010956485529772266
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "match_id": "0022501059",
         "time": "TBD"
       },
       "ml_prob_A": 0.573208109375128,
+<<<<<<< HEAD
       "mc_win_A": 0.664,
       "shap_explanation": {
         "adj_ortg_10": 0.02844009026199444,
@@ -37299,6 +41309,34 @@ const analyticsData = {
         "opp_adj_drtg_10": 0.03808019074463196,
         "opp_sos_10": -0.00231219576003177,
         "opp_is_b2b": -0.0008184389938628556
+=======
+      "mc_win_A": 0.668,
+      "shap_explanation": {
+        "adj_ortg_10": 0.03458466841447833,
+        "adj_drtg_10": -0.04080780241996666,
+        "adj_pace_10": -0.01455392428691256,
+        "net_rating": 0.017602396867163233,
+        "roll_efg_pct_10": 0.003895505655533251,
+        "roll_tov_pct_10": 0.006206638494257789,
+        "roll_orb_pct_10": -0.016106728857199357,
+        "roll_ft_rate_10": 0.009132351619560348,
+        "sos_10": -0.0032784647423835045,
+        "is_b2b": 0.0012922678062879816,
+        "p_pts": 0.0019754659254726287,
+        "p_reb": 0.013087215908817453,
+        "p_ast": -0.005579257739185988,
+        "p_stl": 0.0012320582711509455,
+        "p_blk": 0.0046492732317405805,
+        "p_tov": -0.01573433638241061,
+        "p_pf": -0.011724384843338594,
+        "p_pm": -0.0028351994515570995,
+        "p_usage": 0.017418875743103142,
+        "p_eff": -0.0014178530552678712,
+        "opp_adj_ortg_10": 0.028020303499708944,
+        "opp_adj_drtg_10": 0.04601628020607235,
+        "opp_sos_10": 0.0010756560530865147,
+        "opp_is_b2b": -0.0010956485529772266
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       },
       "is_b2b_home": 0,
       "is_b2b_away": 0,
@@ -37319,9 +41357,15 @@ const analyticsData = {
           "ptsB": 113.0015670427593,
           "total": 230.67206610839335,
           "spread": -4.668932022874742,
+<<<<<<< HEAD
           "win_prob_A": 54.72128580584843,
           "ml_prob_A": 0.5073547634308071,
           "mc_win_A": 0.607,
+=======
+          "win_prob_A": 55.04128580584842,
+          "ml_prob_A": 0.5073547634308071,
+          "mc_win_A": 0.615,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           "market": {
             "ml": {
               "home": null,
@@ -37341,12 +41385,21 @@ const analyticsData = {
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
+<<<<<<< HEAD
           "recommended_bet": 43.78296703296701,
           "latent_strength_A": -2.8732842108687136,
           "latent_strength_B": -13.547446377571957,
           "form_state_A": 1,
           "form_state_B": 0,
           "entropy_A": 3.3219280948873626
+=======
+          "recommended_bet": 47.980769230769226,
+          "latent_strength_A": -2.8732842108687136,
+          "latent_strength_B": -13.547446377571957,
+          "form_state_A": 0,
+          "form_state_B": 1,
+          "entropy_A": 3.321928094887362
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "halves": {
           "h1_ptsA": 58.83524953281702,
@@ -37808,11 +41861,19 @@ const analyticsData = {
             "rest": 10,
             "is_b2b": 0,
             "ml_influence": {
+<<<<<<< HEAD
               "roll_efg_pct_10": 0.0007004602834539853,
               "roll_tov_pct_10": 0.010086780500572417,
               "roll_orb_pct_10": 0.010274472190828164,
               "roll_ft_rate_10": -0.0007453594455385826,
               "p_tov": -0.0173317137213904
+=======
+              "roll_efg_pct_10": -0.0005880636852377643,
+              "roll_tov_pct_10": 0.010450872246062904,
+              "roll_orb_pct_10": 0.013643756458320814,
+              "roll_ft_rate_10": 0.00074629686856502,
+              "p_tov": -0.01747378717190421
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             }
           },
           "teamB": {
@@ -38155,6 +42216,7 @@ const analyticsData = {
           }
         ],
         "shap_explanation": {
+<<<<<<< HEAD
           "adj_ortg_10": -0.004355445849016917,
           "adj_drtg_10": -0.04249241549842239,
           "adj_pace_10": 0.002306989875265195,
@@ -38179,11 +42241,38 @@ const analyticsData = {
           "opp_adj_drtg_10": 0.05588344991281083,
           "opp_sos_10": -0.0021814814575246543,
           "opp_is_b2b": -0.0018437131971302278
+=======
+          "adj_ortg_10": -0.003511469190975806,
+          "adj_drtg_10": -0.0461510228379648,
+          "adj_pace_10": 0.008412707039102645,
+          "net_rating": -0.004832348584350086,
+          "roll_efg_pct_10": -0.0005880636852377643,
+          "roll_tov_pct_10": 0.010450872246062904,
+          "roll_orb_pct_10": 0.013643756458320814,
+          "roll_ft_rate_10": 0.00074629686856502,
+          "sos_10": -0.007881008159147508,
+          "is_b2b": 0.0019772431859346267,
+          "p_pts": -0.0023859793562505866,
+          "p_reb": 0.012897698401697147,
+          "p_ast": -0.0053532656544510865,
+          "p_stl": -3.229706016420549e-05,
+          "p_blk": 0.0023833882439152653,
+          "p_tov": -0.01747378717190421,
+          "p_pf": -0.030703817852306473,
+          "p_pm": -0.005009058045938138,
+          "p_usage": -0.0037413063926724924,
+          "p_eff": -0.0023100401377947363,
+          "opp_adj_ortg_10": 0.023609243843627514,
+          "opp_adj_drtg_10": 0.06496321806059772,
+          "opp_sos_10": 0.00037313399835820296,
+          "opp_is_b2b": -0.00228208279611213
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "match_id": "0022501060",
         "time": "TBD"
       },
       "ml_prob_A": 0.5073547634308071,
+<<<<<<< HEAD
       "mc_win_A": 0.607,
       "shap_explanation": {
         "adj_ortg_10": -0.004355445849016917,
@@ -38210,6 +42299,34 @@ const analyticsData = {
         "opp_adj_drtg_10": 0.05588344991281083,
         "opp_sos_10": -0.0021814814575246543,
         "opp_is_b2b": -0.0018437131971302278
+=======
+      "mc_win_A": 0.615,
+      "shap_explanation": {
+        "adj_ortg_10": -0.003511469190975806,
+        "adj_drtg_10": -0.0461510228379648,
+        "adj_pace_10": 0.008412707039102645,
+        "net_rating": -0.004832348584350086,
+        "roll_efg_pct_10": -0.0005880636852377643,
+        "roll_tov_pct_10": 0.010450872246062904,
+        "roll_orb_pct_10": 0.013643756458320814,
+        "roll_ft_rate_10": 0.00074629686856502,
+        "sos_10": -0.007881008159147508,
+        "is_b2b": 0.0019772431859346267,
+        "p_pts": -0.0023859793562505866,
+        "p_reb": 0.012897698401697147,
+        "p_ast": -0.0053532656544510865,
+        "p_stl": -3.229706016420549e-05,
+        "p_blk": 0.0023833882439152653,
+        "p_tov": -0.01747378717190421,
+        "p_pf": -0.030703817852306473,
+        "p_pm": -0.005009058045938138,
+        "p_usage": -0.0037413063926724924,
+        "p_eff": -0.0023100401377947363,
+        "opp_adj_ortg_10": 0.023609243843627514,
+        "opp_adj_drtg_10": 0.06496321806059772,
+        "opp_sos_10": 0.00037313399835820296,
+        "opp_is_b2b": -0.00228208279611213
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       },
       "is_b2b_home": 0,
       "is_b2b_away": 0,
@@ -38230,9 +42347,15 @@ const analyticsData = {
           "ptsB": 110.95079539827017,
           "total": 227.91658433602254,
           "spread": -6.014993539482191,
+<<<<<<< HEAD
           "win_prob_A": 62.18906767789938,
           "ml_prob_A": 0.6070177946316564,
           "mc_win_A": 0.6442,
+=======
+          "win_prob_A": 61.65306767789939,
+          "ml_prob_A": 0.6070177946316564,
+          "mc_win_A": 0.6308,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           "market": {
             "ml": {
               "home": null,
@@ -38252,12 +42375,21 @@ const analyticsData = {
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
+<<<<<<< HEAD
           "recommended_bet": 63.30274725274723,
           "latent_strength_A": 1.2594966904526308,
           "latent_strength_B": -9.425415769640134,
           "form_state_A": 2,
           "form_state_B": 1,
           "entropy_A": 3.3219280948873626
+=======
+          "recommended_bet": 56.27142857142858,
+          "latent_strength_A": 1.2594966904526308,
+          "latent_strength_B": -9.425415769640134,
+          "form_state_A": 0,
+          "form_state_B": 2,
+          "entropy_A": 3.321928094887362
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "halves": {
           "h1_ptsA": 58.48289446887618,
@@ -38679,11 +42811,19 @@ const analyticsData = {
             "rest": 10,
             "is_b2b": 0,
             "ml_influence": {
+<<<<<<< HEAD
               "roll_efg_pct_10": 0.0010297393838217773,
               "roll_tov_pct_10": -0.01991607499801841,
               "roll_orb_pct_10": 0.012287804421597244,
               "roll_ft_rate_10": -0.0032150246936897987,
               "p_tov": -0.025105902209389866
+=======
+              "roll_efg_pct_10": -0.002015338849538987,
+              "roll_tov_pct_10": -0.022475343089839325,
+              "roll_orb_pct_10": 0.014521712211082562,
+              "roll_ft_rate_10": -0.004459582764137198,
+              "p_tov": -0.025443103581440987
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             }
           },
           "teamB": {
@@ -39026,6 +43166,7 @@ const analyticsData = {
           }
         ],
         "shap_explanation": {
+<<<<<<< HEAD
           "adj_ortg_10": -0.028286007947416324,
           "adj_drtg_10": 0.039706559985912125,
           "adj_pace_10": 0.001700572599973711,
@@ -39050,11 +43191,38 @@ const analyticsData = {
           "opp_adj_drtg_10": 0.07717274364517834,
           "opp_sos_10": -0.0023266558024766224,
           "opp_is_b2b": -0.0013042079383353666
+=======
+          "adj_ortg_10": -0.033201931428802026,
+          "adj_drtg_10": 0.04581569504659772,
+          "adj_pace_10": 0.004216558746717726,
+          "net_rating": 0.012943227304649434,
+          "roll_efg_pct_10": -0.002015338849538987,
+          "roll_tov_pct_10": -0.022475343089839325,
+          "roll_orb_pct_10": 0.014521712211082562,
+          "roll_ft_rate_10": -0.004459582764137198,
+          "sos_10": -0.003810701668157624,
+          "is_b2b": 0.0009827577556579825,
+          "p_pts": 0.006216717079417188,
+          "p_reb": -0.006922445395195238,
+          "p_ast": -0.002641693854797763,
+          "p_stl": 0.0017492716474980393,
+          "p_blk": -0.0018294666857016093,
+          "p_tov": -0.025443103581440987,
+          "p_pf": -0.015981373911245947,
+          "p_pm": -0.0057977276155219215,
+          "p_usage": 0.011188220005288931,
+          "p_eff": 0.008571967329728853,
+          "opp_adj_ortg_10": 0.039516614366066016,
+          "opp_adj_drtg_10": 0.08923096934548776,
+          "opp_sos_10": -0.001986412292452705,
+          "opp_is_b2b": -0.0015235470796012948
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "match_id": "0022501061",
         "time": "TBD"
       },
       "ml_prob_A": 0.6070177946316564,
+<<<<<<< HEAD
       "mc_win_A": 0.6442,
       "shap_explanation": {
         "adj_ortg_10": -0.028286007947416324,
@@ -39081,6 +43249,34 @@ const analyticsData = {
         "opp_adj_drtg_10": 0.07717274364517834,
         "opp_sos_10": -0.0023266558024766224,
         "opp_is_b2b": -0.0013042079383353666
+=======
+      "mc_win_A": 0.6308,
+      "shap_explanation": {
+        "adj_ortg_10": -0.033201931428802026,
+        "adj_drtg_10": 0.04581569504659772,
+        "adj_pace_10": 0.004216558746717726,
+        "net_rating": 0.012943227304649434,
+        "roll_efg_pct_10": -0.002015338849538987,
+        "roll_tov_pct_10": -0.022475343089839325,
+        "roll_orb_pct_10": 0.014521712211082562,
+        "roll_ft_rate_10": -0.004459582764137198,
+        "sos_10": -0.003810701668157624,
+        "is_b2b": 0.0009827577556579825,
+        "p_pts": 0.006216717079417188,
+        "p_reb": -0.006922445395195238,
+        "p_ast": -0.002641693854797763,
+        "p_stl": 0.0017492716474980393,
+        "p_blk": -0.0018294666857016093,
+        "p_tov": -0.025443103581440987,
+        "p_pf": -0.015981373911245947,
+        "p_pm": -0.0057977276155219215,
+        "p_usage": 0.011188220005288931,
+        "p_eff": 0.008571967329728853,
+        "opp_adj_ortg_10": 0.039516614366066016,
+        "opp_adj_drtg_10": 0.08923096934548776,
+        "opp_sos_10": -0.001986412292452705,
+        "opp_is_b2b": -0.0015235470796012948
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       },
       "is_b2b_home": 0,
       "is_b2b_away": 0,
@@ -39101,9 +43297,15 @@ const analyticsData = {
           "ptsB": 115.50904685998837,
           "total": 234.90982636407654,
           "spread": -3.8917326440997755,
+<<<<<<< HEAD
           "win_prob_A": 56.72233970219778,
           "ml_prob_A": 0.5607056617032964,
           "mc_win_A": 0.577,
+=======
+          "win_prob_A": 57.106339702197786,
+          "ml_prob_A": 0.5607056617032964,
+          "mc_win_A": 0.5866,
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
           "market": {
             "ml": {
               "home": null,
@@ -39123,12 +43325,21 @@ const analyticsData = {
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
+<<<<<<< HEAD
           "recommended_bet": 28.041208791208764,
           "latent_strength_A": 4.390603830960883,
           "latent_strength_B": 1.9461049922231322,
           "form_state_A": 1,
           "form_state_B": 2,
           "entropy_A": 3.3219280948873626
+=======
+          "recommended_bet": 33.078571428571436,
+          "latent_strength_A": 4.390603830960883,
+          "latent_strength_B": 1.9461049922231322,
+          "form_state_A": 0,
+          "form_state_B": 2,
+          "entropy_A": 3.321928094887362
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "halves": {
           "h1_ptsA": 59.700389752044074,
@@ -39620,11 +43831,19 @@ const analyticsData = {
             "rest": 10,
             "is_b2b": 0,
             "ml_influence": {
+<<<<<<< HEAD
               "roll_efg_pct_10": 0.006736571295075322,
               "roll_tov_pct_10": 0.00025180971760221384,
               "roll_orb_pct_10": 0.0023003541356777647,
               "roll_ft_rate_10": 0.006962915848964571,
               "p_tov": -0.011106608031383872
+=======
+              "roll_efg_pct_10": 0.008518843458634833,
+              "roll_tov_pct_10": 0.001585868764480622,
+              "roll_orb_pct_10": 0.0032290355321627487,
+              "roll_ft_rate_10": 0.00537730001518031,
+              "p_tov": -0.0114488513317664
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
             }
           },
           "teamB": {
@@ -39967,6 +44186,7 @@ const analyticsData = {
           }
         ],
         "shap_explanation": {
+<<<<<<< HEAD
           "adj_ortg_10": 0.01951630573668112,
           "adj_drtg_10": -0.002032969002626288,
           "adj_pace_10": 0.0020247070494089315,
@@ -39991,11 +44211,38 @@ const analyticsData = {
           "opp_adj_drtg_10": -0.0066076492410780925,
           "opp_sos_10": -0.007286053356605109,
           "opp_is_b2b": -0.001027069751980889
+=======
+          "adj_ortg_10": 0.022827889152070457,
+          "adj_drtg_10": -0.00027240387741607285,
+          "adj_pace_10": 0.006708921715710752,
+          "net_rating": -0.0002788273162447226,
+          "roll_efg_pct_10": 0.008518843458634833,
+          "roll_tov_pct_10": 0.001585868764480622,
+          "roll_orb_pct_10": 0.0032290355321627487,
+          "roll_ft_rate_10": 0.00537730001518031,
+          "sos_10": -0.001632090170491849,
+          "is_b2b": 0.0009578191129308871,
+          "p_pts": -0.0016762350137774764,
+          "p_reb": 0.009975362481365435,
+          "p_ast": -0.01092728082616201,
+          "p_stl": 0.009872445706156117,
+          "p_blk": 0.0017358120756771993,
+          "p_tov": -0.0114488513317664,
+          "p_pf": -0.00951684463815238,
+          "p_pm": -0.00550157676129237,
+          "p_usage": 0.03069954769221589,
+          "p_eff": 0.008715661964894235,
+          "opp_adj_ortg_10": 0.002569883848120565,
+          "opp_adj_drtg_10": -0.002816503788627142,
+          "opp_sos_10": -0.007167685009398579,
+          "opp_is_b2b": -0.0009831830928690752
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
         },
         "match_id": "0022501062",
         "time": "TBD"
       },
       "ml_prob_A": 0.5607056617032964,
+<<<<<<< HEAD
       "mc_win_A": 0.577,
       "shap_explanation": {
         "adj_ortg_10": 0.01951630573668112,
@@ -40022,6 +44269,34 @@ const analyticsData = {
         "opp_adj_drtg_10": -0.0066076492410780925,
         "opp_sos_10": -0.007286053356605109,
         "opp_is_b2b": -0.001027069751980889
+=======
+      "mc_win_A": 0.5866,
+      "shap_explanation": {
+        "adj_ortg_10": 0.022827889152070457,
+        "adj_drtg_10": -0.00027240387741607285,
+        "adj_pace_10": 0.006708921715710752,
+        "net_rating": -0.0002788273162447226,
+        "roll_efg_pct_10": 0.008518843458634833,
+        "roll_tov_pct_10": 0.001585868764480622,
+        "roll_orb_pct_10": 0.0032290355321627487,
+        "roll_ft_rate_10": 0.00537730001518031,
+        "sos_10": -0.001632090170491849,
+        "is_b2b": 0.0009578191129308871,
+        "p_pts": -0.0016762350137774764,
+        "p_reb": 0.009975362481365435,
+        "p_ast": -0.01092728082616201,
+        "p_stl": 0.009872445706156117,
+        "p_blk": 0.0017358120756771993,
+        "p_tov": -0.0114488513317664,
+        "p_pf": -0.00951684463815238,
+        "p_pm": -0.00550157676129237,
+        "p_usage": 0.03069954769221589,
+        "p_eff": 0.008715661964894235,
+        "opp_adj_ortg_10": 0.002569883848120565,
+        "opp_adj_drtg_10": -0.002816503788627142,
+        "opp_sos_10": -0.007167685009398579,
+        "opp_is_b2b": -0.0009831830928690752
+>>>>>>> 9a89799c1c5d575e7934be638f9f6fd728a6202b
       },
       "is_b2b_home": 0,
       "is_b2b_away": 0,
