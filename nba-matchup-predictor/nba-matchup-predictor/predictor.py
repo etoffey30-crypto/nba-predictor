@@ -1035,6 +1035,14 @@ def run_pipeline():
         except:
             pass
             
+    if not upcoming and os.path.exists("upcoming_bet365.json"):
+        print("Odds API fallback returned 0 matches. Using Bet365 fallback...")
+        try:
+            with open("upcoming_bet365.json", "r") as f:
+                upcoming = json.load(f)
+        except:
+            pass
+            
     # Load Odds
     odds_data = {}
     if os.path.exists("odds.json"):

@@ -11,6 +11,9 @@
     --glass-border: rgba(255, 255, 255, 0.08);
     --glass-shadow: 0 8px 64px 0 rgba(0, 0, 0, 0.6);
     --gold: #fde047;
+    --text-dim: #94a3b8;
+    --text-light: #f8fafc;
+    --accent: #38bdf8;
 }
 
 * {
@@ -136,6 +139,101 @@ h2::before {
     background: var(--accent-primary);
     border-radius: 4px;
     box-shadow: 0 0 15px var(--accent-primary);
+}
+
+/* Filter Tabs (Boibook Style) */
+.filter-tabs {
+    display: flex;
+    gap: 0.5rem;
+    background: rgba(0, 0, 0, 0.3);
+    padding: 0.4rem;
+    border-radius: 14px;
+    border: 1px solid var(--glass-border);
+}
+
+.filter-btn {
+    background: transparent;
+    border: none;
+    color: var(--text-secondary);
+    padding: 0.6rem 1.4rem;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: inherit;
+    font-weight: 600;
+    font-size: 0.85rem;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.filter-btn:hover {
+    color: var(--text-primary);
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.filter-btn.active {
+    background: var(--accent-primary);
+    color: var(--bg-dark);
+    box-shadow: 0 4px 15px rgba(56, 189, 248, 0.3);
+}
+
+/* Premium Status Badges */
+.status-badge {
+    padding: 0.3rem 0.8rem;
+    border-radius: 8px;
+    font-size: 0.7rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+.status-live {
+    background: rgba(239, 68, 68, 0.15);
+    color: #ef4444;
+    border: 1px solid rgba(239, 68, 68, 0.3);
+    position: relative;
+}
+
+.status-live::before {
+    content: '';
+    width: 6px;
+    height: 6px;
+    background: #ef4444;
+    border-radius: 50%;
+    animation: pulse 2s infinite;
+}
+
+.status-upcoming {
+    background: rgba(56, 189, 248, 0.15);
+    color: var(--accent-primary);
+    border: 1px solid rgba(56, 189, 248, 0.3);
+}
+
+.status-finished {
+    background: rgba(148, 163, 184, 0.1);
+    color: var(--text-secondary);
+    border: 1px solid rgba(148, 163, 184, 0.2);
+}
+
+@keyframes pulse {
+    0% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.7); }
+    70% { transform: scale(1); box-shadow: 0 0 0 6px rgba(239, 68, 68, 0); }
+    100% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(239, 68, 68, 0); }
+}
+
+/* League Grouping */
+.league-group {
+    grid-column: 1 / -1;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--glass-border);
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
 }
 
 /* Upcoming Section Styling */

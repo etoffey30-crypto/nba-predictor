@@ -38,6 +38,7 @@ let eloChart = null;
 let efficiencyChart = null;
 let radarChart = null;
 let currentTab = 'main';
+let matchFilter = 'upcoming';
 
 async function initDashboard() {
     try {
@@ -98,6 +99,15 @@ function setupEventListeners() {
             e.target.classList.add('active');
             currentTab = e.target.dataset.tab;
             updatePrediction();
+        });
+    });
+
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            e.target.classList.add('active');
+            matchFilter = e.target.dataset.filter;
+            renderUpcomingMatches();
         });
     });
 
@@ -706,85 +716,94 @@ function renderUpcomingMatches() {
     if (!container) return;
 
     if (!analyticsData.upcoming_matches || analyticsData.upcoming_matches.length === 0) {
-        container.innerHTML = '<div class="placeholder-text" style="grid-column: 1 / -1; text-align: center;">No upcoming NBA matches found.</div>';
+        container.innerHTML = '<div class="placeholder-text" style="grid-column: 1 / -1; text-align: center;">No matches found in database.</div>';
         return;
     }
 
     const now = Math.floor(Date.now() / 1000);
-    const startOfToday = new Date();
-    startOfToday.setHours(0, 0, 0, 0);
-    const startOfTodayTs = Math.floor(startOfToday.getTime() / 1000);
+    
+    // Filter matches based on selected tab
+    let filtered = [];
+    if (matchFilter === 'live') {
+        // Simple heuristic for live: started in last 3 hours but not finished (would need real-time status)
+        filtered = analyticsData.upcoming_matches.filter(m => m.matchTime <= now && m.matchTime > now - 10800);
+    } else if (matchFilter === 'finished') {
+        filtered = analyticsData.upcoming_matches.filter(m => m.matchTime <= now - 10800);
+    } else {
+        filtered = analyticsData.upcoming_matches.filter(m => m.matchTime > now);
+    }
 
-    // Keep matches from today onwards visible
-    const futureMatches = analyticsData.upcoming_matches.filter(m => m.matchTime && (m.matchTime >= startOfTodayTs));
-
-    if (futureMatches.length === 0) {
-        container.innerHTML = '<div class="placeholder-text" style="grid-column: 1 / -1; text-align: center;">All scheduled matches for today have concluded.</div>';
+    if (filtered.length === 0) {
+        container.innerHTML = `<div class="placeholder-text" style="grid-column: 1 / -1; text-align: center;">No ${matchFilter} matches found right now.</div>`;
         return;
     }
 
-    let html = '';
+    // Sort by time
+    filtered.sort((a, b) => a.matchTime - b.matchTime);
 
-    futureMatches.forEach(match => {
+    let html = '';
+    let currentLeague = "";
+
+    filtered.forEach(match => {
+        // League grouping (NBA for now)
+        const league = "NBA League"; 
+        if (league !== currentLeague) {
+            html += `<div class="league-group">${league}</div>`;
+            currentLeague = league;
+        }
+
         const teamA = match.homeTeam;
         const teamB = match.awayTeam;
-        const abbrA = teamCityMap[teamA] || 'HOM';
-        const abbrB = teamCityMap[teamB] || 'AWY';
-
-        const lastA = analyticsData.latest_metrics.find(m => m.team === teamA);
-        const lastB = analyticsData.latest_metrics.find(m => m.team === teamB);
-        
         const nameA = match.homeName || teamA;
         const nameB = match.awayName || teamB;
 
-        let predHtml = '<div class="upcoming-pred"><span style="color:var(--text-secondary)">Deep Analysis Pending...</span></div>';
+        const date = new Date(match.matchTime * 1000);
+        const timeStr = date.toLocaleString([], { weekday: 'short', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+
+        // Build status badge
+        let badgeHtml = '';
+        if (matchFilter === 'live') {
+            badgeHtml = '<span class="status-badge status-live">Live</span>';
+        } else if (matchFilter === 'finished') {
+            badgeHtml = '<span class="status-badge status-finished">Final</span>';
+        } else {
+            badgeHtml = '<span class="status-badge status-upcoming">Scheduled</span>';
+        }
+
+        const lastA = analyticsData.latest_metrics.find(m => m.team === teamA);
+        const lastB = analyticsData.latest_metrics.find(m => m.team === teamB);
+        let predHtml = '';
 
         if (lastA && lastB) {
             const pred = match.prediction || {};
             const main = pred.main || {};
-            const factors = pred.factors || {};
-
             const ptsA = main.ptsA || 0;
             const ptsB = main.ptsB || 0;
             const spread = ptsB - ptsA;
-            const total = ptsA + ptsB;
-
-            const isB2BA = match.is_b2b_home === 1;
-            const isB2BB = match.is_b2b_away === 1;
-
             const spreadStr = spread > 0 ? `${nameB} -${spread.toFixed(1)}` : `${nameA} -${Math.abs(spread).toFixed(1)}`;
 
-            const mkt = main.market || {};
-            const mktSpread = mkt.spread?.hdp !== undefined ? ` (Market: ${mkt.spread.hdp > 0 ? '+' : ''}${mkt.spread.hdp})` : '';
-
             predHtml = `
-                <div class="upcoming-pred" style="flex-direction: column; gap: 0.5rem; padding: 0.4rem 0;">
+                <div class="upcoming-pred" style="flex-direction: column; gap: 0.5rem; padding: 0.4rem 0; border-top: 1px solid var(--glass-border);">
                     <div style="display: flex; justify-content: space-between; width: 100%; font-size: 0.75rem;">
-                        <span><strong style="color:var(--accent-primary)">Spread:</strong> ${spreadStr}${mktSpread}</span>
-                        <span><strong style="color:var(--accent-secondary)">Total:</strong> O/U ${total.toFixed(1)}${mkt.total?.hdp ? ` (Market: ${mkt.total.hdp})` : ''}</span>
-                    </div>
-                    <div style="display: flex; gap: 0.4rem; font-size: 0.65rem;">
-                         <span class="badge ${isB2BB ? 'warning' : 'success'}" style="padding: 1px 4px;">${nameB}: ${isB2BB ? 'Fatigued' : 'Rested'}</span>
-                         <span class="badge ${isB2BA ? 'warning' : 'success'}" style="padding: 1px 4px;">${nameA}: ${isB2BA ? 'Fatigued' : 'Rested'}</span>
-                         ${mkt.ml ? `<span class="badge" style="background: rgba(56,189,248,0.1); color: var(--accent-primary); padding: 1px 4px;">Real-Time Odds</span>` : ''}
+                        <span><strong style="color:var(--accent-primary)">AI Pick:</strong> ${spreadStr}</span>
+                        <span><strong style="color:var(--accent-secondary)">Total:</strong> O/U ${(ptsA + ptsB).toFixed(1)}</span>
                     </div>
                 </div>
             `;
         }
 
-        const date = new Date(match.matchTime * 1000);
-        const timeStr = date.toLocaleString([], { weekday: 'short', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
-
         html += `
             <div class="upcoming-card glass fade-in" onclick="selectTeamsForPrediction('${teamA}', '${teamB}')">
                 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.8rem;">
-                    <span style="font-size: 0.65rem; color: var(--accent-primary); font-weight: 700; letter-spacing: 1px;">PREMIUM PICK</span>
-                    <span style="font-size: 0.65rem; color: var(--text-secondary);">${timeStr}</span>
+                    ${badgeHtml}
+                    <span style="font-size: 0.7rem; color: var(--text-secondary); font-weight: 500;">${timeStr}</span>
                 </div>
-                <div class="upcoming-matchup" style="margin-bottom: 0.5rem;">
-                    <span class="upcoming-team" style="font-size: 0.9rem;">${nameB}</span>
-                    <span style="color: var(--text-secondary); font-size: 0.7rem; font-weight: 700; margin: 0 0.3rem;">@</span>
-                    <span class="upcoming-team" style="font-size: 0.9rem;">${nameA}</span>
+                <div class="upcoming-matchup" style="margin-bottom: 0.8rem; display: flex; align-items: center; gap: 1rem;">
+                    <div style="display: flex; flex-direction: column; gap: 0.5rem; flex: 1;">
+                        <span style="font-size: 0.95rem; font-weight: 700;">${nameB}</span>
+                        <span style="font-size: 0.95rem; font-weight: 700;">${nameA}</span>
+                    </div>
+                    <div style="font-size: 0.7rem; color: var(--text-secondary); font-weight: 800; opacity: 0.5;">VS</div>
                 </div>
                 ${predHtml}
             </div>
