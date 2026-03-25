@@ -956,6 +956,19 @@ def export_data(df, elo_df, df_p, upcoming=None, filename="data.js", odds_data=N
             match["rest_away"] = match["prediction"]["factors"]["teamB"]["rest"]
         upcoming_processed.append(match)
 
+    if len(upcoming_processed) == 0:
+        print("CRITICAL: No upcoming matches found! Preserving previous upcoming_matches in data.js to prevent empty dashboard.")
+        try:
+            if os.path.exists(filename):
+                with open(filename, "r") as f:
+                    content = f.read().replace("const analyticsData = ", "").rstrip(";")
+                    old_data = json.loads(content)
+                    if "upcoming_matches" in old_data and len(old_data["upcoming_matches"]) > 0:
+                        upcoming_processed = old_data["upcoming_matches"]
+                        print(f"Successfully recovered {len(upcoming_processed)} matches from previous data.js state.")
+        except Exception as e:
+            print(f"Warning: Failed to recover previous matches: {e}")
+
     export_obj = {
         "teams": teams,
         "latest_metrics": latest_metrics,
