@@ -1,1 +1,173 @@
-[]
+[
+  {
+    "matchId": "0022501047",
+    "matchTime": 1774393200,
+    "gameStatus": "Final",
+    "homeTeam": "CHA",
+    "awayTeam": "SAC",
+    "homeName": "Charlotte Hornets",
+    "awayName": "Sacramento Kings"
+  },
+  {
+    "matchId": "0022501048",
+    "matchTime": 1774395000,
+    "gameStatus": "Final",
+    "homeTeam": "NYK",
+    "awayTeam": "NOP",
+    "homeName": "New York Knicks",
+    "awayName": "New Orleans Pelicans"
+  },
+  {
+    "matchId": "0022501049",
+    "matchTime": 1774396800,
+    "gameStatus": "Final",
+    "homeTeam": "CLE",
+    "awayTeam": "ORL",
+    "homeName": "Cleveland Cavaliers",
+    "awayName": "Orlando Magic"
+  },
+  {
+    "matchId": "0022501050",
+    "matchTime": 1774407600,
+    "gameStatus": "Final",
+    "homeTeam": "PHX",
+    "awayTeam": "DEN",
+    "homeName": "Phoenix Suns",
+    "awayName": "Denver Nuggets"
+  },
+  {
+    "matchId": "0022501051",
+    "matchTime": 1774479600,
+    "gameStatus": "7:00 pm ET",
+    "homeTeam": "DET",
+    "awayTeam": "ATL",
+    "homeName": "Detroit Pistons",
+    "awayName": "Atlanta Hawks"
+  },
+  {
+    "matchId": "0022501052",
+    "matchTime": 1774479600,
+    "gameStatus": "7:00 pm ET",
+    "homeTeam": "IND",
+    "awayTeam": "LAL",
+    "homeName": "Indiana Pacers",
+    "awayName": "Los Angeles Lakers"
+  },
+  {
+    "matchId": "0022501053",
+    "matchTime": 1774479600,
+    "gameStatus": "7:00 pm ET",
+    "homeTeam": "PHI",
+    "awayTeam": "CHI",
+    "homeName": "Philadelphia 76ers",
+    "awayName": "Chicago Bulls"
+  },
+  {
+    "matchId": "0022501054",
+    "matchTime": 1774481400,
+    "gameStatus": "7:30 pm ET",
+    "homeTeam": "BOS",
+    "awayTeam": "OKC",
+    "homeName": "Boston Celtics",
+    "awayName": "Oklahoma City Thunder"
+  },
+  {
+    "matchId": "0022501055",
+    "matchTime": 1774481400,
+    "gameStatus": "7:30 pm ET",
+    "homeTeam": "CLE",
+    "awayTeam": "MIA",
+    "homeName": "Cleveland Cavaliers",
+    "awayName": "Miami Heat"
+  },
+  {
+    "matchId": "0022501056",
+    "matchTime": 1774483200,
+    "gameStatus": "8:00 pm ET",
+    "homeTeam": "MEM",
+    "awayTeam": "SAS",
+    "homeName": "Memphis Grizzlies",
+    "awayName": "San Antonio Spurs"
+  },
+  {
+    "matchId": "0022501057",
+    "matchTime": 1774486800,
+    "gameStatus": "9:00 pm ET",
+    "homeTeam": "UTA",
+    "awayTeam": "WAS",
+    "homeName": "Utah Jazz",
+    "awayName": "Washington Wizards"
+  },
+  {
+    "matchId": "0022501058",
+    "matchTime": 1774488600,
+    "gameStatus": "9:30 pm ET",
+    "homeTeam": "MIN",
+    "awayTeam": "HOU",
+    "homeName": "Minnesota Timberwolves",
+    "awayName": "Houston Rockets"
+  },
+  {
+    "matchId": "0022501059",
+    "matchTime": 1774490400,
+    "gameStatus": "10:00 pm ET",
+    "homeTeam": "DEN",
+    "awayTeam": "DAL",
+    "homeName": "Denver Nuggets",
+    "awayName": "Dallas Mavericks"
+  },
+  {
+    "matchId": "0022501060",
+    "matchTime": 1774490400,
+    "gameStatus": "10:00 pm ET",
+    "homeTeam": "GSW",
+    "awayTeam": "BKN",
+    "homeName": "Golden State Warriors",
+    "awayName": "Brooklyn Nets"
+  },
+  {
+    "matchId": "0022501061",
+    "matchTime": 1774490400,
+    "gameStatus": "10:00 pm ET",
+    "homeTeam": "POR",
+    "awayTeam": "MIL",
+    "homeName": "Portland Trail Blazers",
+    "awayName": "Milwaukee Bucks"
+  },
+  {
+    "matchId": "0022501062",
+    "matchTime": 1774492200,
+    "gameStatus": "10:30 pm ET",
+    "homeTeam": "LAC",
+    "awayTeam": "TOR",
+    "homeName": "LA Clippers",
+    "awayName": "Toronto Raptors"
+  },
+  {
+    "matchId": "0022501063",
+    "matchTime": 1774566000,
+    "gameStatus": "7:00 pm ET",
+    "homeTeam": "CHA",
+    "awayTeam": "NYK",
+    "homeName": "Charlotte Hornets",
+    "awayName": "New York Knicks"
+  },
+  {
+    "matchId": "0022501064",
+    "matchTime": 1774566000,
+    "gameStatus": "7:00 pm ET",
+    "homeTeam": "DET",
+    "awayTeam": "NOP",
+    "homeName": "Detroit Pistons",
+    "awayName": "New Orleans Pelicans"
+  },
+  {
+    "matchId": "0022501065",
+    "matchTime": 1774566000,
+    "gameStatus": "7:00 pm ET",
+    "homeTeam": "ORL",
+    "awayTeam": "SAC",
+    "homeName": "Orlando Magic",
+    "awayName": "Sacramento Kings"
+  }
+]
