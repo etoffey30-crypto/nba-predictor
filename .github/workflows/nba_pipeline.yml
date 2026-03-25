@@ -5,6 +5,9 @@ on:
     # Run at 6:15 AM UTC daily
     - cron: '15 6 * * *'
   workflow_dispatch: # Allow manual trigger
+  push:
+    branches:
+      - main
 
 jobs:
   build-and-predict:
