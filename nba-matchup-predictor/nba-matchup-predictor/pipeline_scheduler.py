@@ -5,7 +5,9 @@ from fetch_real_data import fetch_and_save_data
 from fetch_upcoming import fetch_upcoming_matches, fetch_recent_results
 from fetch_injuries import fetch_injuries
 from fetch_odds import fetch_odds
+from fetch_bet365 import Bet365Scraper
 from predictor import run_pipeline
+
 import sys
 
 import os
@@ -54,7 +56,13 @@ def update_and_retrain(target_date=None):
         logger.info("Step 3: Syncing Injuries and Betting Odds (odds-api.io)...")
         fetch_injuries()
         fetch_odds()
-        
+        try:
+            logger.info("Step 3b: Pre-warming Bet365 Fallback manifest...")
+            scraper = Bet365Scraper()
+            scraper.fetch_nba_matches()
+        except Exception as e:
+            logger.error(f"Bet365 Fallback Error: {e}")
+            
         # 4. Run prediction pipeline (Preprocess, Add Analytics, Retrain ML, Export data.js)
         logger.info("Step 4: Running prediction engine, retraining ML, and exporting...")
         run_pipeline()
