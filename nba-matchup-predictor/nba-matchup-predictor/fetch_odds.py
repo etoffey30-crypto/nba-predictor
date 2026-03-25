@@ -8,6 +8,17 @@ SPORT = "basketball"
 LEAGUE = "usa-nba"
 BOOKMAKER = "DraftKings"
 
+TEAM_NAME_TO_ABBR = {
+    'Atlanta Hawks': 'ATL', 'Boston Celtics': 'BOS', 'Brooklyn Nets': 'BKN', 'Charlotte Hornets': 'CHA',
+    'Chicago Bulls': 'CHI', 'Cleveland Cavaliers': 'CLE', 'Dallas Mavericks': 'DAL', 'Denver Nuggets': 'DEN',
+    'Detroit Pistons': 'DET', 'Golden State Warriors': 'GSW', 'Houston Rockets': 'HOU', 'Indiana Pacers': 'IND',
+    'LA Clippers': 'LAC', 'Los Angeles Clippers': 'LAC', 'Los Angeles Lakers': 'LAL', 'Memphis Grizzlies': 'MEM',
+    'Miami Heat': 'MIA', 'Milwaukee Bucks': 'MIL', 'Minnesota Timberwolves': 'MIN', 'New Orleans Pelicans': 'NOP',
+    'New York Knicks': 'NYK', 'Oklahoma City Thunder': 'OKC', 'Orlando Magic': 'ORL', 'Philadelphia 76ers': 'PHI',
+    'Phoenix Suns': 'PHX', 'Portland Trail Blazers': 'POR', 'Sacramento Kings': 'SAC', 'San Antonio Spurs': 'SAS',
+    'Toronto Raptors': 'TOR', 'Utah Jazz': 'UTA', 'Washington Wizards': 'WAS'
+}
+
 def fetch_odds():
     print(f"--- Fetching NBA Odds from odds-api.io ---")
     
@@ -84,7 +95,30 @@ def fetch_odds():
     with open("odds.json", "w") as f:
         json.dump(odds_map, f, indent=2)
     
-    print(f"SUCCESS: Saved odds for {len(odds_map)//2} games to odds.json")
+    # Also save a manifest of upcoming matches in the same format as upcoming.json
+    # This serves as a CRITICAL fallback for GitHub Actions when the NBA API is blocked
+    odds_matches = []
+    from datetime import datetime, timezone
+    for e in impending_events:
+        ts = int(e.get("timestamp", 0))
+        # Ensure we have the same fields as upcoming.json
+        # NOTE: odds-api.io uses full names, we need to map them back to abbreviations
+        # But for now we'll just use what we have and let predictor handle it
+        odds_matches.append({
+            "matchId": f"odds_{e['id']}",
+            "matchTime": ts,
+            "gameStatus": datetime.fromtimestamp(ts, tz=timezone.utc).strftime('%I:%M %p ET'), # Rough estimate
+            "homeTeam": TEAM_NAME_TO_ABBR.get(e.get("home"), "UNK"),
+            "awayTeam": TEAM_NAME_TO_ABBR.get(e.get("away"), "UNK"),
+            "homeName": e.get("home", "Unknown"),
+            "awayName": e.get("away", "Unknown"),
+            "is_odds_fallback": True
+        })
+    
+    with open("odds_matches.json", "w") as f:
+        json.dump(odds_matches, f, indent=2)
+
+    print(f"SUCCESS: Saved odds for {len(odds_map)//2} games to odds.json and manifest to odds_matches.json")
 
 if __name__ == "__main__":
     fetch_odds()

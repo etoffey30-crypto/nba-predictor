@@ -1021,8 +1021,19 @@ def run_pipeline():
     # Load upcoming matches if available
     upcoming = []
     if os.path.exists("upcoming.json"):
-        with open("upcoming.json", "r") as f:
-            upcoming = json.load(f)
+        try:
+            with open("upcoming.json", "r") as f:
+                upcoming = json.load(f)
+        except:
+            pass
+            
+    if not upcoming and os.path.exists("odds_matches.json"):
+        print("NBA API returned 0 matches. Using Odds API fallback...")
+        try:
+            with open("odds_matches.json", "r") as f:
+                upcoming = json.load(f)
+        except:
+            pass
             
     # Load Odds
     odds_data = {}
