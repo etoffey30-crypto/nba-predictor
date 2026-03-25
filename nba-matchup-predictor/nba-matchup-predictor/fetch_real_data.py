@@ -3,13 +3,13 @@ import numpy as np
 import time
 import json
 from nba_api.stats.endpoints import leaguegamelog, playergamelogs, leaguestandingsv3, scoreboardv2
-from nba_api.library.http import NBA_HEADERS
+from nba_api.stats.library.http import STATS_HEADERS
 from datetime import datetime, timedelta
 from database import get_session, Game, PlayerStat, init_db, DB_URL
 
 # Force browser-like headers for GitHub Actions
-NBA_HEADERS['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
-NBA_HEADERS['Referer'] = 'https://www.nba.com/'
+STATS_HEADERS['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
+STATS_HEADERS['Referer'] = 'https://www.nba.com/'
 
 # Dynamically import the correct insert dialect based on DB_URL
 if DB_URL.startswith("postgresql"):

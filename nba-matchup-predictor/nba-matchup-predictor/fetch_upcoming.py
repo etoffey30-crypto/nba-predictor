@@ -4,15 +4,14 @@ import time
 from datetime import datetime, timedelta, timezone
 from nba_api.stats.endpoints import scoreboardv2
 from nba_api.stats.static import teams
-from nba_api.library.http import NBA_HEADERS
+from nba_api.stats.library.http import STATS_HEADERS
 
 # Force browser-like headers to prevent blocks on GitHub Actions
-NBA_HEADERS['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
-NBA_HEADERS['Referer'] = 'https://www.nba.com/'
-NBA_HEADERS['Origin'] = 'https://www.nba.com'
-NBA_HEADERS['Host'] = 'stats.nba.com'
-NBA_HEADERS['Accept-Language'] = 'en-US,en;q=0.9'
-NBA_HEADERS['Proxy-Connection'] = 'keep-alive'
+STATS_HEADERS['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
+STATS_HEADERS['Referer'] = 'https://www.nba.com/'
+STATS_HEADERS['Origin'] = 'https://www.nba.com'
+STATS_HEADERS['Host'] = 'stats.nba.com'
+STATS_HEADERS['Accept-Language'] = 'en-US,en;q=0.9'
 
 # Initialize team mapping from nba_api
 all_teams = teams.get_teams()
