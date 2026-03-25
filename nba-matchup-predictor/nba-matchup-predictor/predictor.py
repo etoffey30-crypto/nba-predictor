@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from scipy.stats import norm, poisson, nbinom, genextreme
 import json
 import os
@@ -919,12 +919,17 @@ def export_data(df, elo_df, df_p, upcoming=None, filename="data.js", odds_data=N
         model = joblib.load("prediction_model.joblib")
 
     # Get start of today (midnight) for filtering in UTC
-    start_of_today = datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0)
+    # Loosen to "Yesterday" to ensure games don't vanish due to UTC/ET rollovers
+    start_of_today = datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0) - timedelta(days=1)
     start_of_today_ts = int(start_of_today.timestamp())
     
+    print(f"Filtering games before: {start_of_today} ({start_of_today_ts})")
+    print(f"Upcoming buffer contains {len(upcoming)} total matches.")
+    
     for match in upcoming:
-        # Keep games from today (even if started) but skip truly old games
-        if match.get("matchTime", 0) < start_of_today_ts:
+        # Keep games from yesterday onwards to be safe
+        m_time = match.get("matchTime", 0)
+        if m_time < start_of_today_ts:
             continue
             
         teamA, teamB = match["homeTeam"], match["awayTeam"]
