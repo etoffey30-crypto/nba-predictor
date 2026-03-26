@@ -389,6 +389,58 @@ class OptimizationTheory:
         # Apply fractional Kelly to reduce volatility
         return max(0, f_star * bankroll * fractional)
 
+
+def clamp(value, low, high):
+    return max(low, min(high, value))
+
+
+def safe_float(value, default=None):
+    try:
+        return float(value)
+    except (TypeError, ValueError):
+        return default
+
+
+def extract_market_lines(match_odds):
+    if not match_odds:
+        return {"home_ml": None, "away_ml": None, "spread": None, "total": None}
+
+    return {
+        "home_ml": safe_float(match_odds.get("ml", {}).get("home")),
+        "away_ml": safe_float(match_odds.get("ml", {}).get("away")),
+        "spread": safe_float(match_odds.get("spread", {}).get("hdp")),
+        "total": safe_float(match_odds.get("total", {}).get("hdp")),
+    }
+
+
+def compute_form_adjustments(lastA, lastB, days_restA, days_restB, is_b2bA, is_b2bB):
+    latent_edge = clamp(
+        (safe_float(lastA.get("latent_strength"), 0) - safe_float(lastB.get("latent_strength"), 0)) / 12.0,
+        -3.0,
+        3.0,
+    )
+    recent_edge = clamp(
+        (safe_float(lastA.get("net_rating"), 0) - safe_float(lastB.get("net_rating"), 0)) / 20.0,
+        -2.0,
+        2.0,
+    )
+    form_state_edge = (
+        safe_float(lastA.get("form_state"), 1) - safe_float(lastB.get("form_state"), 1)
+    ) * 0.35
+    rest_edge = clamp((days_restA - days_restB) * 0.2, -1.0, 1.0)
+    b2b_edge = (-0.75 if is_b2bA else 0.0) - (-0.75 if is_b2bB else 0.0)
+
+    return {
+        "teamA": latent_edge + recent_edge + form_state_edge + rest_edge + b2b_edge,
+        "teamB": -(latent_edge + recent_edge + form_state_edge + rest_edge + b2b_edge),
+    }
+
+
+def blend_with_market(model_value, market_value, weight):
+    if market_value is None:
+        return model_value
+    return (model_value * (1 - weight)) + (market_value * weight)
+
 def calculate_entropy(data_series):
     """Measures predictability/volatility using Shannon Entropy."""
     if len(data_series) == 0: return 0
@@ -697,7 +749,37 @@ def predict_matchup(teamA, teamB, df, df_p, sigma=12, match_timestamp=None, odds
         home_name=home_name,
         away_name=away_name,
     )
+    market_lines = extract_market_lines(match_odds)
             
+    # Context-aware base projection
+    home_court_edge = 1.8
+    form_adjustments = compute_form_adjustments(lastA, lastB, days_restA, days_restB, is_b2bA, is_b2bB)
+    ptsA += home_court_edge + form_adjustments["teamA"]
+    ptsB += form_adjustments["teamB"]
+    total = ptsA + ptsB
+    spread = ptsB - ptsA
+
+    market_total = market_lines["total"]
+    if market_total is not None:
+        total = blend_with_market(total, market_total, 0.2)
+        split_total_delta = total - (ptsA + ptsB)
+        ptsA += split_total_delta / 2
+        ptsB += split_total_delta / 2
+
+    market_spread_home = market_lines["spread"]
+    if market_spread_home is not None:
+        # Sportsbook home spread is from the home team's perspective. Our spread is away - home.
+        market_spread_model_space = market_spread_home
+        spread = blend_with_market(spread, market_spread_model_space, 0.35)
+        midpoint = total / 2
+        ptsA = midpoint - (spread / 2)
+        ptsB = midpoint + (spread / 2)
+
+    # Winning Margins
+    margin = ptsA - ptsB
+    sigma = clamp(sigma + abs(spread) * 0.08, 10, 16)
+    win_prob_A = float(norm.cdf(margin / sigma))
+
     # Player Props (Refined ML Adjustment)
     players_A = df_p[df_p["team"] == teamA].groupby("player").last()
     players_B = df_p[df_p["team"] == teamB].groupby("player").last()
@@ -780,38 +862,46 @@ def predict_matchup(teamA, teamB, df, df_p, sigma=12, match_timestamp=None, odds
     all_diffs = (df["team_pts"] - df["opp_pts"]).values
     blowout_risk = extreme_value_risk(all_diffs)
     
-    # NEW: Optimization Theory (Kelly Criterion)
-    # Assume decimal odds are roughly 1.91 (-110 American)
-    bankroll = 1000 # Default bankroll context
-    bet_size = OptimizationTheory.kelly_criterion(mc_win_A, 1.91, bankroll)
-
-    # FINAL IMPROVEMENT: Market-Implied Probability Consensus
-    # Factor in bookmaker sentiment if available
+    # Market-Implied Probability Consensus
     market_prob = None
-    if match_odds and "ml" in match_odds:
-        try:
-            h_odds = float(match_odds["ml"].get("home", 0))
-            a_odds = float(match_odds["ml"].get("away", 0))
-            if h_odds > 0 and a_odds > 0:
-                # Calculate implied probs with vig removal
-                raw_h = 1.0 / h_odds
-                raw_a = 1.0 / a_odds
-                total_implied = raw_h + raw_a
-                market_prob = raw_h / total_implied
-        except:
-            pass
-            
+    if market_lines["home_ml"] and market_lines["away_ml"]:
+        raw_h = 1.0 / market_lines["home_ml"]
+        raw_a = 1.0 / market_lines["away_ml"]
+        total_implied = raw_h + raw_a
+        if total_implied > 0:
+            market_prob = raw_h / total_implied
+
     # Ensemble Probability
+    model_prob = clamp(win_prob_A, 0.03, 0.97)
     if market_prob is not None:
-        # 40% ML Model, 30% Monte Carlo, 30% Market Sentiment
-        final_win_prob = (ml_prob * 0.4) + (mc_win_A * 0.3) + (market_prob * 0.3)
+        agreement = 1.0 - min(abs(model_prob - market_prob), 0.5) * 2.0
+        ml_weight = 0.45 if agreement < 0.5 else 0.35
+        mc_weight = 0.30
+        market_weight = 1.0 - ml_weight - mc_weight
+        final_win_prob = (
+            ml_prob * ml_weight
+            + mc_win_A * mc_weight
+            + market_prob * market_weight
+        )
     else:
-        final_win_prob = (ml_prob * 0.6) + (mc_win_A * 0.4)
+        final_win_prob = (ml_prob * 0.5) + (mc_win_A * 0.2) + (model_prob * 0.3)
+
+    final_win_prob = clamp(final_win_prob, 0.03, 0.97)
+
+    # Optimization Theory (Kelly Criterion) using the real available home price when present.
+    bankroll = 1000 # Default bankroll context
+    home_price = market_lines["home_ml"] if market_lines["home_ml"] and market_lines["home_ml"] > 1 else 1.91
+    edge = None if market_prob is None else final_win_prob - market_prob
+    bet_size = OptimizationTheory.kelly_criterion(final_win_prob, home_price, bankroll)
+    if edge is None or edge < 0.015:
+        bet_size = 0.0
 
     return {
         "main": {
             "ptsA": ptsA, "ptsB": ptsB, "total": total, "spread": spread, 
             "win_prob_A": float(final_win_prob * 100), "ml_prob_A": ml_prob, "mc_win_A": mc_win_A,
+            "base_win_prob_A": float(model_prob),
+            "market_prob_A": float(market_prob) if market_prob is not None else None,
             "market": match_odds or {
                 "ml": {"home": None, "away": None},
                 "spread": {"hdp": None, "home": None, "away": None},
@@ -821,6 +911,7 @@ def predict_matchup(teamA, teamB, df, df_p, sigma=12, match_timestamp=None, odds
         "advanced": {
             "blowout_risk": blowout_risk,
             "recommended_bet": float(bet_size),
+            "market_edge": float(edge) if edge is not None else None,
             "latent_strength_A": float(lastA["latent_strength"]),
             "latent_strength_B": float(lastB["latent_strength"]),
             "form_state_A": int(lastA["form_state"]),
