@@ -254,7 +254,7 @@ function updatePrediction() {
                                 <div class="market-cell">
                                     <span class="market-val">${spread < 0 ? spread.toFixed(1) : '+' + spread.toFixed(1)}</span>
                                     <span class="market-label">AI Projected Spread</span>
-                                    ${market.spread?.hdp !== undefined ? `
+                                    ${market.spread?.hdp != null ? `
                                         <span class="market-bookie">DraftKings: ${market.spread.hdp > 0 ? '+' + market.spread.hdp : market.spread.hdp}</span>
                                         <span style="font-size: 0.65rem; font-weight: 800; color: ${Math.abs(spread) > Math.abs(market.spread.hdp) ? 'var(--success)' : 'var(--text-secondary)'}">
                                             (${Math.abs(spread) > Math.abs(market.spread.hdp) ? 'COVERS' : 'NO VALUE'})
@@ -266,7 +266,7 @@ function updatePrediction() {
                                 <div class="market-cell">
                                     <span class="market-val">${total.toFixed(1)}</span>
                                     <span class="market-label">AI Projected Total</span>
-                                    ${market.total?.hdp ? `
+                                    ${market.total?.hdp != null ? `
                                         <span class="market-bookie">DraftKings: ${market.total.hdp}</span>
                                         <span style="font-size: 0.65rem; font-weight: 800; color: ${total > market.total.hdp ? 'var(--success)' : 'var(--danger)'}">
                                             (${total > market.total.hdp ? 'OVER' : 'UNDER'})
@@ -288,7 +288,7 @@ function updatePrediction() {
                                 <div class="market-cell">
                                     <span class="market-val">${spread > 0 ? '-' + spread.toFixed(1) : '+' + Math.abs(spread).toFixed(1)}</span>
                                     <span class="market-label">AI Projected Spread</span>
-                                    ${market.spread?.hdp !== undefined ? `
+                                    ${market.spread?.hdp != null ? `
                                         <span class="market-bookie">DraftKings: ${market.spread.hdp < 0 ? '+' + Math.abs(market.spread.hdp) : '-' + market.spread.hdp}</span>
                                         <span style="font-size: 0.65rem; font-weight: 800; color: ${Math.abs(spread) > Math.abs(market.spread.hdp) ? 'var(--success)' : 'var(--text-secondary)'}">
                                             (${Math.abs(spread) > Math.abs(market.spread.hdp) ? 'COVERS' : 'NO VALUE'})
@@ -300,7 +300,7 @@ function updatePrediction() {
                                 <div class="market-cell">
                                     <span class="market-val">${total.toFixed(1)}</span>
                                     <span class="market-label">AI Projected Total</span>
-                                    ${market.total?.hdp ? `
+                                    ${market.total?.hdp != null ? `
                                         <span class="market-bookie">DraftKings: ${market.total.hdp}</span>
                                         <span style="font-size: 0.65rem; font-weight: 800; color: ${total > market.total.hdp ? 'var(--success)' : 'var(--danger)'}">
                                             (${total > market.total.hdp ? 'OVER' : 'UNDER'})
