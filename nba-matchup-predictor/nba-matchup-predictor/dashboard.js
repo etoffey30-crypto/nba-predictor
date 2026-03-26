@@ -139,7 +139,7 @@ function updatePrediction() {
     const ortg_B = ((lastB.adj_ortg_10 || 110) + (lastA.adj_drtg_10 || 110)) / 2;
 
     // 2. EXTRACT ADVANCED METRICS (IF AVAILABLE)
-    const matchData = analyticsData.upcoming_matches.find(m => (m.homeTeam === teamA && m.awayTeam === teamB) || (m.homeTeam === teamB && m.awayTeam === teamA));
+    const matchData = findBestMatchup(teamA, teamB);
     const advA = matchData?.prediction?.advanced || {};
     const mainA = matchData?.prediction?.main || {};
     const factorsA = matchData?.prediction?.factors?.teamA || lastA;
@@ -539,7 +539,7 @@ function renderBestBet(teamA, teamB, winProbA, spread, mlPerc, total, ptsA, ptsB
     let confidence = 0;
     let reasoning = "";
 
-    const matchup = analyticsData.upcoming_matches.find(m => (m.homeTeam === teamA && m.awayTeam === teamB) || (m.homeTeam === teamB && m.awayTeam === teamA));
+    const matchup = findBestMatchup(teamA, teamB);
     const shap = matchup ? matchup.shap_explanation : null;
 
     // Determine the most influential stat from SHAP for the reasoning
@@ -606,7 +606,7 @@ function renderBestBet(teamA, teamB, winProbA, spread, mlPerc, total, ptsA, ptsB
 }
 
 function renderShapExplanation(teamA, teamB) {
-    const match = analyticsData.upcoming_matches.find(m => (m.homeTeam === teamA && m.awayTeam === teamB) || (m.homeTeam === teamB && m.awayTeam === teamA));
+    const match = findBestMatchup(teamA, teamB);
     if (!match || !match.shap_explanation) return '<div class="placeholder-text">SHAP data not available for this matchup.</div>';
 
     const shapVals = match.shap_explanation;
@@ -811,6 +811,40 @@ function renderUpcomingMatches() {
     });
 
     container.innerHTML = html;
+}
+
+function findBestMatchup(teamA, teamB) {
+    if (!analyticsData.upcoming_matches || analyticsData.upcoming_matches.length === 0) {
+        return null;
+    }
+
+    const now = Math.floor(Date.now() / 1000);
+    const candidates = analyticsData.upcoming_matches.filter(
+        m =>
+            (m.homeTeam === teamA && m.awayTeam === teamB) ||
+            (m.homeTeam === teamB && m.awayTeam === teamA)
+    );
+
+    if (candidates.length === 0) {
+        return null;
+    }
+
+    const ranked = [...candidates].sort((a, b) => {
+        const aFuture = a.matchTime >= now;
+        const bFuture = b.matchTime >= now;
+
+        if (aFuture !== bFuture) {
+            return aFuture ? -1 : 1;
+        }
+
+        if (aFuture) {
+            return Math.abs(a.matchTime - now) - Math.abs(b.matchTime - now);
+        }
+
+        return Math.abs(b.matchTime - now) - Math.abs(a.matchTime - now);
+    });
+
+    return ranked[0];
 }
 
 function selectTeamsForPrediction(teamA, teamB) {
