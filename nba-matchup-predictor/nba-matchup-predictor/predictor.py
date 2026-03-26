@@ -593,7 +593,39 @@ def get_team_form(team, df):
 # ============================================================
 # 4. PREDICTION ENGINE (ALL MARKETS)
 # ============================================================
-def predict_matchup(teamA, teamB, df, df_p, sigma=12, match_timestamp=None, odds_data=None):
+def resolve_match_odds(odds_data, teamA, teamB, match_id=None, home_name=None, away_name=None):
+    if not odds_data:
+        return {}
+
+    resolved_home = home_name or team_name_map.get(teamA, teamA)
+    resolved_away = away_name or team_name_map.get(teamB, teamB)
+    candidate_keys = []
+
+    if match_id:
+        candidate_keys.append(str(match_id))
+
+    candidate_keys.extend(
+        [
+            f"{resolved_away} @ {resolved_home}",
+            f"{resolved_home} vs {resolved_away}",
+            f"{resolved_home} @ {resolved_away}",
+            f"{resolved_away} vs {resolved_home}",
+            f"{teamB} @ {teamA}",
+            f"{teamA} vs {teamB}",
+            f"{teamA} @ {teamB}",
+            f"{teamB} vs {teamA}",
+        ]
+    )
+
+    for key in candidate_keys:
+        match_odds = odds_data.get(key)
+        if match_odds:
+            return match_odds
+
+    return {}
+
+
+def predict_matchup(teamA, teamB, df, df_p, sigma=12, match_timestamp=None, odds_data=None, match_id=None, home_name=None, away_name=None):
     lastA = df[df["team"] == teamA].iloc[-1]
     lastB = df[df["team"] == teamB].iloc[-1]
 
@@ -657,15 +689,14 @@ def predict_matchup(teamA, teamB, df, df_p, sigma=12, match_timestamp=None, odds
             inj_list = {i['player']: i for i in inj_list}
             
     # Load Odds Data for this Matchup
-    match_odds = {}
-    if odds_data:
-        nameA = team_name_map.get(teamA, teamA)
-        nameB = team_name_map.get(teamB, teamB)
-        # Try various naming conventions from the API
-        match_odds = odds_data.get(f"{nameB} @ {nameA}", 
-                     odds_data.get(f"{nameA} vs {nameB}", 
-                     odds_data.get(f"{nameA} @ {nameB}", 
-                     odds_data.get(f"{nameB} vs {nameA}", {}))))
+    match_odds = resolve_match_odds(
+        odds_data,
+        teamA,
+        teamB,
+        match_id=match_id,
+        home_name=home_name,
+        away_name=away_name,
+    )
             
     # Player Props (Refined ML Adjustment)
     players_A = df_p[df_p["team"] == teamA].groupby("player").last()
@@ -766,7 +797,7 @@ def predict_matchup(teamA, teamB, df, df_p, sigma=12, match_timestamp=None, odds
                 raw_h = 1.0 / h_odds
                 raw_a = 1.0 / a_odds
                 total_implied = raw_h + raw_a
-                market_prob = raw_a / total_implied # Away is Team A in our naming @ convention
+                market_prob = raw_h / total_implied
         except:
             pass
             
@@ -940,7 +971,17 @@ def export_data(df, elo_df, df_p, upcoming=None, filename="data.js", odds_data=N
             matchTime = match.get("matchTime")
             match_id = match.get("matchId", match.get("gameId", match.get("GAME_ID")))
             # Pass entire odds_data to predict_matchup for name-based lookup
-            res = predict_matchup(teamA, teamB, df, df_p, match_timestamp=matchTime, odds_data=odds_data)
+            res = predict_matchup(
+                teamA,
+                teamB,
+                df,
+                df_p,
+                match_timestamp=matchTime,
+                odds_data=odds_data,
+                match_id=match_id,
+                home_name=match.get("homeName"),
+                away_name=match.get("awayName"),
+            )
             
             res["match_id"] = match_id
             res["time"] = match.get("time", "TBD")

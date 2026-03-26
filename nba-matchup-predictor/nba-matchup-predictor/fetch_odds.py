@@ -2,6 +2,7 @@ import requests
 import json
 import time
 import os
+from datetime import datetime, timezone
 
 API_KEY = "22503add9f32506e2af3115737fc5989a08b0a5822de5dd01de7f59d1be66c5a"
 SPORT = "basketball"
@@ -19,6 +20,65 @@ TEAM_NAME_TO_ABBR = {
     'Toronto Raptors': 'TOR', 'Utah Jazz': 'UTA', 'Washington Wizards': 'WAS'
 }
 
+
+def _parse_event_timestamp(event):
+    date_str = event.get("date")
+    if date_str:
+        try:
+            return int(datetime.strptime(date_str, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc).timestamp())
+        except ValueError:
+            pass
+
+    timestamp = event.get("timestamp")
+    if timestamp is None:
+        return 0
+
+    try:
+        return int(float(timestamp))
+    except (TypeError, ValueError):
+        return 0
+
+
+def _load_upcoming_manifest(path="upcoming.json"):
+    if not os.path.exists(path):
+        return [], {}
+
+    with open(path, "r") as f:
+        upcoming_matches = json.load(f)
+
+    target_pairs = {}
+    for match in upcoming_matches:
+        home_name = match.get("homeName")
+        away_name = match.get("awayName")
+        if home_name and away_name:
+            target_pairs[(home_name, away_name)] = match
+    return upcoming_matches, target_pairs
+
+
+def _build_odds_aliases(event, match=None):
+    home_name = event.get("home", "")
+    away_name = event.get("away", "")
+    home_abbr = TEAM_NAME_TO_ABBR.get(home_name, home_name)
+    away_abbr = TEAM_NAME_TO_ABBR.get(away_name, away_name)
+
+    aliases = {
+        f"{away_name} @ {home_name}",
+        f"{home_name} vs {away_name}",
+        f"{away_name} vs {home_name}",
+        f"{home_name} @ {away_name}",
+        f"{away_abbr} @ {home_abbr}",
+        f"{home_abbr} vs {away_abbr}",
+        f"{away_abbr} vs {home_abbr}",
+        f"{home_abbr} @ {away_abbr}",
+    }
+
+    if match:
+        match_id = match.get("matchId")
+        if match_id:
+            aliases.add(str(match_id))
+
+    return {alias for alias in aliases if alias}
+
 def fetch_odds():
     print(f"--- Fetching NBA Odds from odds-api.io ---")
     
@@ -28,7 +88,8 @@ def fetch_odds():
     except:
         pass
 
-    # 1. Fetch upcoming events
+    upcoming_matches, target_pairs = _load_upcoming_manifest()
+
     events_url = f"https://api.odds-api.io/v3/events?apiKey={API_KEY}&sport={SPORT}&league={LEAGUE}"
     try:
         response = requests.get(events_url, timeout=10)
@@ -40,11 +101,24 @@ def fetch_odds():
         print(f"Failed to fetch events (API Timeout or Network Error): {e}")
         return
 
-    # Filter for games in the next 24 hours to stay within rate limits (free plan: 100/hr)
     now = time.time()
-    one_day_sec = 24 * 3600
-    impending_events = [e for e in events if e.get("status") == "pending" and (int(e.get("timestamp", 0)) - now) < one_day_sec]
-    
+    three_day_sec = 72 * 3600
+    pending_events = []
+    for event in events:
+        if event.get("status") != "pending":
+            continue
+
+        event_ts = _parse_event_timestamp(event)
+        if event_ts and event_ts < now - 3600:
+            continue
+
+        if target_pairs:
+            if (event.get("home"), event.get("away")) in target_pairs:
+                pending_events.append(event)
+        elif event_ts and (event_ts - now) <= three_day_sec:
+            pending_events.append(event)
+
+    impending_events = sorted(pending_events, key=_parse_event_timestamp)
     print(f"Found {len(impending_events)} impending matchups (next 24h).")
 
     odds_map = {}
@@ -84,9 +158,10 @@ def fetch_odds():
                         game_odds["total"] = {"hdp": m_odds.get("hdp"), "over": m_odds.get("over"), "under": m_odds.get("under")}
                     elif m_name == "Player Props":
                         game_odds["props"] = market["odds"] # All props
-                
-                odds_map[f"{away} @ {home}"] = game_odds
-                odds_map[f"{home} vs {away}"] = game_odds # Dual mapping for easier lookup
+
+                linked_match = target_pairs.get((home, away))
+                for alias in _build_odds_aliases(e, linked_match):
+                    odds_map[alias] = game_odds
                 
             time.sleep(0.3)
         except Exception as ex:
@@ -95,19 +170,14 @@ def fetch_odds():
     with open("odds.json", "w") as f:
         json.dump(odds_map, f, indent=2)
     
-    # Also save a manifest of upcoming matches in the same format as upcoming.json
-    # This serves as a CRITICAL fallback for GitHub Actions when the NBA API is blocked
     odds_matches = []
-    from datetime import datetime, timezone
     for e in impending_events:
-        ts = int(e.get("timestamp", 0))
-        # Ensure we have the same fields as upcoming.json
-        # NOTE: odds-api.io uses full names, we need to map them back to abbreviations
-        # But for now we'll just use what we have and let predictor handle it
+        ts = _parse_event_timestamp(e)
+        linked_match = target_pairs.get((e.get("home"), e.get("away")))
         odds_matches.append({
-            "matchId": f"odds_{e['id']}",
+            "matchId": linked_match.get("matchId", f"odds_{e['id']}") if linked_match else f"odds_{e['id']}",
             "matchTime": ts,
-            "gameStatus": datetime.fromtimestamp(ts, tz=timezone.utc).strftime('%I:%M %p ET'), # Rough estimate
+            "gameStatus": linked_match.get("gameStatus") if linked_match else datetime.fromtimestamp(ts, tz=timezone.utc).strftime('%I:%M %p ET'),
             "homeTeam": TEAM_NAME_TO_ABBR.get(e.get("home"), "UNK"),
             "awayTeam": TEAM_NAME_TO_ABBR.get(e.get("away"), "UNK"),
             "homeName": e.get("home", "Unknown"),
@@ -118,7 +188,7 @@ def fetch_odds():
     with open("odds_matches.json", "w") as f:
         json.dump(odds_matches, f, indent=2)
 
-    print(f"SUCCESS: Saved odds for {len(odds_map)//2} games to odds.json and manifest to odds_matches.json")
+    print(f"SUCCESS: Saved odds for {len(odds_matches)} games to odds.json and manifest to odds_matches.json")
 
 if __name__ == "__main__":
     fetch_odds()
