@@ -1,113 +1,5 @@
 [
   {
-    "matchId": "0022501051",
-    "matchTime": 1774479600,
-    "gameStatus": "Final/OT",
-    "homeTeam": "DET",
-    "awayTeam": "ATL",
-    "homeName": "Detroit Pistons",
-    "awayName": "Atlanta Hawks"
-  },
-  {
-    "matchId": "0022501052",
-    "matchTime": 1774479600,
-    "gameStatus": "Final",
-    "homeTeam": "IND",
-    "awayTeam": "LAL",
-    "homeName": "Indiana Pacers",
-    "awayName": "Los Angeles Lakers"
-  },
-  {
-    "matchId": "0022501053",
-    "matchTime": 1774479600,
-    "gameStatus": "Final",
-    "homeTeam": "PHI",
-    "awayTeam": "CHI",
-    "homeName": "Philadelphia 76ers",
-    "awayName": "Chicago Bulls"
-  },
-  {
-    "matchId": "0022501054",
-    "matchTime": 1774481400,
-    "gameStatus": "Final",
-    "homeTeam": "BOS",
-    "awayTeam": "OKC",
-    "homeName": "Boston Celtics",
-    "awayName": "Oklahoma City Thunder"
-  },
-  {
-    "matchId": "0022501055",
-    "matchTime": 1774481400,
-    "gameStatus": "Final",
-    "homeTeam": "CLE",
-    "awayTeam": "MIA",
-    "homeName": "Cleveland Cavaliers",
-    "awayName": "Miami Heat"
-  },
-  {
-    "matchId": "0022501056",
-    "matchTime": 1774483200,
-    "gameStatus": "Final",
-    "homeTeam": "MEM",
-    "awayTeam": "SAS",
-    "homeName": "Memphis Grizzlies",
-    "awayName": "San Antonio Spurs"
-  },
-  {
-    "matchId": "0022501057",
-    "matchTime": 1774486800,
-    "gameStatus": "Final",
-    "homeTeam": "UTA",
-    "awayTeam": "WAS",
-    "homeName": "Utah Jazz",
-    "awayName": "Washington Wizards"
-  },
-  {
-    "matchId": "0022501058",
-    "matchTime": 1774488600,
-    "gameStatus": "Final/OT",
-    "homeTeam": "MIN",
-    "awayTeam": "HOU",
-    "homeName": "Minnesota Timberwolves",
-    "awayName": "Houston Rockets"
-  },
-  {
-    "matchId": "0022501059",
-    "matchTime": 1774490400,
-    "gameStatus": "Final",
-    "homeTeam": "DEN",
-    "awayTeam": "DAL",
-    "homeName": "Denver Nuggets",
-    "awayName": "Dallas Mavericks"
-  },
-  {
-    "matchId": "0022501060",
-    "matchTime": 1774490400,
-    "gameStatus": "Final",
-    "homeTeam": "GSW",
-    "awayTeam": "BKN",
-    "homeName": "Golden State Warriors",
-    "awayName": "Brooklyn Nets"
-  },
-  {
-    "matchId": "0022501061",
-    "matchTime": 1774490400,
-    "gameStatus": "Final",
-    "homeTeam": "POR",
-    "awayTeam": "MIL",
-    "homeName": "Portland Trail Blazers",
-    "awayName": "Milwaukee Bucks"
-  },
-  {
-    "matchId": "0022501062",
-    "matchTime": 1774492200,
-    "gameStatus": "Final",
-    "homeTeam": "LAC",
-    "awayTeam": "TOR",
-    "homeName": "LA Clippers",
-    "awayName": "Toronto Raptors"
-  },
-  {
     "matchId": "0022501063",
     "matchTime": 1774566000,
     "gameStatus": "7:00 pm ET",
@@ -223,5 +115,59 @@
     "awayTeam": "BKN",
     "homeName": "Los Angeles Lakers",
     "awayName": "Brooklyn Nets"
+  },
+  {
+    "matchId": "0022501076",
+    "matchTime": 1774724400,
+    "gameStatus": "3:00 pm ET",
+    "homeTeam": "MIL",
+    "awayTeam": "SAS",
+    "homeName": "Milwaukee Bucks",
+    "awayName": "San Antonio Spurs"
+  },
+  {
+    "matchId": "0022501080",
+    "matchTime": 1774733400,
+    "gameStatus": "5:30 pm ET",
+    "homeTeam": "MIN",
+    "awayTeam": "DET",
+    "homeName": "Minnesota Timberwolves",
+    "awayName": "Detroit Pistons"
+  },
+  {
+    "matchId": "0022501077",
+    "matchTime": 1774735200,
+    "gameStatus": "6:00 pm ET",
+    "homeTeam": "CHA",
+    "awayTeam": "PHI",
+    "homeName": "Charlotte Hornets",
+    "awayName": "Philadelphia 76ers"
+  },
+  {
+    "matchId": "0022501078",
+    "matchTime": 1774740600,
+    "gameStatus": "7:30 pm ET",
+    "homeTeam": "ATL",
+    "awayTeam": "SAC",
+    "homeName": "Atlanta Hawks",
+    "awayName": "Sacramento Kings"
+  },
+  {
+    "matchId": "0022501079",
+    "matchTime": 1774742400,
+    "gameStatus": "8:00 pm ET",
+    "homeTeam": "MEM",
+    "awayTeam": "CHI",
+    "homeName": "Memphis Grizzlies",
+    "awayName": "Chicago Bulls"
+  },
+  {
+    "matchId": "0022501081",
+    "matchTime": 1774749600,
+    "gameStatus": "10:00 pm ET",
+    "homeTeam": "PHX",
+    "awayTeam": "UTA",
+    "homeName": "Phoenix Suns",
+    "awayName": "Utah Jazz"
   }
 ]
