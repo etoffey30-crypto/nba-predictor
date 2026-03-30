@@ -711,6 +711,43 @@ function renderMatchupRadar(teamA, teamB, lastA, lastB) {
     });
 }
 
+function getNormalizedGameStatus(match) {
+    return String(match?.gameStatus || '').trim().toLowerCase();
+}
+
+function isFinishedMatch(match, now = Math.floor(Date.now() / 1000)) {
+    const status = getNormalizedGameStatus(match);
+    if (status.includes('final')) return true;
+
+    return Boolean(match?.matchTime) && match.matchTime <= now - 10800;
+}
+
+function isLiveMatch(match, now = Math.floor(Date.now() / 1000)) {
+    const status = getNormalizedGameStatus(match);
+    const liveTokens = ['q1', 'q2', 'q3', 'q4', 'ot', 'halftime', 'half', 'live'];
+
+    if (liveTokens.some(token => status.includes(token))) {
+        return true;
+    }
+
+    return Boolean(match?.matchTime) && match.matchTime <= now && match.matchTime > now - 10800 && !isFinishedMatch(match, now);
+}
+
+function isScheduledMatch(match, now = Math.floor(Date.now() / 1000)) {
+    if (isLiveMatch(match, now) || isFinishedMatch(match, now)) {
+        return false;
+    }
+
+    const status = getNormalizedGameStatus(match);
+    const hasClockStyleStatus = /\d{1,2}:\d{2}\s*(am|pm)/i.test(status);
+
+    if (hasClockStyleStatus || status === '' || status === 'scheduled') {
+        return true;
+    }
+
+    return Boolean(match?.matchTime) && match.matchTime > now;
+}
+
 function renderUpcomingMatches() {
     const container = document.getElementById('upcomingMatches');
     if (!container) return;
@@ -725,12 +762,22 @@ function renderUpcomingMatches() {
     // Filter matches based on selected tab
     let filtered = [];
     if (matchFilter === 'live') {
-        // Simple heuristic for live: started in last 3 hours but not finished (would need real-time status)
-        filtered = analyticsData.upcoming_matches.filter(m => m.matchTime <= now && m.matchTime > now - 10800);
+        filtered = analyticsData.upcoming_matches.filter(m => isLiveMatch(m, now));
     } else if (matchFilter === 'finished') {
-        filtered = analyticsData.upcoming_matches.filter(m => m.matchTime <= now - 10800);
+        filtered = analyticsData.upcoming_matches.filter(m => isFinishedMatch(m, now));
     } else {
-        filtered = analyticsData.upcoming_matches.filter(m => m.matchTime > now);
+        filtered = analyticsData.upcoming_matches.filter(m => isScheduledMatch(m, now));
+
+        if (filtered.length === 0) {
+            filtered = [...analyticsData.upcoming_matches]
+                .filter(m => !isFinishedMatch(m, now))
+                .sort((a, b) => {
+                    const aDelta = Math.abs((a.matchTime || 0) - now);
+                    const bDelta = Math.abs((b.matchTime || 0) - now);
+                    return aDelta - bDelta;
+                })
+                .slice(0, 12);
+        }
     }
 
     if (filtered.length === 0) {
@@ -738,8 +785,8 @@ function renderUpcomingMatches() {
         return;
     }
 
-    // Sort by time
-    filtered.sort((a, b) => a.matchTime - b.matchTime);
+    // Sort by time, with recent results shown newest first.
+    filtered.sort((a, b) => matchFilter === 'finished' ? b.matchTime - a.matchTime : a.matchTime - b.matchTime);
 
     let html = '';
     let currentLeague = "";

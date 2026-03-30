@@ -1,0 +1,242 @@
+[
+  {
+    "matchId": "0022501091",
+    "matchTime": 1774911600,
+    "gameStatus": "7:00 pm ET",
+    "homeTeam": "MIA",
+    "awayTeam": "PHI",
+    "homeName": "Miami Heat",
+    "awayName": "Philadelphia 76ers",
+    "is_odds_fallback": true
+  },
+  {
+    "matchId": "0022501092",
+    "matchTime": 1774913400,
+    "gameStatus": "7:30 pm ET",
+    "homeTeam": "ATL",
+    "awayTeam": "BOS",
+    "homeName": "Atlanta Hawks",
+    "awayName": "Boston Celtics",
+    "is_odds_fallback": true
+  },
+  {
+    "matchId": "0022501093",
+    "matchTime": 1774915200,
+    "gameStatus": "8:00 pm ET",
+    "homeTeam": "MEM",
+    "awayTeam": "PHX",
+    "homeName": "Memphis Grizzlies",
+    "awayName": "Phoenix Suns",
+    "is_odds_fallback": true
+  },
+  {
+    "matchId": "0022501094",
+    "matchTime": 1774915200,
+    "gameStatus": "8:00 pm ET",
+    "homeTeam": "SAS",
+    "awayTeam": "CHI",
+    "homeName": "San Antonio Spurs",
+    "awayName": "Chicago Bulls",
+    "is_odds_fallback": true
+  },
+  {
+    "matchId": "0022501095",
+    "matchTime": 1774917000,
+    "gameStatus": "8:30 pm ET",
+    "homeTeam": "DAL",
+    "awayTeam": "MIN",
+    "homeName": "Dallas Mavericks",
+    "awayName": "Minnesota Timberwolves",
+    "is_odds_fallback": true
+  },
+  {
+    "matchId": "0022501096",
+    "matchTime": 1774918800,
+    "gameStatus": "9:00 pm ET",
+    "homeTeam": "UTA",
+    "awayTeam": "CLE",
+    "homeName": "Utah Jazz",
+    "awayName": "Cleveland Cavaliers",
+    "is_odds_fallback": true
+  },
+  {
+    "matchId": "0022501097",
+    "matchTime": 1774920600,
+    "gameStatus": "9:30 pm ET",
+    "homeTeam": "OKC",
+    "awayTeam": "DET",
+    "homeName": "Oklahoma City Thunder",
+    "awayName": "Detroit Pistons",
+    "is_odds_fallback": true
+  },
+  {
+    "matchId": "0022501098",
+    "matchTime": 1774922400,
+    "gameStatus": "10:00 pm ET",
+    "homeTeam": "LAL",
+    "awayTeam": "WAS",
+    "homeName": "Los Angeles Lakers",
+    "awayName": "Washington Wizards",
+    "is_odds_fallback": true
+  },
+  {
+    "matchId": "0022501099",
+    "matchTime": 1774998000,
+    "gameStatus": "7:00 pm ET",
+    "homeTeam": "ORL",
+    "awayTeam": "PHX",
+    "homeName": "Orlando Magic",
+    "awayName": "Phoenix Suns",
+    "is_odds_fallback": true
+  },
+  {
+    "matchId": "0022501100",
+    "matchTime": 1774999800,
+    "gameStatus": "7:30 pm ET",
+    "homeTeam": "BKN",
+    "awayTeam": "CHA",
+    "homeName": "Brooklyn Nets",
+    "awayName": "Charlotte Hornets",
+    "is_odds_fallback": true
+  },
+  {
+    "matchId": "0022501102",
+    "matchTime": 1775001600,
+    "gameStatus": "8:00 pm ET",
+    "homeTeam": "HOU",
+    "awayTeam": "NYK",
+    "homeName": "Houston Rockets",
+    "awayName": "New York Knicks",
+    "is_odds_fallback": true
+  },
+  {
+    "matchId": "0022501101",
+    "matchTime": 1775001600,
+    "gameStatus": "8:00 pm ET",
+    "homeTeam": "DET",
+    "awayTeam": "TOR",
+    "homeName": "Detroit Pistons",
+    "awayName": "Toronto Raptors",
+    "is_odds_fallback": true
+  },
+  {
+    "matchId": "0022500652",
+    "matchTime": 1775001600,
+    "gameStatus": "8:00 pm ET",
+    "homeTeam": "MIL",
+    "awayTeam": "DAL",
+    "homeName": "Milwaukee Bucks",
+    "awayName": "Dallas Mavericks",
+    "is_odds_fallback": true
+  },
+  {
+    "matchId": "0022501103",
+    "matchTime": 1775010600,
+    "gameStatus": "10:30 pm ET",
+    "homeTeam": "LAL",
+    "awayTeam": "CLE",
+    "homeName": "Los Angeles Lakers",
+    "awayName": "Cleveland Cavaliers",
+    "is_odds_fallback": true
+  },
+  {
+    "matchId": "0022501104",
+    "matchTime": 1775012400,
+    "gameStatus": "11:00 pm ET",
+    "homeTeam": "LAC",
+    "awayTeam": "POR",
+    "homeName": "LA Clippers",
+    "awayName": "Portland Trail Blazers",
+    "is_odds_fallback": true
+  },
+  {
+    "matchId": "0022501105",
+    "matchTime": 1775084400,
+    "gameStatus": "7:00 pm ET",
+    "homeTeam": "WAS",
+    "awayTeam": "PHI",
+    "homeName": "Washington Wizards",
+    "awayName": "Philadelphia 76ers",
+    "is_odds_fallback": true
+  },
+  {
+    "matchId": "0022501107",
+    "matchTime": 1775084400,
+    "gameStatus": "7:00 pm ET",
+    "homeTeam": "ORL",
+    "awayTeam": "ATL",
+    "homeName": "Orlando Magic",
+    "awayName": "Atlanta Hawks",
+    "is_odds_fallback": true
+  },
+  {
+    "matchId": "0022501106",
+    "matchTime": 1775086200,
+    "gameStatus": "7:30 pm ET",
+    "homeTeam": "MIA",
+    "awayTeam": "BOS",
+    "homeName": "Miami Heat",
+    "awayName": "Boston Celtics",
+    "is_odds_fallback": true
+  },
+  {
+    "matchId": "0022501003",
+    "matchTime": 1775088000,
+    "gameStatus": "8:00 pm ET",
+    "homeTeam": "MEM",
+    "awayTeam": "NYK",
+    "homeName": "Memphis Grizzlies",
+    "awayName": "New York Knicks",
+    "is_odds_fallback": true
+  },
+  {
+    "matchId": "0022501110",
+    "matchTime": 1775088000,
+    "gameStatus": "8:00 pm ET",
+    "homeTeam": "HOU",
+    "awayTeam": "MIL",
+    "homeName": "Houston Rockets",
+    "awayName": "Milwaukee Bucks",
+    "is_odds_fallback": true
+  },
+  {
+    "matchId": "0022501109",
+    "matchTime": 1775088000,
+    "gameStatus": "8:00 pm ET",
+    "homeTeam": "CHI",
+    "awayTeam": "IND",
+    "homeName": "Chicago Bulls",
+    "awayName": "Indiana Pacers",
+    "is_odds_fallback": true
+  },
+  {
+    "matchId": "0022501108",
+    "matchTime": 1775088000,
+    "gameStatus": "8:00 pm ET",
+    "homeTeam": "TOR",
+    "awayTeam": "SAC",
+    "homeName": "Toronto Raptors",
+    "awayName": "Sacramento Kings",
+    "is_odds_fallback": true
+  },
+  {
+    "matchId": "0022501112",
+    "matchTime": 1775091600,
+    "gameStatus": "9:00 pm ET",
+    "homeTeam": "UTA",
+    "awayTeam": "DEN",
+    "homeName": "Utah Jazz",
+    "awayName": "Denver Nuggets",
+    "is_odds_fallback": true
+  },
+  {
+    "matchId": "0022501113",
+    "matchTime": 1775095200,
+    "gameStatus": "10:00 pm ET",
+    "homeTeam": "GSW",
+    "awayTeam": "SAS",
+    "homeName": "Golden State Warriors",
+    "awayName": "San Antonio Spurs",
+    "is_odds_fallback": true
+  }
+]

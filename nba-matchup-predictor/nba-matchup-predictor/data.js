@@ -418,7 +418,7 @@ const analyticsData = {
       "adj_pace_10": 97.28068810320578,
       "sos_10": -0.7122287350905419,
       "latent_strength": 8.898276616309742,
-      "form_state": 0,
+      "form_state": 2,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5301807417555799,
@@ -1170,7 +1170,7 @@ const analyticsData = {
       "adj_pace_10": 103.02857950191573,
       "sos_10": 6.860355600024661,
       "latent_strength": -11.06703720523921,
-      "form_state": 2,
+      "form_state": 0,
       "shooting_entropy": 3.1219280948873624,
       "factors": {
         "efg": 0.5085034507682734,
@@ -1358,7 +1358,7 @@ const analyticsData = {
       "adj_pace_10": 103.71457950191572,
       "sos_10": 2.4949357262357177,
       "latent_strength": 4.236279909682086,
-      "form_state": 2,
+      "form_state": 0,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5744218597334302,
@@ -1546,7 +1546,7 @@ const analyticsData = {
       "adj_pace_10": 100.18218177409186,
       "sos_10": -3.175619224316379,
       "latent_strength": 9.38812168468112,
-      "form_state": 0,
+      "form_state": 2,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5523003331969205,
@@ -1734,7 +1734,7 @@ const analyticsData = {
       "adj_pace_10": 100.85296658421844,
       "sos_10": 0.21825070356134627,
       "latent_strength": -5.235609442954422,
-      "form_state": 0,
+      "form_state": 2,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5129296008081623,
@@ -1922,7 +1922,7 @@ const analyticsData = {
       "adj_pace_10": 99.76469692504175,
       "sos_10": 2.2797526867719276,
       "latent_strength": -3.7292354571789588,
-      "form_state": 0,
+      "form_state": 1,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5231532039890395,
@@ -2486,7 +2486,7 @@ const analyticsData = {
       "adj_pace_10": 101.65482950191571,
       "sos_10": -0.7806000628147918,
       "latent_strength": 7.151933980042658,
-      "form_state": 1,
+      "form_state": 0,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5867351024730586,
@@ -2862,7 +2862,7 @@ const analyticsData = {
       "adj_pace_10": 104.6805795019157,
       "sos_10": -1.3342777260921086,
       "latent_strength": 1.8691477641657488,
-      "form_state": 0,
+      "form_state": 1,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5401282881247421,
@@ -3426,7 +3426,7 @@ const analyticsData = {
       "adj_pace_10": 102.43857234757107,
       "sos_10": -3.665113047346901,
       "latent_strength": 5.881131250151597,
-      "form_state": 0,
+      "form_state": 1,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5474307376061245,
@@ -3614,7 +3614,7 @@ const analyticsData = {
       "adj_pace_10": 99.22407950191571,
       "sos_10": -1.0037607266162287,
       "latent_strength": 10.342643187752282,
-      "form_state": 0,
+      "form_state": 1,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5599335781178418,
@@ -3990,7 +3990,7 @@ const analyticsData = {
       "adj_pace_10": 103.87673873611718,
       "sos_10": -0.5033854397440655,
       "latent_strength": 0.9385008335163274,
-      "form_state": 2,
+      "form_state": 0,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5462433522039275,
@@ -4178,7 +4178,7 @@ const analyticsData = {
       "adj_pace_10": 103.41707950191571,
       "sos_10": 0.007295306247750766,
       "latent_strength": -2.864301315371961,
-      "form_state": 1,
+      "form_state": 0,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.512840353993203,
@@ -4366,7 +4366,7 @@ const analyticsData = {
       "adj_pace_10": 99.38157950191572,
       "sos_10": -2.2834548444828306,
       "latent_strength": -1.144792376815436,
-      "form_state": 2,
+      "form_state": 1,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5443076895580059,
@@ -4554,7 +4554,7 @@ const analyticsData = {
       "adj_pace_10": 102.66107950191571,
       "sos_10": -2.6592297781509204,
       "latent_strength": 2.127457895698396,
-      "form_state": 0,
+      "form_state": 2,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5308183243715299,
@@ -4930,7 +4930,7 @@ const analyticsData = {
       "adj_pace_10": 101.50257950191572,
       "sos_10": 3.1740500489529224,
       "latent_strength": 10.29252050678839,
-      "form_state": 0,
+      "form_state": 1,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5865308179677278,
@@ -5118,7 +5118,7 @@ const analyticsData = {
       "adj_pace_10": 100.6922866686315,
       "sos_10": 1.919512544417639,
       "latent_strength": 5.319142152467535,
-      "form_state": 2,
+      "form_state": 0,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5513653805276482,
@@ -5306,7 +5306,7 @@ const analyticsData = {
       "adj_pace_10": 101.64257950191572,
       "sos_10": -3.3578966276130435,
       "latent_strength": -4.095730976549391,
-      "form_state": 1,
+      "form_state": 2,
       "shooting_entropy": 3.3219280948873626,
       "factors": {
         "efg": 0.5434171095208296,
@@ -23028,14 +23028,14 @@ const analyticsData = {
       "awayName": "Philadelphia 76ers",
       "prediction": {
         "main": {
-          "ptsA": 121.33607986845159,
-          "ptsB": 119.0517021823952,
+          "ptsA": 121.79107986845159,
+          "ptsB": 118.5967021823952,
           "total": 240.3877820508468,
-          "spread": -2.284377686056386,
-          "win_prob_A": 55.47428788818466,
+          "spread": -3.1943776860563804,
+          "win_prob_A": 55.98428788818466,
           "ml_prob_A": 0.5905295985771475,
-          "mc_win_A": 0.6266,
-          "base_win_prob_A": 0.57436929252124,
+          "mc_win_A": 0.6436,
+          "base_win_prob_A": 0.6028177957603469,
           "market_prob_A": 0.4573643410852713,
           "market": {
             "ml": {
@@ -27032,12 +27032,12 @@ const analyticsData = {
         },
         "advanced": {
           "blowout_risk": 0.11917550847004421,
-          "recommended_bet": 37.49091946633589,
-          "market_edge": 0.09737853779657529,
+          "recommended_bet": 39.92501037542678,
+          "market_edge": 0.10247853779657529,
           "latent_strength_A": 1.8691477641657488,
           "latent_strength_B": -2.864301315371961,
-          "form_state_A": 0,
-          "form_state_B": 1,
+          "form_state_A": 1,
+          "form_state_B": 0,
           "entropy_A": 3.3219280948873626
         },
         "halves": {
@@ -27535,9 +27535,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.18293630544558673,
-          "6-10": 0.07747063981790363,
-          "11+": 0.11824585371992301
+          "1-5": 0.19091871405327598,
+          "6-10": 0.08100807101189295,
+          "11+": 0.1249414698416425
         },
         "formA": [
           {
@@ -27893,7 +27893,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5905295985771475,
-      "mc_win_A": 0.6266,
+      "mc_win_A": 0.6436,
       "shap_explanation": {
         "adj_ortg_10": 0.03593544036021342,
         "adj_drtg_10": 0.008865827258587587,
@@ -27935,14 +27935,14 @@ const analyticsData = {
       "awayName": "Boston Celtics",
       "prediction": {
         "main": {
-          "ptsA": 113.75239190780081,
-          "ptsB": 109.9142401088028,
+          "ptsA": 113.29739190780082,
+          "ptsB": 110.3692401088028,
           "total": 223.66663201660361,
-          "spread": -3.838151798998021,
-          "win_prob_A": 58.8747612618828,
+          "spread": -2.9281517989980177,
+          "win_prob_A": 58.7247612618828,
           "ml_prob_A": 0.6008334719512303,
-          "mc_win_A": 0.6034,
-          "base_win_prob_A": 0.6224288394631803,
+          "mc_win_A": 0.5984,
+          "base_win_prob_A": 0.5945792111572672,
           "market_prob_A": 0.5641025641025641,
           "market": {
             "ml": {
@@ -31627,12 +31627,12 @@ const analyticsData = {
         },
         "advanced": {
           "blowout_risk": 0.11917550847004421,
-          "recommended_bet": 0.3110505185741472,
-          "market_edge": 0.024645048516263923,
+          "recommended_bet": 0.0,
+          "market_edge": 0.023145048516263866,
           "latent_strength_A": 11.562135848864465,
           "latent_strength_B": 8.898276616309742,
           "form_state_A": 1,
-          "form_state_B": 0,
+          "form_state_B": 2,
           "entropy_A": 3.3219280948873626
         },
         "halves": {
@@ -32166,9 +32166,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.19634928892762718,
-          "6-10": 0.08342502379716744,
-          "11+": 0.1296147514706091
+          "1-5": 0.1886194549640277,
+          "6-10": 0.07998735007670006,
+          "11+": 0.12299252801991968
         },
         "formA": [
           {
@@ -32524,7 +32524,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.6008334719512303,
-      "mc_win_A": 0.6034,
+      "mc_win_A": 0.5984,
       "shap_explanation": {
         "adj_ortg_10": 0.017648276241455374,
         "adj_drtg_10": 0.04386413782150214,
@@ -32566,14 +32566,14 @@ const analyticsData = {
       "awayName": "Phoenix Suns",
       "prediction": {
         "main": {
-          "ptsA": 114.17033590191919,
-          "ptsB": 116.32341377384502,
-          "total": 230.4937496757642,
-          "spread": 2.1530778719258246,
+          "ptsA": 114.39783590191918,
+          "ptsB": 116.095913773845,
+          "total": 230.49374967576418,
+          "spread": 1.6980778719258225,
           "win_prob_A": 40.171659272459124,
           "ml_prob_A": 0.5501721331850296,
           "mc_win_A": 0.3862,
-          "base_win_prob_A": 0.4297996800604429,
+          "base_win_prob_A": 0.4443606142189849,
           "market_prob_A": 0.15311653116531165,
           "market": {
             "ml": {
@@ -35967,7 +35967,7 @@ const analyticsData = {
           "latent_strength_A": -6.624305813022734,
           "latent_strength_B": -1.144792376815436,
           "form_state_A": 1,
-          "form_state_B": 2,
+          "form_state_B": 1,
           "entropy_A": 3.3219280948873626
         },
         "halves": {
@@ -36539,9 +36539,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.1370025994085636,
-          "6-10": 0.0580020378251299,
-          "11+": 0.08839650250080974
+          "1-5": 0.14204541168785548,
+          "6-10": 0.06007775668639879,
+          "11+": 0.0910798445791659
         },
         "formA": [
           {
@@ -36939,14 +36939,14 @@ const analyticsData = {
       "awayName": "Chicago Bulls",
       "prediction": {
         "main": {
-          "ptsA": 121.85736274803497,
-          "ptsB": 113.99772224074326,
+          "ptsA": 122.08486274803496,
+          "ptsB": 113.77022224074327,
           "total": 235.85508498877823,
-          "spread": -7.859640507291709,
-          "win_prob_A": 71.31974413590433,
+          "spread": -8.31464050729171,
+          "win_prob_A": 71.24774413590433,
           "ml_prob_A": 0.5588579821819621,
-          "mc_win_A": 0.6612,
-          "base_win_prob_A": 0.733147371218374,
+          "mc_win_A": 0.6588,
+          "base_win_prob_A": 0.7442476384718002,
           "market_prob_A": 0.912106135986733,
           "market": {
             "ml": {
@@ -41768,10 +41768,10 @@ const analyticsData = {
         "advanced": {
           "blowout_risk": 0.11917550847004421,
           "recommended_bet": 0.0,
-          "market_edge": -0.19890869462768968,
+          "market_edge": -0.19962869462768962,
           "latent_strength_A": 10.29252050678839,
           "latent_strength_B": -6.004761839747311,
-          "form_state_A": 0,
+          "form_state_A": 1,
           "form_state_B": 2,
           "entropy_A": 3.3219280948873626
         },
@@ -42348,9 +42348,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.22568984364074354,
-          "6-10": 0.09666938263892504,
-          "11+": 0.15705938114989018
+          "1-5": 0.22848200827970333,
+          "6-10": 0.09795116282881755,
+          "11+": 0.15993165226723086
         },
         "formA": [
           {
@@ -42706,7 +42706,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5588579821819621,
-      "mc_win_A": 0.6612,
+      "mc_win_A": 0.6588,
       "shap_explanation": {
         "adj_ortg_10": 0.015488557320982609,
         "adj_drtg_10": 0.022236264581471942,
@@ -42748,14 +42748,14 @@ const analyticsData = {
       "awayName": "Minnesota Timberwolves",
       "prediction": {
         "main": {
-          "ptsA": 113.05498556694803,
-          "ptsB": 119.92287702746299,
-          "total": 232.97786259441102,
-          "spread": 6.867891460514958,
-          "win_prob_A": 37.58240331277633,
+          "ptsA": 112.59998556694805,
+          "ptsB": 120.377877027463,
+          "total": 232.97786259441105,
+          "spread": 7.777891460514953,
+          "win_prob_A": 37.156403312776334,
           "ml_prob_A": 0.4976954592032124,
-          "mc_win_A": 0.3526,
-          "base_win_prob_A": 0.2920976058143374,
+          "mc_win_A": 0.3384,
+          "base_win_prob_A": 0.26887936839695403,
           "market_prob_A": 0.2738589211618257,
           "market": {
             "ml": {
@@ -46954,11 +46954,11 @@ const analyticsData = {
         },
         "advanced": {
           "blowout_risk": 0.11917550847004421,
-          "recommended_bet": 31.538411594717168,
-          "market_edge": 0.1019651119659376,
+          "recommended_bet": 30.04741159471717,
+          "market_edge": 0.09770511196593762,
           "latent_strength_A": -11.06703720523921,
           "latent_strength_B": 2.506843963197,
-          "form_state_A": 2,
+          "form_state_A": 0,
           "form_state_B": 1,
           "entropy_A": 3.1219280948873624
         },
@@ -47499,9 +47499,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.09045755947168432,
-          "6-10": 0.038670588449849976,
-          "11+": 0.062149434721476576
+          "1-5": 0.08281169202180999,
+          "6-10": 0.03546499085799164,
+          "11+": 0.05756884732958038
         },
         "formA": [
           {
@@ -47857,7 +47857,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.4976954592032124,
-      "mc_win_A": 0.3526,
+      "mc_win_A": 0.3384,
       "shap_explanation": {
         "adj_ortg_10": -0.0210305982757086,
         "adj_drtg_10": -0.02723543725315093,
@@ -47899,14 +47899,14 @@ const analyticsData = {
       "awayName": "Cleveland Cavaliers",
       "prediction": {
         "main": {
-          "ptsA": 116.54719112961502,
-          "ptsB": 116.91842899693734,
-          "total": 233.46562012655235,
-          "spread": 0.37123786732230846,
-          "win_prob_A": 38.27716507153907,
+          "ptsA": 116.77469112961501,
+          "ptsB": 116.69092899693732,
+          "total": 233.46562012655232,
+          "spread": -0.08376213267769339,
+          "win_prob_A": 38.42116507153908,
           "ml_prob_A": 0.5360254082604424,
-          "mc_win_A": 0.392,
-          "base_win_prob_A": 0.48769055012302154,
+          "mc_win_A": 0.3968,
+          "base_win_prob_A": 0.502783111301951,
           "market_prob_A": 0.09584086799276674,
           "market": {
             "ml": {
@@ -51525,11 +51525,11 @@ const analyticsData = {
         },
         "advanced": {
           "blowout_risk": 0.11917550847004421,
-          "recommended_bet": 78.54768075427522,
-          "market_edge": 0.286930782722624,
+          "recommended_bet": 78.9476807542752,
+          "market_edge": 0.288370782722624,
           "latent_strength_A": -4.095730976549391,
           "latent_strength_B": 5.407511313100094,
-          "form_state_A": 1,
+          "form_state_A": 2,
           "form_state_B": 0,
           "entropy_A": 3.3219280948873626
         },
@@ -52085,9 +52085,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.15719489626144728,
-          "6-10": 0.06629109003916624,
-          "11+": 0.0989567368916209
+          "1-5": 0.1623525065574362,
+          "6-10": 0.06842207525166104,
+          "11+": 0.10179322712059635
         },
         "formA": [
           {
@@ -52443,7 +52443,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5360254082604424,
-      "mc_win_A": 0.392,
+      "mc_win_A": 0.3968,
       "shap_explanation": {
         "adj_ortg_10": 0.015567083129324288,
         "adj_drtg_10": -0.02378986316072968,
@@ -52485,14 +52485,14 @@ const analyticsData = {
       "awayName": "Detroit Pistons",
       "prediction": {
         "main": {
-          "ptsA": 112.20514193715118,
-          "ptsB": 110.3797669691645,
+          "ptsA": 111.75014193715118,
+          "ptsB": 110.8347669691645,
           "total": 222.5849089063157,
-          "spread": -1.825374967986681,
-          "win_prob_A": 59.588345233249186,
+          "spread": -0.9153749679866865,
+          "win_prob_A": 60.11634523324919,
           "ml_prob_A": 0.5291190981699189,
-          "mc_win_A": 0.4952,
-          "base_win_prob_A": 0.5597304039875494,
+          "mc_win_A": 0.5128,
+          "base_win_prob_A": 0.5302182768725737,
           "market_prob_A": 0.8368794326241135,
           "market": {
             "ml": {
@@ -55420,11 +55420,11 @@ const analyticsData = {
         "advanced": {
           "blowout_risk": 0.11917550847004421,
           "recommended_bet": 0.0,
-          "market_edge": -0.24099598029162161,
+          "market_edge": -0.23571598029162155,
           "latent_strength_A": 8.9887959451458,
           "latent_strength_B": 9.38812168468112,
           "form_state_A": 0,
-          "form_state_B": 0,
+          "form_state_B": 2,
           "entropy_A": 3.3219280948873626
         },
         "halves": {
@@ -55913,9 +55913,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.17878307296363916,
-          "6-10": 0.07563677521513315,
-          "11+": 0.11483689029682195
+          "1-5": 0.17032093903122963,
+          "6-10": 0.07191334206162607,
+          "11+": 0.10803532685904596
         },
         "formA": [
           {
@@ -56271,7 +56271,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5291190981699189,
-      "mc_win_A": 0.4952,
+      "mc_win_A": 0.5128,
       "shap_explanation": {
         "adj_ortg_10": -0.015377101074284099,
         "adj_drtg_10": 0.03537952419887724,
@@ -56313,14 +56313,14 @@ const analyticsData = {
       "awayName": "Washington Wizards",
       "prediction": {
         "main": {
-          "ptsA": 123.85406853926081,
-          "ptsB": 112.68620361827554,
-          "total": 236.54027215753635,
-          "spread": -11.167864920985265,
-          "win_prob_A": 76.3103801031236,
+          "ptsA": 123.62656853926082,
+          "ptsB": 112.91370361827556,
+          "total": 236.54027215753638,
+          "spread": -10.712864920985263,
+          "win_prob_A": 76.0463801031236,
           "ml_prob_A": 0.6656802995105839,
-          "mc_win_A": 0.7122,
-          "base_win_prob_A": 0.8068007496278117,
+          "mc_win_A": 0.7034,
+          "base_win_prob_A": 0.7976425414013342,
           "market_prob_A": 0.9041591320072333,
           "market": {
             "ml": {
@@ -59076,10 +59076,10 @@ const analyticsData = {
         "advanced": {
           "blowout_risk": 0.11917550847004421,
           "recommended_bet": 0.0,
-          "market_edge": -0.1410553309759972,
+          "market_edge": -0.1436953309759973,
           "latent_strength_A": 7.151933980042658,
           "latent_strength_B": -12.892408137756647,
-          "form_state_A": 1,
+          "form_state_A": 0,
           "form_state_B": 0,
           "entropy_A": 3.3219280948873626
         },
@@ -59624,9 +59624,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.24351814731172924,
-          "6-10": 0.10495525201649626,
-          "11+": 0.17668604914154495
+          "1-5": 0.24140188999948933,
+          "6-10": 0.10395668146716848,
+          "11+": 0.17416364423375397
         },
         "formA": [
           {
@@ -59982,7 +59982,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.6656802995105839,
-      "mc_win_A": 0.7122,
+      "mc_win_A": 0.7034,
       "shap_explanation": {
         "adj_ortg_10": 0.026502236567242505,
         "adj_drtg_10": 0.019173712138146753,
@@ -60024,14 +60024,14 @@ const analyticsData = {
       "awayName": "Phoenix Suns",
       "prediction": {
         "main": {
-          "ptsA": 118.15487971883168,
-          "ptsB": 116.11763819181503,
+          "ptsA": 117.80487971883169,
+          "ptsB": 116.46763819181503,
           "total": 234.2725179106467,
-          "spread": -2.037241527016647,
-          "win_prob_A": 52.96917512845022,
+          "spread": -1.3372415270166584,
+          "win_prob_A": 51.901118333682426,
           "ml_prob_A": 0.5042776128383544,
-          "mc_win_A": 0.538,
-          "base_win_prob_A": 0.5665098162177499,
+          "mc_win_A": 0.5184,
+          "base_win_prob_A": 0.5439745897254903,
           "market_prob_A": null,
           "market": {
             "ml": {
@@ -60056,8 +60056,8 @@ const analyticsData = {
           "market_edge": null,
           "latent_strength_A": 0.9385008335163274,
           "latent_strength_B": -1.144792376815436,
-          "form_state_A": 2,
-          "form_state_B": 2,
+          "form_state_A": 0,
+          "form_state_B": 1,
           "entropy_A": 3.3219280948873626
         },
         "halves": {
@@ -60498,9 +60498,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.18071022131703826,
-          "6-10": 0.076487166255398,
-          "11+": 0.1164126311949578
+          "1-5": 0.17427985445414698,
+          "6-10": 0.07365319805388353,
+          "11+": 0.11119416958178814
         },
         "formA": [
           {
@@ -60856,7 +60856,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5042776128383544,
-      "mc_win_A": 0.538,
+      "mc_win_A": 0.5184,
       "shap_explanation": {
         "adj_ortg_10": 0.020372851997078813,
         "adj_drtg_10": 0.01341964447677043,
@@ -60902,9 +60902,9 @@ const analyticsData = {
           "ptsB": 120.97784733074505,
           "total": 225.69985822477457,
           "spread": 16.255836436715512,
-          "win_prob_A": 29.57381472548899,
+          "win_prob_A": 29.37381472548899,
           "ml_prob_A": 0.43202674257628876,
-          "mc_win_A": 0.2324,
+          "mc_win_A": 0.2224,
           "base_win_prob_A": 0.11081591988915174,
           "market_prob_A": null,
           "market": {
@@ -61770,7 +61770,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.43202674257628876,
-      "mc_win_A": 0.2324,
+      "mc_win_A": 0.2224,
       "shap_explanation": {
         "adj_ortg_10": -0.010134699307202908,
         "adj_drtg_10": -0.027390511236974932,
@@ -61812,14 +61812,14 @@ const analyticsData = {
       "awayName": "Dallas Mavericks",
       "prediction": {
         "main": {
-          "ptsA": 116.80933076355487,
-          "ptsB": 117.89778189572192,
+          "ptsA": 117.50933076355487,
+          "ptsB": 117.19778189572193,
           "total": 234.7071126592768,
-          "spread": 1.0884511321670516,
-          "win_prob_A": 48.64634183913985,
+          "spread": -0.3115488678329399,
+          "win_prob_A": 50.12068571939956,
           "ml_prob_A": 0.5019727880583787,
-          "mc_win_A": 0.4812,
-          "base_win_prob_A": 0.46412341454069705,
+          "mc_win_A": 0.4856,
+          "base_win_prob_A": 0.5103348772160209,
           "market_prob_A": null,
           "market": {
             "ml": {
@@ -61845,7 +61845,7 @@ const analyticsData = {
           "latent_strength_A": -12.339490516484862,
           "latent_strength_B": -11.06703720523921,
           "form_state_A": 2,
-          "form_state_B": 2,
+          "form_state_B": 0,
           "entropy_A": 3.3219280948873626
         },
         "halves": {
@@ -62336,9 +62336,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.1489281612270121,
-          "6-10": 0.06290482951590043,
-          "11+": 0.09469279714094203
+          "1-5": 0.16455537391685146,
+          "6-10": 0.06938584636224703,
+          "11+": 0.10350390528733767
         },
         "formA": [
           {
@@ -62694,7 +62694,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5019727880583787,
-      "mc_win_A": 0.4812,
+      "mc_win_A": 0.4856,
       "shap_explanation": {
         "adj_ortg_10": -0.020919051754057776,
         "adj_drtg_10": -0.059574599972784054,
@@ -62736,14 +62736,14 @@ const analyticsData = {
       "awayName": "Toronto Raptors",
       "prediction": {
         "main": {
-          "ptsA": 117.6184740072998,
-          "ptsB": 115.97501433526017,
+          "ptsA": 119.0184740072998,
+          "ptsB": 114.57501433526016,
           "total": 233.59348834255997,
-          "spread": -1.6434596720396257,
-          "win_prob_A": 56.64166985856429,
+          "spread": -4.443459672039637,
+          "win_prob_A": 59.514462160936446,
           "ml_prob_A": 0.592585315358601,
-          "mc_win_A": 0.5198,
-          "base_win_prob_A": 0.5538801363544746,
+          "mc_win_A": 0.5336,
+          "base_win_prob_A": 0.6404398797668798,
           "market_prob_A": null,
           "market": {
             "ml": {
@@ -62768,8 +62768,8 @@ const analyticsData = {
           "market_edge": null,
           "latent_strength_A": 9.38812168468112,
           "latent_strength_B": 5.319142152467535,
-          "form_state_A": 0,
-          "form_state_B": 2,
+          "form_state_A": 2,
+          "form_state_B": 0,
           "entropy_A": 3.3219280948873626
         },
         "halves": {
@@ -63220,9 +63220,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.1771149342639781,
-          "6-10": 0.07490142067719721,
-          "11+": 0.11348118036805105
+          "1-5": 0.20128154518795774,
+          "6-10": 0.08562814415695615,
+          "11+": 0.13395102313250487
         },
         "formA": [
           {
@@ -63578,7 +63578,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.592585315358601,
-      "mc_win_A": 0.5198,
+      "mc_win_A": 0.5336,
       "shap_explanation": {
         "adj_ortg_10": 0.03791971923893243,
         "adj_drtg_10": 0.010598705404870543,
@@ -63624,9 +63624,9 @@ const analyticsData = {
           "ptsB": 120.1368484086771,
           "total": 228.33961967272467,
           "spread": 11.934077144629526,
-          "win_prob_A": 26.36349105482678,
+          "win_prob_A": 26.519491054826783,
           "ml_prob_A": 0.30674823250887273,
-          "mc_win_A": 0.2836,
+          "mc_win_A": 0.2914,
           "base_win_prob_A": 0.17846931431277152,
           "market_prob_A": null,
           "market": {
@@ -63652,8 +63652,8 @@ const analyticsData = {
           "market_edge": null,
           "latent_strength_A": -3.7292354571789588,
           "latent_strength_B": 10.342643187752282,
-          "form_state_A": 0,
-          "form_state_B": 0,
+          "form_state_A": 1,
+          "form_state_B": 1,
           "entropy_A": 3.3219280948873626
         },
         "halves": {
@@ -64422,7 +64422,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.30674823250887273,
-      "mc_win_A": 0.2836,
+      "mc_win_A": 0.2914,
       "shap_explanation": {
         "adj_ortg_10": -0.036834842096440924,
         "adj_drtg_10": -0.045753025317676756,
@@ -64464,14 +64464,14 @@ const analyticsData = {
       "awayName": "Cleveland Cavaliers",
       "prediction": {
         "main": {
-          "ptsA": 120.80458636869375,
-          "ptsB": 115.89340297944288,
+          "ptsA": 120.45458636869375,
+          "ptsB": 116.24340297944288,
           "total": 236.69798934813662,
-          "spread": -4.911183389250866,
-          "win_prob_A": 59.275164396201504,
+          "spread": -4.211183389250877,
+          "win_prob_A": 58.65291217626268,
           "ml_prob_A": 0.580110562551641,
-          "mc_win_A": 0.5324,
-          "base_win_prob_A": 0.6540545422873154,
+          "mc_win_A": 0.532,
+          "base_win_prob_A": 0.6335794682893546,
           "market_prob_A": null,
           "market": {
             "ml": {
@@ -64496,7 +64496,7 @@ const analyticsData = {
           "market_edge": null,
           "latent_strength_A": 7.151933980042658,
           "latent_strength_B": 5.407511313100094,
-          "form_state_A": 1,
+          "form_state_A": 0,
           "form_state_B": 0,
           "entropy_A": 3.3219280948873626
         },
@@ -64988,9 +64988,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.20497280042762972,
-          "6-10": 0.08728227901124398,
-          "11+": 0.13725859191859888
+          "1-5": 0.19940928537000888,
+          "6-10": 0.08479091941790534,
+          "11+": 0.13229417204176752
         },
         "formA": [
           {
@@ -65346,7 +65346,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.580110562551641,
-      "mc_win_A": 0.5324,
+      "mc_win_A": 0.532,
       "shap_explanation": {
         "adj_ortg_10": 0.04194941386898833,
         "adj_drtg_10": 0.013226448212550394,
@@ -65388,14 +65388,14 @@ const analyticsData = {
       "awayName": "Portland Trail Blazers",
       "prediction": {
         "main": {
-          "ptsA": 117.72527162043119,
-          "ptsB": 116.66289155102224,
+          "ptsA": 117.02527162043118,
+          "ptsB": 117.36289155102224,
           "total": 234.3881631714534,
-          "spread": -1.0623800694089454,
-          "win_prob_A": 56.31932972649673,
+          "spread": 0.3376199305910603,
+          "win_prob_A": 55.15663729860171,
           "ml_prob_A": 0.5984912827482681,
-          "mc_win_A": 0.5172,
-          "base_win_prob_A": 0.5350255196361109,
+          "mc_win_A": 0.5284,
+          "base_win_prob_A": 0.48880243870627677,
           "market_prob_A": null,
           "market": {
             "ml": {
@@ -65421,7 +65421,7 @@ const analyticsData = {
           "latent_strength_A": 0.7197712641654512,
           "latent_strength_B": 2.127457895698396,
           "form_state_A": 0,
-          "form_state_B": 0,
+          "form_state_B": 2,
           "entropy_A": 3.3219280948873626
         },
         "halves": {
@@ -65932,9 +65932,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.1717072423824445,
-          "6-10": 0.07252217936278771,
-          "11+": 0.10913695926404547
+          "1-5": 0.15758653421302649,
+          "6-10": 0.06645126027799586,
+          "11+": 0.09915669196862927
         },
         "formA": [
           {
@@ -66290,7 +66290,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5984912827482681,
-      "mc_win_A": 0.5172,
+      "mc_win_A": 0.5284,
       "shap_explanation": {
         "adj_ortg_10": 0.03809066032461089,
         "adj_drtg_10": -0.014576823777429127,
@@ -66332,14 +66332,14 @@ const analyticsData = {
       "awayName": "Philadelphia 76ers",
       "prediction": {
         "main": {
-          "ptsA": 116.09689955004524,
-          "ptsB": 123.61747019400846,
-          "total": 239.7143697440537,
-          "spread": 7.520570643963225,
-          "win_prob_A": 41.585117845149085,
+          "ptsA": 116.44689955004523,
+          "ptsB": 123.26747019400845,
+          "total": 239.71436974405367,
+          "spread": 6.820570643963222,
+          "win_prob_A": 42.3895592535691,
           "ml_prob_A": 0.5037886273169498,
-          "mc_win_A": 0.4068,
-          "base_win_prob_A": 0.2753228826433865,
+          "mc_win_A": 0.42,
+          "base_win_prob_A": 0.29333759625738687,
           "market_prob_A": null,
           "market": {
             "ml": {
@@ -66365,7 +66365,7 @@ const analyticsData = {
           "latent_strength_A": -12.892408137756647,
           "latent_strength_B": -2.864301315371961,
           "form_state_A": 0,
-          "form_state_B": 1,
+          "form_state_B": 0,
           "entropy_A": 3.3219280948873626
         },
         "halves": {
@@ -66916,9 +66916,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.08492762758695106,
-          "6-10": 0.036352990382229854,
-          "11+": 0.058844637145987866
+          "1-5": 0.09086755394314605,
+          "6-10": 0.03884223675222189,
+          "11+": 0.06239278440489852
         },
         "formA": [
           {
@@ -67274,7 +67274,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5037886273169498,
-      "mc_win_A": 0.4068,
+      "mc_win_A": 0.42,
       "shap_explanation": {
         "adj_ortg_10": -0.026653868083794732,
         "adj_drtg_10": -0.03985860782209105,
@@ -67316,14 +67316,14 @@ const analyticsData = {
       "awayName": "Atlanta Hawks",
       "prediction": {
         "main": {
-          "ptsA": 114.89934057279912,
-          "ptsB": 122.98626446112104,
+          "ptsA": 114.19934057279912,
+          "ptsB": 123.68626446112104,
           "total": 237.88560503392017,
-          "spread": 8.08692388832192,
-          "win_prob_A": 40.55531066075239,
+          "spread": 9.486923888321925,
+          "win_prob_A": 39.55845424757074,
           "ml_prob_A": 0.5136245091659771,
-          "mc_win_A": 0.3518,
-          "base_win_prob_A": 0.2612695067484511,
+          "mc_win_A": 0.351,
+          "base_win_prob_A": 0.2285742929757293,
           "market_prob_A": null,
           "market": {
             "ml": {
@@ -67348,7 +67348,7 @@ const analyticsData = {
           "market_edge": null,
           "latent_strength_A": 0.9385008335163274,
           "latent_strength_B": 11.562135848864465,
-          "form_state_A": 2,
+          "form_state_A": 0,
           "form_state_B": 1,
           "entropy_A": 3.3219280948873626
         },
@@ -67830,9 +67830,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.08031867701828124,
-          "6-10": 0.03441787300434573,
-          "11+": 0.056057541860739205
+          "1-5": 0.0696818659561289,
+          "6-10": 0.029939421238238093,
+          "11+": 0.0495067922715621
         },
         "formA": [
           {
@@ -68188,7 +68188,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5136245091659771,
-      "mc_win_A": 0.3518,
+      "mc_win_A": 0.351,
       "shap_explanation": {
         "adj_ortg_10": 0.01926308875169596,
         "adj_drtg_10": 0.00919593044023685,
@@ -68230,14 +68230,14 @@ const analyticsData = {
       "awayName": "Boston Celtics",
       "prediction": {
         "main": {
-          "ptsA": 114.19584615598372,
-          "ptsB": 117.80012668066982,
+          "ptsA": 113.84584615598371,
+          "ptsB": 118.15012668066983,
           "total": 231.99597283665355,
-          "spread": 3.6042805246861036,
-          "win_prob_A": 44.51025041511003,
+          "spread": 4.304280524686121,
+          "win_prob_A": 44.024852989644934,
           "ml_prob_A": 0.47549919884248193,
-          "mc_win_A": 0.4598,
-          "base_win_prob_A": 0.38464301576619797,
+          "mc_win_A": 0.467,
+          "base_win_prob_A": 0.3636631015840278,
           "market_prob_A": null,
           "market": {
             "ml": {
@@ -68262,8 +68262,8 @@ const analyticsData = {
           "market_edge": null,
           "latent_strength_A": 1.8691477641657488,
           "latent_strength_B": 8.898276616309742,
-          "form_state_A": 0,
-          "form_state_B": 0,
+          "form_state_A": 1,
+          "form_state_B": 2,
           "entropy_A": 3.3219280948873626
         },
         "halves": {
@@ -68704,9 +68704,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.12151295996306836,
-          "6-10": 0.05160325772223673,
-          "11+": 0.07996177017932808
+          "1-5": 0.11439194575371711,
+          "6-10": 0.04865003262129688,
+          "11+": 0.07598554529385847
         },
         "formA": [
           {
@@ -69062,7 +69062,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.47549919884248193,
-      "mc_win_A": 0.4598,
+      "mc_win_A": 0.467,
       "shap_explanation": {
         "adj_ortg_10": 0.03613261155169937,
         "adj_drtg_10": 0.0002649540220136259,
@@ -69104,14 +69104,14 @@ const analyticsData = {
       "awayName": "New York Knicks",
       "prediction": {
         "main": {
-          "ptsA": 112.49158273225927,
-          "ptsB": 122.88613361599658,
+          "ptsA": 112.14158273225928,
+          "ptsB": 123.23613361599658,
           "total": 235.37771634825586,
-          "spread": 10.39455088373731,
-          "win_prob_A": 38.13667009327196,
+          "spread": 11.094550883737298,
+          "win_prob_A": 37.74785169171434,
           "ml_prob_A": 0.5190445708350113,
-          "mc_win_A": 0.2958,
-          "base_win_prob_A": 0.20894805171737968,
+          "mc_win_A": 0.2978,
+          "base_win_prob_A": 0.1946541049987925,
           "market_prob_A": null,
           "market": {
             "ml": {
@@ -69137,7 +69137,7 @@ const analyticsData = {
           "latent_strength_A": -6.624305813022734,
           "latent_strength_B": 10.342643187752282,
           "form_state_A": 1,
-          "form_state_B": 0,
+          "form_state_B": 1,
           "entropy_A": 3.3219280948873626
         },
         "halves": {
@@ -69688,9 +69688,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.0633561963554895,
-          "6-10": 0.027267568619781538,
-          "11+": 0.04552835906116355
+          "1-5": 0.05877822870830872,
+          "6-10": 0.02532977651004713,
+          "11+": 0.04260816163519475
         },
         "formA": [
           {
@@ -70046,7 +70046,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5190445708350113,
-      "mc_win_A": 0.2958,
+      "mc_win_A": 0.2978,
       "shap_explanation": {
         "adj_ortg_10": -0.011969686289155419,
         "adj_drtg_10": -0.024209062913719777,
@@ -70088,14 +70088,14 @@ const analyticsData = {
       "awayName": "Sacramento Kings",
       "prediction": {
         "main": {
-          "ptsA": 124.92655670398992,
-          "ptsB": 110.636014278388,
+          "ptsA": 124.22655670398991,
+          "ptsB": 111.33601427838799,
           "total": 235.5625709823779,
-          "spread": -14.290542425601913,
-          "win_prob_A": 69.62324332417187,
+          "spread": -12.890542425601922,
+          "win_prob_A": 68.75440161205607,
           "ml_prob_A": 0.6336972111762463,
-          "mc_win_A": 0.6046,
-          "base_win_prob_A": 0.8615460921786517,
+          "mc_win_A": 0.5954,
+          "base_win_prob_A": 0.8387180351081251,
           "market_prob_A": null,
           "market": {
             "ml": {
@@ -70120,7 +70120,7 @@ const analyticsData = {
           "market_edge": null,
           "latent_strength_A": 5.319142152467535,
           "latent_strength_B": -8.713304684329673,
-          "form_state_A": 2,
+          "form_state_A": 0,
           "form_state_B": 0,
           "entropy_A": 3.3219280948873626
         },
@@ -70592,9 +70592,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.25533555631438265,
-          "6-10": 0.11065812657628112,
-          "11+": 0.19244714135585345
+          "1-5": 0.2506040646265756,
+          "6-10": 0.10834310437368348,
+          "11+": 0.1857138808670913
         },
         "formA": [
           {
@@ -70950,7 +70950,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.6336972111762463,
-      "mc_win_A": 0.6046,
+      "mc_win_A": 0.5954,
       "shap_explanation": {
         "adj_ortg_10": 0.016575135724042126,
         "adj_drtg_10": 0.01856673992796061,
@@ -70996,9 +70996,9 @@ const analyticsData = {
           "ptsB": 115.32150635830112,
           "total": 239.69270280171472,
           "spread": -9.049690085112474,
-          "win_prob_A": 61.20188419610223,
+          "win_prob_A": 60.98188419610223,
           "ml_prob_A": 0.5137599489886177,
-          "mc_win_A": 0.6334,
+          "mc_win_A": 0.6224,
           "base_win_prob_A": 0.7615295582223784,
           "market_prob_A": null,
           "market": {
@@ -71984,7 +71984,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5137599489886177,
-      "mc_win_A": 0.6334,
+      "mc_win_A": 0.6224,
       "shap_explanation": {
         "adj_ortg_10": -0.012326692068906197,
         "adj_drtg_10": 0.010839135282909388,
@@ -72026,14 +72026,14 @@ const analyticsData = {
       "awayName": "Milwaukee Bucks",
       "prediction": {
         "main": {
-          "ptsA": 119.47854229041776,
-          "ptsB": 111.17291161434856,
+          "ptsA": 119.82854229041777,
+          "ptsB": 110.82291161434856,
           "total": 230.65145390476633,
-          "spread": -8.3056306760692,
-          "win_prob_A": 63.41875551881662,
+          "spread": -9.005630676069217,
+          "win_prob_A": 63.88932414653373,
           "ml_prob_A": 0.5874766251335153,
-          "mc_win_A": 0.5862,
-          "base_win_prob_A": 0.7440308087380283,
+          "mc_win_A": 0.585,
+          "base_win_prob_A": 0.7605164296619322,
           "market_prob_A": null,
           "market": {
             "ml": {
@@ -72058,7 +72058,7 @@ const analyticsData = {
           "market_edge": null,
           "latent_strength_A": -3.7292354571789588,
           "latent_strength_B": -12.339490516484862,
-          "form_state_A": 0,
+          "form_state_A": 1,
           "form_state_B": 2,
           "entropy_A": 3.3219280948873626
         },
@@ -72470,9 +72470,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.22842778071457534,
-          "6-10": 0.09792622265340076,
-          "11+": 0.1598752913583257
+          "1-5": 0.23251316310015596,
+          "6-10": 0.09981069861178246,
+          "11+": 0.16419093466910567
         },
         "formA": [
           {
@@ -72828,7 +72828,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5874766251335153,
-      "mc_win_A": 0.5862,
+      "mc_win_A": 0.585,
       "shap_explanation": {
         "adj_ortg_10": -0.017980687393989,
         "adj_drtg_10": -0.05379764121359799,
@@ -72870,14 +72870,14 @@ const analyticsData = {
       "awayName": "Denver Nuggets",
       "prediction": {
         "main": {
-          "ptsA": 121.26885151486813,
-          "ptsB": 120.79705267335221,
-          "total": 242.06590418822034,
-          "spread": -0.4717988415159198,
-          "win_prob_A": 48.96754010890457,
+          "ptsA": 122.31885151486814,
+          "ptsB": 119.74705267335221,
+          "total": 242.06590418822037,
+          "spread": -2.5717988415159283,
+          "win_prob_A": 51.50981029505737,
           "ml_prob_A": 0.5057316861125315,
-          "mc_win_A": 0.4106,
-          "base_win_prob_A": 0.5156318601092666,
+          "mc_win_A": 0.436,
+          "base_win_prob_A": 0.5834408663143597,
           "market_prob_A": null,
           "market": {
             "ml": {
@@ -72902,8 +72902,8 @@ const analyticsData = {
           "market_edge": null,
           "latent_strength_A": -4.095730976549391,
           "latent_strength_B": 4.236279909682086,
-          "form_state_A": 1,
-          "form_state_B": 2,
+          "form_state_A": 2,
+          "form_state_B": 0,
           "entropy_A": 3.3219280948873626
         },
         "halves": {
@@ -73384,9 +73384,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.16609625233253142,
-          "6-10": 0.07006061476103795,
-          "11+": 0.10470718912732967
+          "1-5": 0.18549469558888318,
+          "6-10": 0.07860251650188145,
+          "11+": 0.12037056886085679
         },
         "formA": [
           {
@@ -73742,7 +73742,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5057316861125315,
-      "mc_win_A": 0.4106,
+      "mc_win_A": 0.436,
       "shap_explanation": {
         "adj_ortg_10": 0.010398411129727662,
         "adj_drtg_10": -0.026770072896920426,
@@ -73784,14 +73784,14 @@ const analyticsData = {
       "awayName": "San Antonio Spurs",
       "prediction": {
         "main": {
-          "ptsA": 111.96540885109094,
-          "ptsB": 123.95398318487419,
+          "ptsA": 112.31540885109094,
+          "ptsB": 123.6039831848742,
           "total": 235.91939203596513,
-          "spread": 11.988574333783248,
-          "win_prob_A": 32.67554998387443,
+          "spread": 11.28857433378326,
+          "win_prob_A": 32.92855325529173,
           "ml_prob_A": 0.44439832388100287,
-          "mc_win_A": 0.2566,
-          "base_win_prob_A": 0.17745445966080964,
+          "mc_win_A": 0.2492,
+          "base_win_prob_A": 0.19082123537471957,
           "market_prob_A": null,
           "market": {
             "ml": {
@@ -73816,8 +73816,8 @@ const analyticsData = {
           "market_edge": null,
           "latent_strength_A": -5.235609442954422,
           "latent_strength_B": 10.29252050678839,
-          "form_state_A": 0,
-          "form_state_B": 0,
+          "form_state_A": 2,
+          "form_state_B": 1,
           "entropy_A": 3.3219280948873626
         },
         "halves": {
@@ -74288,9 +74288,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.05330327164659312,
-          "6-10": 0.023007556862693394,
-          "11+": 0.03906803714441487
+          "1-5": 0.05755493312181539,
+          "6-10": 0.024811367048910852,
+          "11+": 0.04182178407754124
         },
         "formA": [
           {
@@ -74646,7 +74646,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.44439832388100287,
-      "mc_win_A": 0.2566,
+      "mc_win_A": 0.2492,
       "shap_explanation": {
         "adj_ortg_10": -0.026816855694045925,
         "adj_drtg_10": -0.04874898539060814,
