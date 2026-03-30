@@ -741,11 +741,13 @@ function isScheduledMatch(match, now = Math.floor(Date.now() / 1000)) {
     const status = getNormalizedGameStatus(match);
     const hasClockStyleStatus = /\d{1,2}:\d{2}\s*(am|pm)/i.test(status);
 
-    if (hasClockStyleStatus || status === '' || status === 'scheduled') {
+    if (hasClockStyleStatus || status === '' || status === 'scheduled' || status === 'tbd') {
         return true;
     }
 
-    return Boolean(match?.matchTime) && match.matchTime > now;
+    // Default: Show it as upcoming if it hasn't started yet, or started very recently (within 5 mins)
+    // and hasn't been picked up as "live" yet.
+    return Boolean(match?.matchTime) && match.matchTime > now - 300;
 }
 
 function renderUpcomingMatches() {
@@ -792,11 +794,29 @@ function renderUpcomingMatches() {
     let currentLeague = "";
 
     filtered.forEach(match => {
-        // League grouping (NBA for now)
-        const league = "NBA League"; 
-        if (league !== currentLeague) {
-            html += `<div class="league-group">${league}</div>`;
-            currentLeague = league;
+        const date = new Date(match.matchTime * 1000);
+        
+        // Categorize by date for better UX
+        const matchDateStr = date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+        const todayObj = new Date();
+        const todayStr = todayObj.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+        
+        const tomorrowObj = new Date();
+        tomorrowObj.setDate(tomorrowObj.getDate() + 1);
+        const tomorrowStr = tomorrowObj.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+        
+        let dateLabel = "";
+        if (matchDateStr === todayStr) {
+            dateLabel = "Today's Matchups";
+        } else if (matchDateStr === tomorrowStr) {
+            dateLabel = "Tomorrow's Matchups";
+        } else {
+            dateLabel = date.toLocaleDateString('en-US', { weekday: 'long', month: 'short', day: 'numeric' });
+        }
+
+        if (dateLabel !== currentDateLabel) {
+            html += `<div class="league-group" style="grid-column: 1 / -1; margin-top: 1.5rem; margin-bottom: 0.5rem; border-left: 3px solid var(--accent-primary); padding-left: 0.8rem; font-size: 0.9rem; letter-spacing: 1px;">${dateLabel}</div>`;
+            currentDateLabel = dateLabel;
         }
 
         const teamA = match.homeTeam;
