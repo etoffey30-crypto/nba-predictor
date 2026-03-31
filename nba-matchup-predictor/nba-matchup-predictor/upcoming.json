@@ -1,77 +1,5 @@
 [
   {
-    "matchId": "0022501091",
-    "matchTime": 1774911600,
-    "gameStatus": "7:00 pm ET",
-    "homeTeam": "MIA",
-    "awayTeam": "PHI",
-    "homeName": "Miami Heat",
-    "awayName": "Philadelphia 76ers"
-  },
-  {
-    "matchId": "0022501092",
-    "matchTime": 1774913400,
-    "gameStatus": "7:30 pm ET",
-    "homeTeam": "ATL",
-    "awayTeam": "BOS",
-    "homeName": "Atlanta Hawks",
-    "awayName": "Boston Celtics"
-  },
-  {
-    "matchId": "0022501093",
-    "matchTime": 1774915200,
-    "gameStatus": "8:00 pm ET",
-    "homeTeam": "MEM",
-    "awayTeam": "PHX",
-    "homeName": "Memphis Grizzlies",
-    "awayName": "Phoenix Suns"
-  },
-  {
-    "matchId": "0022501094",
-    "matchTime": 1774915200,
-    "gameStatus": "8:00 pm ET",
-    "homeTeam": "SAS",
-    "awayTeam": "CHI",
-    "homeName": "San Antonio Spurs",
-    "awayName": "Chicago Bulls"
-  },
-  {
-    "matchId": "0022501095",
-    "matchTime": 1774917000,
-    "gameStatus": "8:30 pm ET",
-    "homeTeam": "DAL",
-    "awayTeam": "MIN",
-    "homeName": "Dallas Mavericks",
-    "awayName": "Minnesota Timberwolves"
-  },
-  {
-    "matchId": "0022501096",
-    "matchTime": 1774918800,
-    "gameStatus": "9:00 pm ET",
-    "homeTeam": "UTA",
-    "awayTeam": "CLE",
-    "homeName": "Utah Jazz",
-    "awayName": "Cleveland Cavaliers"
-  },
-  {
-    "matchId": "0022501097",
-    "matchTime": 1774920600,
-    "gameStatus": "9:30 pm ET",
-    "homeTeam": "OKC",
-    "awayTeam": "DET",
-    "homeName": "Oklahoma City Thunder",
-    "awayName": "Detroit Pistons"
-  },
-  {
-    "matchId": "0022501098",
-    "matchTime": 1774922400,
-    "gameStatus": "10:00 pm ET",
-    "homeTeam": "LAL",
-    "awayTeam": "WAS",
-    "homeName": "Los Angeles Lakers",
-    "awayName": "Washington Wizards"
-  },
-  {
     "matchId": "0022501099",
     "matchTime": 1774998000,
     "gameStatus": "7:00 pm ET",
@@ -213,6 +141,60 @@
     "homeTeam": "GSW",
     "awayTeam": "SAS",
     "homeName": "Golden State Warriors",
+    "awayName": "San Antonio Spurs"
+  },
+  {
+    "matchId": "0022501114",
+    "matchTime": 1775170800,
+    "gameStatus": "7:00 pm ET",
+    "homeTeam": "CHA",
+    "awayTeam": "PHX",
+    "homeName": "Charlotte Hornets",
+    "awayName": "Phoenix Suns"
+  },
+  {
+    "matchId": "0022501115",
+    "matchTime": 1775170800,
+    "gameStatus": "7:00 pm ET",
+    "homeTeam": "DET",
+    "awayTeam": "MIN",
+    "homeName": "Detroit Pistons",
+    "awayName": "Minnesota Timberwolves"
+  },
+  {
+    "matchId": "0022501116",
+    "matchTime": 1775179800,
+    "gameStatus": "9:30 pm ET",
+    "homeTeam": "OKC",
+    "awayTeam": "LAL",
+    "homeName": "Oklahoma City Thunder",
+    "awayName": "Los Angeles Lakers"
+  },
+  {
+    "matchId": "0022501117",
+    "matchTime": 1775181600,
+    "gameStatus": "10:00 pm ET",
+    "homeTeam": "GSW",
+    "awayTeam": "CLE",
+    "homeName": "Golden State Warriors",
+    "awayName": "Cleveland Cavaliers"
+  },
+  {
+    "matchId": "0022501118",
+    "matchTime": 1775181600,
+    "gameStatus": "10:00 pm ET",
+    "homeTeam": "POR",
+    "awayTeam": "NOP",
+    "homeName": "Portland Trail Blazers",
+    "awayName": "New Orleans Pelicans"
+  },
+  {
+    "matchId": "0022501119",
+    "matchTime": 1775183400,
+    "gameStatus": "10:30 pm ET",
+    "homeTeam": "LAC",
+    "awayTeam": "SAS",
+    "homeName": "LA Clippers",
     "awayName": "San Antonio Spurs"
   }
 ]
