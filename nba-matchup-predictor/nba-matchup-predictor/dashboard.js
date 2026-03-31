@@ -791,7 +791,7 @@ function renderUpcomingMatches() {
     filtered.sort((a, b) => matchFilter === 'finished' ? b.matchTime - a.matchTime : a.matchTime - b.matchTime);
 
     let html = '';
-    let currentLeague = "";
+    let currentDateLabel = "";
 
     filtered.forEach(match => {
         const date = new Date(match.matchTime * 1000);
@@ -824,8 +824,7 @@ function renderUpcomingMatches() {
         const nameA = match.homeName || teamA;
         const nameB = match.awayName || teamB;
 
-        const date = new Date(match.matchTime * 1000);
-        const timeStr = date.toLocaleString([], { weekday: 'short', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+        const timeStr = date.toLocaleString([], { hour: '2-digit', minute: '2-digit' });
 
         // Build status badge
         let badgeHtml = '';
