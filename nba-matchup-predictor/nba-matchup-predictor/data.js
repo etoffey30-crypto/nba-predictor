@@ -42,7 +42,7 @@ const analyticsData = {
       "adj_pace_10": 102.80957461363694,
       "sos_10": -9.250098758164969,
       "latent_strength": 11.188497712009733,
-      "form_state": 0,
+      "form_state": 2,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5626566017838438,
@@ -230,7 +230,7 @@ const analyticsData = {
       "adj_pace_10": 100.58998487004719,
       "sos_10": 5.017274364988298,
       "latent_strength": -13.547446377571957,
-      "form_state": 1,
+      "form_state": 0,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.518543216502516,
@@ -606,7 +606,7 @@ const analyticsData = {
       "adj_pace_10": 99.61504835270482,
       "sos_10": -0.5873290595574725,
       "latent_strength": 8.583838975026982,
-      "form_state": 1,
+      "form_state": 0,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5501519471473828,
@@ -794,7 +794,7 @@ const analyticsData = {
       "adj_pace_10": 105.33777974184207,
       "sos_10": 0.12609118927576074,
       "latent_strength": -2.9535234490350355,
-      "form_state": 2,
+      "form_state": 1,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.551011335857835,
@@ -982,7 +982,7 @@ const analyticsData = {
       "adj_pace_10": 99.63426354257824,
       "sos_10": -1.5848900060583127,
       "latent_strength": 5.505910660887272,
-      "form_state": 0,
+      "form_state": 1,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.569235178964745,
@@ -1358,7 +1358,7 @@ const analyticsData = {
       "adj_pace_10": 104.27036480840103,
       "sos_10": 3.453082192613934,
       "latent_strength": 5.837411202872655,
-      "form_state": 0,
+      "form_state": 1,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.568796185515523,
@@ -1922,7 +1922,7 @@ const analyticsData = {
       "adj_pace_10": 99.45042623199583,
       "sos_10": 1.6334978935257922,
       "latent_strength": -3.0522040387036955,
-      "form_state": 2,
+      "form_state": 1,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5268050399579487,
@@ -2110,7 +2110,7 @@ const analyticsData = {
       "adj_pace_10": 101.4125420235909,
       "sos_10": 1.1798270763639958,
       "latent_strength": -13.733185111787689,
-      "form_state": 2,
+      "form_state": 0,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5337413513020539,
@@ -2486,7 +2486,7 @@ const analyticsData = {
       "adj_pace_10": 101.75295922902154,
       "sos_10": -2.7034910652100628,
       "latent_strength": 6.870047814537148,
-      "form_state": 1,
+      "form_state": 2,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5780753275432202,
@@ -2674,7 +2674,7 @@ const analyticsData = {
       "adj_pace_10": 103.37819246576208,
       "sos_10": -3.993266010038102,
       "latent_strength": -8.587878479366402,
-      "form_state": 2,
+      "form_state": 0,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5443658578662921,
@@ -3050,7 +3050,7 @@ const analyticsData = {
       "adj_pace_10": 99.74608743414977,
       "sos_10": 2.0991903859160606,
       "latent_strength": -9.425415769640134,
-      "form_state": 0,
+      "form_state": 1,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5528536475022033,
@@ -3426,7 +3426,7 @@ const analyticsData = {
       "adj_pace_10": 103.81094708688204,
       "sos_10": -4.924666327714091,
       "latent_strength": 4.366050665867785,
-      "form_state": 1,
+      "form_state": 0,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5433758776892872,
@@ -3614,7 +3614,7 @@ const analyticsData = {
       "adj_pace_10": 99.22293524829601,
       "sos_10": -1.0037607266162287,
       "latent_strength": 10.342643187752282,
-      "form_state": 1,
+      "form_state": 0,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5599335781178418,
@@ -3802,7 +3802,7 @@ const analyticsData = {
       "adj_pace_10": 102.50780784637571,
       "sos_10": 1.824814286493281,
       "latent_strength": 6.1475816204586655,
-      "form_state": 1,
+      "form_state": 2,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5213843052463358,
@@ -3990,7 +3990,7 @@ const analyticsData = {
       "adj_pace_10": 103.6831130751754,
       "sos_10": -0.47402304588076155,
       "latent_strength": 3.8521453438927282,
-      "form_state": 0,
+      "form_state": 2,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5409368307683738,
@@ -4178,7 +4178,7 @@ const analyticsData = {
       "adj_pace_10": 102.69821290966685,
       "sos_10": 1.7617539979661447,
       "latent_strength": -6.388660634860212,
-      "form_state": 1,
+      "form_state": 2,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5010979297507788,
@@ -4366,7 +4366,7 @@ const analyticsData = {
       "adj_pace_10": 98.60013696029976,
       "sos_10": -3.7340221396635775,
       "latent_strength": -1.164924748401413,
-      "form_state": 0,
+      "form_state": 1,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5551261814109806,
@@ -4554,7 +4554,7 @@ const analyticsData = {
       "adj_pace_10": 103.13666860586937,
       "sos_10": -2.63007257569559,
       "latent_strength": 1.2594966904526308,
-      "form_state": 2,
+      "form_state": 1,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5278167610573037,
@@ -5494,7 +5494,7 @@ const analyticsData = {
       "adj_pace_10": 104.29860025466257,
       "sos_10": 4.296150719322084,
       "latent_strength": -11.538579090957425,
-      "form_state": 1,
+      "form_state": 2,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5667290749191511,
@@ -22859,40 +22859,41 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 127.63735169883151,
-          "ptsB": 115.32574426873136,
-          "total": 242.96309596756288,
-          "spread": -12.311607430100153,
-          "win_prob_A": 66.48810469395048,
+          "ptsA": 126.67401080180771,
+          "ptsB": 114.9964659722426,
+          "total": 241.67047677405031,
+          "spread": -11.6775448295651,
+          "win_prob_A": 67.48347200284506,
           "ml_prob_A": 0.5723586417890052,
-          "mc_win_A": 0.6508,
-          "base_win_prob_A": 0.8284724201500071,
-          "market_prob_A": null,
+          "mc_win_A": 0.643,
+          "base_win_prob_A": 0.816695174872335,
+          "market_prob_A": 0.8045977011494254,
           "market": {
             "ml": {
-              "home": null,
-              "away": null
+              "home": "1.19",
+              "away": "4.90"
             },
             "spread": {
-              "hdp": null,
-              "home": null,
-              "away": null
+              "hdp": -10.5,
+              "home": "1.95",
+              "away": "1.87"
             },
             "total": {
-              "hdp": null,
-              "over": null,
-              "under": null
-            }
+              "hdp": 236.5,
+              "over": "1.89",
+              "under": "1.93"
+            },
+            "props": []
           }
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
           "recommended_bet": 0.0,
-          "market_edge": null,
+          "market_edge": -0.12976298112097473,
           "latent_strength_A": 5.505910660887272,
           "latent_strength_B": -11.538579090957425,
-          "form_state_A": 0,
-          "form_state_B": 1,
+          "form_state_A": 1,
+          "form_state_B": 2,
           "entropy_A": 3.321928094887362
         },
         "halves": {
@@ -23443,9 +23444,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.24838296768149792,
-          "6-10": 0.10727270165349331,
-          "11+": 0.18277202458076125
+          "1-5": 0.2457655108935562,
+          "6-10": 0.10602169096547652,
+          "11+": 0.1794431410239129
         },
         "formA": [
           {
@@ -23801,7 +23802,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5723586417890052,
-      "mc_win_A": 0.6508,
+      "mc_win_A": 0.643,
       "shap_explanation": {
         "adj_ortg_10": 0.02793970142185401,
         "adj_drtg_10": -0.02622172088201921,
@@ -23844,40 +23845,58 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 121.97271899802456,
-          "ptsB": 107.9391829739111,
-          "total": 229.91190197193566,
-          "spread": -14.03353602411346,
-          "win_prob_A": 67.0368272508117,
+          "ptsA": 122.54065999661114,
+          "ptsB": 105.08886158093739,
+          "total": 227.62952157754853,
+          "spread": -17.45179841567375,
+          "win_prob_A": 72.76705162324255,
           "ml_prob_A": 0.5701219544702667,
-          "mc_win_A": 0.6402,
-          "base_win_prob_A": 0.8575576509099454,
-          "market_prob_A": null,
+          "mc_win_A": 0.6532,
+          "base_win_prob_A": 0.9036695799678773,
+          "market_prob_A": 0.949050949050949,
           "market": {
             "ml": {
-              "home": null,
-              "away": null
+              "home": "1.02",
+              "away": "19.00"
             },
             "spread": {
-              "hdp": null,
-              "home": null,
-              "away": null
+              "hdp": -22.5,
+              "home": "1.95",
+              "away": "1.87"
             },
             "total": {
-              "hdp": null,
-              "over": null,
-              "under": null
-            }
+              "hdp": 218.5,
+              "over": "1.89",
+              "under": "1.93"
+            },
+            "props": [
+              {
+                "label": "Brandon Ingram (Double+Double)",
+                "over": "7.20"
+              },
+              {
+                "label": "Immanuel Quickley (Double+Double)",
+                "over": "8.40"
+              },
+              {
+                "label": "Scottie Barnes (Double+Double)",
+                "over": "2.28"
+              },
+              {
+                "label": "Scottie Barnes (Triple+Double)",
+                "over": "11.00"
+              }
+            ]
           }
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
           "recommended_bet": 0.0,
-          "market_edge": null,
+          "market_edge": -0.2213804328185235,
           "latent_strength_A": 1.9461049922231322,
           "latent_strength_B": -13.547446377571957,
           "form_state_A": 1,
-          "form_state_B": 1,
+          "form_state_B": 0,
           "entropy_A": 3.321928094887362
         },
         "halves": {
@@ -24338,9 +24357,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.25453282693231516,
-          "6-10": 0.11026138294499732,
-          "11+": 0.1912510290438178
+          "1-5": 0.2629962810653596,
+          "6-10": 0.1145821959425019,
+          "11+": 0.20575445350875696
         },
         "formA": [
           {
@@ -24696,7 +24715,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5701219544702667,
-      "mc_win_A": 0.6402,
+      "mc_win_A": 0.6532,
       "shap_explanation": {
         "adj_ortg_10": -0.0007187055059017666,
         "adj_drtg_10": 0.013614726484183706,
@@ -24739,41 +24758,94 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 115.36970208723693,
-          "ptsB": 123.176531555716,
-          "total": 238.54623364295293,
-          "spread": 7.806829468479071,
-          "win_prob_A": 38.70821551412652,
+          "ptsA": 116.73970208723694,
+          "ptsB": 121.606531555716,
+          "total": 238.34623364295294,
+          "spread": 4.866829468479074,
+          "win_prob_A": 47.40388415397511,
           "ml_prob_A": 0.47723479435588684,
-          "mc_win_A": 0.3544,
-          "base_win_prob_A": 0.2681608080490745,
-          "market_prob_A": 0.32494279176201374,
+          "mc_win_A": 0.3564,
+          "base_win_prob_A": 0.34722483178670505,
+          "market_prob_A": 0.609452736318408,
           "market": {
             "ml": {
-              "home": "2.95",
-              "away": "1.42"
+              "home": "1.57",
+              "away": "2.45"
             },
             "spread": {
-              "hdp": 6.5,
-              "home": "1.87",
-              "away": "1.95"
+              "hdp": -4.5,
+              "home": "1.95",
+              "away": "1.87"
             },
             "total": {
-              "hdp": 243.5,
-              "over": "1.91",
-              "under": "1.91"
+              "hdp": 242.5,
+              "over": "1.89",
+              "under": "1.93"
             },
-            "props": []
+            "props": [
+              {
+                "label": "Andrew Wiggins (Double+Double)",
+                "over": "7.50"
+              },
+              {
+                "label": "Bam Adebayo (Double+Double)",
+                "over": "1.37"
+              },
+              {
+                "label": "Bam Adebayo (Triple+Double)",
+                "over": "28.00"
+              },
+              {
+                "label": "CJ McCollum (Double+Double)",
+                "over": "7.40"
+              },
+              {
+                "label": "Dyson Daniels (Double+Double)",
+                "over": "2.56"
+              },
+              {
+                "label": "Dyson Daniels (Triple+Double)",
+                "over": "11.40"
+              },
+              {
+                "label": "Jalen Johnson (Double+Double)",
+                "over": "1.42"
+              },
+              {
+                "label": "Jalen Johnson (Triple+Double)",
+                "over": "3.80"
+              },
+              {
+                "label": "Nickeil Alexander-Walker (Double+Double)",
+                "over": "13.80"
+              },
+              {
+                "label": "Onyeka Okongwu (Double+Double)",
+                "over": "2.87"
+              },
+              {
+                "label": "Onyeka Okongwu (Triple+Double)",
+                "over": "41.00"
+              },
+              {
+                "label": "Tyler Herro (Double+Double)",
+                "over": "6.10"
+              },
+              {
+                "label": "Tyler Herro (Triple+Double)",
+                "over": "51.00"
+              }
+            ]
           }
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
-          "recommended_bet": 18.19132790599134,
-          "market_edge": 0.06213936337925147,
+          "recommended_bet": 0.0,
+          "market_edge": -0.1354138947786569,
           "latent_strength_A": 3.346266748432738,
           "latent_strength_B": 11.188497712009733,
           "form_state_A": 1,
-          "form_state_B": 0,
+          "form_state_B": 2,
           "entropy_A": 3.321928094887362
         },
         "halves": {
@@ -25234,9 +25306,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.08257601427106293,
-          "6-10": 0.03536604165347216,
-          "11+": 0.057426355235533626
+          "1-5": 0.10884558168072582,
+          "6-10": 0.04634482401430338,
+          "11+": 0.07284480103868624
         },
         "formA": [
           {
@@ -25592,7 +25664,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.47723479435588684,
-      "mc_win_A": 0.3544,
+      "mc_win_A": 0.3564,
       "shap_explanation": {
         "adj_ortg_10": 0.03072966305505588,
         "adj_drtg_10": 0.006651425296992954,
@@ -25635,41 +25707,58 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 114.775834555707,
-          "ptsB": 112.63213212625026,
-          "total": 227.40796668195725,
-          "spread": -2.143702429456738,
-          "win_prob_A": 47.03159623379178,
+          "ptsA": 112.84583455570699,
+          "ptsB": 114.76213212625025,
+          "total": 227.60796668195724,
+          "spread": 1.9162975705432657,
+          "win_prob_A": 41.913959901185564,
           "ml_prob_A": 0.4920456066797653,
-          "mc_win_A": 0.527,
-          "base_win_prob_A": 0.5699020541741451,
-          "market_prob_A": 0.39999999999999997,
+          "mc_win_A": 0.515,
+          "base_win_prob_A": 0.4373556273251019,
+          "market_prob_A": 0.17287630402384502,
           "market": {
             "ml": {
-              "home": "2.40",
-              "away": "1.60"
+              "home": "5.55",
+              "away": "1.16"
             },
             "spread": {
-              "hdp": 3.5,
-              "home": "1.95",
-              "away": "1.87"
+              "hdp": 12.5,
+              "home": "1.89",
+              "away": "1.93"
             },
             "total": {
-              "hdp": 216.5,
-              "over": "1.91",
-              "under": "1.91"
+              "hdp": 217.5,
+              "over": "1.87",
+              "under": "1.95"
             },
-            "props": []
+            "props": [
+              {
+                "label": "Desmond Bane (Double+Double)",
+                "over": "15.60"
+              },
+              {
+                "label": "Franz Wagner (Double+Double)",
+                "over": "20.00"
+              },
+              {
+                "label": "Paolo Banchero (Double+Double)",
+                "over": "2.53"
+              },
+              {
+                "label": "Paolo Banchero (Triple+Double)",
+                "over": "22.00"
+              }
+            ]
           }
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
-          "recommended_bet": 22.992555287679068,
-          "market_edge": 0.07031596233791787,
+          "recommended_bet": 72.86949310526367,
+          "market_edge": 0.24626329498801064,
           "latent_strength_A": 7.091850752870968,
           "latent_strength_B": 3.8521453438927282,
           "form_state_A": 0,
-          "form_state_B": 0,
+          "form_state_B": 2,
           "entropy_A": 3.321928094887362
         },
         "halves": {
@@ -26100,9 +26189,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.18167209797030237,
-          "6-10": 0.07691196309449877,
-          "11+": 0.11720301500742258
+          "1-5": 0.1396164409594522,
+          "6-10": 0.05907840702413475,
+          "11+": 0.08979118615869011
         },
         "formA": [
           {
@@ -26458,7 +26547,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.4920456066797653,
-      "mc_win_A": 0.527,
+      "mc_win_A": 0.515,
       "shap_explanation": {
         "adj_ortg_10": 0.025294942856484683,
         "adj_drtg_10": 0.022843055736227313,
@@ -26501,41 +26590,66 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 111.82861250169915,
-          "ptsB": 112.8898532255981,
-          "total": 224.71846572729726,
-          "spread": 1.0612407238989532,
-          "win_prob_A": 45.07197755960347,
+          "ptsA": 111.17861250169916,
+          "ptsB": 114.3398532255981,
+          "total": 225.51846572729727,
+          "spread": 3.1612407238989526,
+          "win_prob_A": 40.23305615038939,
           "ml_prob_A": 0.5671422159886708,
-          "mc_win_A": 0.5074,
-          "base_win_prob_A": 0.4650116836313854,
-          "market_prob_A": 0.2857142857142857,
+          "mc_win_A": 0.5008,
+          "base_win_prob_A": 0.398203683029131,
+          "market_prob_A": 0.15311653116531165,
           "market": {
             "ml": {
-              "home": "3.35",
-              "away": "1.34"
+              "home": "6.25",
+              "away": "1.13"
             },
             "spread": {
-              "hdp": 7.5,
-              "home": "1.95",
-              "away": "1.87"
+              "hdp": 13.5,
+              "home": "1.87",
+              "away": "1.95"
             },
             "total": {
-              "hdp": 215.5,
-              "over": "1.91",
-              "under": "1.91"
+              "hdp": 219.5,
+              "over": "1.89",
+              "under": "1.93"
             },
-            "props": []
+            "props": [
+              {
+                "label": "Brandon Miller (Double+Double)",
+                "over": "14.40"
+              },
+              {
+                "label": "Kon Knueppel (Double+Double)",
+                "over": "15.80"
+              },
+              {
+                "label": "LaMelo Ball (Double+Double)",
+                "over": "3.16"
+              },
+              {
+                "label": "LaMelo Ball (Triple+Double)",
+                "over": "35.00"
+              },
+              {
+                "label": "Miles Bridges (Double+Double)",
+                "over": "8.80"
+              },
+              {
+                "label": "Moussa Diabat\u00e9 (Double+Double)",
+                "over": "4.78"
+              }
+            ]
           }
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
-          "recommended_bet": 54.24587747305493,
-          "market_edge": 0.165005489881749,
+          "recommended_bet": 72.12219092377794,
+          "market_edge": 0.2492140303385822,
           "latent_strength_A": 10.342643187752282,
           "latent_strength_B": 8.583838975026982,
-          "form_state_A": 1,
-          "form_state_B": 1,
+          "form_state_A": 0,
+          "form_state_B": 0,
           "entropy_A": 3.321928094887362
         },
         "halves": {
@@ -27006,9 +27120,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.149238568210902,
-          "6-10": 0.0630321639564047,
-          "11+": 0.09485439375383702
+          "1-5": 0.12614108447190997,
+          "6-10": 0.05351874590590394,
+          "11+": 0.08251255337270658
         },
         "formA": [
           {
@@ -27364,7 +27478,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5671422159886708,
-      "mc_win_A": 0.5074,
+      "mc_win_A": 0.5008,
       "shap_explanation": {
         "adj_ortg_10": 0.02388864424098685,
         "adj_drtg_10": 0.041549133623474926,
@@ -27407,40 +27521,74 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 116.7197935269964,
-          "ptsB": 114.02992507414528,
-          "total": 230.7497186011417,
-          "spread": -2.6898684528511154,
-          "win_prob_A": 55.781646164060696,
+          "ptsA": 118.53659468763331,
+          "ptsB": 111.36318019328007,
+          "total": 229.89977488091338,
+          "spread": -7.173414494353225,
+          "win_prob_A": 66.28578823666244,
           "ml_prob_A": 0.5523059408180466,
-          "mc_win_A": 0.5276,
-          "base_win_prob_A": 0.5871449707719453,
-          "market_prob_A": null,
+          "mc_win_A": 0.5384,
+          "base_win_prob_A": 0.7158312243396971,
+          "market_prob_A": 0.8800880088008802,
           "market": {
             "ml": {
-              "home": null,
-              "away": null
+              "home": "1.09",
+              "away": "8.00"
             },
             "spread": {
-              "hdp": null,
-              "home": null,
-              "away": null
+              "hdp": -15.5,
+              "home": "1.95",
+              "away": "1.87"
             },
             "total": {
-              "hdp": null,
-              "over": null,
-              "under": null
-            }
+              "hdp": 226.5,
+              "over": "1.87",
+              "under": "1.95"
+            },
+            "props": [
+              {
+                "label": "AJ Green (Double+Double)",
+                "over": "16.20"
+              },
+              {
+                "label": "Ousmane Dieng (Double+Double)",
+                "over": "2.21"
+              },
+              {
+                "label": "Ousmane Dieng (Triple+Double)",
+                "over": "9.80"
+              },
+              {
+                "label": "Paul George (Double+Double)",
+                "over": "6.03"
+              },
+              {
+                "label": "Tyrese Maxey (Double+Double)",
+                "over": "3.74"
+              },
+              {
+                "label": "Tyrese Maxey (Triple+Double)",
+                "over": "48.00"
+              },
+              {
+                "label": "VJ Edgecombe (Double+Double)",
+                "over": "4.70"
+              },
+              {
+                "label": "VJ Edgecombe (Triple+Double)",
+                "over": "34.00"
+              }
+            ]
           }
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
           "recommended_bet": 0.0,
-          "market_edge": null,
+          "market_edge": -0.21723012643425577,
           "latent_strength_A": -6.388660634860212,
           "latent_strength_B": -9.425415769640134,
-          "form_state_A": 1,
-          "form_state_B": 0,
+          "form_state_A": 2,
+          "form_state_B": 1,
           "entropy_A": 3.321928094887362
         },
         "halves": {
@@ -27921,9 +28069,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.18653588911301128,
-          "6-10": 0.07906365776586935,
-          "11+": 0.12124088306359762
+          "1-5": 0.22127185146801873,
+          "6-10": 0.09465048393012152,
+          "11+": 0.1526292025057177
         },
         "formA": [
           {
@@ -28279,7 +28427,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5523059408180466,
-      "mc_win_A": 0.5276,
+      "mc_win_A": 0.5384,
       "shap_explanation": {
         "adj_ortg_10": -0.017781613445244916,
         "adj_drtg_10": -0.010420835197318467,
@@ -28322,39 +28470,53 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 110.79012980118083,
-          "ptsB": 125.4786663907043,
-          "total": 236.26879619188514,
-          "spread": 14.68853658952348,
-          "win_prob_A": 31.642813813562114,
+          "ptsA": 109.76624408515892,
+          "ptsB": 124.94879286834919,
+          "total": 234.7150369535081,
+          "spread": 15.182548783190265,
+          "win_prob_A": 28.456848396492475,
           "ml_prob_A": 0.45538474720998406,
-          "mc_win_A": 0.245,
-          "base_win_prob_A": 0.1324525484354303,
-          "market_prob_A": null,
+          "mc_win_A": 0.2576,
+          "base_win_prob_A": 0.12529407820109456,
+          "market_prob_A": 0.1368680641183724,
           "market": {
             "ml": {
-              "home": null,
-              "away": null
+              "home": "7.00",
+              "away": "1.11"
             },
             "spread": {
-              "hdp": null,
-              "home": null,
-              "away": null
+              "hdp": 13.5,
+              "home": "1.91",
+              "away": "1.91"
             },
             "total": {
-              "hdp": null,
-              "over": null,
-              "under": null
-            }
+              "hdp": 228.5,
+              "over": "1.87",
+              "under": "1.95"
+            },
+            "props": [
+              {
+                "label": "Jarace Walker (Double+Double)",
+                "over": "5.61"
+              },
+              {
+                "label": "Micah Potter (Double+Double)",
+                "over": "5.11"
+              },
+              {
+                "label": "Quenton Jackson (Double+Double)",
+                "over": "15.60"
+              }
+            ]
           }
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
-          "recommended_bet": 0.0,
-          "market_edge": null,
+          "recommended_bet": 41.33247448976971,
+          "market_edge": 0.14770041984655233,
           "latent_strength_A": -13.733185111787689,
           "latent_strength_B": 7.5024314190974115,
-          "form_state_A": 2,
+          "form_state_A": 0,
           "form_state_B": 1,
           "entropy_A": 3.321928094887362
         },
@@ -28886,9 +29048,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.039164437496402284,
-          "6-10": 0.01698478618438296,
-          "11+": 0.029659269285131053
+          "1-5": 0.036942170221029955,
+          "6-10": 0.016034495363639063,
+          "11+": 0.02814145862639324
         },
         "formA": [
           {
@@ -29244,7 +29406,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.45538474720998406,
-      "mc_win_A": 0.245,
+      "mc_win_A": 0.2576,
       "shap_explanation": {
         "adj_ortg_10": -0.034821701901620726,
         "adj_drtg_10": -0.041496094134625565,
@@ -29287,40 +29449,41 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 125.14261910200052,
-          "ptsB": 117.04392809648115,
-          "total": 242.18654719848166,
-          "spread": -8.09869100551937,
-          "win_prob_A": 61.44564405231569,
+          "ptsA": 124.54169345618647,
+          "ptsB": 115.70754430259888,
+          "total": 240.24923775878534,
+          "spread": -8.834149153587598,
+          "win_prob_A": 65.1155034942956,
           "ml_prob_A": 0.5515023986875917,
-          "mc_win_A": 0.585,
-          "base_win_prob_A": 0.7390174705978704,
-          "market_prob_A": null,
+          "mc_win_A": 0.5884,
+          "base_win_prob_A": 0.7565455940832662,
+          "market_prob_A": 0.8045977011494254,
           "market": {
             "ml": {
-              "home": null,
-              "away": null
+              "home": "1.19",
+              "away": "4.90"
             },
             "spread": {
-              "hdp": null,
-              "home": null,
-              "away": null
+              "hdp": -11.5,
+              "home": "1.95",
+              "away": "1.87"
             },
             "total": {
-              "hdp": null,
-              "over": null,
-              "under": null
-            }
+              "hdp": 232.5,
+              "over": "1.95",
+              "under": "1.87"
+            },
+            "props": []
           }
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
           "recommended_bet": 0.0,
-          "market_edge": null,
+          "market_edge": -0.1534426662064694,
           "latent_strength_A": 11.701044463567804,
           "latent_strength_B": 5.837411202872655,
           "form_state_A": 2,
-          "form_state_B": 0,
+          "form_state_B": 1,
           "entropy_A": 3.321928094887362
         },
         "halves": {
@@ -29771,9 +29934,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.22717045624600288,
-          "6-10": 0.09734848008093333,
-          "11+": 0.1585750270950004
+          "1-5": 0.23153625628815147,
+          "6-10": 0.09935902001410199,
+          "11+": 0.16314564888345537
         },
         "formA": [
           {
@@ -30129,7 +30292,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5515023986875917,
-      "mc_win_A": 0.585,
+      "mc_win_A": 0.5884,
       "shap_explanation": {
         "adj_ortg_10": 0.009467666455397605,
         "adj_drtg_10": 0.009463618204461852,
@@ -30172,40 +30335,66 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 112.74446270505977,
-          "ptsB": 122.1876239089322,
-          "total": 234.93208661399197,
-          "spread": 9.443161203872421,
-          "win_prob_A": 38.27777616946124,
+          "ptsA": 116.91880725433826,
+          "ptsB": 120.32686203685533,
+          "total": 237.2456692911936,
+          "spread": 3.4080547825170817,
+          "win_prob_A": 50.07802690503045,
           "ml_prob_A": 0.4791844012156679,
-          "mc_win_A": 0.3716,
-          "base_win_prob_A": 0.22955187028926138,
-          "market_prob_A": null,
+          "mc_win_A": 0.363,
+          "base_win_prob_A": 0.3906231619635104,
+          "market_prob_A": 0.7049891540130152,
           "market": {
             "ml": {
-              "home": null,
-              "away": null
+              "home": "1.36",
+              "away": "3.25"
             },
             "spread": {
-              "hdp": null,
-              "home": null,
-              "away": null
+              "hdp": -6.5,
+              "home": "1.93",
+              "away": "1.89"
             },
             "total": {
-              "hdp": null,
-              "over": null,
-              "under": null
-            }
+              "hdp": 246.5,
+              "over": "1.93",
+              "under": "1.89"
+            },
+            "props": [
+              {
+                "label": "Collin Sexton (Double+Double)",
+                "over": "9.40"
+              },
+              {
+                "label": "Cooper Flagg (Double+Double)",
+                "over": "1.97"
+              },
+              {
+                "label": "Cooper Flagg (Triple+Double)",
+                "over": "8.10"
+              },
+              {
+                "label": "Rob Dillingham (Double+Double)",
+                "over": "8.20"
+              },
+              {
+                "label": "Tre Jones (Double+Double)",
+                "over": "5.53"
+              },
+              {
+                "label": "Tre Jones (Triple+Double)",
+                "over": "52.00"
+              }
+            ]
           }
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
           "recommended_bet": 0.0,
-          "market_edge": null,
+          "market_edge": -0.20420888496271072,
           "latent_strength_A": -10.618255735009239,
           "latent_strength_B": -2.9535234490350355,
           "form_state_A": 0,
-          "form_state_B": 2,
+          "form_state_B": 1,
           "entropy_A": 3.321928094887362
         },
         "halves": {
@@ -30766,9 +30955,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.0699981285243001,
-          "6-10": 0.03007283491390025,
-          "11+": 0.04970403596858039
+          "1-5": 0.12355146287950698,
+          "6-10": 0.0524473309202168,
+          "11+": 0.0810885186217849
         },
         "formA": [
           {
@@ -31124,7 +31313,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.4791844012156679,
-      "mc_win_A": 0.3716,
+      "mc_win_A": 0.363,
       "shap_explanation": {
         "adj_ortg_10": -0.02342847062597066,
         "adj_drtg_10": -0.04253863823307313,
@@ -31167,39 +31356,61 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 121.31637059595009,
-          "ptsB": 111.34801378058343,
-          "total": 232.66438437653352,
-          "spread": -9.968356815366661,
-          "win_prob_A": 62.41067342078212,
+          "ptsA": 121.81546971560758,
+          "ptsB": 110.01603778561926,
+          "total": 231.83150750122684,
+          "spread": -11.79943192998832,
+          "win_prob_A": 67.12863310912984,
           "ml_prob_A": 0.5666194133355925,
-          "mc_win_A": 0.531,
-          "base_win_prob_A": 0.781990091800083,
-          "market_prob_A": null,
+          "mc_win_A": 0.528,
+          "base_win_prob_A": 0.8190047032016403,
+          "market_prob_A": 0.8987701040681173,
           "market": {
             "ml": {
-              "home": null,
-              "away": null
+              "home": "1.07",
+              "away": "9.50"
             },
             "spread": {
-              "hdp": null,
-              "home": null,
-              "away": null
+              "hdp": -16.5,
+              "home": "1.89",
+              "away": "1.93"
             },
             "total": {
-              "hdp": null,
-              "over": null,
-              "under": null
-            }
+              "hdp": 228.5,
+              "over": "1.91",
+              "under": "1.91"
+            },
+            "props": [
+              {
+                "label": "Deni Avdija (Double+Double)",
+                "over": "2.66"
+              },
+              {
+                "label": "Deni Avdija (Triple+Double)",
+                "over": "13.80"
+              },
+              {
+                "label": "Donovan Clingan (Double+Double)",
+                "over": "1.60"
+              },
+              {
+                "label": "Jrue Holiday (Double+Double)",
+                "over": "7.10"
+              },
+              {
+                "label": "Toumani Camara (Double+Double)",
+                "over": "18.60"
+              }
+            ]
           }
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
           "recommended_bet": 0.0,
-          "market_edge": null,
+          "market_edge": -0.22748377297681888,
           "latent_strength_A": 1.2594966904526308,
           "latent_strength_B": -6.94613037736287,
-          "form_state_A": 2,
+          "form_state_A": 1,
           "form_state_B": 1,
           "entropy_A": 3.321928094887362
         },
@@ -31671,9 +31882,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.23771144275584818,
-          "6-10": 0.10222671771931788,
-          "11+": 0.16991260680279952
+          "1-5": 0.24628390135237377,
+          "6-10": 0.10626864585279788,
+          "11+": 0.1800917550718354
         },
         "formA": [
           {
@@ -32029,7 +32240,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5666194133355925,
-      "mc_win_A": 0.531,
+      "mc_win_A": 0.528,
       "shap_explanation": {
         "adj_ortg_10": -0.029197786074306294,
         "adj_drtg_10": 0.039656019579836436,
@@ -32072,13 +32283,13 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 116.15217963221579,
-          "ptsB": 110.16272799030159,
-          "total": 226.31490762251738,
+          "ptsA": 115.95217963221579,
+          "ptsB": 109.96272799030159,
+          "total": 225.91490762251738,
           "spread": -5.989451641914209,
-          "win_prob_A": 56.78024469534115,
+          "win_prob_A": 56.75024469534116,
           "ml_prob_A": 0.5147212116289038,
-          "mc_win_A": 0.5046,
+          "mc_win_A": 0.5036,
           "base_win_prob_A": 0.684370824613043,
           "market_prob_A": 0.6750572082379863,
           "market": {
@@ -32088,13 +32299,13 @@ const analyticsData = {
             },
             "spread": {
               "hdp": -5.5,
-              "home": "1.85",
-              "away": "1.98"
+              "home": "1.95",
+              "away": "1.87"
             },
             "total": {
-              "hdp": 215.5,
-              "over": "1.95",
-              "under": "1.87"
+              "hdp": 213.5,
+              "over": "1.93",
+              "under": "1.89"
             },
             "props": []
           }
@@ -32102,11 +32313,11 @@ const analyticsData = {
         "advanced": {
           "blowout_risk": 0.11853559847642359,
           "recommended_bet": 0.0,
-          "market_edge": -0.10725476128457478,
+          "market_edge": -0.10755476128457475,
           "latent_strength_A": 6.1475816204586655,
           "latent_strength_B": -1.164924748401413,
-          "form_state_A": 1,
-          "form_state_B": 0,
+          "form_state_A": 2,
+          "form_state_B": 1,
           "entropy_A": 3.321928094887362
         },
         "halves": {
@@ -32905,7 +33116,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5147212116289038,
-      "mc_win_A": 0.5046,
+      "mc_win_A": 0.5036,
       "shap_explanation": {
         "adj_ortg_10": -0.01856309080669135,
         "adj_drtg_10": 0.05415903314502174,
@@ -32948,36 +33159,46 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 123.6489691983655,
-          "ptsB": 115.64415963955257,
-          "total": 239.29312883791806,
-          "spread": -8.004809558812937,
-          "win_prob_A": 62.323086049016084,
+          "ptsA": 121.83131464178143,
+          "ptsB": 114.70318842855303,
+          "total": 236.53450307033447,
+          "spread": -7.128126213228409,
+          "win_prob_A": 62.00491816866316,
           "ml_prob_A": 0.5574684102611241,
-          "mc_win_A": 0.6174,
-          "base_win_prob_A": 0.7367221845319959,
-          "market_prob_A": null,
+          "mc_win_A": 0.6228,
+          "base_win_prob_A": 0.7146643771944837,
+          "market_prob_A": 0.6802721088435374,
           "market": {
             "ml": {
-              "home": null,
-              "away": null
+              "home": "1.41",
+              "away": "3.00"
             },
             "spread": {
-              "hdp": null,
-              "home": null,
-              "away": null
+              "hdp": -5.5,
+              "home": "1.85",
+              "away": "1.98"
             },
             "total": {
-              "hdp": null,
-              "over": null,
-              "under": null
-            }
+              "hdp": 225.5,
+              "over": "1.93",
+              "under": "1.89"
+            },
+            "props": [
+              {
+                "label": "Darius Garland (Double+Double)",
+                "over": "4.65"
+              },
+              {
+                "label": "Kawhi Leonard (Double+Double)",
+                "over": "3.40"
+              }
+            ]
           }
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
           "recommended_bet": 0.0,
-          "market_edge": null,
+          "market_edge": -0.0602229271569058,
           "latent_strength_A": 4.390603830960883,
           "latent_strength_B": -2.8732842108687136,
           "form_state_A": 2,
@@ -33512,9 +33733,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.2265925839269786,
-          "6-10": 0.09708327597982978,
-          "11+": 0.15798152432267887
+          "1-5": 0.2209715502280084,
+          "6-10": 0.094513636552624,
+          "11+": 0.15233277693061367
         },
         "formA": [
           {
@@ -33870,7 +34091,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5574684102611241,
-      "mc_win_A": 0.6174,
+      "mc_win_A": 0.6228,
       "shap_explanation": {
         "adj_ortg_10": 0.005804420702183677,
         "adj_drtg_10": -0.0023187386186934588,
@@ -33913,40 +34134,41 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 119.5707527312634,
-          "ptsB": 115.23165645811436,
-          "total": 234.80240918937776,
-          "spread": -4.339096273149039,
-          "win_prob_A": 56.49350579951429,
+          "ptsA": 120.47116996452455,
+          "ptsB": 112.47075738697767,
+          "total": 232.94192735150222,
+          "spread": -8.000412577546886,
+          "win_prob_A": 63.676093468106345,
           "ml_prob_A": 0.5491308487610985,
-          "mc_win_A": 0.4958,
-          "base_win_prob_A": 0.6373654453819787,
-          "market_prob_A": null,
+          "mc_win_A": 0.488,
+          "base_win_prob_A": 0.7366143645243368,
+          "market_prob_A": 0.8519003931847969,
           "market": {
             "ml": {
-              "home": null,
-              "away": null
+              "home": "1.13",
+              "away": "6.50"
             },
             "spread": {
-              "hdp": null,
-              "home": null,
-              "away": null
+              "hdp": -13.5,
+              "home": "1.93",
+              "away": "1.89"
             },
             "total": {
-              "hdp": null,
-              "over": null,
-              "under": null
-            }
+              "hdp": 225.5,
+              "over": "1.89",
+              "under": "1.93"
+            },
+            "props": []
           }
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
           "recommended_bet": 0.0,
-          "market_edge": null,
+          "market_edge": -0.2151394585037335,
           "latent_strength_A": -3.0522040387036955,
           "latent_strength_B": -8.587878479366402,
-          "form_state_A": 2,
-          "form_state_B": 2,
+          "form_state_A": 1,
+          "form_state_B": 0,
           "entropy_A": 3.321928094887362
         },
         "halves": {
@@ -34447,9 +34669,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.20044350352965465,
-          "6-10": 0.08525325017890102,
-          "11+": 0.133207720747261
+          "1-5": 0.2265654047482819,
+          "6-10": 0.097070807588984,
+          "11+": 0.15795367229904345
         },
         "formA": [
           {
@@ -34805,7 +35027,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5491308487610985,
-      "mc_win_A": 0.4958,
+      "mc_win_A": 0.488,
       "shap_explanation": {
         "adj_ortg_10": -0.018168573167153285,
         "adj_drtg_10": -0.03937192979352418,
@@ -34848,39 +35070,40 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 124.71478501243311,
-          "ptsB": 111.48618804833738,
-          "total": 236.20097306077048,
-          "spread": -13.228596964095729,
-          "win_prob_A": 71.76192253247598,
+          "ptsA": 125.19468323763931,
+          "ptsB": 111.0660952109771,
+          "total": 236.2607784486164,
+          "spread": -14.128588026662225,
+          "win_prob_A": 74.47034541345191,
           "ml_prob_A": 0.6526304475421095,
-          "mc_win_A": 0.6898,
-          "base_win_prob_A": 0.8444800051790167,
-          "market_prob_A": null,
+          "mc_win_A": 0.6858,
+          "base_win_prob_A": 0.8590431697506702,
+          "market_prob_A": 0.8872651356993737,
           "market": {
             "ml": {
-              "home": null,
-              "away": null
+              "home": "1.08",
+              "away": "8.50"
             },
             "spread": {
-              "hdp": null,
-              "home": null,
-              "away": null
+              "hdp": -14.5,
+              "home": "1.93",
+              "away": "1.89"
             },
             "total": {
-              "hdp": null,
-              "over": null,
-              "under": null
-            }
+              "hdp": 236.5,
+              "over": "1.91",
+              "under": "1.91"
+            },
+            "props": []
           }
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
           "recommended_bet": 0.0,
-          "market_edge": null,
+          "market_edge": -0.1425616815648546,
           "latent_strength_A": 6.870047814537148,
           "latent_strength_B": -6.1037482940050465,
-          "form_state_A": 1,
+          "form_state_A": 2,
           "form_state_B": 0,
           "entropy_A": 3.321928094887362
         },
@@ -35372,9 +35595,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.25182819781187166,
-          "6-10": 0.10893706160949264,
-          "11+": 0.18738884207407988
+          "1-5": 0.2548330849333899,
+          "6-10": 0.11040956559991583,
+          "11+": 0.1916954768087243
         },
         "formA": [
           {
@@ -35730,7 +35953,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.6526304475421095,
-      "mc_win_A": 0.6898,
+      "mc_win_A": 0.6858,
       "shap_explanation": {
         "adj_ortg_10": 0.024425081195370808,
         "adj_drtg_10": 0.026821830925917993,
@@ -35773,40 +35996,41 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 115.97192226441459,
-          "ptsB": 119.8761054411536,
-          "total": 235.8480277055682,
-          "spread": 3.9041831767390107,
-          "win_prob_A": 38.87632231027051,
+          "ptsA": 118.0853515497871,
+          "ptsB": 117.89307061466747,
+          "total": 235.97842216445457,
+          "spread": -0.1922809351196446,
+          "win_prob_A": 50.216185526942894,
           "ml_prob_A": 0.3860150538176242,
-          "mc_win_A": 0.4154,
-          "base_win_prob_A": 0.3755856539796434,
-          "market_prob_A": null,
+          "mc_win_A": 0.4066,
+          "base_win_prob_A": 0.506383959971168,
+          "market_prob_A": 0.700218818380744,
           "market": {
             "ml": {
-              "home": null,
-              "away": null
+              "home": "1.37",
+              "away": "3.20"
             },
             "spread": {
-              "hdp": null,
-              "home": null,
-              "away": null
+              "hdp": -6.5,
+              "home": "1.95",
+              "away": "1.87"
             },
             "total": {
-              "hdp": null,
-              "over": null,
-              "under": null
-            }
+              "hdp": 236.5,
+              "over": "1.93",
+              "under": "1.89"
+            },
+            "props": []
           }
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
           "recommended_bet": 0.0,
-          "market_edge": null,
+          "market_edge": -0.19805696311131504,
           "latent_strength_A": -1.9556884864469732,
           "latent_strength_B": 4.366050665867785,
           "form_state_A": 0,
-          "form_state_B": 1,
+          "form_state_B": 0,
           "entropy_A": 3.321928094887362
         },
         "halves": {
@@ -36247,9 +36471,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.11843287621064516,
-          "6-10": 0.050326775388062704,
-          "11+": 0.07824961349643642
+          "1-5": 0.16340376890775615,
+          "6-10": 0.06888188080067974,
+          "11+": 0.1026082147310262
         },
         "formA": [
           {
@@ -36605,7 +36829,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.3860150538176242,
-      "mc_win_A": 0.4154,
+      "mc_win_A": 0.4066,
       "shap_explanation": {
         "adj_ortg_10": -0.02224885097215946,
         "adj_drtg_10": 0.00040714134146597303,
@@ -36636,6 +36860,26 @@ const analyticsData = {
       "is_b2b_away": 0,
       "rest_home": 27,
       "rest_away": 28
+    },
+    {
+      "matchId": "odds_70506078",
+      "matchTime": 1776209400,
+      "gameStatus": "11:30 PM ET",
+      "homeTeam": "UNK",
+      "awayTeam": "UNK",
+      "homeName": "E7",
+      "awayName": "E8",
+      "is_odds_fallback": true
+    },
+    {
+      "matchId": "odds_70506088",
+      "matchTime": 1776218400,
+      "gameStatus": "02:00 AM ET",
+      "homeTeam": "PHX",
+      "awayTeam": "UNK",
+      "homeName": "Phoenix Suns",
+      "awayName": "W8",
+      "is_odds_fallback": true
     }
   ]
 };
