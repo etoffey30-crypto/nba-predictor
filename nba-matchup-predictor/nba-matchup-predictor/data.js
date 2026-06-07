@@ -230,7 +230,7 @@ const analyticsData = {
       "adj_pace_10": 100.58998487004719,
       "sos_10": 5.017274364988298,
       "latent_strength": -13.547446377571957,
-      "form_state": 1,
+      "form_state": 0,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.518543216502516,
@@ -418,7 +418,7 @@ const analyticsData = {
       "adj_pace_10": 96.89706179312411,
       "sos_10": -1.1461543075564808,
       "latent_strength": 7.091850752870968,
-      "form_state": 1,
+      "form_state": 0,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5555151899161151,
@@ -606,7 +606,7 @@ const analyticsData = {
       "adj_pace_10": 99.61504835270482,
       "sos_10": -0.5873290595574725,
       "latent_strength": 8.583838975026982,
-      "form_state": 1,
+      "form_state": 2,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5501519471473828,
@@ -794,7 +794,7 @@ const analyticsData = {
       "adj_pace_10": 105.33777974184207,
       "sos_10": 0.12609118927576074,
       "latent_strength": -2.9535234490350355,
-      "form_state": 2,
+      "form_state": 0,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.551011335857835,
@@ -1170,7 +1170,7 @@ const analyticsData = {
       "adj_pace_10": 102.44666860586938,
       "sos_10": 5.670759128668195,
       "latent_strength": -10.618255735009239,
-      "form_state": 1,
+      "form_state": 0,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.497388539687562,
@@ -1358,7 +1358,7 @@ const analyticsData = {
       "adj_pace_10": 104.27036480840103,
       "sos_10": 3.453082192613934,
       "latent_strength": 5.837411202872655,
-      "form_state": 2,
+      "form_state": 1,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.568796185515523,
@@ -1546,7 +1546,7 @@ const analyticsData = {
       "adj_pace_10": 100.27439512645745,
       "sos_10": -1.4079026901994962,
       "latent_strength": 7.5024314190974115,
-      "form_state": 1,
+      "form_state": 2,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5496121611539099,
@@ -1734,7 +1734,7 @@ const analyticsData = {
       "adj_pace_10": 100.78352333158567,
       "sos_10": -1.1071306320688743,
       "latent_strength": -2.8732842108687136,
-      "form_state": 2,
+      "form_state": 1,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5309610017743458,
@@ -1922,7 +1922,7 @@ const analyticsData = {
       "adj_pace_10": 99.45042623199583,
       "sos_10": 1.6334978935257922,
       "latent_strength": -3.0522040387036955,
-      "form_state": 1,
+      "form_state": 2,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5268050399579487,
@@ -2298,7 +2298,7 @@ const analyticsData = {
       "adj_pace_10": 101.63788230594464,
       "sos_10": -0.24137154569838107,
       "latent_strength": 4.390603830960883,
-      "form_state": 2,
+      "form_state": 1,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5780380005774381,
@@ -2674,7 +2674,7 @@ const analyticsData = {
       "adj_pace_10": 103.37819246576208,
       "sos_10": -3.993266010038102,
       "latent_strength": -8.587878479366402,
-      "form_state": 1,
+      "form_state": 0,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5443658578662921,
@@ -2862,7 +2862,7 @@ const analyticsData = {
       "adj_pace_10": 104.84507366916053,
       "sos_10": -2.2285996537857087,
       "latent_strength": 3.346266748432738,
-      "form_state": 2,
+      "form_state": 1,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5384286060508854,
@@ -3050,7 +3050,7 @@ const analyticsData = {
       "adj_pace_10": 99.74608743414977,
       "sos_10": 2.0991903859160606,
       "latent_strength": -9.425415769640134,
-      "form_state": 0,
+      "form_state": 2,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5528536475022033,
@@ -3238,7 +3238,7 @@ const analyticsData = {
       "adj_pace_10": 100.97059265650229,
       "sos_10": 2.600767743972654,
       "latent_strength": -1.9556884864469732,
-      "form_state": 0,
+      "form_state": 1,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5609039891841255,
@@ -3426,7 +3426,7 @@ const analyticsData = {
       "adj_pace_10": 103.81094708688204,
       "sos_10": -4.924666327714091,
       "latent_strength": 4.366050665867785,
-      "form_state": 1,
+      "form_state": 0,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5433758776892872,
@@ -3614,7 +3614,7 @@ const analyticsData = {
       "adj_pace_10": 99.22293524829601,
       "sos_10": -1.0037607266162287,
       "latent_strength": 10.342643187752282,
-      "form_state": 1,
+      "form_state": 2,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5599335781178418,
@@ -3990,7 +3990,7 @@ const analyticsData = {
       "adj_pace_10": 103.6831130751754,
       "sos_10": -0.47402304588076155,
       "latent_strength": 3.8521453438927282,
-      "form_state": 0,
+      "form_state": 2,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5409368307683738,
@@ -4178,7 +4178,7 @@ const analyticsData = {
       "adj_pace_10": 102.69821290966685,
       "sos_10": 1.7617539979661447,
       "latent_strength": -6.388660634860212,
-      "form_state": 2,
+      "form_state": 0,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5010979297507788,
@@ -4366,7 +4366,7 @@ const analyticsData = {
       "adj_pace_10": 98.60013696029976,
       "sos_10": -3.7340221396635775,
       "latent_strength": -1.164924748401413,
-      "form_state": 0,
+      "form_state": 1,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5551261814109806,
@@ -4554,7 +4554,7 @@ const analyticsData = {
       "adj_pace_10": 103.13666860586937,
       "sos_10": -2.63007257569559,
       "latent_strength": 1.2594966904526308,
-      "form_state": 2,
+      "form_state": 1,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5278167610573037,
@@ -4742,7 +4742,7 @@ const analyticsData = {
       "adj_pace_10": 102.71943524829598,
       "sos_10": -0.7608895900382631,
       "latent_strength": -6.94613037736287,
-      "form_state": 2,
+      "form_state": 0,
       "shooting_entropy": 2.9219280948873623,
       "factors": {
         "efg": 0.5390983776725441,
@@ -4930,7 +4930,7 @@ const analyticsData = {
       "adj_pace_10": 101.60993442865419,
       "sos_10": 3.510138994177261,
       "latent_strength": 11.701044463567804,
-      "form_state": 2,
+      "form_state": 0,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5857406442859878,
@@ -5118,7 +5118,7 @@ const analyticsData = {
       "adj_pace_10": 100.3344781800478,
       "sos_10": 3.047519908876628,
       "latent_strength": 1.9461049922231322,
-      "form_state": 1,
+      "form_state": 0,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5427073718696395,
@@ -5306,7 +5306,7 @@ const analyticsData = {
       "adj_pace_10": 101.19152333158567,
       "sos_10": -1.5756467840982442,
       "latent_strength": -6.1037482940050465,
-      "form_state": 0,
+      "form_state": 1,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5266638323672715,
@@ -22859,894 +22859,144 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 115.60888604666795,
-          "ptsB": 114.02828583725292,
-          "total": 229.63717188392087,
-          "spread": -1.5806002094150329,
-          "win_prob_A": 54.48057949731449,
+          "ptsA": 116.19138604666794,
+          "ptsB": 113.24578583725291,
+          "total": 229.43717188392085,
+          "spread": -2.9456002094150384,
+          "win_prob_A": 54.11590656317637,
           "ml_prob_A": 0.5814415938849797,
-          "mc_win_A": 0.4942,
-          "base_win_prob_A": 0.5518525540942316,
-          "market_prob_A": 0.5515463917525772,
+          "mc_win_A": 0.4908,
+          "base_win_prob_A": 0.5951213754484576,
+          "market_prob_A": 0.5440414507772021,
           "market": {
             "ml": {
-              "home": "1.74",
-              "away": "2.14"
+              "home": "1.76",
+              "away": "2.10"
             },
             "spread": {
               "hdp": -2.5,
-              "home": "1.90",
-              "away": "1.90"
+              "home": "1.89",
+              "away": "1.92"
             },
             "total": {
-              "hdp": 216.5,
-              "over": "1.95",
-              "under": "1.86"
+              "hdp": 215.5,
+              "over": "1.89",
+              "under": "1.92"
             },
             "props": [
               {
-                "label": "Devin Vassell (Rebounds)",
-                "hdp": 4.5,
-                "over": "1.76",
-                "under": "1.99"
-              },
-              {
-                "label": "Devin Vassell (Rebs+Asts)",
-                "hdp": 7.5,
-                "over": "2.08",
-                "under": "1.69"
-              },
-              {
-                "label": "De'Aaron Fox (Rebounds)",
-                "hdp": 3.5,
-                "over": "1.98",
-                "under": "1.77"
-              },
-              {
-                "label": "De'Aaron Fox (Assists)",
-                "hdp": 5.5,
+                "label": "Victor Wembanyama (Points)",
+                "hdp": 26.5,
                 "over": "1.84",
-                "under": "1.90"
-              },
-              {
-                "label": "Victor Wembanyama (Blocks)",
-                "hdp": 3.5,
-                "over": "2.06",
-                "under": "1.70"
-              },
-              {
-                "label": "OG Anunoby (Blocks)",
-                "hdp": 0.5,
-                "over": "1.74",
-                "under": "2.01"
-              },
-              {
-                "label": "De'Aaron Fox (Steals+Blocks)",
-                "hdp": 1.5,
-                "over": "2.37",
-                "under": "1.54"
-              },
-              {
-                "label": "Devin Vassell (Steals+Blocks)",
-                "hdp": 1.5,
-                "over": "2.38",
-                "under": "1.54"
-              },
-              {
-                "label": "De'Aaron Fox (Steals)",
-                "hdp": 0.5,
-                "over": "1.43",
-                "under": "2.70"
-              },
-              {
-                "label": "Devin Vassell (Steals)",
-                "hdp": 0.5,
-                "over": "1.57",
-                "under": "2.31"
+                "under": "1.92"
               },
               {
                 "label": "Jalen Brunson (Points)",
                 "hdp": 26.5,
-                "over": "1.90",
-                "under": "1.86"
-              },
-              {
-                "label": "Jalen Brunson (3 Point FG)",
-                "hdp": 2.5,
-                "over": "2.39",
-                "under": "1.54"
-              },
-              {
-                "label": "Jalen Brunson (Rebounds)",
-                "hdp": 2.5,
-                "over": "1.63",
-                "under": "2.20"
-              },
-              {
-                "label": "Landry Shamet (Rebounds)",
-                "hdp": 1.5,
-                "over": "1.90",
-                "under": "1.83"
-              },
-              {
-                "label": "Miles McBride (Rebounds)",
-                "hdp": 1.5,
-                "over": "2.22",
-                "under": "1.62"
-              },
-              {
-                "label": "OG Anunoby (Assists)",
-                "hdp": 1.5,
-                "over": "1.75",
-                "under": "2.01"
-              },
-              {
-                "label": "Julian Champagnie (Assists)",
-                "hdp": 1.5,
-                "over": "2.23",
-                "under": "1.61"
-              },
-              {
-                "label": "De'Aaron Fox (Rebs+Asts)",
-                "hdp": 9.5,
-                "over": "2.05",
-                "under": "1.72"
-              },
-              {
-                "label": "Keldon Johnson (Rebs+Asts)",
-                "hdp": 3.5,
-                "over": "2.10",
-                "under": "1.68"
-              },
-              {
-                "label": "Landry Shamet (Rebs+Asts)",
-                "hdp": 2.5,
-                "over": "1.80",
-                "under": "1.94"
-              },
-              {
-                "label": "Jalen Brunson (Pts+Rebs)",
-                "hdp": 29.5,
-                "over": "1.87",
-                "under": "1.86"
-              },
-              {
-                "label": "Miles McBride (Pts+Rebs)",
-                "hdp": 7.5,
-                "over": "1.97",
-                "under": "1.78"
-              },
-              {
-                "label": "Landry Shamet (Blocks)",
-                "hdp": 0.5,
-                "over": "6.48",
-                "under": "1.11"
-              },
-              {
-                "label": "Jalen Brunson (Blocks)",
-                "hdp": 0.5,
-                "over": "6.76",
-                "under": "1.11"
-              },
-              {
-                "label": "Julian Champagnie (Steals+Blocks)",
-                "hdp": 1.5,
-                "over": "2.54",
-                "under": "1.48"
-              },
-              {
-                "label": "Mitchell Robinson (Steals+Blocks)",
-                "hdp": 1.5,
-                "over": "2.42",
-                "under": "1.52"
-              },
-              {
-                "label": "Mitchell Robinson (Steals)",
-                "hdp": 0.5,
-                "over": "1.92",
-                "under": "1.81"
-              },
-              {
-                "label": "Karl-Anthony Towns (Blocks)",
-                "hdp": 0.5,
-                "over": "1.60",
-                "under": "2.23"
-              },
-              {
-                "label": "Dylan Harper (Blocks)",
-                "hdp": 0.5,
-                "over": "3.16",
-                "under": "1.33"
-              },
-              {
-                "label": "Victor Wembanyama (Steals)",
-                "hdp": 0.5,
-                "over": "1.42",
-                "under": "2.74"
-              },
-              {
-                "label": "Dylan Harper (Points)",
-                "hdp": 12.5,
-                "over": "1.82",
-                "under": "1.95"
-              },
-              {
-                "label": "Keldon Johnson (Points)",
-                "hdp": 5.5,
-                "over": "1.90",
-                "under": "1.86"
-              },
-              {
-                "label": "Dylan Harper (Pts+Rebs+Asts)",
-                "hdp": 21.5,
-                "over": "1.88",
-                "under": "1.85"
-              },
-              {
-                "label": "Stephon Castle (Pts+Rebs)",
-                "hdp": 20.5,
-                "over": "1.84",
-                "under": "1.90"
-              },
-              {
-                "label": "Keldon Johnson (Pts+Rebs)",
-                "hdp": 8.5,
-                "over": "1.97",
-                "under": "1.78"
-              },
-              {
-                "label": "Dylan Harper (Pts+Asts)",
-                "hdp": 16.5,
-                "over": "1.97",
-                "under": "1.78"
-              },
-              {
-                "label": "Keldon Johnson (Blocks)",
-                "hdp": 0.5,
-                "over": "9.20",
-                "under": "1.07"
-              },
-              {
-                "label": "Victor Wembanyama (Steals+Blocks)",
-                "hdp": 4.5,
-                "over": "1.93",
-                "under": "1.80"
-              },
-              {
-                "label": "Karl-Anthony Towns (Steals+Blocks)",
-                "hdp": 1.5,
-                "over": "1.82",
-                "under": "1.90"
-              },
-              {
-                "label": "Karl-Anthony Towns (Steals)",
-                "hdp": 0.5,
-                "over": "1.68",
-                "under": "2.09"
-              },
-              {
-                "label": "Josh Hart (Rebs+Asts)",
-                "hdp": 12.5,
-                "over": "1.93",
-                "under": "1.81"
-              },
-              {
-                "label": "Josh Hart (Points)",
-                "hdp": 9.5,
-                "over": "1.92",
-                "under": "1.84"
-              },
-              {
-                "label": "Josh Hart (Pts+Rebs)",
-                "hdp": 17.5,
-                "over": "1.90",
-                "under": "1.84"
-              },
-              {
-                "label": "Mikal Bridges (Pts+Rebs+Asts)",
-                "hdp": 19.5,
-                "over": "1.93",
-                "under": "1.81"
-              },
-              {
-                "label": "Mikal Bridges (Pts+Rebs)",
-                "hdp": 16.5,
                 "over": "1.91",
-                "under": "1.82"
+                "under": "1.85"
               },
               {
                 "label": "Karl-Anthony Towns (Points)",
                 "hdp": 18.5,
-                "over": "1.94",
-                "under": "1.83"
-              },
-              {
-                "label": "Karl-Anthony Towns (Rebounds)",
-                "hdp": 11.5,
-                "over": "2.04",
-                "under": "1.72"
-              },
-              {
-                "label": "Josh Hart (Rebounds)",
-                "hdp": 7.5,
-                "over": "1.76",
-                "under": "1.99"
-              },
-              {
-                "label": "Mikal Bridges (Rebounds)",
-                "hdp": 3.5,
-                "over": "2.24",
-                "under": "1.60"
-              },
-              {
-                "label": "Karl-Anthony Towns (Rebs+Asts)",
-                "hdp": 15.5,
-                "over": "1.94",
-                "under": "1.80"
-              },
-              {
-                "label": "Mikal Bridges (Rebs+Asts)",
-                "hdp": 5.5,
-                "over": "1.64",
-                "under": "2.18"
-              },
-              {
-                "label": "Karl-Anthony Towns (Pts+Rebs+Asts)",
-                "hdp": 33.5,
-                "over": "1.81",
-                "under": "1.93"
-              },
-              {
-                "label": "Josh Hart (Pts+Rebs+Asts)",
-                "hdp": 21.5,
-                "over": "1.78",
-                "under": "1.97"
-              },
-              {
-                "label": "Victor Wembanyama (Pts+Rebs)",
-                "hdp": 38.5,
-                "over": "1.86",
-                "under": "1.87"
-              },
-              {
-                "label": "Karl-Anthony Towns (Pts+Rebs)",
-                "hdp": 29.5,
-                "over": "1.84",
-                "under": "1.89"
-              },
-              {
-                "label": "Jalen Brunson (Pts+Asts)",
-                "hdp": 32.5,
-                "over": "1.84",
-                "under": "1.89"
-              },
-              {
-                "label": "Karl-Anthony Towns (Pts+Asts)",
-                "hdp": 22.5,
-                "over": "1.88",
-                "under": "1.86"
-              },
-              {
-                "label": "Mikal Bridges (Pts+Asts)",
-                "hdp": 15.5,
-                "over": "1.77",
-                "under": "1.98"
-              },
-              {
-                "label": "Stephon Castle (Points)",
-                "hdp": 15.5,
-                "over": "1.84",
-                "under": "1.93"
-              },
-              {
-                "label": "De'Aaron Fox (Points)",
-                "hdp": 14.5,
-                "over": "1.87",
-                "under": "1.89"
-              },
-              {
-                "label": "Mikal Bridges (Points)",
-                "hdp": 13.5,
-                "over": "1.99",
-                "under": "1.78"
-              },
-              {
-                "label": "Josh Hart (Assists)",
-                "hdp": 4.5,
-                "over": "1.96",
-                "under": "1.79"
-              },
-              {
-                "label": "Stephon Castle (Pts+Rebs+Asts)",
-                "hdp": 27.5,
-                "over": "1.91",
-                "under": "1.83"
-              },
-              {
-                "label": "Devin Vassell (Pts+Rebs+Asts)",
-                "hdp": 20.5,
-                "over": "1.92",
-                "under": "1.81"
-              },
-              {
-                "label": "Keldon Johnson (Pts+Rebs+Asts)",
-                "hdp": 8.5,
-                "over": "1.78",
-                "under": "1.98"
-              },
-              {
-                "label": "De'Aaron Fox (Pts+Rebs)",
-                "hdp": 18.5,
-                "over": "1.97",
-                "under": "1.78"
-              },
-              {
-                "label": "Devin Vassell (Pts+Rebs)",
-                "hdp": 17.5,
-                "over": "1.81",
-                "under": "1.92"
-              },
-              {
-                "label": "Stephon Castle (Pts+Asts)",
-                "hdp": 22.5,
-                "over": "1.89",
-                "under": "1.85"
-              },
-              {
-                "label": "De'Aaron Fox (Pts+Asts)",
-                "hdp": 20.5,
                 "over": "1.90",
-                "under": "1.83"
-              },
-              {
-                "label": "OG Anunoby (Pts+Asts)",
-                "hdp": 16.5,
-                "over": "1.77",
-                "under": "1.98"
-              },
-              {
-                "label": "NY Knicks Alternate (Points)",
-                "hdp": 119.5,
-                "over": "4.65",
-                "under": "1.19"
-              },
-              {
-                "label": "OG Anunoby (Steals+Blocks)",
-                "hdp": 1.5,
-                "over": "1.52",
-                "under": "2.42"
-              },
-              {
-                "label": "Victor Wembanyama (Assists)",
-                "hdp": 3.5,
-                "over": "2.30",
-                "under": "1.58"
-              },
-              {
-                "label": "Victor Wembanyama (Points)",
-                "hdp": 26.5,
-                "over": "1.86",
-                "under": "1.90"
-              },
-              {
-                "label": "Devin Vassell (Points)",
-                "hdp": 12.5,
-                "over": "1.83",
-                "under": "1.94"
-              },
-              {
-                "label": "Julian Champagnie (Points)",
-                "hdp": 10.5,
-                "over": "1.82",
-                "under": "1.94"
-              },
-              {
-                "label": "Julian Champagnie (3 Point FG)",
-                "hdp": 2.5,
-                "over": "1.96",
-                "under": "1.78"
-              },
-              {
-                "label": "Devin Vassell (3 Point FG)",
-                "hdp": 2.5,
-                "over": "2.05",
-                "under": "1.72"
-              },
-              {
-                "label": "Victor Wembanyama (3 Point FG)",
-                "hdp": 1.5,
-                "over": "1.54",
-                "under": "2.39"
-              },
-              {
-                "label": "De'Aaron Fox (3 Point FG)",
-                "hdp": 1.5,
-                "over": "2.08",
-                "under": "1.70"
-              },
-              {
-                "label": "OG Anunoby (Rebounds)",
-                "hdp": 5.5,
-                "over": "2.14",
-                "under": "1.66"
-              },
-              {
-                "label": "Victor Wembanyama (Pts+Rebs+Asts)",
-                "hdp": 41.5,
-                "over": "1.84",
-                "under": "1.90"
-              },
-              {
-                "label": "Julian Champagnie (Pts+Rebs+Asts)",
-                "hdp": 17.5,
-                "over": "1.82",
-                "under": "1.92"
-              },
-              {
-                "label": "OG Anunoby (Pts+Rebs)",
-                "hdp": 20.5,
-                "over": "1.87",
                 "under": "1.86"
-              },
-              {
-                "label": "Dylan Harper (Pts+Rebs)",
-                "hdp": 18.5,
-                "over": "1.98",
-                "under": "1.77"
-              },
-              {
-                "label": "Julian Champagnie (Pts+Rebs)",
-                "hdp": 16.5,
-                "over": "1.91",
-                "under": "1.82"
-              },
-              {
-                "label": "Victor Wembanyama (Pts+Asts)",
-                "hdp": 29.5,
-                "over": "1.81",
-                "under": "1.93"
-              },
-              {
-                "label": "Devin Vassell (Pts+Asts)",
-                "hdp": 15.5,
-                "over": "1.93",
-                "under": "1.81"
-              },
-              {
-                "label": "Julian Champagnie (Pts+Asts)",
-                "hdp": 12.5,
-                "over": "1.97",
-                "under": "1.78"
-              },
-              {
-                "label": "Stephon Castle (Blocks)",
-                "hdp": 0.5,
-                "over": "3.59",
-                "under": "1.27"
-              },
-              {
-                "label": "Stephon Castle (Steals)",
-                "hdp": 0.5,
-                "over": "1.46",
-                "under": "2.59"
-              },
-              {
-                "label": "Stephon Castle (3 Point FG)",
-                "hdp": 1.5,
-                "over": "2.09",
-                "under": "1.69"
-              },
-              {
-                "label": "Dylan Harper (3 Point FG)",
-                "hdp": 0.5,
-                "over": "1.52",
-                "under": "2.43"
-              },
-              {
-                "label": "Stephon Castle (Assists)",
-                "hdp": 6.5,
-                "over": "1.89",
-                "under": "1.85"
-              },
-              {
-                "label": "Stephon Castle (Rebs+Asts)",
-                "hdp": 11.5,
-                "over": "1.94",
-                "under": "1.80"
-              },
-              {
-                "label": "Stephon Castle (Steals+Blocks)",
-                "hdp": 1.5,
-                "over": "2.36",
-                "under": "1.54"
-              },
-              {
-                "label": "Miles McBride (Points)",
-                "hdp": 5.5,
-                "over": "1.81",
-                "under": "1.97"
-              },
-              {
-                "label": "Mitchell Robinson (Points)",
-                "hdp": 3.5,
-                "over": "1.72",
-                "under": "2.07"
-              },
-              {
-                "label": "Josh Hart (3 Point FG)",
-                "hdp": 1.5,
-                "over": "2.10",
-                "under": "1.68"
-              },
-              {
-                "label": "Miles McBride (3 Point FG)",
-                "hdp": 1.5,
-                "over": "2.41",
-                "under": "1.53"
-              },
-              {
-                "label": "Keldon Johnson (3 Point FG)",
-                "hdp": 0.5,
-                "over": "1.87",
-                "under": "1.86"
-              },
-              {
-                "label": "Mitchell Robinson (Rebounds)",
-                "hdp": 5.5,
-                "over": "2.02",
-                "under": "1.74"
-              },
-              {
-                "label": "Keldon Johnson (Rebounds)",
-                "hdp": 2.5,
-                "over": "1.88",
-                "under": "1.85"
-              },
-              {
-                "label": "Miles McBride (Assists)",
-                "hdp": 1.5,
-                "over": "2.32",
-                "under": "1.57"
-              },
-              {
-                "label": "Keldon Johnson (Assists)",
-                "hdp": 0.5,
-                "over": "1.86",
-                "under": "1.87"
-              },
-              {
-                "label": "Mitchell Robinson (Assists)",
-                "hdp": 0.5,
-                "over": "2.48",
-                "under": "1.50"
-              },
-              {
-                "label": "Mitchell Robinson (Rebs+Asts)",
-                "hdp": 5.5,
-                "over": "1.78",
-                "under": "1.97"
-              },
-              {
-                "label": "Miles McBride (Rebs+Asts)",
-                "hdp": 2.5,
-                "over": "1.82",
-                "under": "1.92"
-              },
-              {
-                "label": "Mitchell Robinson (Pts+Rebs+Asts)",
-                "hdp": 9.5,
-                "over": "1.88",
-                "under": "1.86"
-              },
-              {
-                "label": "Miles McBride (Pts+Rebs+Asts)",
-                "hdp": 8.5,
-                "over": "1.85",
-                "under": "1.89"
-              },
-              {
-                "label": "Miles McBride (Pts+Asts)",
-                "hdp": 7.5,
-                "over": "1.99",
-                "under": "1.76"
-              },
-              {
-                "label": "Mitchell Robinson (Blocks)",
-                "hdp": 0.5,
-                "over": "1.97",
-                "under": "1.77"
-              },
-              {
-                "label": "Julian Champagnie (Blocks)",
-                "hdp": 0.5,
-                "over": "2.55",
-                "under": "1.48"
-              },
-              {
-                "label": "Josh Hart (Blocks)",
-                "hdp": 0.5,
-                "over": "3.71",
-                "under": "1.26"
-              },
-              {
-                "label": "Miles McBride (Blocks)",
-                "hdp": 0.5,
-                "over": "6.46",
-                "under": "1.11"
-              },
-              {
-                "label": "Josh Hart (Steals+Blocks)",
-                "hdp": 1.5,
-                "over": "1.86",
-                "under": "1.86"
-              },
-              {
-                "label": "Josh Hart (Steals)",
-                "hdp": 1.5,
-                "over": "2.24",
-                "under": "1.60"
-              },
-              {
-                "label": "Miles McBride (Steals)",
-                "hdp": 0.5,
-                "over": "1.96",
-                "under": "1.78"
-              },
-              {
-                "label": "Keldon Johnson (Steals)",
-                "hdp": 0.5,
-                "over": "2.98",
-                "under": "1.37"
-              },
-              {
-                "label": "Landry Shamet (Points)",
-                "hdp": 7.5,
-                "over": "1.79",
-                "under": "1.99"
-              },
-              {
-                "label": "Landry Shamet (3 Point FG)",
-                "hdp": 1.5,
-                "over": "1.80",
-                "under": "1.94"
-              },
-              {
-                "label": "Landry Shamet (Pts+Rebs+Asts)",
-                "hdp": 10.5,
-                "over": "1.86",
-                "under": "1.87"
-              },
-              {
-                "label": "Landry Shamet (Pts+Rebs)",
-                "hdp": 9.5,
-                "over": "1.90",
-                "under": "1.83"
-              },
-              {
-                "label": "Landry Shamet (Pts+Asts)",
-                "hdp": 8.5,
-                "over": "1.77",
-                "under": "1.98"
-              },
-              {
-                "label": "Landry Shamet (Steals)",
-                "hdp": 0.5,
-                "over": "1.86",
-                "under": "1.87"
-              },
-              {
-                "label": "De'Aaron Fox (Pts+Rebs+Asts)",
-                "hdp": 23.5,
-                "over": "1.78",
-                "under": "1.97"
-              },
-              {
-                "label": "Dylan Harper (Rebs+Asts)",
-                "hdp": 8.5,
-                "over": "1.91",
-                "under": "1.83"
-              },
-              {
-                "label": "Keldon Johnson (Pts+Asts)",
-                "hdp": 6.5,
-                "over": "1.94",
-                "under": "1.80"
-              },
-              {
-                "label": "Dylan Harper (Rebounds)",
-                "hdp": 5.5,
-                "over": "2.16",
-                "under": "1.65"
-              },
-              {
-                "label": "Jalen Brunson (Assists)",
-                "hdp": 6.5,
-                "over": "2.18",
-                "under": "1.64"
-              },
-              {
-                "label": "Karl-Anthony Towns (Assists)",
-                "hdp": 4.5,
-                "over": "2.28",
-                "under": "1.59"
-              },
-              {
-                "label": "Jalen Brunson (Rebs+Asts)",
-                "hdp": 9.5,
-                "over": "2.08",
-                "under": "1.70"
-              },
-              {
-                "label": "Mitchell Robinson (Pts+Rebs)",
-                "hdp": 8.5,
-                "over": "1.73",
-                "under": "2.03"
-              },
-              {
-                "label": "Josh Hart (Pts+Asts)",
-                "hdp": 13.5,
-                "over": "1.76",
-                "under": "1.99"
-              },
-              {
-                "label": "Victor Wembanyama (Rebounds)",
-                "hdp": 11.5,
-                "over": "1.88",
-                "under": "1.86"
-              },
-              {
-                "label": "Julian Champagnie (Rebounds)",
-                "hdp": 5.5,
-                "over": "1.90",
-                "under": "1.83"
-              },
-              {
-                "label": "Stephon Castle (Rebounds)",
-                "hdp": 4.5,
-                "over": "1.79",
-                "under": "1.96"
-              },
-              {
-                "label": "Victor Wembanyama (Rebs+Asts)",
-                "hdp": 14.5,
-                "over": "1.80",
-                "under": "1.94"
-              },
-              {
-                "label": "Julian Champagnie (Rebs+Asts)",
-                "hdp": 6.5,
-                "over": "1.71",
-                "under": "2.05"
               },
               {
                 "label": "OG Anunoby (Points)",
                 "hdp": 15.5,
-                "over": "1.94",
-                "under": "1.83"
+                "over": "1.89",
+                "under": "1.88"
               },
               {
-                "label": "OG Anunoby (3 Point FG)",
-                "hdp": 1.5,
-                "over": "1.51",
-                "under": "2.47"
+                "label": "Stephon Castle (Points)",
+                "hdp": 15.5,
+                "over": "1.99",
+                "under": "1.79"
               },
               {
-                "label": "Dylan Harper (Steals)",
-                "hdp": 0.5,
-                "over": "1.60",
-                "under": "2.23"
+                "label": "De'Aaron Fox (Points)",
+                "hdp": 14.5,
+                "over": "1.85",
+                "under": "1.91"
               },
               {
-                "label": "Julian Champagnie (Steals)",
-                "hdp": 0.5,
-                "over": "1.73",
-                "under": "2.03"
+                "label": "Dylan Harper (Points)",
+                "hdp": 13.5,
+                "over": "1.99",
+                "under": "1.79"
+              },
+              {
+                "label": "Mikal Bridges (Points)",
+                "hdp": 12.5,
+                "over": "1.80",
+                "under": "1.97"
+              },
+              {
+                "label": "Devin Vassell (Points)",
+                "hdp": 12.5,
+                "over": "1.86",
+                "under": "1.90"
+              },
+              {
+                "label": "Julian Champagnie (Points)",
+                "hdp": 10.5,
+                "over": "1.95",
+                "under": "1.82"
+              },
+              {
+                "label": "Josh Hart (Points)",
+                "hdp": 9.5,
+                "over": "2.01",
+                "under": "1.77"
+              },
+              {
+                "label": "Landry Shamet (Points)",
+                "hdp": 8.5,
+                "over": "1.89",
+                "under": "1.87"
+              },
+              {
+                "label": "Miles McBride (Points)",
+                "hdp": 5.5,
+                "over": "1.75",
+                "under": "2.04"
+              },
+              {
+                "label": "Keldon Johnson (Points)",
+                "hdp": 5.5,
+                "over": "1.95",
+                "under": "1.81"
+              },
+              {
+                "label": "Mitchell Robinson (Points)",
+                "hdp": 3.5,
+                "over": "1.70",
+                "under": "2.11"
+              },
+              {
+                "label": "Jose Alvarado (Points)",
+                "hdp": 2.5,
+                "over": "1.77",
+                "under": "2.01"
+              },
+              {
+                "label": "Luke Kornet (Points)",
+                "hdp": 2.5,
+                "over": "2.41",
+                "under": "1.55"
+              },
+              {
+                "label": "NY Knicks Alternate (Points)",
+                "hdp": 119.5,
+                "over": "4.74",
+                "under": "1.18"
               },
               {
                 "label": "SA Spurs Alternate (Points)",
                 "hdp": 116.5,
-                "over": "4.44",
-                "under": "1.20"
+                "over": "4.40",
+                "under": "1.21"
               },
               {
                 "label": "Both Teams (Points)",
@@ -23755,106 +23005,1016 @@ const analyticsData = {
                 "under": "2.00"
               },
               {
-                "label": "Karl-Anthony Towns (3 Point FG)",
+                "label": "Any Player (Points)",
+                "hdp": 34.5,
+                "over": "2.86"
+              },
+              {
+                "label": "Any Player (Points)",
+                "hdp": 39.5,
+                "over": "7.10"
+              },
+              {
+                "label": "Any Player (Points)",
+                "hdp": 44.5,
+                "over": "21.00"
+              },
+              {
+                "label": "Devin Vassell (3 Point FG)",
+                "hdp": 2.5,
+                "over": "2.07",
+                "under": "1.70"
+              },
+              {
+                "label": "Julian Champagnie (3 Point FG)",
+                "hdp": 2.5,
+                "over": "2.08",
+                "under": "1.69"
+              },
+              {
+                "label": "Jalen Brunson (3 Point FG)",
+                "hdp": 2.5,
+                "over": "2.11",
+                "under": "1.68"
+              },
+              {
+                "label": "Victor Wembanyama (3 Point FG)",
+                "hdp": 2.5,
+                "over": "2.42",
+                "under": "1.53"
+              },
+              {
+                "label": "OG Anunoby (3 Point FG)",
+                "hdp": 2.5,
+                "over": "2.47",
+                "under": "1.51"
+              },
+              {
+                "label": "Landry Shamet (3 Point FG)",
                 "hdp": 1.5,
-                "over": "2.14",
-                "under": "1.66"
+                "over": "1.69",
+                "under": "2.09"
+              },
+              {
+                "label": "De'Aaron Fox (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.09",
+                "under": "1.69"
               },
               {
                 "label": "Mikal Bridges (3 Point FG)",
                 "hdp": 1.5,
-                "over": "2.24",
-                "under": "1.60"
+                "over": "2.17",
+                "under": "1.64"
               },
               {
-                "label": "Dylan Harper (Assists)",
-                "hdp": 3.5,
-                "over": "2.20",
-                "under": "1.63"
+                "label": "Karl-Anthony Towns (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.18",
+                "under": "1.64"
               },
               {
-                "label": "Mikal Bridges (Assists)",
-                "hdp": 2.5,
-                "over": "1.69",
-                "under": "2.08"
+                "label": "Stephon Castle (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.23",
+                "under": "1.61"
               },
               {
-                "label": "Landry Shamet (Assists)",
+                "label": "Miles McBride (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.33",
+                "under": "1.56"
+              },
+              {
+                "label": "Josh Hart (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.54",
+                "under": "1.48"
+              },
+              {
+                "label": "Dylan Harper (3 Point FG)",
                 "hdp": 0.5,
-                "over": "1.42",
-                "under": "2.77"
+                "over": "1.53",
+                "under": "2.42"
               },
               {
-                "label": "OG Anunoby (Rebs+Asts)",
+                "label": "Keldon Johnson (3 Point FG)",
+                "hdp": 0.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Jose Alvarado (3 Point FG)",
+                "hdp": 0.5,
+                "over": "2.29",
+                "under": "1.58"
+              },
+              {
+                "label": "Any Player (3 Point FG)",
+                "hdp": 4.5,
+                "over": "1.88"
+              },
+              {
+                "label": "Any Player (3 Point FG)",
+                "hdp": 5.5,
+                "over": "4.08"
+              },
+              {
+                "label": "Any Player (3 Point FG)",
                 "hdp": 6.5,
-                "over": "1.68",
-                "under": "2.10"
+                "over": "10.40"
               },
               {
-                "label": "OG Anunoby (Pts+Rebs+Asts)",
-                "hdp": 22.5,
+                "label": "Victor Wembanyama (Rebounds)",
+                "hdp": 11.5,
+                "over": "1.76",
+                "under": "1.98"
+              },
+              {
+                "label": "Karl-Anthony Towns (Rebounds)",
+                "hdp": 11.5,
+                "over": "2.05",
+                "under": "1.72"
+              },
+              {
+                "label": "Josh Hart (Rebounds)",
+                "hdp": 8.5,
+                "over": "2.09",
+                "under": "1.69"
+              },
+              {
+                "label": "Julian Champagnie (Rebounds)",
+                "hdp": 5.5,
+                "over": "1.86",
+                "under": "1.88"
+              },
+              {
+                "label": "Dylan Harper (Rebounds)",
+                "hdp": 5.5,
+                "over": "1.94",
+                "under": "1.80"
+              },
+              {
+                "label": "Mitchell Robinson (Rebounds)",
+                "hdp": 5.5,
+                "over": "2.11",
+                "under": "1.68"
+              },
+              {
+                "label": "OG Anunoby (Rebounds)",
+                "hdp": 5.5,
+                "over": "2.12",
+                "under": "1.67"
+              },
+              {
+                "label": "Stephon Castle (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.62",
+                "under": "2.20"
+              },
+              {
+                "label": "Devin Vassell (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.78",
+                "under": "1.96"
+              },
+              {
+                "label": "Mikal Bridges (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.98",
+                "under": "1.77"
+              },
+              {
+                "label": "De'Aaron Fox (Rebounds)",
+                "hdp": 3.5,
+                "over": "2.06",
+                "under": "1.71"
+              },
+              {
+                "label": "Jalen Brunson (Rebounds)",
+                "hdp": 3.5,
+                "over": "2.30",
+                "under": "1.58"
+              },
+              {
+                "label": "Keldon Johnson (Rebounds)",
+                "hdp": 2.5,
+                "over": "1.94",
+                "under": "1.80"
+              },
+              {
+                "label": "Luke Kornet (Rebounds)",
+                "hdp": 2.5,
+                "over": "2.06",
+                "under": "1.71"
+              },
+              {
+                "label": "Landry Shamet (Rebounds)",
+                "hdp": 1.5,
+                "over": "1.86",
+                "under": "1.86"
+              },
+              {
+                "label": "Miles McBride (Rebounds)",
+                "hdp": 1.5,
+                "over": "2.21",
+                "under": "1.62"
+              },
+              {
+                "label": "Jose Alvarado (Rebounds)",
+                "hdp": 1.5,
+                "over": "2.60",
+                "under": "1.46"
+              },
+              {
+                "label": "Any Player (Rebounds)",
+                "hdp": 13.5,
+                "over": "1.74"
+              },
+              {
+                "label": "Any Player (Rebounds)",
+                "hdp": 14.5,
+                "over": "2.26"
+              },
+              {
+                "label": "Any Player (Rebounds)",
+                "hdp": 15.5,
+                "over": "3.08"
+              },
+              {
+                "label": "Any Player (Rebounds)",
+                "hdp": 16.5,
+                "over": "4.39"
+              },
+              {
+                "label": "Any Player (Rebounds)",
+                "hdp": 17.5,
+                "over": "6.56"
+              },
+              {
+                "label": "Any Player (Rebounds)",
+                "hdp": 18.5,
+                "over": "9.90"
+              },
+              {
+                "label": "Stephon Castle (Assists)",
+                "hdp": 6.5,
+                "over": "1.83",
+                "under": "1.90"
+              },
+              {
+                "label": "Jalen Brunson (Assists)",
+                "hdp": 5.5,
+                "over": "1.65",
+                "under": "2.15"
+              },
+              {
+                "label": "De'Aaron Fox (Assists)",
+                "hdp": 5.5,
                 "over": "1.90",
                 "under": "1.84"
               },
               {
-                "label": "Mikal Bridges (Blocks)",
-                "hdp": 0.5,
-                "over": "2.46",
-                "under": "1.51"
+                "label": "Josh Hart (Assists)",
+                "hdp": 4.5,
+                "over": "1.94",
+                "under": "1.80"
               },
               {
-                "label": "Devin Vassell (Blocks)",
-                "hdp": 0.5,
-                "over": "2.71",
-                "under": "1.43"
+                "label": "Karl-Anthony Towns (Assists)",
+                "hdp": 3.5,
+                "over": "1.71",
+                "under": "2.06"
               },
               {
-                "label": "De'Aaron Fox (Blocks)",
-                "hdp": 0.5,
-                "over": "4.12",
-                "under": "1.22"
+                "label": "Dylan Harper (Assists)",
+                "hdp": 3.5,
+                "over": "2.09",
+                "under": "1.69"
               },
               {
-                "label": "Mikal Bridges (Steals+Blocks)",
-                "hdp": 1.5,
-                "over": "1.68",
-                "under": "2.09"
+                "label": "Victor Wembanyama (Assists)",
+                "hdp": 3.5,
+                "over": "2.27",
+                "under": "1.59"
               },
               {
-                "label": "Dylan Harper (Steals+Blocks)",
-                "hdp": 1.5,
-                "over": "2.64",
-                "under": "1.45"
-              },
-              {
-                "label": "Mikal Bridges (Steals)",
-                "hdp": 1.5,
-                "over": "2.22",
-                "under": "1.61"
-              },
-              {
-                "label": "OG Anunoby (Steals)",
-                "hdp": 1.5,
-                "over": "2.31",
-                "under": "1.57"
+                "label": "Mikal Bridges (Assists)",
+                "hdp": 2.5,
+                "over": "1.62",
+                "under": "2.21"
               },
               {
                 "label": "Devin Vassell (Assists)",
                 "hdp": 2.5,
+                "over": "2.07",
+                "under": "1.70"
+              },
+              {
+                "label": "OG Anunoby (Assists)",
+                "hdp": 1.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Julian Champagnie (Assists)",
+                "hdp": 1.5,
                 "over": "2.09",
                 "under": "1.69"
+              },
+              {
+                "label": "Jose Alvarado (Assists)",
+                "hdp": 1.5,
+                "over": "2.22",
+                "under": "1.62"
+              },
+              {
+                "label": "Miles McBride (Assists)",
+                "hdp": 1.5,
+                "over": "2.35",
+                "under": "1.55"
+              },
+              {
+                "label": "Landry Shamet (Assists)",
+                "hdp": 1.5,
+                "over": "2.66",
+                "under": "1.45"
+              },
+              {
+                "label": "Keldon Johnson (Assists)",
+                "hdp": 0.5,
+                "over": "1.91",
+                "under": "1.82"
+              },
+              {
+                "label": "Luke Kornet (Assists)",
+                "hdp": 0.5,
+                "over": "2.18",
+                "under": "1.64"
+              },
+              {
+                "label": "Mitchell Robinson (Assists)",
+                "hdp": 0.5,
+                "over": "2.31",
+                "under": "1.57"
+              },
+              {
+                "label": "Any Player (Assists)",
+                "hdp": 10.5,
+                "over": "5.01"
+              },
+              {
+                "label": "Any Player (Assists)",
+                "hdp": 11.5,
+                "over": "9.50"
+              },
+              {
+                "label": "Karl-Anthony Towns (Rebs+Asts)",
+                "hdp": 15.5,
+                "over": "2.03",
+                "under": "1.74"
+              },
+              {
+                "label": "Victor Wembanyama (Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "1.72",
+                "under": "2.04"
+              },
+              {
+                "label": "Josh Hart (Rebs+Asts)",
+                "hdp": 12.5,
+                "over": "1.83",
+                "under": "1.90"
+              },
+              {
+                "label": "Stephon Castle (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "1.78",
+                "under": "1.96"
+              },
+              {
+                "label": "Jalen Brunson (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "2.01",
+                "under": "1.75"
+              },
+              {
+                "label": "De'Aaron Fox (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "1.72",
+                "under": "2.05"
+              },
+              {
+                "label": "Dylan Harper (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "1.75",
+                "under": "2.01"
+              },
+              {
+                "label": "Devin Vassell (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "2.05",
+                "under": "1.71"
+              },
+              {
+                "label": "Julian Champagnie (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "2.12",
+                "under": "1.68"
+              },
+              {
+                "label": "OG Anunoby (Rebs+Asts)",
+                "hdp": 6.5,
+                "over": "1.76",
+                "under": "1.99"
+              },
+              {
+                "label": "Mikal Bridges (Rebs+Asts)",
+                "hdp": 6.5,
+                "over": "1.94",
+                "under": "1.80"
+              },
+              {
+                "label": "Mitchell Robinson (Rebs+Asts)",
+                "hdp": 5.5,
+                "over": "1.83",
+                "under": "1.90"
+              },
+              {
+                "label": "Keldon Johnson (Rebs+Asts)",
+                "hdp": 3.5,
+                "over": "2.17",
+                "under": "1.64"
+              },
+              {
+                "label": "Luke Kornet (Rebs+Asts)",
+                "hdp": 2.5,
+                "over": "1.67",
+                "under": "2.13"
+              },
+              {
+                "label": "Landry Shamet (Rebs+Asts)",
+                "hdp": 2.5,
+                "over": "1.70",
+                "under": "2.07"
+              },
+              {
+                "label": "Miles McBride (Rebs+Asts)",
+                "hdp": 2.5,
+                "over": "1.83",
+                "under": "1.90"
+              },
+              {
+                "label": "Jose Alvarado (Rebs+Asts)",
+                "hdp": 2.5,
+                "over": "1.94",
+                "under": "1.80"
+              },
+              {
+                "label": "Victor Wembanyama (Pts+Rebs+Asts)",
+                "hdp": 42.5,
+                "over": "1.91",
+                "under": "1.82"
               },
               {
                 "label": "Jalen Brunson (Pts+Rebs+Asts)",
                 "hdp": 35.5,
                 "over": "1.81",
+                "under": "1.92"
+              },
+              {
+                "label": "Karl-Anthony Towns (Pts+Rebs+Asts)",
+                "hdp": 33.5,
+                "over": "1.83",
+                "under": "1.91"
+              },
+              {
+                "label": "Stephon Castle (Pts+Rebs+Asts)",
+                "hdp": 27.5,
+                "over": "1.95",
+                "under": "1.80"
+              },
+              {
+                "label": "De'Aaron Fox (Pts+Rebs+Asts)",
+                "hdp": 23.5,
+                "over": "1.80",
+                "under": "1.94"
+              },
+              {
+                "label": "OG Anunoby (Pts+Rebs+Asts)",
+                "hdp": 22.5,
+                "over": "1.87",
+                "under": "1.86"
+              },
+              {
+                "label": "Dylan Harper (Pts+Rebs+Asts)",
+                "hdp": 22.5,
+                "over": "1.92",
+                "under": "1.81"
+              },
+              {
+                "label": "Josh Hart (Pts+Rebs+Asts)",
+                "hdp": 22.5,
+                "over": "1.97",
+                "under": "1.78"
+              },
+              {
+                "label": "Devin Vassell (Pts+Rebs+Asts)",
+                "hdp": 19.5,
+                "over": "1.79",
+                "under": "1.96"
+              },
+              {
+                "label": "Mikal Bridges (Pts+Rebs+Asts)",
+                "hdp": 19.5,
+                "over": "1.86",
+                "under": "1.87"
+              },
+              {
+                "label": "Julian Champagnie (Pts+Rebs+Asts)",
+                "hdp": 17.5,
+                "over": "1.87",
+                "under": "1.86"
+              },
+              {
+                "label": "Landry Shamet (Pts+Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "1.88",
+                "under": "1.86"
+              },
+              {
+                "label": "Mitchell Robinson (Pts+Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "Miles McBride (Pts+Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "1.80",
+                "under": "1.95"
+              },
+              {
+                "label": "Keldon Johnson (Pts+Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "1.81",
                 "under": "1.93"
+              },
+              {
+                "label": "Jose Alvarado (Pts+Rebs+Asts)",
+                "hdp": 5.5,
+                "over": "1.88",
+                "under": "1.85"
+              },
+              {
+                "label": "Luke Kornet (Pts+Rebs+Asts)",
+                "hdp": 5.5,
+                "over": "1.98",
+                "under": "1.77"
+              },
+              {
+                "label": "Victor Wembanyama (Pts+Rebs)",
+                "hdp": 38.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "Karl-Anthony Towns (Pts+Rebs)",
+                "hdp": 29.5,
+                "over": "1.81",
+                "under": "1.92"
+              },
+              {
+                "label": "Jalen Brunson (Pts+Rebs)",
+                "hdp": 29.5,
+                "over": "1.86",
+                "under": "1.88"
+              },
+              {
+                "label": "OG Anunoby (Pts+Rebs)",
+                "hdp": 20.5,
+                "over": "1.80",
+                "under": "1.94"
+              },
+              {
+                "label": "Stephon Castle (Pts+Rebs)",
+                "hdp": 20.5,
+                "over": "1.92",
+                "under": "1.81"
+              },
+              {
+                "label": "Dylan Harper (Pts+Rebs)",
+                "hdp": 18.5,
+                "over": "1.83",
+                "under": "1.90"
+              },
+              {
+                "label": "De'Aaron Fox (Pts+Rebs)",
+                "hdp": 18.5,
+                "over": "1.94",
+                "under": "1.80"
+              },
+              {
+                "label": "Devin Vassell (Pts+Rebs)",
+                "hdp": 17.5,
+                "over": "1.87",
+                "under": "1.86"
+              },
+              {
+                "label": "Josh Hart (Pts+Rebs)",
+                "hdp": 17.5,
+                "over": "1.88",
+                "under": "1.86"
+              },
+              {
+                "label": "Mikal Bridges (Pts+Rebs)",
+                "hdp": 16.5,
+                "over": "1.88",
+                "under": "1.86"
+              },
+              {
+                "label": "Julian Champagnie (Pts+Rebs)",
+                "hdp": 15.5,
+                "over": "1.77",
+                "under": "1.98"
+              },
+              {
+                "label": "Landry Shamet (Pts+Rebs)",
+                "hdp": 10.5,
+                "over": "1.95",
+                "under": "1.80"
+              },
+              {
+                "label": "Mitchell Robinson (Pts+Rebs)",
+                "hdp": 9.5,
+                "over": "1.98",
+                "under": "1.77"
+              },
+              {
+                "label": "Keldon Johnson (Pts+Rebs)",
+                "hdp": 8.5,
+                "over": "2.01",
+                "under": "1.75"
+              },
+              {
+                "label": "Miles McBride (Pts+Rebs)",
+                "hdp": 7.5,
+                "over": "1.89",
+                "under": "1.84"
+              },
+              {
+                "label": "Jalen Brunson (Pts+Asts)",
+                "hdp": 32.5,
+                "over": "1.86",
+                "under": "1.87"
+              },
+              {
+                "label": "Victor Wembanyama (Pts+Asts)",
+                "hdp": 30.5,
+                "over": "1.94",
+                "under": "1.80"
+              },
+              {
+                "label": "Karl-Anthony Towns (Pts+Asts)",
+                "hdp": 22.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Stephon Castle (Pts+Asts)",
+                "hdp": 21.5,
+                "over": "1.79",
+                "under": "1.96"
+              },
+              {
+                "label": "De'Aaron Fox (Pts+Asts)",
+                "hdp": 20.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "OG Anunoby (Pts+Asts)",
+                "hdp": 17.5,
+                "over": "1.95",
+                "under": "1.80"
+              },
+              {
+                "label": "Dylan Harper (Pts+Asts)",
+                "hdp": 16.5,
+                "over": "1.85",
+                "under": "1.88"
+              },
+              {
+                "label": "Mikal Bridges (Pts+Asts)",
+                "hdp": 15.5,
+                "over": "1.79",
+                "under": "1.96"
+              },
+              {
+                "label": "Devin Vassell (Pts+Asts)",
+                "hdp": 15.5,
+                "over": "1.97",
+                "under": "1.78"
+              },
+              {
+                "label": "Josh Hart (Pts+Asts)",
+                "hdp": 13.5,
+                "over": "1.81",
+                "under": "1.92"
+              },
+              {
+                "label": "Julian Champagnie (Pts+Asts)",
+                "hdp": 11.5,
+                "over": "1.81",
+                "under": "1.92"
+              },
+              {
+                "label": "Landry Shamet (Pts+Asts)",
+                "hdp": 9.5,
+                "over": "1.81",
+                "under": "1.92"
+              },
+              {
+                "label": "Miles McBride (Pts+Asts)",
+                "hdp": 7.5,
+                "over": "1.92",
+                "under": "1.82"
+              },
+              {
+                "label": "Keldon Johnson (Pts+Asts)",
+                "hdp": 6.5,
+                "over": "2.03",
+                "under": "1.73"
+              },
+              {
+                "label": "Victor Wembanyama (Blocks)",
+                "hdp": 3.5,
+                "over": "1.94",
+                "under": "1.80"
+              },
+              {
+                "label": "Karl-Anthony Towns (Blocks)",
+                "hdp": 0.5,
+                "over": "1.62",
+                "under": "2.20"
+              },
+              {
+                "label": "OG Anunoby (Blocks)",
+                "hdp": 0.5,
+                "over": "1.78",
+                "under": "1.96"
+              },
+              {
+                "label": "Mitchell Robinson (Blocks)",
+                "hdp": 0.5,
+                "over": "1.98",
+                "under": "1.76"
+              },
+              {
+                "label": "Julian Champagnie (Blocks)",
+                "hdp": 0.5,
+                "over": "2.26",
+                "under": "1.59"
+              },
+              {
+                "label": "Mikal Bridges (Blocks)",
+                "hdp": 0.5,
+                "over": "2.39",
+                "under": "1.53"
+              },
+              {
+                "label": "Luke Kornet (Blocks)",
+                "hdp": 0.5,
+                "over": "2.47",
+                "under": "1.50"
+              },
+              {
+                "label": "Devin Vassell (Blocks)",
+                "hdp": 0.5,
+                "over": "2.48",
+                "under": "1.50"
+              },
+              {
+                "label": "Dylan Harper (Blocks)",
+                "hdp": 0.5,
+                "over": "2.85",
+                "under": "1.39"
+              },
+              {
+                "label": "Stephon Castle (Blocks)",
+                "hdp": 0.5,
+                "over": "3.57",
+                "under": "1.28"
+              },
+              {
+                "label": "Josh Hart (Blocks)",
+                "hdp": 0.5,
+                "over": "3.72",
+                "under": "1.26"
+              },
+              {
+                "label": "De'Aaron Fox (Blocks)",
+                "hdp": 0.5,
+                "over": "4.40",
+                "under": "1.20"
+              },
+              {
+                "label": "Landry Shamet (Blocks)",
+                "hdp": 0.5,
+                "over": "5.98",
+                "under": "1.13"
+              },
+              {
+                "label": "Miles McBride (Blocks)",
+                "hdp": 0.5,
+                "over": "6.17",
+                "under": "1.12"
+              },
+              {
+                "label": "Jalen Brunson (Blocks)",
+                "hdp": 0.5,
+                "over": "6.74",
+                "under": "1.11"
+              },
+              {
+                "label": "Keldon Johnson (Blocks)",
+                "hdp": 0.5,
+                "over": "8.70",
+                "under": "1.07"
+              },
+              {
+                "label": "Jose Alvarado (Blocks)",
+                "hdp": 0.5,
+                "over": "14.40",
+                "under": "1.03"
+              },
+              {
+                "label": "Victor Wembanyama (Steals+Blocks)",
+                "hdp": 4.5,
+                "over": "1.82",
+                "under": "1.90"
+              },
+              {
+                "label": "OG Anunoby (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "1.58",
+                "under": "2.27"
+              },
+              {
+                "label": "Mikal Bridges (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "1.63",
+                "under": "2.18"
+              },
+              {
+                "label": "Karl-Anthony Towns (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Josh Hart (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "1.97",
+                "under": "1.78"
+              },
+              {
+                "label": "Devin Vassell (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "2.29",
+                "under": "1.57"
+              },
+              {
+                "label": "Stephon Castle (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "2.34",
+                "under": "1.55"
+              },
+              {
+                "label": "De'Aaron Fox (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "2.35",
+                "under": "1.55"
+              },
+              {
+                "label": "Julian Champagnie (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "2.42",
+                "under": "1.52"
+              },
+              {
+                "label": "Dylan Harper (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "2.43",
+                "under": "1.52"
+              },
+              {
+                "label": "Mitchell Robinson (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "2.49",
+                "under": "1.50"
+              },
+              {
+                "label": "Mikal Bridges (Steals)",
+                "hdp": 1.5,
+                "over": "2.15",
+                "under": "1.65"
+              },
+              {
+                "label": "Josh Hart (Steals)",
+                "hdp": 1.5,
+                "over": "2.39",
+                "under": "1.53"
+              },
+              {
+                "label": "OG Anunoby (Steals)",
+                "hdp": 1.5,
+                "over": "2.48",
+                "under": "1.50"
+              },
+              {
+                "label": "Victor Wembanyama (Steals)",
+                "hdp": 1.5,
+                "over": "2.73",
+                "under": "1.42"
+              },
+              {
+                "label": "De'Aaron Fox (Steals)",
+                "hdp": 0.5,
+                "over": "1.42",
+                "under": "2.73"
+              },
+              {
+                "label": "Stephon Castle (Steals)",
+                "hdp": 0.5,
+                "over": "1.44",
+                "under": "2.69"
+              },
+              {
+                "label": "Devin Vassell (Steals)",
+                "hdp": 0.5,
+                "over": "1.58",
+                "under": "2.29"
+              },
+              {
+                "label": "Dylan Harper (Steals)",
+                "hdp": 0.5,
+                "over": "1.58",
+                "under": "2.29"
               },
               {
                 "label": "Jalen Brunson (Steals)",
                 "hdp": 0.5,
-                "over": "1.61",
-                "under": "2.22"
+                "over": "1.65",
+                "under": "2.14"
+              },
+              {
+                "label": "Julian Champagnie (Steals)",
+                "hdp": 0.5,
+                "over": "1.72",
+                "under": "2.04"
+              },
+              {
+                "label": "Karl-Anthony Towns (Steals)",
+                "hdp": 0.5,
+                "over": "1.77",
+                "under": "1.97"
+              },
+              {
+                "label": "Mitchell Robinson (Steals)",
+                "hdp": 0.5,
+                "over": "1.99",
+                "under": "1.75"
+              },
+              {
+                "label": "Landry Shamet (Steals)",
+                "hdp": 0.5,
+                "over": "2.07",
+                "under": "1.70"
+              },
+              {
+                "label": "Miles McBride (Steals)",
+                "hdp": 0.5,
+                "over": "2.20",
+                "under": "1.62"
+              },
+              {
+                "label": "Jose Alvarado (Steals)",
+                "hdp": 0.5,
+                "over": "2.38",
+                "under": "1.54"
+              },
+              {
+                "label": "Keldon Johnson (Steals)",
+                "hdp": 0.5,
+                "over": "3.08",
+                "under": "1.35"
+              },
+              {
+                "label": "Luke Kornet (Steals)",
+                "hdp": 0.5,
+                "over": "4.19",
+                "under": "1.22"
               }
             ]
           }
@@ -23862,11 +24022,11 @@ const analyticsData = {
         "advanced": {
           "blowout_risk": 0.11853559847642359,
           "recommended_bet": 0.0,
-          "market_edge": -0.006740596779432395,
+          "market_edge": -0.002882385145438482,
           "latent_strength_A": 10.342643187752282,
           "latent_strength_B": 11.701044463567804,
-          "form_state_A": 1,
-          "form_state_B": 2,
+          "form_state_A": 2,
+          "form_state_B": 0,
           "entropy_A": 3.321928094887362
         },
         "halves": {
@@ -23938,8 +24098,8 @@ const analyticsData = {
             "injury": "",
             "market_line": null,
             "market_pts": 26.5,
-            "market_reb": 2.5,
-            "market_ast": 6.5
+            "market_reb": 3.5,
+            "market_ast": 5.5
           },
           {
             "player": "Jeremy Sochan",
@@ -23969,7 +24129,10 @@ const analyticsData = {
             "proj_ast": 4.250519552422113,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_pts": 2.5,
+            "market_reb": 1.5,
+            "market_ast": 1.5
           },
           {
             "player": "Josh Hart",
@@ -23981,7 +24144,7 @@ const analyticsData = {
             "injury": "Knee",
             "market_line": null,
             "market_pts": 9.5,
-            "market_reb": 7.5,
+            "market_reb": 8.5,
             "market_ast": 4.5
           },
           {
@@ -23995,7 +24158,7 @@ const analyticsData = {
             "market_line": null,
             "market_pts": 18.5,
             "market_reb": 11.5,
-            "market_ast": 4.5
+            "market_ast": 3.5
           },
           {
             "player": "Kevin McCullar Jr.",
@@ -24016,9 +24179,9 @@ const analyticsData = {
             "status": "Active",
             "injury": "",
             "market_line": null,
+            "market_pts": 8.5,
             "market_reb": 1.5,
-            "market_pts": 7.5,
-            "market_ast": 0.5
+            "market_ast": 1.5
           },
           {
             "player": "Mikal Bridges",
@@ -24029,8 +24192,8 @@ const analyticsData = {
             "status": "Active",
             "injury": "",
             "market_line": null,
+            "market_pts": 12.5,
             "market_reb": 3.5,
-            "market_pts": 13.5,
             "market_ast": 2.5
           },
           {
@@ -24042,8 +24205,8 @@ const analyticsData = {
             "status": "Out",
             "injury": "Pelvis",
             "market_line": null,
-            "market_reb": 1.5,
             "market_pts": 5.5,
+            "market_reb": 1.5,
             "market_ast": 1.5
           },
           {
@@ -24078,9 +24241,9 @@ const analyticsData = {
             "status": "Active",
             "injury": "",
             "market_line": null,
-            "market_ast": 1.5,
+            "market_pts": 15.5,
             "market_reb": 5.5,
-            "market_pts": 15.5
+            "market_ast": 1.5
           },
           {
             "player": "Pac\u00f4me Dadiet",
@@ -24161,9 +24324,9 @@ const analyticsData = {
             "status": "Active",
             "injury": "",
             "market_line": null,
+            "market_pts": 14.5,
             "market_reb": 3.5,
-            "market_ast": 5.5,
-            "market_pts": 14.5
+            "market_ast": 5.5
           },
           {
             "player": "Devin Vassell",
@@ -24174,8 +24337,8 @@ const analyticsData = {
             "status": "Active",
             "injury": "",
             "market_line": null,
-            "market_reb": 4.5,
             "market_pts": 12.5,
+            "market_reb": 4.5,
             "market_ast": 2.5
           },
           {
@@ -24187,7 +24350,7 @@ const analyticsData = {
             "status": "Active",
             "injury": "",
             "market_line": null,
-            "market_pts": 12.5,
+            "market_pts": 13.5,
             "market_reb": 5.5,
             "market_ast": 3.5
           },
@@ -24240,9 +24403,9 @@ const analyticsData = {
             "status": "Active",
             "injury": "",
             "market_line": null,
-            "market_ast": 1.5,
             "market_pts": 10.5,
-            "market_reb": 5.5
+            "market_reb": 5.5,
+            "market_ast": 1.5
           },
           {
             "player": "Keldon Johnson",
@@ -24285,7 +24448,10 @@ const analyticsData = {
             "proj_ast": 1.5180426972936116,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_pts": 2.5,
+            "market_reb": 2.5,
+            "market_ast": 0.5
           },
           {
             "player": "Mason Plumlee",
@@ -24327,8 +24493,8 @@ const analyticsData = {
             "injury": "",
             "market_line": null,
             "market_pts": 15.5,
-            "market_ast": 6.5,
-            "market_reb": 4.5
+            "market_reb": 4.5,
+            "market_ast": 6.5
           },
           {
             "player": "Victor Wembanyama",
@@ -24339,9 +24505,9 @@ const analyticsData = {
             "status": "Active",
             "injury": "",
             "market_line": null,
-            "market_ast": 3.5,
             "market_pts": 26.5,
-            "market_reb": 11.5
+            "market_reb": 11.5,
+            "market_ast": 3.5
           }
         ],
         "factors": {
@@ -24372,9 +24538,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.17653569831055885,
-          "6-10": 0.07464623889394675,
-          "11+": 0.11301218899788963
+          "1-5": 0.18877108138755458,
+          "6-10": 0.08005461639795088,
+          "11+": 0.12312053063250061
         },
         "formA": [
           {
@@ -24730,7 +24896,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5814415938849797,
-      "mc_win_A": 0.4942,
+      "mc_win_A": 0.4908,
       "shap_explanation": {
         "adj_ortg_10": 0.02600713339246564,
         "adj_drtg_10": 0.036286809296782394,
