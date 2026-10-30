@@ -42,7 +42,7 @@ const analyticsData = {
       "adj_pace_10": 102.80957461363694,
       "sos_10": -9.250098758164969,
       "latent_strength": 11.188497712009733,
-      "form_state": 2,
+      "form_state": 0,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5626566017838438,
@@ -230,7 +230,7 @@ const analyticsData = {
       "adj_pace_10": 100.58998487004719,
       "sos_10": 5.017274364988298,
       "latent_strength": -13.547446377571957,
-      "form_state": 0,
+      "form_state": 2,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.518543216502516,
@@ -606,7 +606,7 @@ const analyticsData = {
       "adj_pace_10": 99.61504835270482,
       "sos_10": -0.5873290595574725,
       "latent_strength": 8.583838975026982,
-      "form_state": 2,
+      "form_state": 0,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5501519471473828,
@@ -794,7 +794,7 @@ const analyticsData = {
       "adj_pace_10": 105.33777974184207,
       "sos_10": 0.12609118927576074,
       "latent_strength": -2.9535234490350355,
-      "form_state": 0,
+      "form_state": 1,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.551011335857835,
@@ -982,7 +982,7 @@ const analyticsData = {
       "adj_pace_10": 99.63426354257824,
       "sos_10": -1.5848900060583127,
       "latent_strength": 5.505910660887272,
-      "form_state": 0,
+      "form_state": 1,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.569235178964745,
@@ -1170,7 +1170,7 @@ const analyticsData = {
       "adj_pace_10": 102.44666860586938,
       "sos_10": 5.670759128668195,
       "latent_strength": -10.618255735009239,
-      "form_state": 1,
+      "form_state": 2,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.497388539687562,
@@ -1734,7 +1734,7 @@ const analyticsData = {
       "adj_pace_10": 100.78352333158567,
       "sos_10": -1.1071306320688743,
       "latent_strength": -2.8732842108687136,
-      "form_state": 2,
+      "form_state": 0,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5309610017743458,
@@ -1922,7 +1922,7 @@ const analyticsData = {
       "adj_pace_10": 99.45042623199583,
       "sos_10": 1.6334978935257922,
       "latent_strength": -3.0522040387036955,
-      "form_state": 0,
+      "form_state": 1,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5268050399579487,
@@ -2110,7 +2110,7 @@ const analyticsData = {
       "adj_pace_10": 101.4125420235909,
       "sos_10": 1.1798270763639958,
       "latent_strength": -13.733185111787689,
-      "form_state": 0,
+      "form_state": 1,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5337413513020539,
@@ -2298,7 +2298,7 @@ const analyticsData = {
       "adj_pace_10": 101.63788230594464,
       "sos_10": -0.24137154569838107,
       "latent_strength": 4.390603830960883,
-      "form_state": 2,
+      "form_state": 1,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5780380005774381,
@@ -2674,7 +2674,7 @@ const analyticsData = {
       "adj_pace_10": 103.37819246576208,
       "sos_10": -3.993266010038102,
       "latent_strength": -8.587878479366402,
-      "form_state": 0,
+      "form_state": 2,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5443658578662921,
@@ -2862,7 +2862,7 @@ const analyticsData = {
       "adj_pace_10": 104.84507366916053,
       "sos_10": -2.2285996537857087,
       "latent_strength": 3.346266748432738,
-      "form_state": 2,
+      "form_state": 0,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5384286060508854,
@@ -3238,7 +3238,7 @@ const analyticsData = {
       "adj_pace_10": 100.97059265650229,
       "sos_10": 2.600767743972654,
       "latent_strength": -1.9556884864469732,
-      "form_state": 1,
+      "form_state": 2,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5609039891841255,
@@ -3426,7 +3426,7 @@ const analyticsData = {
       "adj_pace_10": 103.81094708688204,
       "sos_10": -4.924666327714091,
       "latent_strength": 4.366050665867785,
-      "form_state": 1,
+      "form_state": 0,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5433758776892872,
@@ -4742,7 +4742,7 @@ const analyticsData = {
       "adj_pace_10": 102.71943524829598,
       "sos_10": -0.7608895900382631,
       "latent_strength": -6.94613037736287,
-      "form_state": 1,
+      "form_state": 2,
       "shooting_entropy": 2.9219280948873623,
       "factors": {
         "efg": 0.5390983776725441,
@@ -4930,7 +4930,7 @@ const analyticsData = {
       "adj_pace_10": 101.60993442865419,
       "sos_10": 3.510138994177261,
       "latent_strength": 11.701044463567804,
-      "form_state": 1,
+      "form_state": 0,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5857406442859878,
@@ -5118,7 +5118,7 @@ const analyticsData = {
       "adj_pace_10": 100.3344781800478,
       "sos_10": 3.047519908876628,
       "latent_strength": 1.9461049922231322,
-      "form_state": 0,
+      "form_state": 1,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5427073718696395,
@@ -5306,7 +5306,7 @@ const analyticsData = {
       "adj_pace_10": 101.19152333158567,
       "sos_10": -1.5756467840982442,
       "latent_strength": -6.1037482940050465,
-      "form_state": 2,
+      "form_state": 0,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5266638323672715,
@@ -5494,7 +5494,7 @@ const analyticsData = {
       "adj_pace_10": 104.29860025466257,
       "sos_10": 4.296150719322084,
       "latent_strength": -11.538579090957425,
-      "form_state": 1,
+      "form_state": 2,
       "shooting_entropy": 3.321928094887362,
       "factors": {
         "efg": 0.5667290749191511,
@@ -22849,7013 +22849,6 @@ const analyticsData = {
   ],
   "upcoming_matches": [
     {
-      "matchId": "odds_73719452",
-      "matchTime": 1793318400,
-      "gameStatus": "12:00 AM ET",
-      "homeTeam": "ATL",
-      "awayTeam": "CLE",
-      "homeName": "Atlanta Hawks",
-      "awayName": "Cleveland Cavaliers",
-      "is_odds_fallback": true,
-      "prediction": {
-        "main": {
-          "ptsA": 121.56531817518001,
-          "ptsB": 113.66219717796199,
-          "total": 235.227515353142,
-          "spread": -7.903120997218023,
-          "win_prob_A": 57.46633686316011,
-          "ml_prob_A": 0.5736271724682415,
-          "mc_win_A": 0.6492,
-          "base_win_prob_A": 0.7342213438189458,
-          "market_prob_A": 0.5118110236220472,
-          "market": {
-            "ml": {
-              "home": "1.86",
-              "away": "1.95"
-            },
-            "spread": {
-              "hdp": -1.5,
-              "home": "2.00",
-              "away": "1.83"
-            },
-            "total": {
-              "hdp": 237.5,
-              "over": "1.86",
-              "under": "1.95"
-            },
-            "props": [
-              {
-                "label": "Aaron Wiggins (3 Point FG)",
-                "hdp": 0.5,
-                "over": "1.11"
-              },
-              {
-                "label": "Aaron Wiggins (3 Point FG)",
-                "hdp": 1.5,
-                "over": "1.54"
-              },
-              {
-                "label": "Aaron Wiggins (3 Point FG)",
-                "hdp": 2.5,
-                "over": "2.59"
-              },
-              {
-                "label": "Aaron Wiggins (3 Point FG)",
-                "hdp": 3.5,
-                "over": "5.05"
-              },
-              {
-                "label": "Aaron Wiggins (3 Point FG)",
-                "hdp": 4.5,
-                "over": "10.60"
-              },
-              {
-                "label": "Aaron Wiggins (3 Point FG)",
-                "hdp": 5.5,
-                "over": "20.80"
-              },
-              {
-                "label": "Aaron Wiggins (Points)",
-                "hdp": 5.5,
-                "over": "1.10"
-              },
-              {
-                "label": "Aaron Wiggins (Points)",
-                "hdp": 7.5,
-                "over": "1.22"
-              },
-              {
-                "label": "Aaron Wiggins (Points)",
-                "hdp": 9.5,
-                "over": "1.43"
-              },
-              {
-                "label": "Aaron Wiggins (Points)",
-                "hdp": 11.5,
-                "over": "1.76"
-              },
-              {
-                "label": "Aaron Wiggins (Points)",
-                "hdp": 12.5,
-                "over": "1.99"
-              },
-              {
-                "label": "Aaron Wiggins (Points)",
-                "hdp": 14.5,
-                "over": "2.66"
-              },
-              {
-                "label": "Aaron Wiggins (Points)",
-                "hdp": 17.5,
-                "over": "4.42"
-              },
-              {
-                "label": "Aaron Wiggins (Points)",
-                "hdp": 19.5,
-                "over": "6.36"
-              },
-              {
-                "label": "Aaron Wiggins (Points)",
-                "hdp": 24.5,
-                "over": "16.40"
-              },
-              {
-                "label": "CJ McCollum (3 Point FG)",
-                "hdp": 2.5,
-                "over": "2.32",
-                "under": "1.57"
-              },
-              {
-                "label": "CJ McCollum (Assists)",
-                "hdp": 2.5,
-                "over": "1.57",
-                "under": "2.31"
-              },
-              {
-                "label": "CJ McCollum (Points)",
-                "hdp": 15.5,
-                "over": "1.79",
-                "under": "1.99"
-              },
-              {
-                "label": "CJ McCollum (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.15"
-              },
-              {
-                "label": "CJ McCollum (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.42"
-              },
-              {
-                "label": "CJ McCollum (Points 1Q)",
-                "hdp": 3.5,
-                "over": "1.68"
-              },
-              {
-                "label": "CJ McCollum (Points 1Q)",
-                "hdp": 4.5,
-                "over": "2.04"
-              },
-              {
-                "label": "CJ McCollum (Points 1Q)",
-                "hdp": 5.5,
-                "over": "2.72"
-              },
-              {
-                "label": "CJ McCollum (Points 1Q)",
-                "hdp": 6.5,
-                "over": "3.58"
-              },
-              {
-                "label": "CJ McCollum (Points 1Q)",
-                "hdp": 7.5,
-                "over": "4.92"
-              },
-              {
-                "label": "CJ McCollum (Points 1Q)",
-                "hdp": 8.5,
-                "over": "7.00"
-              },
-              {
-                "label": "CJ McCollum (Points 1Q)",
-                "hdp": 9.5,
-                "over": "9.70"
-              },
-              {
-                "label": "CJ McCollum (Pts+Asts)",
-                "hdp": 19.5,
-                "over": "1.93",
-                "under": "1.81"
-              },
-              {
-                "label": "CJ McCollum (Pts+Rebs)",
-                "hdp": 18.5,
-                "over": "1.88",
-                "under": "1.86"
-              },
-              {
-                "label": "CJ McCollum (Pts+Rebs+Asts)",
-                "hdp": 21.5,
-                "over": "1.84",
-                "under": "1.90"
-              },
-              {
-                "label": "CJ McCollum (Rebounds)",
-                "hdp": 2.5,
-                "over": "2.02",
-                "under": "1.74"
-              },
-              {
-                "label": "CJ McCollum (Rebs+Asts)",
-                "hdp": 5.5,
-                "over": "1.88",
-                "under": "1.86"
-              },
-              {
-                "label": "Donovan Mitchell (3 Point FG)",
-                "hdp": 2.5,
-                "over": "2.04",
-                "under": "1.72"
-              },
-              {
-                "label": "Donovan Mitchell (Assists)",
-                "hdp": 4.5,
-                "over": "1.71",
-                "under": "2.06"
-              },
-              {
-                "label": "Donovan Mitchell (Assists 1Q)",
-                "hdp": 1.5,
-                "over": "2.06"
-              },
-              {
-                "label": "Donovan Mitchell (Assists 1Q)",
-                "hdp": 2.5,
-                "over": "4.43"
-              },
-              {
-                "label": "Donovan Mitchell (Assists 1Q)",
-                "hdp": 3.5,
-                "over": "10.80"
-              },
-              {
-                "label": "Donovan Mitchell (Double+Double)",
-                "hdp": 0.5,
-                "over": "9.60"
-              },
-              {
-                "label": "Donovan Mitchell (Points)",
-                "hdp": 23.5,
-                "over": "1.82",
-                "under": "1.95"
-              },
-              {
-                "label": "Donovan Mitchell (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.06"
-              },
-              {
-                "label": "Donovan Mitchell (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.20"
-              },
-              {
-                "label": "Donovan Mitchell (Points 1Q)",
-                "hdp": 3.5,
-                "over": "1.29"
-              },
-              {
-                "label": "Donovan Mitchell (Points 1Q)",
-                "hdp": 4.5,
-                "over": "1.52"
-              },
-              {
-                "label": "Donovan Mitchell (Points 1Q)",
-                "hdp": 5.5,
-                "over": "1.79"
-              },
-              {
-                "label": "Donovan Mitchell (Points 1Q)",
-                "hdp": 6.5,
-                "over": "2.18"
-              },
-              {
-                "label": "Donovan Mitchell (Points 1Q)",
-                "hdp": 7.5,
-                "over": "2.75"
-              },
-              {
-                "label": "Donovan Mitchell (Points 1Q)",
-                "hdp": 8.5,
-                "over": "3.56"
-              },
-              {
-                "label": "Donovan Mitchell (Points 1Q)",
-                "hdp": 9.5,
-                "over": "4.72"
-              },
-              {
-                "label": "Donovan Mitchell (Points 1Q)",
-                "hdp": 10.5,
-                "over": "6.31"
-              },
-              {
-                "label": "Donovan Mitchell (Points 1Q)",
-                "hdp": 11.5,
-                "over": "8.60"
-              },
-              {
-                "label": "Donovan Mitchell (Pts+Asts)",
-                "hdp": 29.5,
-                "over": "1.93",
-                "under": "1.81"
-              },
-              {
-                "label": "Donovan Mitchell (Pts+Rebs)",
-                "hdp": 28.5,
-                "over": "1.83",
-                "under": "1.91"
-              },
-              {
-                "label": "Donovan Mitchell (Pts+Rebs+Asts)",
-                "hdp": 34.5,
-                "over": "1.93",
-                "under": "1.81"
-              },
-              {
-                "label": "Donovan Mitchell (Rebounds)",
-                "hdp": 4.5,
-                "over": "1.78",
-                "under": "1.96"
-              },
-              {
-                "label": "Donovan Mitchell (Rebounds 1Q)",
-                "hdp": 1.5,
-                "over": "2.23"
-              },
-              {
-                "label": "Donovan Mitchell (Rebounds 1Q)",
-                "hdp": 2.5,
-                "over": "4.93"
-              },
-              {
-                "label": "Donovan Mitchell (Rebounds 1Q)",
-                "hdp": 3.5,
-                "over": "12.80"
-              },
-              {
-                "label": "Donovan Mitchell (Rebs+Asts)",
-                "hdp": 9.5,
-                "over": "1.80",
-                "under": "1.94"
-              },
-              {
-                "label": "Donovan Mitchell (Steals)",
-                "hdp": 1.5,
-                "over": "2.11",
-                "under": "1.67"
-              },
-              {
-                "label": "Donovan Mitchell (Triple+Double)",
-                "hdp": 0.5,
-                "over": "60.00"
-              },
-              {
-                "label": "Dyson Daniels (3 Point FG)",
-                "hdp": 0.5,
-                "over": "2.50",
-                "under": "1.50"
-              },
-              {
-                "label": "Dyson Daniels (Assists)",
-                "hdp": 4.5,
-                "over": "1.96",
-                "under": "1.79"
-              },
-              {
-                "label": "Dyson Daniels (Assists 1Q)",
-                "hdp": 1.5,
-                "over": "2.36"
-              },
-              {
-                "label": "Dyson Daniels (Assists 1Q)",
-                "hdp": 2.5,
-                "over": "5.51"
-              },
-              {
-                "label": "Dyson Daniels (Double+Double)",
-                "hdp": 0.5,
-                "over": "7.20"
-              },
-              {
-                "label": "Dyson Daniels (Points)",
-                "hdp": 11.5,
-                "over": "1.94",
-                "under": "1.83"
-              },
-              {
-                "label": "Dyson Daniels (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.23"
-              },
-              {
-                "label": "Dyson Daniels (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.84"
-              },
-              {
-                "label": "Dyson Daniels (Points 1Q)",
-                "hdp": 3.5,
-                "over": "2.04"
-              },
-              {
-                "label": "Dyson Daniels (Points 1Q)",
-                "hdp": 4.5,
-                "over": "3.30"
-              },
-              {
-                "label": "Dyson Daniels (Points 1Q)",
-                "hdp": 5.5,
-                "over": "4.18"
-              },
-              {
-                "label": "Dyson Daniels (Points 1Q)",
-                "hdp": 6.5,
-                "over": "7.00"
-              },
-              {
-                "label": "Dyson Daniels (Points 1Q)",
-                "hdp": 7.5,
-                "over": "10.10"
-              },
-              {
-                "label": "Dyson Daniels (Pts+Asts)",
-                "hdp": 15.5,
-                "over": "1.80",
-                "under": "1.94"
-              },
-              {
-                "label": "Dyson Daniels (Pts+Rebs)",
-                "hdp": 17.5,
-                "over": "1.83",
-                "under": "1.90"
-              },
-              {
-                "label": "Dyson Daniels (Pts+Rebs+Asts)",
-                "hdp": 22.5,
-                "over": "1.92",
-                "under": "1.81"
-              },
-              {
-                "label": "Dyson Daniels (Rebounds)",
-                "hdp": 6.5,
-                "over": "2.12",
-                "under": "1.67"
-              },
-              {
-                "label": "Dyson Daniels (Rebounds 1Q)",
-                "hdp": 1.5,
-                "over": "1.67"
-              },
-              {
-                "label": "Dyson Daniels (Rebounds 1Q)",
-                "hdp": 2.5,
-                "over": "2.98"
-              },
-              {
-                "label": "Dyson Daniels (Rebounds 1Q)",
-                "hdp": 3.5,
-                "over": "6.27"
-              },
-              {
-                "label": "Dyson Daniels (Rebs+Asts)",
-                "hdp": 10.5,
-                "over": "1.85",
-                "under": "1.89"
-              },
-              {
-                "label": "Dyson Daniels (Steals)",
-                "hdp": 1.5,
-                "over": "1.55",
-                "under": "2.35"
-              },
-              {
-                "label": "Dyson Daniels (Triple+Double)",
-                "hdp": 0.5,
-                "over": "57.00"
-              },
-              {
-                "label": "Evan Mobley (3 Point FG)",
-                "hdp": 1.5,
-                "over": "2.58",
-                "under": "1.47"
-              },
-              {
-                "label": "Evan Mobley (Assists)",
-                "hdp": 3.5,
-                "over": "1.87",
-                "under": "1.86"
-              },
-              {
-                "label": "Evan Mobley (Blocks)",
-                "hdp": 1.5,
-                "over": "2.19",
-                "under": "1.63"
-              },
-              {
-                "label": "Evan Mobley (Double+Double)",
-                "hdp": 0.5,
-                "over": "2.19"
-              },
-              {
-                "label": "Evan Mobley (Points)",
-                "hdp": 16.5,
-                "over": "1.89",
-                "under": "1.87"
-              },
-              {
-                "label": "Evan Mobley (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.09"
-              },
-              {
-                "label": "Evan Mobley (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.32"
-              },
-              {
-                "label": "Evan Mobley (Points 1Q)",
-                "hdp": 3.5,
-                "over": "1.45"
-              },
-              {
-                "label": "Evan Mobley (Points 1Q)",
-                "hdp": 4.5,
-                "over": "1.82"
-              },
-              {
-                "label": "Evan Mobley (Points 1Q)",
-                "hdp": 5.5,
-                "over": "2.24"
-              },
-              {
-                "label": "Evan Mobley (Points 1Q)",
-                "hdp": 6.5,
-                "over": "2.90"
-              },
-              {
-                "label": "Evan Mobley (Points 1Q)",
-                "hdp": 7.5,
-                "over": "3.85"
-              },
-              {
-                "label": "Evan Mobley (Points 1Q)",
-                "hdp": 8.5,
-                "over": "5.20"
-              },
-              {
-                "label": "Evan Mobley (Points 1Q)",
-                "hdp": 9.5,
-                "over": "7.20"
-              },
-              {
-                "label": "Evan Mobley (Points 1Q)",
-                "hdp": 10.5,
-                "over": "10.20"
-              },
-              {
-                "label": "Evan Mobley (Pts+Asts)",
-                "hdp": 20.5,
-                "over": "1.89",
-                "under": "1.84"
-              },
-              {
-                "label": "Evan Mobley (Pts+Rebs)",
-                "hdp": 25.5,
-                "over": "1.79",
-                "under": "1.95"
-              },
-              {
-                "label": "Evan Mobley (Pts+Rebs+Asts)",
-                "hdp": 29.5,
-                "over": "1.83",
-                "under": "1.91"
-              },
-              {
-                "label": "Evan Mobley (Rebounds)",
-                "hdp": 9.5,
-                "over": "2.08",
-                "under": "1.70"
-              },
-              {
-                "label": "Evan Mobley (Rebounds 1Q)",
-                "hdp": 1.5,
-                "over": "1.29"
-              },
-              {
-                "label": "Evan Mobley (Rebounds 1Q)",
-                "hdp": 2.5,
-                "over": "1.83"
-              },
-              {
-                "label": "Evan Mobley (Rebounds 1Q)",
-                "hdp": 3.5,
-                "over": "3.00"
-              },
-              {
-                "label": "Evan Mobley (Rebounds 1Q)",
-                "hdp": 4.5,
-                "over": "5.56"
-              },
-              {
-                "label": "Evan Mobley (Rebounds 1Q)",
-                "hdp": 5.5,
-                "over": "11.40"
-              },
-              {
-                "label": "Evan Mobley (Rebs+Asts)",
-                "hdp": 12.5,
-                "over": "1.81",
-                "under": "1.93"
-              },
-              {
-                "label": "Evan Mobley (Triple+Double)",
-                "hdp": 0.5,
-                "over": "51.00"
-              },
-              {
-                "label": "Jalen Johnson (3 Point FG)",
-                "hdp": 1.5,
-                "over": "2.15",
-                "under": "1.65"
-              },
-              {
-                "label": "Jalen Johnson (Assists)",
-                "hdp": 7.5,
-                "over": "2.10",
-                "under": "1.69"
-              },
-              {
-                "label": "Jalen Johnson (Assists 1Q)",
-                "hdp": 1.5,
-                "over": "1.49"
-              },
-              {
-                "label": "Jalen Johnson (Assists 1Q)",
-                "hdp": 2.5,
-                "over": "2.61"
-              },
-              {
-                "label": "Jalen Johnson (Assists 1Q)",
-                "hdp": 3.5,
-                "over": "5.69"
-              },
-              {
-                "label": "Jalen Johnson (Blocks)",
-                "hdp": 0.5,
-                "over": "1.97"
-              },
-              {
-                "label": "Jalen Johnson (Blocks)",
-                "hdp": 1.5,
-                "over": "6.00"
-              },
-              {
-                "label": "Jalen Johnson (Blocks)",
-                "hdp": 2.5,
-                "over": "17.60"
-              },
-              {
-                "label": "Jalen Johnson (Double+Double)",
-                "hdp": 0.5,
-                "over": "1.63"
-              },
-              {
-                "label": "Jalen Johnson (Points)",
-                "hdp": 21.5,
-                "over": "1.80",
-                "under": "1.97"
-              },
-              {
-                "label": "Jalen Johnson (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.05"
-              },
-              {
-                "label": "Jalen Johnson (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.18"
-              },
-              {
-                "label": "Jalen Johnson (Points 1Q)",
-                "hdp": 3.5,
-                "over": "1.26"
-              },
-              {
-                "label": "Jalen Johnson (Points 1Q)",
-                "hdp": 4.5,
-                "over": "1.49"
-              },
-              {
-                "label": "Jalen Johnson (Points 1Q)",
-                "hdp": 5.5,
-                "over": "1.72"
-              },
-              {
-                "label": "Jalen Johnson (Points 1Q)",
-                "hdp": 6.5,
-                "over": "2.14"
-              },
-              {
-                "label": "Jalen Johnson (Points 1Q)",
-                "hdp": 7.5,
-                "over": "2.65"
-              },
-              {
-                "label": "Jalen Johnson (Points 1Q)",
-                "hdp": 8.5,
-                "over": "3.43"
-              },
-              {
-                "label": "Jalen Johnson (Points 1Q)",
-                "hdp": 9.5,
-                "over": "4.51"
-              },
-              {
-                "label": "Jalen Johnson (Points 1Q)",
-                "hdp": 10.5,
-                "over": "6.15"
-              },
-              {
-                "label": "Jalen Johnson (Points 1Q)",
-                "hdp": 11.5,
-                "over": "8.50"
-              },
-              {
-                "label": "Jalen Johnson (Pts+Asts)",
-                "hdp": 29.5,
-                "over": "1.91",
-                "under": "1.82"
-              },
-              {
-                "label": "Jalen Johnson (Pts+Rebs)",
-                "hdp": 31.5,
-                "over": "1.82",
-                "under": "1.92"
-              },
-              {
-                "label": "Jalen Johnson (Pts+Rebs+Asts)",
-                "hdp": 39.5,
-                "over": "1.90",
-                "under": "1.84"
-              },
-              {
-                "label": "Jalen Johnson (Rebounds)",
-                "hdp": 9.5,
-                "over": "1.83",
-                "under": "1.90"
-              },
-              {
-                "label": "Jalen Johnson (Rebounds 1Q)",
-                "hdp": 1.5,
-                "over": "1.19"
-              },
-              {
-                "label": "Jalen Johnson (Rebounds 1Q)",
-                "hdp": 2.5,
-                "over": "1.59"
-              },
-              {
-                "label": "Jalen Johnson (Rebounds 1Q)",
-                "hdp": 3.5,
-                "over": "2.45"
-              },
-              {
-                "label": "Jalen Johnson (Rebounds 1Q)",
-                "hdp": 4.5,
-                "over": "4.40"
-              },
-              {
-                "label": "Jalen Johnson (Rebounds 1Q)",
-                "hdp": 5.5,
-                "over": "8.80"
-              },
-              {
-                "label": "Jalen Johnson (Rebs+Asts)",
-                "hdp": 16.5,
-                "over": "1.75",
-                "under": "2.01"
-              },
-              {
-                "label": "Jalen Johnson (Steals)",
-                "hdp": 0.5,
-                "over": "1.31"
-              },
-              {
-                "label": "Jalen Johnson (Steals)",
-                "hdp": 1.5,
-                "over": "2.39"
-              },
-              {
-                "label": "Jalen Johnson (Steals)",
-                "hdp": 2.5,
-                "over": "5.32"
-              },
-              {
-                "label": "Jalen Johnson (Steals)",
-                "hdp": 3.5,
-                "over": "12.40"
-              },
-              {
-                "label": "Jalen Johnson (Steals)",
-                "hdp": 4.5,
-                "over": "24.00"
-              },
-              {
-                "label": "Jalen Johnson (Triple+Double)",
-                "hdp": 0.5,
-                "over": "6.28"
-              },
-              {
-                "label": "James Harden (3 Point FG)",
-                "hdp": 2.5,
-                "over": "2.15",
-                "under": "1.65"
-              },
-              {
-                "label": "James Harden (Assists)",
-                "hdp": 6.5,
-                "over": "1.81",
-                "under": "1.92"
-              },
-              {
-                "label": "James Harden (Assists 1Q)",
-                "hdp": 1.5,
-                "over": "1.58"
-              },
-              {
-                "label": "James Harden (Assists 1Q)",
-                "hdp": 2.5,
-                "over": "2.79"
-              },
-              {
-                "label": "James Harden (Assists 1Q)",
-                "hdp": 3.5,
-                "over": "6.10"
-              },
-              {
-                "label": "James Harden (Double+Double)",
-                "hdp": 0.5,
-                "over": "5.20"
-              },
-              {
-                "label": "James Harden (Points)",
-                "hdp": 17.5,
-                "over": "1.94",
-                "under": "1.82"
-              },
-              {
-                "label": "James Harden (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.12"
-              },
-              {
-                "label": "James Harden (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.30"
-              },
-              {
-                "label": "James Harden (Points 1Q)",
-                "hdp": 3.5,
-                "over": "1.50"
-              },
-              {
-                "label": "James Harden (Points 1Q)",
-                "hdp": 4.5,
-                "over": "1.76"
-              },
-              {
-                "label": "James Harden (Points 1Q)",
-                "hdp": 5.5,
-                "over": "2.24"
-              },
-              {
-                "label": "James Harden (Points 1Q)",
-                "hdp": 6.5,
-                "over": "2.82"
-              },
-              {
-                "label": "James Harden (Points 1Q)",
-                "hdp": 7.5,
-                "over": "3.67"
-              },
-              {
-                "label": "James Harden (Points 1Q)",
-                "hdp": 8.5,
-                "over": "5.00"
-              },
-              {
-                "label": "James Harden (Points 1Q)",
-                "hdp": 9.5,
-                "over": "6.87"
-              },
-              {
-                "label": "James Harden (Points 1Q)",
-                "hdp": 10.5,
-                "over": "9.40"
-              },
-              {
-                "label": "James Harden (Pts+Asts)",
-                "hdp": 24.5,
-                "over": "1.91",
-                "under": "1.83"
-              },
-              {
-                "label": "James Harden (Pts+Rebs)",
-                "hdp": 21.5,
-                "over": "1.85",
-                "under": "1.88"
-              },
-              {
-                "label": "James Harden (Pts+Rebs+Asts)",
-                "hdp": 28.5,
-                "over": "1.84",
-                "under": "1.90"
-              },
-              {
-                "label": "James Harden (Rebounds)",
-                "hdp": 4.5,
-                "over": "2.15",
-                "under": "1.65"
-              },
-              {
-                "label": "James Harden (Rebounds 1Q)",
-                "hdp": 1.5,
-                "over": "2.50"
-              },
-              {
-                "label": "James Harden (Rebounds 1Q)",
-                "hdp": 2.5,
-                "over": "5.99"
-              },
-              {
-                "label": "James Harden (Rebs+Asts)",
-                "hdp": 10.5,
-                "over": "1.71",
-                "under": "2.06"
-              },
-              {
-                "label": "James Harden (Steals)",
-                "hdp": 1.5,
-                "over": "2.79",
-                "under": "1.41"
-              },
-              {
-                "label": "James Harden (Triple+Double)",
-                "hdp": 0.5,
-                "over": "49.00"
-              },
-              {
-                "label": "Jarrett Allen (Assists)",
-                "hdp": 1.5,
-                "over": "1.68"
-              },
-              {
-                "label": "Jarrett Allen (Assists)",
-                "hdp": 2.5,
-                "over": "3.00"
-              },
-              {
-                "label": "Jarrett Allen (Assists)",
-                "hdp": 3.5,
-                "over": "6.26"
-              },
-              {
-                "label": "Jarrett Allen (Assists)",
-                "hdp": 4.5,
-                "over": "13.00"
-              },
-              {
-                "label": "Jarrett Allen (Assists)",
-                "hdp": 5.5,
-                "over": "25.00"
-              },
-              {
-                "label": "Jarrett Allen (Blocks)",
-                "hdp": 1.5,
-                "over": "2.19",
-                "under": "1.63"
-              },
-              {
-                "label": "Jarrett Allen (Double+Double)",
-                "hdp": 0.5,
-                "over": "2.78"
-              },
-              {
-                "label": "Jarrett Allen (Points)",
-                "hdp": 12.5,
-                "over": "1.80",
-                "under": "1.97"
-              },
-              {
-                "label": "Jarrett Allen (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.17"
-              },
-              {
-                "label": "Jarrett Allen (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.63"
-              },
-              {
-                "label": "Jarrett Allen (Points 1Q)",
-                "hdp": 3.5,
-                "over": "1.75"
-              },
-              {
-                "label": "Jarrett Allen (Points 1Q)",
-                "hdp": 4.5,
-                "over": "2.85"
-              },
-              {
-                "label": "Jarrett Allen (Points 1Q)",
-                "hdp": 5.5,
-                "over": "3.30"
-              },
-              {
-                "label": "Jarrett Allen (Points 1Q)",
-                "hdp": 6.5,
-                "over": "5.95"
-              },
-              {
-                "label": "Jarrett Allen (Points 1Q)",
-                "hdp": 7.5,
-                "over": "7.50"
-              },
-              {
-                "label": "Jarrett Allen (Pts+Asts)",
-                "hdp": 14.5,
-                "over": "1.78",
-                "under": "1.96"
-              },
-              {
-                "label": "Jarrett Allen (Pts+Rebs)",
-                "hdp": 21.5,
-                "over": "1.83",
-                "under": "1.91"
-              },
-              {
-                "label": "Jarrett Allen (Pts+Rebs+Asts)",
-                "hdp": 23.5,
-                "over": "1.83",
-                "under": "1.90"
-              },
-              {
-                "label": "Jarrett Allen (Rebounds)",
-                "hdp": 8.5,
-                "over": "1.87",
-                "under": "1.86"
-              },
-              {
-                "label": "Jarrett Allen (Rebounds 1Q)",
-                "hdp": 1.5,
-                "over": "1.32"
-              },
-              {
-                "label": "Jarrett Allen (Rebounds 1Q)",
-                "hdp": 2.5,
-                "over": "1.95"
-              },
-              {
-                "label": "Jarrett Allen (Rebounds 1Q)",
-                "hdp": 3.5,
-                "over": "3.36"
-              },
-              {
-                "label": "Jarrett Allen (Rebounds 1Q)",
-                "hdp": 4.5,
-                "over": "6.69"
-              },
-              {
-                "label": "Jarrett Allen (Rebounds 1Q)",
-                "hdp": 5.5,
-                "over": "14.60"
-              },
-              {
-                "label": "Jarrett Allen (Rebs+Asts)",
-                "hdp": 10.5,
-                "over": "1.90",
-                "under": "1.83"
-              },
-              {
-                "label": "Nickeil Alexander-Walker (3 Point FG)",
-                "hdp": 2.5,
-                "over": "1.68",
-                "under": "2.11"
-              },
-              {
-                "label": "Nickeil Alexander-Walker (Assists)",
-                "hdp": 2.5,
-                "over": "1.58",
-                "under": "2.29"
-              },
-              {
-                "label": "Nickeil Alexander-Walker (Double+Double)",
-                "hdp": 0.5,
-                "over": "47.00"
-              },
-              {
-                "label": "Nickeil Alexander-Walker (Points)",
-                "hdp": 17.5,
-                "over": "1.84",
-                "under": "1.92"
-              },
-              {
-                "label": "Nickeil Alexander-Walker (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.13"
-              },
-              {
-                "label": "Nickeil Alexander-Walker (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.31"
-              },
-              {
-                "label": "Nickeil Alexander-Walker (Points 1Q)",
-                "hdp": 3.5,
-                "over": "1.57"
-              },
-              {
-                "label": "Nickeil Alexander-Walker (Points 1Q)",
-                "hdp": 4.5,
-                "over": "1.80"
-              },
-              {
-                "label": "Nickeil Alexander-Walker (Points 1Q)",
-                "hdp": 5.5,
-                "over": "2.32"
-              },
-              {
-                "label": "Nickeil Alexander-Walker (Points 1Q)",
-                "hdp": 6.5,
-                "over": "2.97"
-              },
-              {
-                "label": "Nickeil Alexander-Walker (Points 1Q)",
-                "hdp": 7.5,
-                "over": "3.80"
-              },
-              {
-                "label": "Nickeil Alexander-Walker (Points 1Q)",
-                "hdp": 8.5,
-                "over": "5.24"
-              },
-              {
-                "label": "Nickeil Alexander-Walker (Points 1Q)",
-                "hdp": 9.5,
-                "over": "7.10"
-              },
-              {
-                "label": "Nickeil Alexander-Walker (Points 1Q)",
-                "hdp": 10.5,
-                "over": "9.80"
-              },
-              {
-                "label": "Nickeil Alexander-Walker (Pts+Asts)",
-                "hdp": 20.5,
-                "over": "1.80",
-                "under": "1.95"
-              },
-              {
-                "label": "Nickeil Alexander-Walker (Pts+Rebs)",
-                "hdp": 21.5,
-                "over": "1.93",
-                "under": "1.81"
-              },
-              {
-                "label": "Nickeil Alexander-Walker (Pts+Rebs+Asts)",
-                "hdp": 24.5,
-                "over": "1.89",
-                "under": "1.84"
-              },
-              {
-                "label": "Nickeil Alexander-Walker (Rebounds)",
-                "hdp": 3.5,
-                "over": "2.13",
-                "under": "1.67"
-              },
-              {
-                "label": "Nickeil Alexander-Walker (Rebs+Asts)",
-                "hdp": 6.5,
-                "over": "1.97",
-                "under": "1.78"
-              },
-              {
-                "label": "Nickeil Alexander-Walker (Steals)",
-                "hdp": 0.5,
-                "over": "1.30"
-              },
-              {
-                "label": "Nickeil Alexander-Walker (Steals)",
-                "hdp": 1.5,
-                "over": "2.35"
-              },
-              {
-                "label": "Nickeil Alexander-Walker (Steals)",
-                "hdp": 2.5,
-                "over": "5.24"
-              },
-              {
-                "label": "Nickeil Alexander-Walker (Steals)",
-                "hdp": 3.5,
-                "over": "11.80"
-              },
-              {
-                "label": "Nickeil Alexander-Walker (Steals)",
-                "hdp": 4.5,
-                "over": "24.00"
-              },
-              {
-                "label": "Onyeka Okongwu (3 Point FG)",
-                "hdp": 1.5,
-                "over": "2.27",
-                "under": "1.59"
-              },
-              {
-                "label": "Onyeka Okongwu (Assists)",
-                "hdp": 2.5,
-                "over": "2.05",
-                "under": "1.72"
-              },
-              {
-                "label": "Onyeka Okongwu (Blocks)",
-                "hdp": 0.5,
-                "over": "1.67"
-              },
-              {
-                "label": "Onyeka Okongwu (Blocks)",
-                "hdp": 1.5,
-                "over": "4.08"
-              },
-              {
-                "label": "Onyeka Okongwu (Blocks)",
-                "hdp": 2.5,
-                "over": "11.00"
-              },
-              {
-                "label": "Onyeka Okongwu (Blocks)",
-                "hdp": 3.5,
-                "over": "24.00"
-              },
-              {
-                "label": "Onyeka Okongwu (Double+Double)",
-                "hdp": 0.5,
-                "over": "5.69"
-              },
-              {
-                "label": "Onyeka Okongwu (Points)",
-                "hdp": 11.5,
-                "over": "1.86",
-                "under": "1.90"
-              },
-              {
-                "label": "Onyeka Okongwu (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.22"
-              },
-              {
-                "label": "Onyeka Okongwu (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.58"
-              },
-              {
-                "label": "Onyeka Okongwu (Points 1Q)",
-                "hdp": 3.5,
-                "over": "1.99"
-              },
-              {
-                "label": "Onyeka Okongwu (Points 1Q)",
-                "hdp": 4.5,
-                "over": "2.49"
-              },
-              {
-                "label": "Onyeka Okongwu (Points 1Q)",
-                "hdp": 5.5,
-                "over": "3.55"
-              },
-              {
-                "label": "Onyeka Okongwu (Points 1Q)",
-                "hdp": 6.5,
-                "over": "4.83"
-              },
-              {
-                "label": "Onyeka Okongwu (Points 1Q)",
-                "hdp": 7.5,
-                "over": "7.00"
-              },
-              {
-                "label": "Onyeka Okongwu (Points 1Q)",
-                "hdp": 8.5,
-                "over": "10.70"
-              },
-              {
-                "label": "Onyeka Okongwu (Pts+Asts)",
-                "hdp": 14.5,
-                "over": "1.91",
-                "under": "1.83"
-              },
-              {
-                "label": "Onyeka Okongwu (Pts+Rebs)",
-                "hdp": 18.5,
-                "over": "1.86",
-                "under": "1.87"
-              },
-              {
-                "label": "Onyeka Okongwu (Pts+Rebs+Asts)",
-                "hdp": 21.5,
-                "over": "1.90",
-                "under": "1.84"
-              },
-              {
-                "label": "Onyeka Okongwu (Rebounds)",
-                "hdp": 6.5,
-                "over": "1.83",
-                "under": "1.91"
-              },
-              {
-                "label": "Onyeka Okongwu (Rebounds 1Q)",
-                "hdp": 1.5,
-                "over": "1.49"
-              },
-              {
-                "label": "Onyeka Okongwu (Rebounds 1Q)",
-                "hdp": 2.5,
-                "over": "2.44"
-              },
-              {
-                "label": "Onyeka Okongwu (Rebounds 1Q)",
-                "hdp": 3.5,
-                "over": "4.75"
-              },
-              {
-                "label": "Onyeka Okongwu (Rebounds 1Q)",
-                "hdp": 4.5,
-                "over": "10.90"
-              },
-              {
-                "label": "Onyeka Okongwu (Rebs+Asts)",
-                "hdp": 9.5,
-                "over": "2.01",
-                "under": "1.75"
-              },
-              {
-                "label": "Onyeka Okongwu (Steals)",
-                "hdp": 0.5,
-                "over": "1.50"
-              },
-              {
-                "label": "Onyeka Okongwu (Steals)",
-                "hdp": 1.5,
-                "over": "3.24"
-              },
-              {
-                "label": "Onyeka Okongwu (Steals)",
-                "hdp": 2.5,
-                "over": "8.20"
-              },
-              {
-                "label": "Onyeka Okongwu (Steals)",
-                "hdp": 3.5,
-                "over": "19.60"
-              },
-              {
-                "label": "Onyeka Okongwu (Steals+Blocks)",
-                "hdp": 1.5,
-                "over": "1.71"
-              },
-              {
-                "label": "Onyeka Okongwu (Steals+Blocks)",
-                "hdp": 2.5,
-                "over": "3.05"
-              },
-              {
-                "label": "Onyeka Okongwu (Steals+Blocks)",
-                "hdp": 3.5,
-                "over": "5.75"
-              },
-              {
-                "label": "Onyeka Okongwu (Steals+Blocks)",
-                "hdp": 4.5,
-                "over": "12.00"
-              },
-              {
-                "label": "Peyton Watson (3 Point FG)",
-                "hdp": 1.5,
-                "over": "2.14",
-                "under": "1.66"
-              },
-              {
-                "label": "Peyton Watson (Assists)",
-                "hdp": 1.5,
-                "over": "1.51",
-                "under": "2.45"
-              },
-              {
-                "label": "Peyton Watson (Double+Double)",
-                "hdp": 0.5,
-                "over": "15.80"
-              },
-              {
-                "label": "Peyton Watson (Points)",
-                "hdp": 14.5,
-                "over": "1.99",
-                "under": "1.79"
-              },
-              {
-                "label": "Peyton Watson (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.18"
-              },
-              {
-                "label": "Peyton Watson (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.52"
-              },
-              {
-                "label": "Peyton Watson (Points 1Q)",
-                "hdp": 3.5,
-                "over": "1.81"
-              },
-              {
-                "label": "Peyton Watson (Points 1Q)",
-                "hdp": 4.5,
-                "over": "2.34"
-              },
-              {
-                "label": "Peyton Watson (Points 1Q)",
-                "hdp": 5.5,
-                "over": "3.15"
-              },
-              {
-                "label": "Peyton Watson (Points 1Q)",
-                "hdp": 6.5,
-                "over": "4.24"
-              },
-              {
-                "label": "Peyton Watson (Points 1Q)",
-                "hdp": 7.5,
-                "over": "6.03"
-              },
-              {
-                "label": "Peyton Watson (Points 1Q)",
-                "hdp": 8.5,
-                "over": "8.90"
-              },
-              {
-                "label": "Peyton Watson (Pts+Asts)",
-                "hdp": 16.5,
-                "over": "1.93",
-                "under": "1.81"
-              },
-              {
-                "label": "Peyton Watson (Pts+Rebs)",
-                "hdp": 19.5,
-                "over": "1.93",
-                "under": "1.81"
-              },
-              {
-                "label": "Peyton Watson (Pts+Rebs+Asts)",
-                "hdp": 21.5,
-                "over": "1.89",
-                "under": "1.85"
-              },
-              {
-                "label": "Peyton Watson (Rebounds)",
-                "hdp": 4.5,
-                "over": "1.76",
-                "under": "1.98"
-              },
-              {
-                "label": "Peyton Watson (Rebounds 1Q)",
-                "hdp": 1.5,
-                "over": "2.15"
-              },
-              {
-                "label": "Peyton Watson (Rebounds 1Q)",
-                "hdp": 2.5,
-                "over": "4.60"
-              },
-              {
-                "label": "Peyton Watson (Rebounds 1Q)",
-                "hdp": 3.5,
-                "over": "11.60"
-              },
-              {
-                "label": "Peyton Watson (Rebs+Asts)",
-                "hdp": 6.5,
-                "over": "1.72",
-                "under": "2.05"
-              },
-              {
-                "label": "Peyton Watson (Steals)",
-                "hdp": 1.5,
-                "over": "2.55",
-                "under": "1.48"
-              },
-              {
-                "label": "Sam Merrill (3 Point FG)",
-                "hdp": 0.5,
-                "over": "1.13"
-              },
-              {
-                "label": "Sam Merrill (3 Point FG)",
-                "hdp": 1.5,
-                "over": "1.59"
-              },
-              {
-                "label": "Sam Merrill (3 Point FG)",
-                "hdp": 2.5,
-                "over": "2.68"
-              },
-              {
-                "label": "Sam Merrill (3 Point FG)",
-                "hdp": 3.5,
-                "over": "5.11"
-              },
-              {
-                "label": "Sam Merrill (3 Point FG)",
-                "hdp": 4.5,
-                "over": "10.20"
-              },
-              {
-                "label": "Sam Merrill (3 Point FG)",
-                "hdp": 5.5,
-                "over": "19.40"
-              },
-              {
-                "label": "Sam Merrill (Points)",
-                "hdp": 5.5,
-                "over": "1.36"
-              },
-              {
-                "label": "Sam Merrill (Points)",
-                "hdp": 7.5,
-                "over": "1.70"
-              },
-              {
-                "label": "Sam Merrill (Points)",
-                "hdp": 8.5,
-                "over": "2.00"
-              },
-              {
-                "label": "Sam Merrill (Points)",
-                "hdp": 9.5,
-                "over": "2.38"
-              },
-              {
-                "label": "Sam Merrill (Points)",
-                "hdp": 11.5,
-                "over": "3.32"
-              },
-              {
-                "label": "Sam Merrill (Points)",
-                "hdp": 14.5,
-                "over": "6.10"
-              },
-              {
-                "label": "Sam Merrill (Points)",
-                "hdp": 17.5,
-                "over": "11.40"
-              },
-              {
-                "label": "Sam Merrill (Points)",
-                "hdp": 19.5,
-                "over": "16.60"
-              }
-            ]
-          }
-        },
-        "advanced": {
-          "blowout_risk": 0.11853559847642359,
-          "recommended_bet": 20.02147257406338,
-          "market_edge": 0.06285234500955383,
-          "latent_strength_A": 11.188497712009733,
-          "latent_strength_B": 5.505910660887272,
-          "form_state_A": 2,
-          "form_state_B": 0,
-          "entropy_A": 3.321928094887362
-        },
-        "halves": {
-          "h1_ptsA": 59.81396811788298,
-          "h1_ptsB": 56.61572897783076,
-          "h2_ptsA": 59.81396811788298,
-          "h2_ptsB": 56.61572897783076
-        },
-        "quarters": [
-          {
-            "q": 1,
-            "ptsA": 29.90698405894149,
-            "ptsB": 28.30786448891538
-          },
-          {
-            "q": 2,
-            "ptsA": 29.90698405894149,
-            "ptsB": 28.30786448891538
-          },
-          {
-            "q": 3,
-            "ptsA": 29.90698405894149,
-            "ptsB": 28.30786448891538
-          },
-          {
-            "q": 4,
-            "ptsA": 29.90698405894149,
-            "ptsB": 28.30786448891538
-          }
-        ],
-        "players": [
-          {
-            "player": "Asa Newell",
-            "team": "ATL",
-            "proj_pts": 4.614371733426237,
-            "proj_reb": 2.06757036844923,
-            "proj_ast": 0.39382292732366286,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Buddy Hield",
-            "team": "ATL",
-            "proj_pts": 10.014168442754812,
-            "proj_reb": 2.2644818321110614,
-            "proj_ast": 1.7722031729564829,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "CJ McCollum",
-            "team": "ATL",
-            "proj_pts": 16.592102615936895,
-            "proj_reb": 4.036685005067544,
-            "proj_ast": 3.9382292732366286,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 2.5,
-            "market_pts": 15.5,
-            "market_reb": 2.5
-          },
-          {
-            "player": "Caleb Houstan",
-            "team": "ATL",
-            "proj_pts": 2.2580968057192226,
-            "proj_reb": 0.5907343909854943,
-            "proj_ast": 0.19691146366183143,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Christian Koloko",
-            "team": "ATL",
-            "proj_pts": 3.2398780255971453,
-            "proj_reb": 2.559849027603809,
-            "proj_ast": 0.39382292732366286,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Corey Kispert",
-            "team": "ATL",
-            "proj_pts": 9.91599032076702,
-            "proj_reb": 2.06757036844923,
-            "proj_ast": 1.4768359774637356,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Dyson Daniels",
-            "team": "ATL",
-            "proj_pts": 10.603237174681567,
-            "proj_reb": 7.876458546473257,
-            "proj_ast": 5.9073439098549425,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 4.5,
-            "market_pts": 11.5,
-            "market_reb": 6.5
-          },
-          {
-            "player": "Gabe Vincent",
-            "team": "ATL",
-            "proj_pts": 3.8289467575238993,
-            "proj_reb": 0.8861015864782414,
-            "proj_ast": 1.4768359774637356,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jacob Toppin",
-            "team": "ATL",
-            "proj_pts": 1.5708499518046768,
-            "proj_reb": 0.19691146366183143,
-            "proj_ast": 0.19691146366183143,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jalen Johnson",
-            "team": "ATL",
-            "proj_pts": 20.12651500749742,
-            "proj_reb": 9.353294523936993,
-            "proj_ast": 7.974914278304173,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 7.5,
-            "market_pts": 21.5,
-            "market_reb": 9.5
-          },
-          {
-            "player": "Jock Landale",
-            "team": "ATL",
-            "proj_pts": 8.148784124986761,
-            "proj_reb": 3.052127686758387,
-            "proj_ast": 1.2799245138019044,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jonathan Kuminga",
-            "team": "ATL",
-            "proj_pts": 11.58501839455949,
-            "proj_reb": 6.2027111053476895,
-            "proj_ast": 2.2644818321110614,
-            "status": "Out",
-            "injury": "Knee",
-            "market_line": null
-          },
-          {
-            "player": "Keaton Wallace",
-            "team": "ATL",
-            "proj_pts": 1.1781374638535074,
-            "proj_reb": 0.39382292732366286,
-            "proj_ast": 0.39382292732366286,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Kristaps Porzi\u0146\u0123is",
-            "team": "ATL",
-            "proj_pts": 16.493924493949105,
-            "proj_reb": 4.233596468729376,
-            "proj_ast": 2.2644818321110614,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Luke Kennard",
-            "team": "ATL",
-            "proj_pts": 7.952427881011175,
-            "proj_reb": 3.052127686758387,
-            "proj_ast": 1.2799245138019044,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Mouhamed Gueye",
-            "team": "ATL",
-            "proj_pts": 3.2398780255971453,
-            "proj_reb": 3.347494882251134,
-            "proj_ast": 0.29536719549274715,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "N'Faly Dante",
-            "team": "ATL",
-            "proj_pts": 0.7363359149084422,
-            "proj_reb": 1.722975307041025,
-            "proj_ast": 0.0,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Nickeil Alexander-Walker",
-            "team": "ATL",
-            "proj_pts": 21.893721203277682,
-            "proj_reb": 2.855216223096556,
-            "proj_ast": 3.6428620777438816,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 2.5,
-            "market_pts": 17.5,
-            "market_reb": 3.5
-          },
-          {
-            "player": "Onyeka Okongwu",
-            "team": "ATL",
-            "proj_pts": 13.64675895630313,
-            "proj_reb": 8.368737205627836,
-            "proj_ast": 3.2490391504202183,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 2.5,
-            "market_pts": 11.5,
-            "market_reb": 6.5
-          },
-          {
-            "player": "RayJ Dennis",
-            "team": "ATL",
-            "proj_pts": 1.4726718298168844,
-            "proj_reb": 0.7876458546473257,
-            "proj_ast": 0.68919012281641,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Trae Young",
-            "team": "ATL",
-            "proj_pts": 18.94837754364391,
-            "proj_reb": 1.4768359774637356,
-            "proj_ast": 8.7625601329515,
-            "status": "Questionable",
-            "injury": "Quadriceps",
-            "market_line": null
-          },
-          {
-            "player": "V\u00edt Krej\u010d\u00ed",
-            "team": "ATL",
-            "proj_pts": 4.7125498554140295,
-            "proj_reb": 1.5752917092946515,
-            "proj_ast": 0.9845573183091572,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Zaccharie Risacher",
-            "team": "ATL",
-            "proj_pts": 7.952427881011175,
-            "proj_reb": 5.021242323376701,
-            "proj_ast": 0.9845573183091572,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Chris Livingston",
-            "team": "CLE",
-            "proj_pts": 2.65716971224014,
-            "proj_reb": 0.9845573183091572,
-            "proj_ast": 0.32818577276971905,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Craig Porter Jr.",
-            "team": "CLE",
-            "proj_pts": 2.65716971224014,
-            "proj_reb": 2.855216223096556,
-            "proj_ast": 3.5444063459129658,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Darius Brown",
-            "team": "CLE",
-            "proj_pts": 0.0,
-            "proj_reb": 0.9845573183091572,
-            "proj_ast": 0.0,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Darius Garland",
-            "team": "CLE",
-            "proj_pts": 16.82874151085422,
-            "proj_reb": 1.7722031729564829,
-            "proj_ast": 6.596534032671353,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "De'Andre Hunter",
-            "team": "CLE",
-            "proj_pts": 10.451534201477884,
-            "proj_reb": 3.44595061408205,
-            "proj_ast": 2.06757036844923,
-            "status": "Out For Season",
-            "injury": "Eye",
-            "market_line": null
-          },
-          {
-            "player": "Dean Wade",
-            "team": "CLE",
-            "proj_pts": 5.580056395704294,
-            "proj_reb": 4.332052200560292,
-            "proj_ast": 1.2799245138019044,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Dennis Schr\u00f6der",
-            "team": "CLE",
-            "proj_pts": 7.97150913672042,
-            "proj_reb": 1.9691146366183143,
-            "proj_ast": 4.627419396053039,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Donovan Mitchell",
-            "team": "CLE",
-            "proj_pts": 20.637351431731755,
-            "proj_reb": 4.332052200560292,
-            "proj_ast": 5.51352098253128,
-            "status": "Questionable",
-            "injury": "Eye",
-            "market_line": null,
-            "market_ast": 4.5,
-            "market_pts": 23.5,
-            "market_reb": 4.5
-          },
-          {
-            "player": "Evan Mobley",
-            "team": "CLE",
-            "proj_pts": 17.80303707200894,
-            "proj_reb": 9.747117451260657,
-            "proj_ast": 2.166026100280146,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 3.5,
-            "market_pts": 16.5,
-            "market_reb": 9.5
-          },
-          {
-            "player": "James Harden",
-            "team": "CLE",
-            "proj_pts": 18.334471014456966,
-            "proj_reb": 5.119698055207618,
-            "proj_ast": 6.990356959995015,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 6.5,
-            "market_pts": 17.5,
-            "market_reb": 4.5
-          },
-          {
-            "player": "Jarrett Allen",
-            "team": "CLE",
-            "proj_pts": 17.18303080581957,
-            "proj_reb": 9.648661719429741,
-            "proj_ast": 1.37838024563282,
-            "status": "Out",
-            "injury": "Knee",
-            "market_line": null,
-            "market_ast": 5.5,
-            "market_pts": 12.5,
-            "market_reb": 8.5
-          },
-          {
-            "player": "Jaylon Tyson",
-            "team": "CLE",
-            "proj_pts": 9.30009399284049,
-            "proj_reb": 3.6428620777438816,
-            "proj_ast": 2.06757036844923,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Keon Ellis",
-            "team": "CLE",
-            "proj_pts": 8.325798431685772,
-            "proj_reb": 3.052127686758387,
-            "proj_ast": 1.37838024563282,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Larry Nance Jr.",
-            "team": "CLE",
-            "proj_pts": 2.4800250647574638,
-            "proj_reb": 2.362937563941977,
-            "proj_ast": 0.5907343909854943,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Lonzo Ball",
-            "team": "CLE",
-            "proj_pts": 2.65716971224014,
-            "proj_reb": 3.44595061408205,
-            "proj_ast": 2.166026100280146,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Luke Travers",
-            "team": "CLE",
-            "proj_pts": 2.4800250647574638,
-            "proj_reb": 2.362937563941977,
-            "proj_ast": 0.8861015864782414,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Max Strus",
-            "team": "CLE",
-            "proj_pts": 13.2858485612007,
-            "proj_reb": 6.8919012281641,
-            "proj_ast": 2.461393295772893,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Nae'Qwan Tomlin",
-            "team": "CLE",
-            "proj_pts": 2.745742035981478,
-            "proj_reb": 1.5752917092946515,
-            "proj_ast": 0.19691146366183143,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Riley Minix",
-            "team": "CLE",
-            "proj_pts": 2.302880417274788,
-            "proj_reb": 0.9845573183091572,
-            "proj_ast": 0.5907343909854943,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Sam Merrill",
-            "team": "CLE",
-            "proj_pts": 10.18581723025387,
-            "proj_reb": 2.855216223096556,
-            "proj_ast": 2.2644818321110614,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_pts": 19.5
-          },
-          {
-            "player": "Thomas Bryant",
-            "team": "CLE",
-            "proj_pts": 7.617219841755068,
-            "proj_reb": 3.44595061408205,
-            "proj_ast": 0.29536719549274715,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Tristan Enaruna",
-            "team": "CLE",
-            "proj_pts": 1.9190670143956565,
-            "proj_reb": 1.4768359774637356,
-            "proj_ast": 0.4922786591545786,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Tyrese Proctor",
-            "team": "CLE",
-            "proj_pts": 4.340043863325563,
-            "proj_reb": 0.39382292732366286,
-            "proj_ast": 1.673747441125567,
-            "status": "Out",
-            "injury": "Quadriceps",
-            "market_line": null
-          }
-        ],
-        "factors": {
-          "teamA": {
-            "efg": 0.5626566017838438,
-            "tov": 0.11818843919910933,
-            "orb": 0.31135749848226196,
-            "ftr": 0.2700114986275803,
-            "sos": -9.250098758164969,
-            "rest": 228,
-            "is_b2b": 0,
-            "ml_influence": {
-              "roll_efg_pct_10": 0.003274881688023754,
-              "roll_tov_pct_10": 0.013288833958369111,
-              "roll_orb_pct_10": 0.011191384625350196,
-              "roll_ft_rate_10": 0.001284231611717246,
-              "p_tov": -0.019438708552387565
-            }
-          },
-          "teamB": {
-            "efg": 0.569235178964745,
-            "tov": 0.11077883653280803,
-            "orb": 0.2456939360510789,
-            "ftr": 0.30392581494003346,
-            "sos": -1.5848900060583127,
-            "rest": 227,
-            "is_b2b": 0
-          }
-        },
-        "margins": {
-          "1-5": 0.22596139792963812,
-          "6-10": 0.09679383529985212,
-          "11+": 0.1573361376448017
-        },
-        "formA": [
-          {
-            "date": "2026-02-22",
-            "opponent": "BKN",
-            "result": "W",
-            "score": "115-104",
-            "quarters": [
-              28,
-              28,
-              28,
-              28
-            ],
-            "halves": [
-              56,
-              56
-            ]
-          },
-          {
-            "date": "2026-02-24",
-            "opponent": "WAS",
-            "result": "W",
-            "score": "119-98",
-            "quarters": [
-              29,
-              29,
-              29,
-              29
-            ],
-            "halves": [
-              58,
-              58
-            ]
-          },
-          {
-            "date": "2026-02-26",
-            "opponent": "WAS",
-            "result": "W",
-            "score": "126-96",
-            "quarters": [
-              31,
-              31,
-              31,
-              31
-            ],
-            "halves": [
-              62,
-              62
-            ]
-          },
-          {
-            "date": "2026-03-01",
-            "opponent": "POR",
-            "result": "W",
-            "score": "135-101",
-            "quarters": [
-              33,
-              33,
-              33,
-              33
-            ],
-            "halves": [
-              66,
-              66
-            ]
-          },
-          {
-            "date": "2026-03-04",
-            "opponent": "MIL",
-            "result": "W",
-            "score": "131-113",
-            "quarters": [
-              32,
-              32,
-              32,
-              32
-            ],
-            "halves": [
-              64,
-              64
-            ]
-          },
-          {
-            "date": "2026-03-07",
-            "opponent": "PHI",
-            "result": "W",
-            "score": "125-116",
-            "quarters": [
-              31,
-              31,
-              31,
-              31
-            ],
-            "halves": [
-              62,
-              62
-            ]
-          },
-          {
-            "date": "2026-03-10",
-            "opponent": "DAL",
-            "result": "W",
-            "score": "124-112",
-            "quarters": [
-              31,
-              31,
-              31,
-              31
-            ],
-            "halves": [
-              62,
-              62
-            ]
-          },
-          {
-            "date": "2026-03-12",
-            "opponent": "BKN",
-            "result": "W",
-            "score": "108-97",
-            "quarters": [
-              27,
-              27,
-              27,
-              27
-            ],
-            "halves": [
-              54,
-              54
-            ]
-          },
-          {
-            "date": "2026-03-14",
-            "opponent": "MIL",
-            "result": "W",
-            "score": "122-99",
-            "quarters": [
-              30,
-              30,
-              30,
-              30
-            ],
-            "halves": [
-              60,
-              60
-            ]
-          },
-          {
-            "date": "2026-03-16",
-            "opponent": "ORL",
-            "result": "W",
-            "score": "124-112",
-            "quarters": [
-              31,
-              31,
-              31,
-              31
-            ],
-            "halves": [
-              62,
-              62
-            ]
-          }
-        ],
-        "formB": [
-          {
-            "date": "2026-02-25",
-            "opponent": "MIL",
-            "result": "L",
-            "score": "116-118",
-            "quarters": [
-              29,
-              29,
-              29,
-              29
-            ],
-            "halves": [
-              58,
-              58
-            ]
-          },
-          {
-            "date": "2026-02-27",
-            "opponent": "DET",
-            "result": "L",
-            "score": "119-122",
-            "quarters": [
-              29,
-              29,
-              29,
-              29
-            ],
-            "halves": [
-              58,
-              58
-            ]
-          },
-          {
-            "date": "2026-03-01",
-            "opponent": "BKN",
-            "result": "W",
-            "score": "106-102",
-            "quarters": [
-              26,
-              26,
-              26,
-              26
-            ],
-            "halves": [
-              52,
-              52
-            ]
-          },
-          {
-            "date": "2026-03-03",
-            "opponent": "DET",
-            "result": "W",
-            "score": "113-109",
-            "quarters": [
-              28,
-              28,
-              28,
-              28
-            ],
-            "halves": [
-              56,
-              56
-            ]
-          },
-          {
-            "date": "2026-03-08",
-            "opponent": "BOS",
-            "result": "L",
-            "score": "98-109",
-            "quarters": [
-              24,
-              24,
-              24,
-              24
-            ],
-            "halves": [
-              48,
-              48
-            ]
-          },
-          {
-            "date": "2026-03-09",
-            "opponent": "PHI",
-            "result": "W",
-            "score": "115-101",
-            "quarters": [
-              28,
-              28,
-              28,
-              28
-            ],
-            "halves": [
-              56,
-              56
-            ]
-          },
-          {
-            "date": "2026-03-11",
-            "opponent": "ORL",
-            "result": "L",
-            "score": "122-128",
-            "quarters": [
-              30,
-              30,
-              30,
-              30
-            ],
-            "halves": [
-              60,
-              60
-            ]
-          },
-          {
-            "date": "2026-03-13",
-            "opponent": "DAL",
-            "result": "W",
-            "score": "138-105",
-            "quarters": [
-              34,
-              34,
-              34,
-              34
-            ],
-            "halves": [
-              68,
-              68
-            ]
-          },
-          {
-            "date": "2026-03-15",
-            "opponent": "DAL",
-            "result": "L",
-            "score": "120-130",
-            "quarters": [
-              30,
-              30,
-              30,
-              30
-            ],
-            "halves": [
-              60,
-              60
-            ]
-          },
-          {
-            "date": "2026-03-17",
-            "opponent": "MIL",
-            "result": "W",
-            "score": "123-116",
-            "quarters": [
-              30,
-              30,
-              30,
-              30
-            ],
-            "halves": [
-              60,
-              60
-            ]
-          }
-        ],
-        "shap_explanation": {
-          "adj_ortg_10": 0.01902351675399828,
-          "adj_drtg_10": 0.03339001628689985,
-          "adj_pace_10": 0.0029553875015298557,
-          "net_rating": -0.0020899538334861133,
-          "roll_efg_pct_10": 0.003274881688023754,
-          "roll_tov_pct_10": 0.013288833958369111,
-          "roll_orb_pct_10": 0.011191384625350196,
-          "roll_ft_rate_10": 0.001284231611717246,
-          "sos_10": -0.005116874607497977,
-          "is_b2b": 0.00033923528779439494,
-          "p_pts": 0.010797982429051061,
-          "p_reb": -0.015926395543706916,
-          "p_ast": -0.008887742699225144,
-          "p_stl": 0.013525693746610301,
-          "p_blk": 0.004887001832557942,
-          "p_tov": -0.019438708552387565,
-          "p_pf": -0.01118752293302876,
-          "p_pm": 0.009304071944707034,
-          "p_usage": 0.018602964589281113,
-          "p_eff": 0.008278776940678547,
-          "opp_adj_ortg_10": -0.05544111057488276,
-          "opp_adj_drtg_10": 0.014167786044011166,
-          "opp_sos_10": 0.005032347643727135,
-          "opp_is_b2b": -0.0015685264620947236
-        },
-        "match_id": "odds_73719452",
-        "time": "TBD"
-      },
-      "ml_prob_A": 0.5736271724682415,
-      "mc_win_A": 0.6492,
-      "shap_explanation": {
-        "adj_ortg_10": 0.01902351675399828,
-        "adj_drtg_10": 0.03339001628689985,
-        "adj_pace_10": 0.0029553875015298557,
-        "net_rating": -0.0020899538334861133,
-        "roll_efg_pct_10": 0.003274881688023754,
-        "roll_tov_pct_10": 0.013288833958369111,
-        "roll_orb_pct_10": 0.011191384625350196,
-        "roll_ft_rate_10": 0.001284231611717246,
-        "sos_10": -0.005116874607497977,
-        "is_b2b": 0.00033923528779439494,
-        "p_pts": 0.010797982429051061,
-        "p_reb": -0.015926395543706916,
-        "p_ast": -0.008887742699225144,
-        "p_stl": 0.013525693746610301,
-        "p_blk": 0.004887001832557942,
-        "p_tov": -0.019438708552387565,
-        "p_pf": -0.01118752293302876,
-        "p_pm": 0.009304071944707034,
-        "p_usage": 0.018602964589281113,
-        "p_eff": 0.008278776940678547,
-        "opp_adj_ortg_10": -0.05544111057488276,
-        "opp_adj_drtg_10": 0.014167786044011166,
-        "opp_sos_10": 0.005032347643727135,
-        "opp_is_b2b": -0.0015685264620947236
-      },
-      "is_b2b_home": 0,
-      "is_b2b_away": 0,
-      "rest_home": 228,
-      "rest_away": 227
-    },
-    {
-      "matchId": "odds_73719454",
-      "matchTime": 1793318400,
-      "gameStatus": "12:00 AM ET",
-      "homeTeam": "NOP",
-      "awayTeam": "SAC",
-      "homeName": "New Orleans Pelicans",
-      "awayName": "Sacramento Kings",
-      "is_odds_fallback": true,
-      "prediction": {
-        "main": {
-          "ptsA": 124.26394364467578,
-          "ptsB": 114.36559472677084,
-          "total": 238.6295383714466,
-          "spread": -9.89834891790493,
-          "win_prob_A": 61.030704118040546,
-          "ml_prob_A": 0.5691313020858827,
-          "mc_win_A": 0.589,
-          "base_win_prob_A": 0.7804754990278318,
-          "market_prob_A": 0.6697459584295612,
-          "market": {
-            "ml": {
-              "home": "1.43",
-              "away": "2.90"
-            },
-            "spread": {
-              "hdp": -6.5,
-              "home": "1.98",
-              "away": "1.84"
-            },
-            "total": {
-              "hdp": 236.5,
-              "over": "1.89",
-              "under": "1.92"
-            },
-            "props": [
-              {
-                "label": "Darius Acuff (3 Point FG)",
-                "hdp": 2.5,
-                "over": "1.90",
-                "under": "1.83"
-              },
-              {
-                "label": "Darius Acuff (Assists)",
-                "hdp": 4.5,
-                "over": "1.66",
-                "under": "2.14"
-              },
-              {
-                "label": "Darius Acuff (Assists 1Q)",
-                "hdp": 1.5,
-                "over": "1.99"
-              },
-              {
-                "label": "Darius Acuff (Assists 1Q)",
-                "hdp": 2.5,
-                "over": "4.07"
-              },
-              {
-                "label": "Darius Acuff (Assists 1Q)",
-                "hdp": 3.5,
-                "over": "9.70"
-              },
-              {
-                "label": "Darius Acuff (Double+Double)",
-                "hdp": 0.5,
-                "over": "12.80"
-              },
-              {
-                "label": "Darius Acuff (Points)",
-                "hdp": 22.5,
-                "over": "1.87",
-                "under": "1.89"
-              },
-              {
-                "label": "Darius Acuff (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.06"
-              },
-              {
-                "label": "Darius Acuff (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.17"
-              },
-              {
-                "label": "Darius Acuff (Points 1Q)",
-                "hdp": 3.5,
-                "over": "1.28"
-              },
-              {
-                "label": "Darius Acuff (Points 1Q)",
-                "hdp": 4.5,
-                "over": "1.44"
-              },
-              {
-                "label": "Darius Acuff (Points 1Q)",
-                "hdp": 5.5,
-                "over": "1.68"
-              },
-              {
-                "label": "Darius Acuff (Points 1Q)",
-                "hdp": 6.5,
-                "over": "1.99"
-              },
-              {
-                "label": "Darius Acuff (Points 1Q)",
-                "hdp": 7.5,
-                "over": "2.40"
-              },
-              {
-                "label": "Darius Acuff (Points 1Q)",
-                "hdp": 8.5,
-                "over": "3.01"
-              },
-              {
-                "label": "Darius Acuff (Points 1Q)",
-                "hdp": 9.5,
-                "over": "3.85"
-              },
-              {
-                "label": "Darius Acuff (Points 1Q)",
-                "hdp": 10.5,
-                "over": "4.99"
-              },
-              {
-                "label": "Darius Acuff (Points 1Q)",
-                "hdp": 11.5,
-                "over": "6.53"
-              },
-              {
-                "label": "Darius Acuff (Points 1Q)",
-                "hdp": 12.5,
-                "over": "8.80"
-              },
-              {
-                "label": "Darius Acuff (Pts+Asts)",
-                "hdp": 27.5,
-                "over": "1.83",
-                "under": "1.91"
-              },
-              {
-                "label": "Darius Acuff (Pts+Rebs)",
-                "hdp": 25.5,
-                "over": "1.85",
-                "under": "1.88"
-              },
-              {
-                "label": "Darius Acuff (Pts+Rebs+Asts)",
-                "hdp": 30.5,
-                "over": "1.81",
-                "under": "1.92"
-              },
-              {
-                "label": "Darius Acuff (Rebounds)",
-                "hdp": 2.5,
-                "over": "1.69",
-                "under": "2.09"
-              },
-              {
-                "label": "Darius Acuff (Rebs+Asts)",
-                "hdp": 7.5,
-                "over": "1.69",
-                "under": "2.09"
-              },
-              {
-                "label": "De'Andre Hunter (3 Point FG)",
-                "hdp": 1.5,
-                "over": "1.87",
-                "under": "1.86"
-              },
-              {
-                "label": "De'Andre Hunter (Double+Double)",
-                "hdp": 0.5,
-                "over": "13.40"
-              },
-              {
-                "label": "De'Andre Hunter (Points)",
-                "hdp": 11.5,
-                "over": "1.79",
-                "under": "1.99"
-              },
-              {
-                "label": "De'Andre Hunter (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.25"
-              },
-              {
-                "label": "De'Andre Hunter (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.56"
-              },
-              {
-                "label": "De'Andre Hunter (Points 1Q)",
-                "hdp": 3.5,
-                "over": "2.03"
-              },
-              {
-                "label": "De'Andre Hunter (Points 1Q)",
-                "hdp": 4.5,
-                "over": "2.44"
-              },
-              {
-                "label": "De'Andre Hunter (Points 1Q)",
-                "hdp": 5.5,
-                "over": "3.40"
-              },
-              {
-                "label": "De'Andre Hunter (Points 1Q)",
-                "hdp": 6.5,
-                "over": "4.80"
-              },
-              {
-                "label": "De'Andre Hunter (Points 1Q)",
-                "hdp": 7.5,
-                "over": "6.47"
-              },
-              {
-                "label": "De'Andre Hunter (Points 1Q)",
-                "hdp": 8.5,
-                "over": "9.40"
-              },
-              {
-                "label": "De'Andre Hunter (Pts+Asts)",
-                "hdp": 13.5,
-                "over": "1.78",
-                "under": "1.97"
-              },
-              {
-                "label": "De'Andre Hunter (Pts+Rebs)",
-                "hdp": 17.5,
-                "over": "1.96",
-                "under": "1.78"
-              },
-              {
-                "label": "De'Andre Hunter (Rebounds)",
-                "hdp": 4.5,
-                "over": "1.67",
-                "under": "2.13"
-              },
-              {
-                "label": "De'Andre Hunter (Rebounds 1Q)",
-                "hdp": 1.5,
-                "over": "2.20"
-              },
-              {
-                "label": "De'Andre Hunter (Rebounds 1Q)",
-                "hdp": 2.5,
-                "over": "4.78"
-              },
-              {
-                "label": "De'Andre Hunter (Rebounds 1Q)",
-                "hdp": 3.5,
-                "over": "12.60"
-              },
-              {
-                "label": "Dejounte Murray (3 Point FG)",
-                "hdp": 1.5,
-                "over": "2.32",
-                "under": "1.57"
-              },
-              {
-                "label": "Dejounte Murray (Assists)",
-                "hdp": 5.5,
-                "over": "1.67",
-                "under": "2.13"
-              },
-              {
-                "label": "Dejounte Murray (Assists 1Q)",
-                "hdp": 1.5,
-                "over": "1.59"
-              },
-              {
-                "label": "Dejounte Murray (Assists 1Q)",
-                "hdp": 2.5,
-                "over": "2.80"
-              },
-              {
-                "label": "Dejounte Murray (Assists 1Q)",
-                "hdp": 3.5,
-                "over": "5.77"
-              },
-              {
-                "label": "Dejounte Murray (Assists 1Q)",
-                "hdp": 4.5,
-                "over": "14.20"
-              },
-              {
-                "label": "Dejounte Murray (Double+Double)",
-                "hdp": 0.5,
-                "over": "5.81"
-              },
-              {
-                "label": "Dejounte Murray (Points)",
-                "hdp": 17.5,
-                "over": "1.86",
-                "under": "1.90"
-              },
-              {
-                "label": "Dejounte Murray (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.08"
-              },
-              {
-                "label": "Dejounte Murray (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.29"
-              },
-              {
-                "label": "Dejounte Murray (Points 1Q)",
-                "hdp": 3.5,
-                "over": "1.39"
-              },
-              {
-                "label": "Dejounte Murray (Points 1Q)",
-                "hdp": 4.5,
-                "over": "1.74"
-              },
-              {
-                "label": "Dejounte Murray (Points 1Q)",
-                "hdp": 5.5,
-                "over": "2.10"
-              },
-              {
-                "label": "Dejounte Murray (Points 1Q)",
-                "hdp": 6.5,
-                "over": "2.73"
-              },
-              {
-                "label": "Dejounte Murray (Points 1Q)",
-                "hdp": 7.5,
-                "over": "3.59"
-              },
-              {
-                "label": "Dejounte Murray (Points 1Q)",
-                "hdp": 8.5,
-                "over": "4.92"
-              },
-              {
-                "label": "Dejounte Murray (Points 1Q)",
-                "hdp": 9.5,
-                "over": "6.81"
-              },
-              {
-                "label": "Dejounte Murray (Points 1Q)",
-                "hdp": 10.5,
-                "over": "9.50"
-              },
-              {
-                "label": "Dejounte Murray (Pts+Asts)",
-                "hdp": 23.5,
-                "over": "1.81",
-                "under": "1.92"
-              },
-              {
-                "label": "Dejounte Murray (Pts+Rebs)",
-                "hdp": 22.5,
-                "over": "1.78",
-                "under": "1.97"
-              },
-              {
-                "label": "Dejounte Murray (Pts+Rebs+Asts)",
-                "hdp": 29.5,
-                "over": "1.93",
-                "under": "1.81"
-              },
-              {
-                "label": "Dejounte Murray (Rebounds)",
-                "hdp": 5.5,
-                "over": "2.05",
-                "under": "1.72"
-              },
-              {
-                "label": "Dejounte Murray (Rebounds 1Q)",
-                "hdp": 1.5,
-                "over": "1.96"
-              },
-              {
-                "label": "Dejounte Murray (Rebounds 1Q)",
-                "hdp": 2.5,
-                "over": "4.05"
-              },
-              {
-                "label": "Dejounte Murray (Rebounds 1Q)",
-                "hdp": 3.5,
-                "over": "9.70"
-              },
-              {
-                "label": "Dejounte Murray (Rebs+Asts)",
-                "hdp": 11.5,
-                "over": "1.96",
-                "under": "1.79"
-              },
-              {
-                "label": "Dejounte Murray (Triple+Double)",
-                "hdp": 0.5,
-                "over": "39.00"
-              },
-              {
-                "label": "Domantas Sabonis (Assists)",
-                "hdp": 6.5,
-                "over": "1.87",
-                "under": "1.86"
-              },
-              {
-                "label": "Domantas Sabonis (Assists 1Q)",
-                "hdp": 1.5,
-                "over": "1.42"
-              },
-              {
-                "label": "Domantas Sabonis (Assists 1Q)",
-                "hdp": 2.5,
-                "over": "2.15"
-              },
-              {
-                "label": "Domantas Sabonis (Assists 1Q)",
-                "hdp": 3.5,
-                "over": "3.75"
-              },
-              {
-                "label": "Domantas Sabonis (Assists 1Q)",
-                "hdp": 4.5,
-                "over": "7.40"
-              },
-              {
-                "label": "Domantas Sabonis (Double+Double)",
-                "hdp": 0.5,
-                "over": "1.24"
-              },
-              {
-                "label": "Domantas Sabonis (Points)",
-                "hdp": 17.5,
-                "over": "1.84",
-                "under": "1.93"
-              },
-              {
-                "label": "Domantas Sabonis (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.05"
-              },
-              {
-                "label": "Domantas Sabonis (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.21"
-              },
-              {
-                "label": "Domantas Sabonis (Points 1Q)",
-                "hdp": 3.5,
-                "over": "1.25"
-              },
-              {
-                "label": "Domantas Sabonis (Points 1Q)",
-                "hdp": 4.5,
-                "over": "1.59"
-              },
-              {
-                "label": "Domantas Sabonis (Points 1Q)",
-                "hdp": 5.5,
-                "over": "1.71"
-              },
-              {
-                "label": "Domantas Sabonis (Points 1Q)",
-                "hdp": 6.5,
-                "over": "2.34"
-              },
-              {
-                "label": "Domantas Sabonis (Points 1Q)",
-                "hdp": 7.5,
-                "over": "2.65"
-              },
-              {
-                "label": "Domantas Sabonis (Points 1Q)",
-                "hdp": 8.5,
-                "over": "3.87"
-              },
-              {
-                "label": "Domantas Sabonis (Points 1Q)",
-                "hdp": 9.5,
-                "over": "4.67"
-              },
-              {
-                "label": "Domantas Sabonis (Points 1Q)",
-                "hdp": 10.5,
-                "over": "7.20"
-              },
-              {
-                "label": "Domantas Sabonis (Points 1Q)",
-                "hdp": 11.5,
-                "over": "9.20"
-              },
-              {
-                "label": "Domantas Sabonis (Pts+Asts)",
-                "hdp": 24.5,
-                "over": "1.84",
-                "under": "1.90"
-              },
-              {
-                "label": "Domantas Sabonis (Pts+Rebs)",
-                "hdp": 32.5,
-                "over": "1.93",
-                "under": "1.81"
-              },
-              {
-                "label": "Domantas Sabonis (Pts+Rebs+Asts)",
-                "hdp": 39.5,
-                "over": "1.92",
-                "under": "1.82"
-              },
-              {
-                "label": "Domantas Sabonis (Rebounds)",
-                "hdp": 13.5,
-                "over": "1.81",
-                "under": "1.93"
-              },
-              {
-                "label": "Domantas Sabonis (Rebounds 1Q)",
-                "hdp": 1.5,
-                "over": "1.06"
-              },
-              {
-                "label": "Domantas Sabonis (Rebounds 1Q)",
-                "hdp": 2.5,
-                "over": "1.22"
-              },
-              {
-                "label": "Domantas Sabonis (Rebounds 1Q)",
-                "hdp": 3.5,
-                "over": "1.56"
-              },
-              {
-                "label": "Domantas Sabonis (Rebounds 1Q)",
-                "hdp": 4.5,
-                "over": "2.27"
-              },
-              {
-                "label": "Domantas Sabonis (Rebounds 1Q)",
-                "hdp": 5.5,
-                "over": "3.67"
-              },
-              {
-                "label": "Domantas Sabonis (Rebounds 1Q)",
-                "hdp": 6.5,
-                "over": "6.63"
-              },
-              {
-                "label": "Domantas Sabonis (Rebounds 1Q)",
-                "hdp": 7.5,
-                "over": "13.60"
-              },
-              {
-                "label": "Domantas Sabonis (Rebs+Asts)",
-                "hdp": 20.5,
-                "over": "1.83",
-                "under": "1.90"
-              },
-              {
-                "label": "Domantas Sabonis (Triple+Double)",
-                "hdp": 0.5,
-                "over": "5.10"
-              },
-              {
-                "label": "Jeremiah Fears (3 Point FG)",
-                "hdp": 0.5,
-                "over": "1.42",
-                "under": "2.78"
-              },
-              {
-                "label": "Jeremiah Fears (Assists)",
-                "hdp": 2.5,
-                "over": "1.86",
-                "under": "1.87"
-              },
-              {
-                "label": "Jeremiah Fears (Points)",
-                "hdp": 11.5,
-                "over": "1.87",
-                "under": "1.89"
-              },
-              {
-                "label": "Jeremiah Fears (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.16"
-              },
-              {
-                "label": "Jeremiah Fears (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.47"
-              },
-              {
-                "label": "Jeremiah Fears (Points 1Q)",
-                "hdp": 3.5,
-                "over": "1.71"
-              },
-              {
-                "label": "Jeremiah Fears (Points 1Q)",
-                "hdp": 4.5,
-                "over": "2.17"
-              },
-              {
-                "label": "Jeremiah Fears (Points 1Q)",
-                "hdp": 5.5,
-                "over": "2.87"
-              },
-              {
-                "label": "Jeremiah Fears (Points 1Q)",
-                "hdp": 6.5,
-                "over": "3.86"
-              },
-              {
-                "label": "Jeremiah Fears (Points 1Q)",
-                "hdp": 7.5,
-                "over": "5.42"
-              },
-              {
-                "label": "Jeremiah Fears (Points 1Q)",
-                "hdp": 8.5,
-                "over": "7.70"
-              },
-              {
-                "label": "Jeremiah Fears (Pts+Asts)",
-                "hdp": 14.5,
-                "over": "1.92",
-                "under": "1.81"
-              },
-              {
-                "label": "Jeremiah Fears (Pts+Rebs)",
-                "hdp": 14.5,
-                "over": "1.86",
-                "under": "1.88"
-              },
-              {
-                "label": "Jeremiah Fears (Pts+Rebs+Asts)",
-                "hdp": 17.5,
-                "over": "1.91",
-                "under": "1.82"
-              },
-              {
-                "label": "Jeremiah Fears (Rebounds)",
-                "hdp": 2.5,
-                "over": "1.60",
-                "under": "2.24"
-              },
-              {
-                "label": "Jeremiah Fears (Rebs+Asts)",
-                "hdp": 5.5,
-                "over": "1.81",
-                "under": "1.93"
-              },
-              {
-                "label": "Precious Achiuwa (Double+Double)",
-                "hdp": 0.5,
-                "over": "3.67"
-              },
-              {
-                "label": "Precious Achiuwa (Points)",
-                "hdp": 10.5,
-                "over": "1.86",
-                "under": "1.90"
-              },
-              {
-                "label": "Precious Achiuwa (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.25"
-              },
-              {
-                "label": "Precious Achiuwa (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.89"
-              },
-              {
-                "label": "Precious Achiuwa (Points 1Q)",
-                "hdp": 3.5,
-                "over": "2.08"
-              },
-              {
-                "label": "Precious Achiuwa (Points 1Q)",
-                "hdp": 4.5,
-                "over": "3.49"
-              },
-              {
-                "label": "Precious Achiuwa (Points 1Q)",
-                "hdp": 5.5,
-                "over": "4.34"
-              },
-              {
-                "label": "Precious Achiuwa (Points 1Q)",
-                "hdp": 6.5,
-                "over": "7.30"
-              },
-              {
-                "label": "Precious Achiuwa (Points 1Q)",
-                "hdp": 7.5,
-                "over": "10.30"
-              },
-              {
-                "label": "Precious Achiuwa (Pts+Rebs)",
-                "hdp": 18.5,
-                "over": "1.80",
-                "under": "1.95"
-              },
-              {
-                "label": "Precious Achiuwa (Rebounds)",
-                "hdp": 7.5,
-                "over": "1.72",
-                "under": "2.05"
-              },
-              {
-                "label": "Precious Achiuwa (Rebounds 1Q)",
-                "hdp": 1.5,
-                "over": "1.42"
-              },
-              {
-                "label": "Precious Achiuwa (Rebounds 1Q)",
-                "hdp": 2.5,
-                "over": "2.20"
-              },
-              {
-                "label": "Precious Achiuwa (Rebounds 1Q)",
-                "hdp": 3.5,
-                "over": "4.03"
-              },
-              {
-                "label": "Precious Achiuwa (Rebounds 1Q)",
-                "hdp": 4.5,
-                "over": "8.10"
-              },
-              {
-                "label": "Trey Murphy III (3 Point FG)",
-                "hdp": 2.5,
-                "over": "1.81",
-                "under": "1.92"
-              },
-              {
-                "label": "Trey Murphy III (Assists)",
-                "hdp": 2.5,
-                "over": "1.56",
-                "under": "2.34"
-              },
-              {
-                "label": "Trey Murphy III (Double+Double)",
-                "hdp": 0.5,
-                "over": "17.60"
-              },
-              {
-                "label": "Trey Murphy III (Points)",
-                "hdp": 17.5,
-                "over": "1.97",
-                "under": "1.81"
-              },
-              {
-                "label": "Trey Murphy III (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.09"
-              },
-              {
-                "label": "Trey Murphy III (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.27"
-              },
-              {
-                "label": "Trey Murphy III (Points 1Q)",
-                "hdp": 3.5,
-                "over": "1.45"
-              },
-              {
-                "label": "Trey Murphy III (Points 1Q)",
-                "hdp": 4.5,
-                "over": "1.68"
-              },
-              {
-                "label": "Trey Murphy III (Points 1Q)",
-                "hdp": 5.5,
-                "over": "2.12"
-              },
-              {
-                "label": "Trey Murphy III (Points 1Q)",
-                "hdp": 6.5,
-                "over": "2.63"
-              },
-              {
-                "label": "Trey Murphy III (Points 1Q)",
-                "hdp": 7.5,
-                "over": "3.38"
-              },
-              {
-                "label": "Trey Murphy III (Points 1Q)",
-                "hdp": 8.5,
-                "over": "4.52"
-              },
-              {
-                "label": "Trey Murphy III (Points 1Q)",
-                "hdp": 9.5,
-                "over": "6.26"
-              },
-              {
-                "label": "Trey Murphy III (Points 1Q)",
-                "hdp": 10.5,
-                "over": "8.60"
-              },
-              {
-                "label": "Trey Murphy III (Pts+Asts)",
-                "hdp": 20.5,
-                "over": "1.89",
-                "under": "1.85"
-              },
-              {
-                "label": "Trey Murphy III (Pts+Rebs)",
-                "hdp": 22.5,
-                "over": "1.96",
-                "under": "1.78"
-              },
-              {
-                "label": "Trey Murphy III (Pts+Rebs+Asts)",
-                "hdp": 25.5,
-                "over": "1.91",
-                "under": "1.83"
-              },
-              {
-                "label": "Trey Murphy III (Rebounds)",
-                "hdp": 4.5,
-                "over": "1.78",
-                "under": "1.96"
-              },
-              {
-                "label": "Trey Murphy III (Rebounds 1Q)",
-                "hdp": 1.5,
-                "over": "2.33"
-              },
-              {
-                "label": "Trey Murphy III (Rebounds 1Q)",
-                "hdp": 2.5,
-                "over": "5.48"
-              },
-              {
-                "label": "Trey Murphy III (Rebounds 1Q)",
-                "hdp": 3.5,
-                "over": "14.60"
-              },
-              {
-                "label": "Trey Murphy III (Rebs+Asts)",
-                "hdp": 7.5,
-                "over": "1.74",
-                "under": "2.02"
-              },
-              {
-                "label": "Zach LaVine (3 Point FG)",
-                "hdp": 2.5,
-                "over": "1.60",
-                "under": "2.26"
-              },
-              {
-                "label": "Zach LaVine (Assists)",
-                "hdp": 3.5,
-                "over": "2.33",
-                "under": "1.56"
-              },
-              {
-                "label": "Zach LaVine (Double+Double)",
-                "hdp": 0.5,
-                "over": "40.00"
-              },
-              {
-                "label": "Zach LaVine (Points)",
-                "hdp": 21.5,
-                "over": "1.81",
-                "under": "1.95"
-              },
-              {
-                "label": "Zach LaVine (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.08"
-              },
-              {
-                "label": "Zach LaVine (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.22"
-              },
-              {
-                "label": "Zach LaVine (Points 1Q)",
-                "hdp": 3.5,
-                "over": "1.38"
-              },
-              {
-                "label": "Zach LaVine (Points 1Q)",
-                "hdp": 4.5,
-                "over": "1.58"
-              },
-              {
-                "label": "Zach LaVine (Points 1Q)",
-                "hdp": 5.5,
-                "over": "1.94"
-              },
-              {
-                "label": "Zach LaVine (Points 1Q)",
-                "hdp": 6.5,
-                "over": "2.38"
-              },
-              {
-                "label": "Zach LaVine (Points 1Q)",
-                "hdp": 7.5,
-                "over": "3.01"
-              },
-              {
-                "label": "Zach LaVine (Points 1Q)",
-                "hdp": 8.5,
-                "over": "3.94"
-              },
-              {
-                "label": "Zach LaVine (Points 1Q)",
-                "hdp": 9.5,
-                "over": "5.19"
-              },
-              {
-                "label": "Zach LaVine (Points 1Q)",
-                "hdp": 10.5,
-                "over": "6.99"
-              },
-              {
-                "label": "Zach LaVine (Points 1Q)",
-                "hdp": 11.5,
-                "over": "9.70"
-              },
-              {
-                "label": "Zach LaVine (Pts+Asts)",
-                "hdp": 25.5,
-                "over": "1.92",
-                "under": "1.81"
-              },
-              {
-                "label": "Zach LaVine (Pts+Rebs)",
-                "hdp": 25.5,
-                "over": "1.89",
-                "under": "1.84"
-              },
-              {
-                "label": "Zach LaVine (Pts+Rebs+Asts)",
-                "hdp": 28.5,
-                "over": "1.84",
-                "under": "1.89"
-              },
-              {
-                "label": "Zach LaVine (Rebounds)",
-                "hdp": 3.5,
-                "over": "2.13",
-                "under": "1.67"
-              },
-              {
-                "label": "Zach LaVine (Rebs+Asts)",
-                "hdp": 6.5,
-                "over": "1.93",
-                "under": "1.81"
-              },
-              {
-                "label": "Zion Williamson (Assists)",
-                "hdp": 2.5,
-                "over": "1.68",
-                "under": "2.10"
-              },
-              {
-                "label": "Zion Williamson (Double+Double)",
-                "hdp": 0.5,
-                "over": "12.20"
-              },
-              {
-                "label": "Zion Williamson (Points)",
-                "hdp": 21.5,
-                "over": "1.96",
-                "under": "1.81"
-              },
-              {
-                "label": "Zion Williamson (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.04"
-              },
-              {
-                "label": "Zion Williamson (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.18"
-              },
-              {
-                "label": "Zion Williamson (Points 1Q)",
-                "hdp": 3.5,
-                "over": "1.23"
-              },
-              {
-                "label": "Zion Williamson (Points 1Q)",
-                "hdp": 4.5,
-                "over": "1.54"
-              },
-              {
-                "label": "Zion Williamson (Points 1Q)",
-                "hdp": 5.5,
-                "over": "1.69"
-              },
-              {
-                "label": "Zion Williamson (Points 1Q)",
-                "hdp": 6.5,
-                "over": "2.32"
-              },
-              {
-                "label": "Zion Williamson (Points 1Q)",
-                "hdp": 7.5,
-                "over": "2.68"
-              },
-              {
-                "label": "Zion Williamson (Points 1Q)",
-                "hdp": 8.5,
-                "over": "3.88"
-              },
-              {
-                "label": "Zion Williamson (Points 1Q)",
-                "hdp": 9.5,
-                "over": "4.86"
-              },
-              {
-                "label": "Zion Williamson (Points 1Q)",
-                "hdp": 10.5,
-                "over": "7.40"
-              },
-              {
-                "label": "Zion Williamson (Points 1Q)",
-                "hdp": 11.5,
-                "over": "9.80"
-              },
-              {
-                "label": "Zion Williamson (Pts+Asts)",
-                "hdp": 24.5,
-                "over": "1.93",
-                "under": "1.81"
-              },
-              {
-                "label": "Zion Williamson (Pts+Rebs)",
-                "hdp": 26.5,
-                "over": "1.88",
-                "under": "1.86"
-              },
-              {
-                "label": "Zion Williamson (Pts+Rebs+Asts)",
-                "hdp": 29.5,
-                "over": "1.86",
-                "under": "1.86"
-              },
-              {
-                "label": "Zion Williamson (Rebounds)",
-                "hdp": 5.5,
-                "over": "2.14",
-                "under": "1.66"
-              },
-              {
-                "label": "Zion Williamson (Rebounds 1Q)",
-                "hdp": 1.5,
-                "over": "2.08"
-              },
-              {
-                "label": "Zion Williamson (Rebounds 1Q)",
-                "hdp": 2.5,
-                "over": "4.32"
-              },
-              {
-                "label": "Zion Williamson (Rebounds 1Q)",
-                "hdp": 3.5,
-                "over": "11.20"
-              },
-              {
-                "label": "Zion Williamson (Rebs+Asts)",
-                "hdp": 8.5,
-                "over": "2.06",
-                "under": "1.71"
-              }
-            ]
-          }
-        },
-        "advanced": {
-          "blowout_risk": 0.11853559847642359,
-          "recommended_bet": 0.0,
-          "market_edge": -0.05943891724915573,
-          "latent_strength_A": 4.366050665867785,
-          "latent_strength_B": -6.94613037736287,
-          "form_state_A": 1,
-          "form_state_B": 1,
-          "entropy_A": 3.321928094887362
-        },
-        "halves": {
-          "h1_ptsA": 60.25119714039306,
-          "h1_ptsB": 58.42976434176106,
-          "h2_ptsA": 60.25119714039306,
-          "h2_ptsB": 58.42976434176106
-        },
-        "quarters": [
-          {
-            "q": 1,
-            "ptsA": 30.12559857019653,
-            "ptsB": 29.21488217088053
-          },
-          {
-            "q": 2,
-            "ptsA": 30.12559857019653,
-            "ptsB": 29.21488217088053
-          },
-          {
-            "q": 3,
-            "ptsA": 30.12559857019653,
-            "ptsB": 29.21488217088053
-          },
-          {
-            "q": 4,
-            "ptsA": 30.12559857019653,
-            "ptsB": 29.21488217088053
-          }
-        ],
-        "players": [
-          {
-            "player": "Bryce McGowens",
-            "team": "NOP",
-            "proj_pts": 8.752676643596104,
-            "proj_reb": 2.5863312547473987,
-            "proj_ast": 1.3926399064024453,
-            "status": "Questionable",
-            "injury": "Toe",
-            "market_line": null
-          },
-          {
-            "player": "DeAndre Jordan",
-            "team": "NOP",
-            "proj_pts": 4.077951618039093,
-            "proj_reb": 6.366353857839751,
-            "proj_ast": 0.7957942322299689,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Dejounte Murray",
-            "team": "NOP",
-            "proj_pts": 19.643791330798074,
-            "proj_reb": 5.471085346581035,
-            "proj_ast": 5.22239964900917,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 5.5,
-            "market_pts": 17.5,
-            "market_reb": 5.5
-          },
-          {
-            "player": "Derik Queen",
-            "team": "NOP",
-            "proj_pts": 7.559129828560271,
-            "proj_reb": 5.172662509494797,
-            "proj_ast": 2.685805533776145,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Herbert Jones",
-            "team": "NOP",
-            "proj_pts": 9.249987816527701,
-            "proj_reb": 3.978971161149844,
-            "proj_ast": 3.1831769289198757,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Hunter Dickinson",
-            "team": "NOP",
-            "proj_pts": 1.989244691726387,
-            "proj_reb": 0.0,
-            "proj_ast": 0.0,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jeremiah Fears",
-            "team": "NOP",
-            "proj_pts": 13.427401669153113,
-            "proj_reb": 3.58107404503486,
-            "proj_ast": 3.58107404503486,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 2.5,
-            "market_pts": 11.5,
-            "market_reb": 2.5
-          },
-          {
-            "player": "Jordan Hawkins",
-            "team": "NOP",
-            "proj_pts": 1.8897824571400677,
-            "proj_reb": 0.7957942322299689,
-            "proj_ast": 0.2984228370862383,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jordan Poole",
-            "team": "NOP",
-            "proj_pts": 9.647836754872976,
-            "proj_reb": 3.0837026498911295,
-            "proj_ast": 2.4868569757186525,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jose Alvarado",
-            "team": "NOP",
-            "proj_pts": 6.465045248110758,
-            "proj_reb": 2.8847540918336367,
-            "proj_ast": 2.9842283708623834,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Karlo Matkovi\u0107",
-            "team": "NOP",
-            "proj_pts": 7.758054297732909,
-            "proj_reb": 5.37161106755229,
-            "proj_ast": 1.3926399064024453,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Kevon Looney",
-            "team": "NOP",
-            "proj_pts": 3.1827915067622197,
-            "proj_reb": 6.465828136868497,
-            "proj_ast": 1.2931656273736993,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Micah Peavy",
-            "team": "NOP",
-            "proj_pts": 1.094084580449513,
-            "proj_reb": 0.4973713951437305,
-            "proj_ast": 0.19894855805749223,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Saddiq Bey",
-            "team": "NOP",
-            "proj_pts": 19.59406021350491,
-            "proj_reb": 5.272136788523543,
-            "proj_ast": 2.7852798128048906,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Trey Alexander",
-            "team": "NOP",
-            "proj_pts": 2.7849425684169415,
-            "proj_reb": 0.7957942322299689,
-            "proj_ast": 0.994742790287461,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Trey Murphy III",
-            "team": "NOP",
-            "proj_pts": 20.19083362102283,
-            "proj_reb": 4.973713951437305,
-            "proj_ast": 4.874239672408559,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 2.5,
-            "market_pts": 17.5,
-            "market_reb": 4.5
-          },
-          {
-            "player": "Yves Missi",
-            "team": "NOP",
-            "proj_pts": 5.072573963902287,
-            "proj_reb": 5.570559625609781,
-            "proj_ast": 0.994742790287461,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Zion Williamson",
-            "team": "NOP",
-            "proj_pts": 20.19083362102283,
-            "proj_reb": 5.073188230466051,
-            "proj_ast": 2.0889598596036683,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 2.5,
-            "market_pts": 21.5,
-            "market_reb": 5.5
-          },
-          {
-            "player": "Daeqwon Plowden",
-            "team": "SAC",
-            "proj_pts": 10.331512961964014,
-            "proj_reb": 3.3821254869773676,
-            "proj_ast": 1.0942170693162072,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Dario Saric",
-            "team": "SAC",
-            "proj_pts": 0.9655619590620576,
-            "proj_reb": 1.1936913483449532,
-            "proj_ast": 0.39789711611498446,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "De'Andre Hunter",
-            "team": "SAC",
-            "proj_pts": 11.103962529213662,
-            "proj_reb": 2.8847540918336367,
-            "proj_ast": 1.5915884644599378,
-            "status": "Out For Season",
-            "injury": "Eye",
-            "market_line": null,
-            "market_pts": 11.5,
-            "market_reb": 4.5
-          },
-          {
-            "player": "DeMar DeRozan",
-            "team": "SAC",
-            "proj_pts": 17.766340046741856,
-            "proj_reb": 2.28790841766116,
-            "proj_ast": 4.874239672408559,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Dennis Schr\u00f6der",
-            "team": "SAC",
-            "proj_pts": 11.876412096463309,
-            "proj_reb": 2.28790841766116,
-            "proj_ast": 3.58107404503486,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Devin Carter",
-            "team": "SAC",
-            "proj_pts": 10.621181549682634,
-            "proj_reb": 3.780022603092352,
-            "proj_ast": 3.0837026498911295,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Domantas Sabonis",
-            "team": "SAC",
-            "proj_pts": 15.738659932711538,
-            "proj_reb": 10.44479929801834,
-            "proj_ast": 4.476342556293575,
-            "status": "Out For Season",
-            "injury": "Knee",
-            "market_line": null,
-            "market_ast": 6.5,
-            "market_pts": 17.5,
-            "market_reb": 13.5
-          },
-          {
-            "player": "Doug McDermott",
-            "team": "SAC",
-            "proj_pts": 5.310590774841317,
-            "proj_reb": 1.1936913483449532,
-            "proj_ast": 0.5968456741724766,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Drew Eubanks",
-            "team": "SAC",
-            "proj_pts": 5.407146970747522,
-            "proj_reb": 4.277393998236082,
-            "proj_ast": 0.994742790287461,
-            "status": "Out For Season",
-            "injury": "Thumb",
-            "market_line": null
-          },
-          {
-            "player": "Dylan Cardwell",
-            "team": "SAC",
-            "proj_pts": 6.276152733903374,
-            "proj_reb": 8.753736554529658,
-            "proj_ast": 1.4921141854311917,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Isaac Jones",
-            "team": "SAC",
-            "proj_pts": 0.9655619590620576,
-            "proj_reb": 0.6631618601916407,
-            "proj_ast": 0.33158093009582035,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Isaiah Stevens",
-            "team": "SAC",
-            "proj_pts": 3.218539863540192,
-            "proj_reb": 0.994742790287461,
-            "proj_ast": 3.3158093009582035,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Keegan Murray",
-            "team": "SAC",
-            "proj_pts": 12.06952448827572,
-            "proj_reb": 4.07844544017859,
-            "proj_ast": 1.6910627434886838,
-            "status": "Out",
-            "injury": "Ankle",
-            "market_line": null
-          },
-          {
-            "player": "Keon Ellis",
-            "team": "SAC",
-            "proj_pts": 4.441585011685464,
-            "proj_reb": 0.994742790287461,
-            "proj_ast": 0.39789711611498446,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Killian Hayes",
-            "team": "SAC",
-            "proj_pts": 5.6002593625599335,
-            "proj_reb": 2.685805533776145,
-            "proj_ast": 3.780022603092352,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Malik Monk",
-            "team": "SAC",
-            "proj_pts": 12.841974055525366,
-            "proj_reb": 1.4921141854311917,
-            "proj_ast": 3.0837026498911295,
-            "status": "Questionable",
-            "injury": "Shoulder",
-            "market_line": null
-          },
-          {
-            "player": "Maxime Raynaud",
-            "team": "SAC",
-            "proj_pts": 17.476671459023244,
-            "proj_reb": 8.753736554529658,
-            "proj_ast": 1.79053702251743,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Nique Clifford",
-            "team": "SAC",
-            "proj_pts": 12.552305467806748,
-            "proj_reb": 5.86898246269602,
-            "proj_ast": 4.376868277264829,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Patrick Baldwin Jr.",
-            "team": "SAC",
-            "proj_pts": 2.6208110317398705,
-            "proj_reb": 1.8473794676767135,
-            "proj_ast": 0.2842122257964174,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Precious Achiuwa",
-            "team": "SAC",
-            "proj_pts": 16.60766569586739,
-            "proj_reb": 9.649005065788371,
-            "proj_ast": 1.989485580574922,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_pts": 10.5,
-            "market_reb": 7.5
-          },
-          {
-            "player": "Russell Westbrook",
-            "team": "SAC",
-            "proj_pts": 15.352435149086716,
-            "proj_reb": 4.874239672408559,
-            "proj_ast": 7.460570927155958,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Zach LaVine",
-            "team": "SAC",
-            "proj_pts": 16.12488471633636,
-            "proj_reb": 1.79053702251743,
-            "proj_ast": 2.3873826966899063,
-            "status": "Out For Season",
-            "injury": "Finger",
-            "market_line": null,
-            "market_ast": 3.5,
-            "market_pts": 21.5,
-            "market_reb": 3.5
-          }
-        ],
-        "factors": {
-          "teamA": {
-            "efg": 0.5433758776892872,
-            "tov": 0.12901185455829864,
-            "orb": 0.3013053082330207,
-            "ftr": 0.3385713458548311,
-            "sos": -4.924666327714091,
-            "rest": 228,
-            "is_b2b": 0,
-            "ml_influence": {
-              "roll_efg_pct_10": 0.004178297994300024,
-              "roll_tov_pct_10": 0.0063999757402939395,
-              "roll_orb_pct_10": 0.012554149254938949,
-              "roll_ft_rate_10": 0.0006290277134150556,
-              "p_tov": -0.02792764156757045
-            }
-          },
-          "teamB": {
-            "efg": 0.5390983776725441,
-            "tov": 0.1087136409037468,
-            "orb": 0.24574791397405157,
-            "ftr": 0.22318889648032333,
-            "sos": -0.7608895900382631,
-            "rest": 227,
-            "is_b2b": 0
-          }
-        },
-        "margins": {
-          "1-5": 0.2373497258583864,
-          "6-10": 0.10205786169724275,
-          "11+": 0.1695050248874799
-        },
-        "formA": [
-          {
-            "date": "2026-02-26",
-            "opponent": "UTA",
-            "result": "W",
-            "score": "129-118",
-            "quarters": [
-              32,
-              32,
-              32,
-              32
-            ],
-            "halves": [
-              64,
-              64
-            ]
-          },
-          {
-            "date": "2026-02-28",
-            "opponent": "UTA",
-            "result": "W",
-            "score": "115-105",
-            "quarters": [
-              28,
-              28,
-              28,
-              28
-            ],
-            "halves": [
-              56,
-              56
-            ]
-          },
-          {
-            "date": "2026-03-01",
-            "opponent": "LAC",
-            "result": "L",
-            "score": "117-137",
-            "quarters": [
-              29,
-              29,
-              29,
-              29
-            ],
-            "halves": [
-              58,
-              58
-            ]
-          },
-          {
-            "date": "2026-03-03",
-            "opponent": "LAL",
-            "result": "L",
-            "score": "101-110",
-            "quarters": [
-              25,
-              25,
-              25,
-              25
-            ],
-            "halves": [
-              50,
-              50
-            ]
-          },
-          {
-            "date": "2026-03-05",
-            "opponent": "SAC",
-            "result": "W",
-            "score": "133-123",
-            "quarters": [
-              33,
-              33,
-              33,
-              33
-            ],
-            "halves": [
-              66,
-              66
-            ]
-          },
-          {
-            "date": "2026-03-06",
-            "opponent": "PHX",
-            "result": "L",
-            "score": "116-118",
-            "quarters": [
-              29,
-              29,
-              29,
-              29
-            ],
-            "halves": [
-              58,
-              58
-            ]
-          },
-          {
-            "date": "2026-03-08",
-            "opponent": "WAS",
-            "result": "W",
-            "score": "138-118",
-            "quarters": [
-              34,
-              34,
-              34,
-              34
-            ],
-            "halves": [
-              68,
-              68
-            ]
-          },
-          {
-            "date": "2026-03-11",
-            "opponent": "TOR",
-            "result": "W",
-            "score": "122-111",
-            "quarters": [
-              30,
-              30,
-              30,
-              30
-            ],
-            "halves": [
-              60,
-              60
-            ]
-          },
-          {
-            "date": "2026-03-13",
-            "opponent": "HOU",
-            "result": "L",
-            "score": "105-107",
-            "quarters": [
-              26,
-              26,
-              26,
-              26
-            ],
-            "halves": [
-              52,
-              52
-            ]
-          },
-          {
-            "date": "2026-03-16",
-            "opponent": "DAL",
-            "result": "W",
-            "score": "129-111",
-            "quarters": [
-              32,
-              32,
-              32,
-              32
-            ],
-            "halves": [
-              64,
-              64
-            ]
-          }
-        ],
-        "formB": [
-          {
-            "date": "2026-02-26",
-            "opponent": "DAL",
-            "result": "W",
-            "score": "130-121",
-            "quarters": [
-              32,
-              32,
-              32,
-              32
-            ],
-            "halves": [
-              64,
-              64
-            ]
-          },
-          {
-            "date": "2026-03-01",
-            "opponent": "LAL",
-            "result": "L",
-            "score": "104-128",
-            "quarters": [
-              26,
-              26,
-              26,
-              26
-            ],
-            "halves": [
-              52,
-              52
-            ]
-          },
-          {
-            "date": "2026-03-03",
-            "opponent": "PHX",
-            "result": "L",
-            "score": "103-114",
-            "quarters": [
-              25,
-              25,
-              25,
-              25
-            ],
-            "halves": [
-              50,
-              50
-            ]
-          },
-          {
-            "date": "2026-03-05",
-            "opponent": "NOP",
-            "result": "L",
-            "score": "123-133",
-            "quarters": [
-              30,
-              30,
-              30,
-              30
-            ],
-            "halves": [
-              60,
-              60
-            ]
-          },
-          {
-            "date": "2026-03-08",
-            "opponent": "CHI",
-            "result": "W",
-            "score": "126-110",
-            "quarters": [
-              31,
-              31,
-              31,
-              31
-            ],
-            "halves": [
-              62,
-              62
-            ]
-          },
-          {
-            "date": "2026-03-10",
-            "opponent": "IND",
-            "result": "W",
-            "score": "114-109",
-            "quarters": [
-              28,
-              28,
-              28,
-              28
-            ],
-            "halves": [
-              56,
-              56
-            ]
-          },
-          {
-            "date": "2026-03-11",
-            "opponent": "CHA",
-            "result": "L",
-            "score": "109-117",
-            "quarters": [
-              27,
-              27,
-              27,
-              27
-            ],
-            "halves": [
-              54,
-              54
-            ]
-          },
-          {
-            "date": "2026-03-14",
-            "opponent": "LAC",
-            "result": "W",
-            "score": "118-109",
-            "quarters": [
-              29,
-              29,
-              29,
-              29
-            ],
-            "halves": [
-              58,
-              58
-            ]
-          },
-          {
-            "date": "2026-03-15",
-            "opponent": "UTA",
-            "result": "W",
-            "score": "116-111",
-            "quarters": [
-              29,
-              29,
-              29,
-              29
-            ],
-            "halves": [
-              58,
-              58
-            ]
-          },
-          {
-            "date": "2026-03-17",
-            "opponent": "SAS",
-            "result": "L",
-            "score": "104-132",
-            "quarters": [
-              26,
-              26,
-              26,
-              26
-            ],
-            "halves": [
-              52,
-              52
-            ]
-          }
-        ],
-        "shap_explanation": {
-          "adj_ortg_10": 0.020665394672414125,
-          "adj_drtg_10": 0.008363303263436421,
-          "adj_pace_10": -0.020480634482625958,
-          "net_rating": 0.004725597423019963,
-          "roll_efg_pct_10": 0.004178297994300024,
-          "roll_tov_pct_10": 0.0063999757402939395,
-          "roll_orb_pct_10": 0.012554149254938949,
-          "roll_ft_rate_10": 0.0006290277134150556,
-          "sos_10": 0.0007803083179940273,
-          "is_b2b": 0.00011506102088929992,
-          "p_pts": 0.009954824655648906,
-          "p_reb": -0.015983575313363686,
-          "p_ast": -0.008495223141391861,
-          "p_stl": 0.004765885447066225,
-          "p_blk": -0.007846587454068441,
-          "p_tov": -0.02792764156757045,
-          "p_pf": -0.021427918707599077,
-          "p_pm": -0.006593570311951993,
-          "p_usage": 0.021063865725480184,
-          "p_eff": 0.00427752955951469,
-          "opp_adj_ortg_10": 0.021589633267678217,
-          "opp_adj_drtg_10": 0.03289802840514426,
-          "opp_sos_10": 0.0021777447824241135,
-          "opp_is_b2b": -0.0011920688765826525
-        },
-        "match_id": "odds_73719454",
-        "time": "TBD"
-      },
-      "ml_prob_A": 0.5691313020858827,
-      "mc_win_A": 0.589,
-      "shap_explanation": {
-        "adj_ortg_10": 0.020665394672414125,
-        "adj_drtg_10": 0.008363303263436421,
-        "adj_pace_10": -0.020480634482625958,
-        "net_rating": 0.004725597423019963,
-        "roll_efg_pct_10": 0.004178297994300024,
-        "roll_tov_pct_10": 0.0063999757402939395,
-        "roll_orb_pct_10": 0.012554149254938949,
-        "roll_ft_rate_10": 0.0006290277134150556,
-        "sos_10": 0.0007803083179940273,
-        "is_b2b": 0.00011506102088929992,
-        "p_pts": 0.009954824655648906,
-        "p_reb": -0.015983575313363686,
-        "p_ast": -0.008495223141391861,
-        "p_stl": 0.004765885447066225,
-        "p_blk": -0.007846587454068441,
-        "p_tov": -0.02792764156757045,
-        "p_pf": -0.021427918707599077,
-        "p_pm": -0.006593570311951993,
-        "p_usage": 0.021063865725480184,
-        "p_eff": 0.00427752955951469,
-        "opp_adj_ortg_10": 0.021589633267678217,
-        "opp_adj_drtg_10": 0.03289802840514426,
-        "opp_sos_10": 0.0021777447824241135,
-        "opp_is_b2b": -0.0011920688765826525
-      },
-      "is_b2b_home": 0,
-      "is_b2b_away": 0,
-      "rest_home": 228,
-      "rest_away": 227
-    },
-    {
-      "matchId": "odds_73719456",
-      "matchTime": 1793325600,
-      "gameStatus": "02:00 AM ET",
-      "homeTeam": "POR",
-      "awayTeam": "MEM",
-      "homeName": "Portland Trail Blazers",
-      "awayName": "Memphis Grizzlies",
-      "is_odds_fallback": true,
-      "prediction": {
-        "main": {
-          "ptsA": 121.95425095560714,
-          "ptsB": 112.62359528712014,
-          "total": 234.57784624272728,
-          "spread": -9.330655668486989,
-          "win_prob_A": 60.926399090327045,
-          "ml_prob_A": 0.5718896634503379,
-          "mc_win_A": 0.5394,
-          "base_win_prob_A": 0.7679217608727688,
-          "market_prob_A": 0.7065217391304348,
-          "market": {
-            "ml": {
-              "home": "1.35",
-              "away": "3.25"
-            },
-            "spread": {
-              "hdp": -7.5,
-              "home": "1.90",
-              "away": "1.90"
-            },
-            "total": {
-              "hdp": 233.5,
-              "over": "1.90",
-              "under": "1.90"
-            },
-            "props": [
-              {
-                "label": "Cameron Boozer (3 Point FG)",
-                "hdp": 1.5,
-                "over": "1.72",
-                "under": "2.04"
-              },
-              {
-                "label": "Cameron Boozer (Assists)",
-                "hdp": 3.5,
-                "over": "1.66",
-                "under": "2.13"
-              },
-              {
-                "label": "Cameron Boozer (Assists 1Q)",
-                "hdp": 1.5,
-                "over": "2.46"
-              },
-              {
-                "label": "Cameron Boozer (Assists 1Q)",
-                "hdp": 2.5,
-                "over": "5.92"
-              },
-              {
-                "label": "Cameron Boozer (Double+Double)",
-                "hdp": 0.5,
-                "over": "2.96"
-              },
-              {
-                "label": "Cameron Boozer (Points)",
-                "hdp": 15.5,
-                "over": "1.80",
-                "under": "1.98"
-              },
-              {
-                "label": "Cameron Boozer (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.12"
-              },
-              {
-                "label": "Cameron Boozer (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.34"
-              },
-              {
-                "label": "Cameron Boozer (Points 1Q)",
-                "hdp": 3.5,
-                "over": "1.53"
-              },
-              {
-                "label": "Cameron Boozer (Points 1Q)",
-                "hdp": 4.5,
-                "over": "1.86"
-              },
-              {
-                "label": "Cameron Boozer (Points 1Q)",
-                "hdp": 5.5,
-                "over": "2.40"
-              },
-              {
-                "label": "Cameron Boozer (Points 1Q)",
-                "hdp": 6.5,
-                "over": "3.11"
-              },
-              {
-                "label": "Cameron Boozer (Points 1Q)",
-                "hdp": 7.5,
-                "over": "4.18"
-              },
-              {
-                "label": "Cameron Boozer (Points 1Q)",
-                "hdp": 8.5,
-                "over": "5.91"
-              },
-              {
-                "label": "Cameron Boozer (Points 1Q)",
-                "hdp": 9.5,
-                "over": "8.20"
-              },
-              {
-                "label": "Cameron Boozer (Pts+Asts)",
-                "hdp": 20.5,
-                "over": "1.94",
-                "under": "1.80"
-              },
-              {
-                "label": "Cameron Boozer (Pts+Rebs)",
-                "hdp": 24.5,
-                "over": "1.94",
-                "under": "1.80"
-              },
-              {
-                "label": "Cameron Boozer (Pts+Rebs+Asts)",
-                "hdp": 28.5,
-                "over": "1.91",
-                "under": "1.82"
-              },
-              {
-                "label": "Cameron Boozer (Rebounds)",
-                "hdp": 7.5,
-                "over": "1.73",
-                "under": "2.04"
-              },
-              {
-                "label": "Cameron Boozer (Rebounds 1Q)",
-                "hdp": 1.5,
-                "over": "1.45"
-              },
-              {
-                "label": "Cameron Boozer (Rebounds 1Q)",
-                "hdp": 2.5,
-                "over": "2.27"
-              },
-              {
-                "label": "Cameron Boozer (Rebounds 1Q)",
-                "hdp": 3.5,
-                "over": "4.18"
-              },
-              {
-                "label": "Cameron Boozer (Rebounds 1Q)",
-                "hdp": 4.5,
-                "over": "8.50"
-              },
-              {
-                "label": "Cameron Boozer (Rebs+Asts)",
-                "hdp": 11.5,
-                "over": "1.75",
-                "under": "2.01"
-              },
-              {
-                "label": "Cameron Boozer (Triple+Double)",
-                "hdp": 0.5,
-                "over": "57.00"
-              },
-              {
-                "label": "Cedric Coward (3 Point FG)",
-                "hdp": 1.5,
-                "over": "2.16",
-                "under": "1.65"
-              },
-              {
-                "label": "Cedric Coward (Assists)",
-                "hdp": 2.5,
-                "over": "1.81",
-                "under": "1.93"
-              },
-              {
-                "label": "Cedric Coward (Double+Double)",
-                "hdp": 0.5,
-                "over": "6.44"
-              },
-              {
-                "label": "Cedric Coward (Points)",
-                "hdp": 12.5,
-                "over": "1.80",
-                "under": "1.97"
-              },
-              {
-                "label": "Cedric Coward (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.17"
-              },
-              {
-                "label": "Cedric Coward (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.48"
-              },
-              {
-                "label": "Cedric Coward (Points 1Q)",
-                "hdp": 3.5,
-                "over": "1.77"
-              },
-              {
-                "label": "Cedric Coward (Points 1Q)",
-                "hdp": 4.5,
-                "over": "2.25"
-              },
-              {
-                "label": "Cedric Coward (Points 1Q)",
-                "hdp": 5.5,
-                "over": "3.08"
-              },
-              {
-                "label": "Cedric Coward (Points 1Q)",
-                "hdp": 6.5,
-                "over": "4.20"
-              },
-              {
-                "label": "Cedric Coward (Points 1Q)",
-                "hdp": 7.5,
-                "over": "6.07"
-              },
-              {
-                "label": "Cedric Coward (Points 1Q)",
-                "hdp": 8.5,
-                "over": "8.70"
-              },
-              {
-                "label": "Cedric Coward (Pts+Asts)",
-                "hdp": 15.5,
-                "over": "1.81",
-                "under": "1.92"
-              },
-              {
-                "label": "Cedric Coward (Pts+Rebs)",
-                "hdp": 19.5,
-                "over": "1.90",
-                "under": "1.83"
-              },
-              {
-                "label": "Cedric Coward (Pts+Rebs+Asts)",
-                "hdp": 22.5,
-                "over": "1.95",
-                "under": "1.80"
-              },
-              {
-                "label": "Cedric Coward (Rebounds)",
-                "hdp": 6.5,
-                "over": "2.09",
-                "under": "1.69"
-              },
-              {
-                "label": "Cedric Coward (Rebounds 1Q)",
-                "hdp": 1.5,
-                "over": "1.75"
-              },
-              {
-                "label": "Cedric Coward (Rebounds 1Q)",
-                "hdp": 2.5,
-                "over": "3.05"
-              },
-              {
-                "label": "Cedric Coward (Rebounds 1Q)",
-                "hdp": 3.5,
-                "over": "6.22"
-              },
-              {
-                "label": "Cedric Coward (Rebounds 1Q)",
-                "hdp": 4.5,
-                "over": "14.20"
-              },
-              {
-                "label": "Cedric Coward (Rebs+Asts)",
-                "hdp": 8.5,
-                "over": "1.74",
-                "under": "2.03"
-              },
-              {
-                "label": "Cedric Coward (Steals)",
-                "hdp": 0.5,
-                "over": "1.35"
-              },
-              {
-                "label": "Cedric Coward (Steals)",
-                "hdp": 1.5,
-                "over": "2.55"
-              },
-              {
-                "label": "Cedric Coward (Steals)",
-                "hdp": 2.5,
-                "over": "5.90"
-              },
-              {
-                "label": "Cedric Coward (Steals)",
-                "hdp": 3.5,
-                "over": "13.80"
-              },
-              {
-                "label": "Cedric Coward (Steals)",
-                "hdp": 4.5,
-                "over": "26.00"
-              },
-              {
-                "label": "Damian Lillard (3 Point FG)",
-                "hdp": 2.5,
-                "over": "1.60",
-                "under": "2.24"
-              },
-              {
-                "label": "Damian Lillard (Assists)",
-                "hdp": 4.5,
-                "over": "1.90",
-                "under": "1.83"
-              },
-              {
-                "label": "Damian Lillard (Assists 1Q)",
-                "hdp": 1.5,
-                "over": "2.21"
-              },
-              {
-                "label": "Damian Lillard (Assists 1Q)",
-                "hdp": 2.5,
-                "over": "4.86"
-              },
-              {
-                "label": "Damian Lillard (Assists 1Q)",
-                "hdp": 3.5,
-                "over": "13.40"
-              },
-              {
-                "label": "Damian Lillard (Double+Double)",
-                "hdp": 0.5,
-                "over": "20.60"
-              },
-              {
-                "label": "Damian Lillard (Points)",
-                "hdp": 20.5,
-                "over": "1.86",
-                "under": "1.90"
-              },
-              {
-                "label": "Damian Lillard (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.08"
-              },
-              {
-                "label": "Damian Lillard (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.21"
-              },
-              {
-                "label": "Damian Lillard (Points 1Q)",
-                "hdp": 3.5,
-                "over": "1.37"
-              },
-              {
-                "label": "Damian Lillard (Points 1Q)",
-                "hdp": 4.5,
-                "over": "1.55"
-              },
-              {
-                "label": "Damian Lillard (Points 1Q)",
-                "hdp": 5.5,
-                "over": "1.88"
-              },
-              {
-                "label": "Damian Lillard (Points 1Q)",
-                "hdp": 6.5,
-                "over": "2.28"
-              },
-              {
-                "label": "Damian Lillard (Points 1Q)",
-                "hdp": 7.5,
-                "over": "2.83"
-              },
-              {
-                "label": "Damian Lillard (Points 1Q)",
-                "hdp": 8.5,
-                "over": "3.69"
-              },
-              {
-                "label": "Damian Lillard (Points 1Q)",
-                "hdp": 9.5,
-                "over": "4.89"
-              },
-              {
-                "label": "Damian Lillard (Points 1Q)",
-                "hdp": 10.5,
-                "over": "6.65"
-              },
-              {
-                "label": "Damian Lillard (Points 1Q)",
-                "hdp": 11.5,
-                "over": "9.10"
-              },
-              {
-                "label": "Damian Lillard (Pts+Asts)",
-                "hdp": 25.5,
-                "over": "1.90",
-                "under": "1.83"
-              },
-              {
-                "label": "Damian Lillard (Pts+Rebs)",
-                "hdp": 24.5,
-                "over": "1.87",
-                "under": "1.86"
-              },
-              {
-                "label": "Damian Lillard (Pts+Rebs+Asts)",
-                "hdp": 29.5,
-                "over": "1.95",
-                "under": "1.80"
-              },
-              {
-                "label": "Damian Lillard (Rebounds)",
-                "hdp": 3.5,
-                "over": "1.80",
-                "under": "1.95"
-              },
-              {
-                "label": "Damian Lillard (Rebs+Asts)",
-                "hdp": 8.5,
-                "over": "2.00",
-                "under": "1.76"
-              },
-              {
-                "label": "Deni Avdija (3 Point FG)",
-                "hdp": 1.5,
-                "over": "1.83",
-                "under": "1.90"
-              },
-              {
-                "label": "Deni Avdija (Assists)",
-                "hdp": 5.5,
-                "over": "1.99",
-                "under": "1.76"
-              },
-              {
-                "label": "Deni Avdija (Assists 1Q)",
-                "hdp": 1.5,
-                "over": "1.94"
-              },
-              {
-                "label": "Deni Avdija (Assists 1Q)",
-                "hdp": 2.5,
-                "over": "3.93"
-              },
-              {
-                "label": "Deni Avdija (Assists 1Q)",
-                "hdp": 3.5,
-                "over": "9.80"
-              },
-              {
-                "label": "Deni Avdija (Double+Double)",
-                "hdp": 0.5,
-                "over": "3.91"
-              },
-              {
-                "label": "Deni Avdija (Points)",
-                "hdp": 22.5,
-                "over": "1.80",
-                "under": "1.97"
-              },
-              {
-                "label": "Deni Avdija (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.04"
-              },
-              {
-                "label": "Deni Avdija (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.13"
-              },
-              {
-                "label": "Deni Avdija (Points 1Q)",
-                "hdp": 3.5,
-                "over": "1.20"
-              },
-              {
-                "label": "Deni Avdija (Points 1Q)",
-                "hdp": 4.5,
-                "over": "1.37"
-              },
-              {
-                "label": "Deni Avdija (Points 1Q)",
-                "hdp": 5.5,
-                "over": "1.55"
-              },
-              {
-                "label": "Deni Avdija (Points 1Q)",
-                "hdp": 6.5,
-                "over": "1.84"
-              },
-              {
-                "label": "Deni Avdija (Points 1Q)",
-                "hdp": 7.5,
-                "over": "2.22"
-              },
-              {
-                "label": "Deni Avdija (Points 1Q)",
-                "hdp": 8.5,
-                "over": "2.75"
-              },
-              {
-                "label": "Deni Avdija (Points 1Q)",
-                "hdp": 9.5,
-                "over": "3.50"
-              },
-              {
-                "label": "Deni Avdija (Points 1Q)",
-                "hdp": 10.5,
-                "over": "4.59"
-              },
-              {
-                "label": "Deni Avdija (Points 1Q)",
-                "hdp": 11.5,
-                "over": "6.14"
-              },
-              {
-                "label": "Deni Avdija (Points 1Q)",
-                "hdp": 12.5,
-                "over": "8.30"
-              },
-              {
-                "label": "Deni Avdija (Pts+Asts)",
-                "hdp": 28.5,
-                "over": "1.84",
-                "under": "1.89"
-              },
-              {
-                "label": "Deni Avdija (Pts+Rebs)",
-                "hdp": 29.5,
-                "over": "1.81",
-                "under": "1.92"
-              },
-              {
-                "label": "Deni Avdija (Pts+Rebs+Asts)",
-                "hdp": 35.5,
-                "over": "1.86",
-                "under": "1.87"
-              },
-              {
-                "label": "Deni Avdija (Rebounds)",
-                "hdp": 6.5,
-                "over": "1.85",
-                "under": "1.89"
-              },
-              {
-                "label": "Deni Avdija (Rebounds 1Q)",
-                "hdp": 1.5,
-                "over": "1.64"
-              },
-              {
-                "label": "Deni Avdija (Rebounds 1Q)",
-                "hdp": 2.5,
-                "over": "2.91"
-              },
-              {
-                "label": "Deni Avdija (Rebounds 1Q)",
-                "hdp": 3.5,
-                "over": "6.04"
-              },
-              {
-                "label": "Deni Avdija (Rebounds 1Q)",
-                "hdp": 4.5,
-                "over": "14.20"
-              },
-              {
-                "label": "Deni Avdija (Rebs+Asts)",
-                "hdp": 12.5,
-                "over": "2.01",
-                "under": "1.75"
-              },
-              {
-                "label": "Deni Avdija (Triple+Double)",
-                "hdp": 0.5,
-                "over": "25.00"
-              },
-              {
-                "label": "Donovan Clingan (3 Point FG)",
-                "hdp": 0.5,
-                "over": "1.52",
-                "under": "2.44"
-              },
-              {
-                "label": "Donovan Clingan (Assists)",
-                "hdp": 1.5,
-                "over": "1.59"
-              },
-              {
-                "label": "Donovan Clingan (Assists)",
-                "hdp": 2.5,
-                "over": "2.70"
-              },
-              {
-                "label": "Donovan Clingan (Assists)",
-                "hdp": 3.5,
-                "over": "5.09"
-              },
-              {
-                "label": "Donovan Clingan (Assists)",
-                "hdp": 4.5,
-                "over": "10.60"
-              },
-              {
-                "label": "Donovan Clingan (Assists)",
-                "hdp": 5.5,
-                "over": "20.60"
-              },
-              {
-                "label": "Donovan Clingan (Double+Double)",
-                "hdp": 0.5,
-                "over": "2.42"
-              },
-              {
-                "label": "Donovan Clingan (Points)",
-                "hdp": 10.5,
-                "over": "1.99",
-                "under": "1.79"
-              },
-              {
-                "label": "Donovan Clingan (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.26"
-              },
-              {
-                "label": "Donovan Clingan (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.71"
-              },
-              {
-                "label": "Donovan Clingan (Points 1Q)",
-                "hdp": 3.5,
-                "over": "2.15"
-              },
-              {
-                "label": "Donovan Clingan (Points 1Q)",
-                "hdp": 4.5,
-                "over": "2.71"
-              },
-              {
-                "label": "Donovan Clingan (Points 1Q)",
-                "hdp": 5.5,
-                "over": "3.76"
-              },
-              {
-                "label": "Donovan Clingan (Points 1Q)",
-                "hdp": 6.5,
-                "over": "5.24"
-              },
-              {
-                "label": "Donovan Clingan (Points 1Q)",
-                "hdp": 7.5,
-                "over": "7.00"
-              },
-              {
-                "label": "Donovan Clingan (Points 1Q)",
-                "hdp": 8.5,
-                "over": "10.70"
-              },
-              {
-                "label": "Donovan Clingan (Pts+Asts)",
-                "hdp": 12.5,
-                "over": "1.94",
-                "under": "1.80"
-              },
-              {
-                "label": "Donovan Clingan (Pts+Rebs)",
-                "hdp": 21.5,
-                "over": "1.95",
-                "under": "1.80"
-              },
-              {
-                "label": "Donovan Clingan (Pts+Rebs+Asts)",
-                "hdp": 23.5,
-                "over": "1.92",
-                "under": "1.81"
-              },
-              {
-                "label": "Donovan Clingan (Rebounds)",
-                "hdp": 10.5,
-                "over": "1.83",
-                "under": "1.91"
-              },
-              {
-                "label": "Donovan Clingan (Rebounds 1Q)",
-                "hdp": 1.5,
-                "over": "1.13"
-              },
-              {
-                "label": "Donovan Clingan (Rebounds 1Q)",
-                "hdp": 2.5,
-                "over": "1.41"
-              },
-              {
-                "label": "Donovan Clingan (Rebounds 1Q)",
-                "hdp": 3.5,
-                "over": "1.98"
-              },
-              {
-                "label": "Donovan Clingan (Rebounds 1Q)",
-                "hdp": 4.5,
-                "over": "3.14"
-              },
-              {
-                "label": "Donovan Clingan (Rebounds 1Q)",
-                "hdp": 5.5,
-                "over": "5.47"
-              },
-              {
-                "label": "Donovan Clingan (Rebounds 1Q)",
-                "hdp": 6.5,
-                "over": "10.50"
-              },
-              {
-                "label": "Donovan Clingan (Rebs+Asts)",
-                "hdp": 12.5,
-                "over": "1.80",
-                "under": "1.94"
-              },
-              {
-                "label": "Ja Morant (3 Point FG)",
-                "hdp": 1.5,
-                "over": "2.46",
-                "under": "1.51"
-              },
-              {
-                "label": "Ja Morant (Assists)",
-                "hdp": 6.5,
-                "over": "2.07",
-                "under": "1.70"
-              },
-              {
-                "label": "Ja Morant (Assists 1Q)",
-                "hdp": 1.5,
-                "over": "1.54"
-              },
-              {
-                "label": "Ja Morant (Assists 1Q)",
-                "hdp": 2.5,
-                "over": "2.68"
-              },
-              {
-                "label": "Ja Morant (Assists 1Q)",
-                "hdp": 3.5,
-                "over": "5.68"
-              },
-              {
-                "label": "Ja Morant (Assists 1Q)",
-                "hdp": 4.5,
-                "over": "14.00"
-              },
-              {
-                "label": "Ja Morant (Double+Double)",
-                "hdp": 0.5,
-                "over": "6.98"
-              },
-              {
-                "label": "Ja Morant (Points)",
-                "hdp": 17.5,
-                "over": "1.85",
-                "under": "1.91"
-              },
-              {
-                "label": "Ja Morant (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.10"
-              },
-              {
-                "label": "Ja Morant (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.30"
-              },
-              {
-                "label": "Ja Morant (Points 1Q)",
-                "hdp": 3.5,
-                "over": "1.46"
-              },
-              {
-                "label": "Ja Morant (Points 1Q)",
-                "hdp": 4.5,
-                "over": "1.76"
-              },
-              {
-                "label": "Ja Morant (Points 1Q)",
-                "hdp": 5.5,
-                "over": "2.21"
-              },
-              {
-                "label": "Ja Morant (Points 1Q)",
-                "hdp": 6.5,
-                "over": "2.80"
-              },
-              {
-                "label": "Ja Morant (Points 1Q)",
-                "hdp": 7.5,
-                "over": "3.71"
-              },
-              {
-                "label": "Ja Morant (Points 1Q)",
-                "hdp": 8.5,
-                "over": "4.99"
-              },
-              {
-                "label": "Ja Morant (Points 1Q)",
-                "hdp": 9.5,
-                "over": "6.83"
-              },
-              {
-                "label": "Ja Morant (Points 1Q)",
-                "hdp": 10.5,
-                "over": "9.80"
-              },
-              {
-                "label": "Ja Morant (Pts+Asts)",
-                "hdp": 24.5,
-                "over": "1.94",
-                "under": "1.80"
-              },
-              {
-                "label": "Ja Morant (Pts+Rebs)",
-                "hdp": 21.5,
-                "over": "1.93",
-                "under": "1.81"
-              },
-              {
-                "label": "Ja Morant (Pts+Rebs+Asts)",
-                "hdp": 27.5,
-                "over": "1.86",
-                "under": "1.86"
-              },
-              {
-                "label": "Ja Morant (Rebounds)",
-                "hdp": 3.5,
-                "over": "2.19",
-                "under": "1.63"
-              },
-              {
-                "label": "Ja Morant (Rebs+Asts)",
-                "hdp": 9.5,
-                "over": "1.92",
-                "under": "1.82"
-              },
-              {
-                "label": "Ja Morant (Triple+Double)",
-                "hdp": 0.5,
-                "over": "79.00"
-              },
-              {
-                "label": "Jaylen Wells (3 Point FG)",
-                "hdp": 1.5,
-                "over": "1.79",
-                "under": "1.96"
-              },
-              {
-                "label": "Jaylen Wells (Assists)",
-                "hdp": 1.5,
-                "over": "2.26"
-              },
-              {
-                "label": "Jaylen Wells (Assists)",
-                "hdp": 2.5,
-                "over": "4.90"
-              },
-              {
-                "label": "Jaylen Wells (Assists)",
-                "hdp": 3.5,
-                "over": "11.60"
-              },
-              {
-                "label": "Jaylen Wells (Assists)",
-                "hdp": 4.5,
-                "over": "25.00"
-              },
-              {
-                "label": "Jaylen Wells (Points)",
-                "hdp": 11.5,
-                "over": "1.90",
-                "under": "1.86"
-              },
-              {
-                "label": "Jaylen Wells (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.25"
-              },
-              {
-                "label": "Jaylen Wells (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.59"
-              },
-              {
-                "label": "Jaylen Wells (Points 1Q)",
-                "hdp": 3.5,
-                "over": "2.12"
-              },
-              {
-                "label": "Jaylen Wells (Points 1Q)",
-                "hdp": 4.5,
-                "over": "2.56"
-              },
-              {
-                "label": "Jaylen Wells (Points 1Q)",
-                "hdp": 5.5,
-                "over": "3.72"
-              },
-              {
-                "label": "Jaylen Wells (Points 1Q)",
-                "hdp": 6.5,
-                "over": "5.36"
-              },
-              {
-                "label": "Jaylen Wells (Points 1Q)",
-                "hdp": 7.5,
-                "over": "7.40"
-              },
-              {
-                "label": "Jaylen Wells (Pts+Asts)",
-                "hdp": 4.5,
-                "over": "1.02"
-              },
-              {
-                "label": "Jaylen Wells (Pts+Asts)",
-                "hdp": 9.5,
-                "over": "1.33"
-              },
-              {
-                "label": "Jaylen Wells (Pts+Asts)",
-                "hdp": 12.5,
-                "over": "1.80"
-              },
-              {
-                "label": "Jaylen Wells (Pts+Asts)",
-                "hdp": 14.5,
-                "over": "2.35"
-              },
-              {
-                "label": "Jaylen Wells (Pts+Asts)",
-                "hdp": 19.5,
-                "over": "5.44"
-              },
-              {
-                "label": "Jaylen Wells (Pts+Asts)",
-                "hdp": 24.5,
-                "over": "14.40"
-              },
-              {
-                "label": "Jaylen Wells (Pts+Rebs)",
-                "hdp": 14.5,
-                "over": "1.85",
-                "under": "1.89"
-              },
-              {
-                "label": "Jaylen Wells (Pts+Rebs+Asts)",
-                "hdp": 9.5,
-                "over": "1.13"
-              },
-              {
-                "label": "Jaylen Wells (Pts+Rebs+Asts)",
-                "hdp": 14.5,
-                "over": "1.60"
-              },
-              {
-                "label": "Jaylen Wells (Pts+Rebs+Asts)",
-                "hdp": 16.5,
-                "over": "1.97"
-              },
-              {
-                "label": "Jaylen Wells (Pts+Rebs+Asts)",
-                "hdp": 19.5,
-                "over": "2.95"
-              },
-              {
-                "label": "Jaylen Wells (Pts+Rebs+Asts)",
-                "hdp": 24.5,
-                "over": "6.81"
-              },
-              {
-                "label": "Jaylen Wells (Pts+Rebs+Asts)",
-                "hdp": 29.5,
-                "over": "16.00"
-              },
-              {
-                "label": "Jaylen Wells (Rebounds)",
-                "hdp": 2.5,
-                "over": "1.59",
-                "under": "2.27"
-              },
-              {
-                "label": "Jaylen Wells (Steals)",
-                "hdp": 0.5,
-                "over": "1.39"
-              },
-              {
-                "label": "Jaylen Wells (Steals)",
-                "hdp": 1.5,
-                "over": "2.76"
-              },
-              {
-                "label": "Jaylen Wells (Steals)",
-                "hdp": 2.5,
-                "over": "6.55"
-              },
-              {
-                "label": "Jaylen Wells (Steals)",
-                "hdp": 3.5,
-                "over": "15.60"
-              },
-              {
-                "label": "Jerami Grant (3 Point FG)",
-                "hdp": 1.5,
-                "over": "2.14",
-                "under": "1.66"
-              },
-              {
-                "label": "Jerami Grant (Assists)",
-                "hdp": 1.5,
-                "over": "2.32"
-              },
-              {
-                "label": "Jerami Grant (Assists)",
-                "hdp": 2.5,
-                "over": "4.92"
-              },
-              {
-                "label": "Jerami Grant (Assists)",
-                "hdp": 3.5,
-                "over": "11.00"
-              },
-              {
-                "label": "Jerami Grant (Assists)",
-                "hdp": 4.5,
-                "over": "22.00"
-              },
-              {
-                "label": "Jerami Grant (Points)",
-                "hdp": 10.5,
-                "over": "1.99",
-                "under": "1.79"
-              },
-              {
-                "label": "Jerami Grant (Pts+Asts)",
-                "hdp": 4.5,
-                "over": "1.06"
-              },
-              {
-                "label": "Jerami Grant (Pts+Asts)",
-                "hdp": 9.5,
-                "over": "1.49"
-              },
-              {
-                "label": "Jerami Grant (Pts+Asts)",
-                "hdp": 11.5,
-                "over": "1.87"
-              },
-              {
-                "label": "Jerami Grant (Pts+Asts)",
-                "hdp": 14.5,
-                "over": "2.86"
-              },
-              {
-                "label": "Jerami Grant (Pts+Asts)",
-                "hdp": 19.5,
-                "over": "6.95"
-              },
-              {
-                "label": "Jerami Grant (Pts+Asts)",
-                "hdp": 24.5,
-                "over": "17.00"
-              },
-              {
-                "label": "Jerami Grant (Pts+Rebs)",
-                "hdp": 12.5,
-                "over": "1.87",
-                "under": "1.86"
-              },
-              {
-                "label": "Jerami Grant (Pts+Rebs+Asts)",
-                "hdp": 9.5,
-                "over": "1.25"
-              },
-              {
-                "label": "Jerami Grant (Pts+Rebs+Asts)",
-                "hdp": 13.5,
-                "over": "1.79"
-              },
-              {
-                "label": "Jerami Grant (Pts+Rebs+Asts)",
-                "hdp": 14.5,
-                "over": "2.00"
-              },
-              {
-                "label": "Jerami Grant (Pts+Rebs+Asts)",
-                "hdp": 19.5,
-                "over": "4.12"
-              },
-              {
-                "label": "Jerami Grant (Pts+Rebs+Asts)",
-                "hdp": 24.5,
-                "over": "9.50"
-              },
-              {
-                "label": "Jerami Grant (Pts+Rebs+Asts)",
-                "hdp": 29.5,
-                "over": "20.80"
-              },
-              {
-                "label": "Jerami Grant (Rebounds)",
-                "hdp": 2.5,
-                "over": "2.21",
-                "under": "1.62"
-              },
-              {
-                "label": "Jrue Holiday (3 Point FG)",
-                "hdp": 1.5,
-                "over": "1.64",
-                "under": "2.18"
-              },
-              {
-                "label": "Jrue Holiday (Assists)",
-                "hdp": 3.5,
-                "over": "1.69",
-                "under": "2.08"
-              },
-              {
-                "label": "Jrue Holiday (Double+Double)",
-                "hdp": 0.5,
-                "over": "30.00"
-              },
-              {
-                "label": "Jrue Holiday (Points)",
-                "hdp": 12.5,
-                "over": "1.96",
-                "under": "1.81"
-              },
-              {
-                "label": "Jrue Holiday (Pts+Asts)",
-                "hdp": 16.5,
-                "over": "1.91",
-                "under": "1.82"
-              },
-              {
-                "label": "Jrue Holiday (Pts+Rebs)",
-                "hdp": 15.5,
-                "over": "1.78",
-                "under": "1.96"
-              },
-              {
-                "label": "Jrue Holiday (Pts+Rebs+Asts)",
-                "hdp": 19.5,
-                "over": "1.79",
-                "under": "1.95"
-              },
-              {
-                "label": "Jrue Holiday (Rebounds)",
-                "hdp": 3.5,
-                "over": "1.99",
-                "under": "1.76"
-              },
-              {
-                "label": "Jrue Holiday (Rebs+Asts)",
-                "hdp": 7.5,
-                "over": "1.97",
-                "under": "1.78"
-              },
-              {
-                "label": "Robert Williams III (Double+Double)",
-                "hdp": 0.5,
-                "over": "6.99"
-              },
-              {
-                "label": "Robert Williams III (Points)",
-                "hdp": 6.5,
-                "over": "1.81",
-                "under": "1.96"
-              },
-              {
-                "label": "Robert Williams III (Pts+Rebs)",
-                "hdp": 14.5,
-                "over": "1.90",
-                "under": "1.84"
-              },
-              {
-                "label": "Robert Williams III (Rebounds)",
-                "hdp": 7.5,
-                "over": "1.99",
-                "under": "1.76"
-              },
-              {
-                "label": "Toumani Camara (3 Point FG)",
-                "hdp": 2.5,
-                "over": "2.19",
-                "under": "1.63"
-              },
-              {
-                "label": "Toumani Camara (Assists)",
-                "hdp": 1.5,
-                "over": "1.95"
-              },
-              {
-                "label": "Toumani Camara (Assists)",
-                "hdp": 2.5,
-                "over": "3.85"
-              },
-              {
-                "label": "Toumani Camara (Assists)",
-                "hdp": 3.5,
-                "over": "8.60"
-              },
-              {
-                "label": "Toumani Camara (Assists)",
-                "hdp": 4.5,
-                "over": "19.00"
-              },
-              {
-                "label": "Toumani Camara (Double+Double)",
-                "hdp": 0.5,
-                "over": "30.00"
-              },
-              {
-                "label": "Toumani Camara (Points)",
-                "hdp": 11.5,
-                "over": "1.98",
-                "under": "1.80"
-              },
-              {
-                "label": "Toumani Camara (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.26"
-              },
-              {
-                "label": "Toumani Camara (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.50"
-              },
-              {
-                "label": "Toumani Camara (Points 1Q)",
-                "hdp": 3.5,
-                "over": "2.18"
-              },
-              {
-                "label": "Toumani Camara (Points 1Q)",
-                "hdp": 4.5,
-                "over": "2.39"
-              },
-              {
-                "label": "Toumani Camara (Points 1Q)",
-                "hdp": 5.5,
-                "over": "3.30"
-              },
-              {
-                "label": "Toumani Camara (Points 1Q)",
-                "hdp": 6.5,
-                "over": "5.10"
-              },
-              {
-                "label": "Toumani Camara (Points 1Q)",
-                "hdp": 7.5,
-                "over": "6.18"
-              },
-              {
-                "label": "Toumani Camara (Points 1Q)",
-                "hdp": 8.5,
-                "over": "9.20"
-              },
-              {
-                "label": "Toumani Camara (Pts+Asts)",
-                "hdp": 12.5,
-                "over": "1.80",
-                "under": "1.94"
-              },
-              {
-                "label": "Toumani Camara (Pts+Rebs)",
-                "hdp": 15.5,
-                "over": "1.87",
-                "under": "1.86"
-              },
-              {
-                "label": "Toumani Camara (Pts+Rebs+Asts)",
-                "hdp": 17.5,
-                "over": "1.95",
-                "under": "1.80"
-              },
-              {
-                "label": "Toumani Camara (Rebounds)",
-                "hdp": 3.5,
-                "over": "1.67",
-                "under": "2.12"
-              },
-              {
-                "label": "Toumani Camara (Rebounds 1Q)",
-                "hdp": 1.5,
-                "over": "2.78"
-              },
-              {
-                "label": "Toumani Camara (Rebounds 1Q)",
-                "hdp": 2.5,
-                "over": "6.78"
-              },
-              {
-                "label": "Toumani Camara (Rebs+Asts)",
-                "hdp": 5.5,
-                "over": "1.87",
-                "under": "1.86"
-              },
-              {
-                "label": "Ty Jerome (3 Point FG)",
-                "hdp": 2.5,
-                "over": "2.04",
-                "under": "1.72"
-              },
-              {
-                "label": "Ty Jerome (Assists)",
-                "hdp": 5.5,
-                "over": "1.68",
-                "under": "2.11"
-              },
-              {
-                "label": "Ty Jerome (Assists 1Q)",
-                "hdp": 1.5,
-                "over": "1.58"
-              },
-              {
-                "label": "Ty Jerome (Assists 1Q)",
-                "hdp": 2.5,
-                "over": "2.84"
-              },
-              {
-                "label": "Ty Jerome (Assists 1Q)",
-                "hdp": 3.5,
-                "over": "6.17"
-              },
-              {
-                "label": "Ty Jerome (Double+Double)",
-                "hdp": 0.5,
-                "over": "7.70"
-              },
-              {
-                "label": "Ty Jerome (Points)",
-                "hdp": 24.5,
-                "over": "1.94",
-                "under": "1.82"
-              },
-              {
-                "label": "Ty Jerome (Points 1Q)",
-                "hdp": 2.5,
-                "over": "1.11"
-              },
-              {
-                "label": "Ty Jerome (Points 1Q)",
-                "hdp": 3.5,
-                "over": "1.16"
-              },
-              {
-                "label": "Ty Jerome (Points 1Q)",
-                "hdp": 4.5,
-                "over": "1.30"
-              },
-              {
-                "label": "Ty Jerome (Points 1Q)",
-                "hdp": 5.5,
-                "over": "1.46"
-              },
-              {
-                "label": "Ty Jerome (Points 1Q)",
-                "hdp": 6.5,
-                "over": "1.71"
-              },
-              {
-                "label": "Ty Jerome (Points 1Q)",
-                "hdp": 7.5,
-                "over": "2.06"
-              },
-              {
-                "label": "Ty Jerome (Points 1Q)",
-                "hdp": 8.5,
-                "over": "2.52"
-              },
-              {
-                "label": "Ty Jerome (Points 1Q)",
-                "hdp": 9.5,
-                "over": "3.16"
-              },
-              {
-                "label": "Ty Jerome (Points 1Q)",
-                "hdp": 10.5,
-                "over": "4.12"
-              },
-              {
-                "label": "Ty Jerome (Points 1Q)",
-                "hdp": 11.5,
-                "over": "5.48"
-              },
-              {
-                "label": "Ty Jerome (Points 1Q)",
-                "hdp": 12.5,
-                "over": "7.20"
-              },
-              {
-                "label": "Ty Jerome (Points 1Q)",
-                "hdp": 13.5,
-                "over": "9.80"
-              },
-              {
-                "label": "Ty Jerome (Pts+Asts)",
-                "hdp": 30.5,
-                "over": "1.89",
-                "under": "1.85"
-              },
-              {
-                "label": "Ty Jerome (Pts+Rebs)",
-                "hdp": 27.5,
-                "over": "1.85",
-                "under": "1.88"
-              },
-              {
-                "label": "Ty Jerome (Pts+Rebs+Asts)",
-                "hdp": 33.5,
-                "over": "1.83",
-                "under": "1.91"
-              },
-              {
-                "label": "Ty Jerome (Rebounds)",
-                "hdp": 3.5,
-                "over": "2.09",
-                "under": "1.69"
-              },
-              {
-                "label": "Ty Jerome (Rebs+Asts)",
-                "hdp": 9.5,
-                "over": "1.94",
-                "under": "1.80"
-              },
-              {
-                "label": "Ty Jerome (Steals)",
-                "hdp": 0.5,
-                "over": "1.24"
-              },
-              {
-                "label": "Ty Jerome (Steals)",
-                "hdp": 1.5,
-                "over": "2.12"
-              },
-              {
-                "label": "Ty Jerome (Steals)",
-                "hdp": 2.5,
-                "over": "4.39"
-              },
-              {
-                "label": "Ty Jerome (Steals)",
-                "hdp": 3.5,
-                "over": "10.10"
-              },
-              {
-                "label": "Ty Jerome (Steals)",
-                "hdp": 4.5,
-                "over": "21.00"
-              },
-              {
-                "label": "Zach Edey (Blocks)",
-                "hdp": 0.5,
-                "over": "1.19"
-              },
-              {
-                "label": "Zach Edey (Blocks)",
-                "hdp": 1.5,
-                "over": "1.89"
-              },
-              {
-                "label": "Zach Edey (Blocks)",
-                "hdp": 2.5,
-                "over": "3.67"
-              },
-              {
-                "label": "Zach Edey (Blocks)",
-                "hdp": 3.5,
-                "over": "7.80"
-              },
-              {
-                "label": "Zach Edey (Blocks)",
-                "hdp": 4.5,
-                "over": "16.20"
-              },
-              {
-                "label": "Zach Edey (Blocks)",
-                "hdp": 5.5,
-                "over": "27.00"
-              },
-              {
-                "label": "Zach Edey (Double+Double)",
-                "hdp": 0.5,
-                "over": "4.93"
-              },
-              {
-                "label": "Zach Edey (Points)",
-                "hdp": 8.5,
-                "over": "2.03",
-                "under": "1.75"
-              },
-              {
-                "label": "Zach Edey (Points 1Q)",
-                "hdp": 1.5,
-                "over": "1.28"
-              },
-              {
-                "label": "Zach Edey (Points 1Q)",
-                "hdp": 2.5,
-                "over": "2.01"
-              },
-              {
-                "label": "Zach Edey (Points 1Q)",
-                "hdp": 3.5,
-                "over": "2.30"
-              },
-              {
-                "label": "Zach Edey (Points 1Q)",
-                "hdp": 4.5,
-                "over": "3.78"
-              },
-              {
-                "label": "Zach Edey (Points 1Q)",
-                "hdp": 5.5,
-                "over": "5.05"
-              },
-              {
-                "label": "Zach Edey (Points 1Q)",
-                "hdp": 6.5,
-                "over": "8.50"
-              },
-              {
-                "label": "Zach Edey (Pts+Rebs)",
-                "hdp": 16.5,
-                "over": "1.94",
-                "under": "1.80"
-              },
-              {
-                "label": "Zach Edey (Rebounds)",
-                "hdp": 7.5,
-                "over": "1.75",
-                "under": "2.00"
-              },
-              {
-                "label": "Zach Edey (Rebounds 1Q)",
-                "hdp": 1.5,
-                "over": "1.27"
-              },
-              {
-                "label": "Zach Edey (Rebounds 1Q)",
-                "hdp": 2.5,
-                "over": "1.76"
-              },
-              {
-                "label": "Zach Edey (Rebounds 1Q)",
-                "hdp": 3.5,
-                "over": "2.82"
-              },
-              {
-                "label": "Zach Edey (Rebounds 1Q)",
-                "hdp": 4.5,
-                "over": "5.09"
-              },
-              {
-                "label": "Zach Edey (Rebounds 1Q)",
-                "hdp": 5.5,
-                "over": "10.20"
-              }
-            ]
-          }
-        },
-        "advanced": {
-          "blowout_risk": 0.11853559847642359,
-          "recommended_bet": 0.0,
-          "market_edge": -0.09725774822716438,
-          "latent_strength_A": 1.2594966904526308,
-          "latent_strength_B": -8.587878479366402,
-          "form_state_A": 1,
-          "form_state_B": 0,
-          "entropy_A": 3.321928094887362
-        },
-        "halves": {
-          "h1_ptsA": 58.80561798614326,
-          "h1_ptsB": 57.718035915561266,
-          "h2_ptsA": 58.80561798614326,
-          "h2_ptsB": 57.718035915561266
-        },
-        "quarters": [
-          {
-            "q": 1,
-            "ptsA": 29.40280899307163,
-            "ptsB": 28.859017957780633
-          },
-          {
-            "q": 2,
-            "ptsA": 29.40280899307163,
-            "ptsB": 28.859017957780633
-          },
-          {
-            "q": 3,
-            "ptsA": 29.40280899307163,
-            "ptsB": 28.859017957780633
-          },
-          {
-            "q": 4,
-            "ptsA": 29.40280899307163,
-            "ptsB": 28.859017957780633
-          }
-        ],
-        "players": [
-          {
-            "player": "Blake Wesley",
-            "team": "POR",
-            "proj_pts": 4.780743385360053,
-            "proj_reb": 0.40046835691545496,
-            "proj_ast": 1.501756338432956,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Caleb Love",
-            "team": "POR",
-            "proj_pts": 11.697563602476725,
-            "proj_reb": 2.0023417845772746,
-            "proj_ast": 3.103629766094776,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Deni Avdija",
-            "team": "POR",
-            "proj_pts": 16.580024932206143,
-            "proj_reb": 5.506439907587505,
-            "proj_ast": 6.407493710647279,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 5.5,
-            "market_pts": 22.5,
-            "market_reb": 6.5
-          },
-          {
-            "player": "Donovan Clingan",
-            "team": "POR",
-            "proj_pts": 12.613025101800991,
-            "proj_reb": 12.414519064379103,
-            "proj_ast": 2.803278498408184,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 5.5,
-            "market_pts": 10.5,
-            "market_reb": 10.5
-          },
-          {
-            "player": "Duop Reath",
-            "team": "POR",
-            "proj_pts": 1.9326409430178937,
-            "proj_reb": 1.9022246953484108,
-            "proj_ast": 0.40046835691545496,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Javonte Cooke",
-            "team": "POR",
-            "proj_pts": 0.6103076662161769,
-            "proj_reb": 0.9010538030597736,
-            "proj_ast": 0.0,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jayson Kent",
-            "team": "POR",
-            "proj_pts": 2.0343588873872567,
-            "proj_reb": 1.0011708922886373,
-            "proj_ast": 0.0,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jerami Grant",
-            "team": "POR",
-            "proj_pts": 19.224691485809576,
-            "proj_reb": 3.303863944552503,
-            "proj_ast": 2.2025759630350024,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 4.5,
-            "market_pts": 10.5,
-            "market_reb": 2.5
-          },
-          {
-            "player": "Jrue Holiday",
-            "team": "POR",
-            "proj_pts": 18.207512042115948,
-            "proj_reb": 4.605386104527732,
-            "proj_ast": 5.9069082645029605,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 3.5,
-            "market_pts": 12.5,
-            "market_reb": 3.5
-          },
-          {
-            "player": "Kris Murray",
-            "team": "POR",
-            "proj_pts": 5.2893331072068674,
-            "proj_reb": 3.003512676865912,
-            "proj_ast": 0.8009367138309099,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Matisse Thybulle",
-            "team": "POR",
-            "proj_pts": 4.1704357191438755,
-            "proj_reb": 1.7019905168906835,
-            "proj_ast": 1.1012879815175012,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Rayan Rupert",
-            "team": "POR",
-            "proj_pts": 3.6618459972970623,
-            "proj_reb": 2.2025759630350024,
-            "proj_ast": 0.700819624602046,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Robert Williams III",
-            "team": "POR",
-            "proj_pts": 8.340871438287751,
-            "proj_reb": 8.109484227537962,
-            "proj_ast": 0.700819624602046,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_pts": 6.5,
-            "market_reb": 7.5
-          },
-          {
-            "player": "Scoot Henderson",
-            "team": "POR",
-            "proj_pts": 14.240512211710797,
-            "proj_reb": 2.4028101414927296,
-            "proj_ast": 3.2037468553236397,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Shaedon Sharpe",
-            "team": "POR",
-            "proj_pts": 21.055614484458104,
-            "proj_reb": 4.104800658383413,
-            "proj_ast": 2.5029272307215935,
-            "status": "Out",
-            "injury": "Calf",
-            "market_line": null
-          },
-          {
-            "player": "Sidy Cissoko",
-            "team": "POR",
-            "proj_pts": 3.4584101085583363,
-            "proj_reb": 1.6018734276618198,
-            "proj_ast": 1.2014050707463648,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Toumani Camara",
-            "team": "POR",
-            "proj_pts": 11.188973880629911,
-            "proj_reb": 5.306205729129777,
-            "proj_ast": 2.603044319950457,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 4.5,
-            "market_pts": 11.5,
-            "market_reb": 3.5
-          },
-          {
-            "player": "V\u00edt Krej\u010d\u00ed",
-            "team": "POR",
-            "proj_pts": 6.5099484396392215,
-            "proj_reb": 3.6042152122390942,
-            "proj_ast": 1.9022246953484108,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Yang Hansen",
-            "team": "POR",
-            "proj_pts": 1.9326409430178937,
-            "proj_reb": 0.8009367138309099,
-            "proj_ast": 0.10011708922886374,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Brandon Clarke",
-            "team": "MEM",
-            "proj_pts": 3.758899477984681,
-            "proj_reb": 3.003512676865912,
-            "proj_ast": 0.5005854461443187,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Cam Spencer",
-            "team": "MEM",
-            "proj_pts": 11.558615894802895,
-            "proj_reb": 2.4028101414927296,
-            "proj_ast": 4.705503193756596,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Cedric Coward",
-            "team": "MEM",
-            "proj_pts": 10.055056103609022,
-            "proj_reb": 5.606556996816368,
-            "proj_ast": 2.5029272307215935,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 2.5,
-            "market_pts": 12.5,
-            "market_reb": 6.5
-          },
-          {
-            "player": "Charles Bassey",
-            "team": "MEM",
-            "proj_pts": 3.289037043236596,
-            "proj_reb": 7.50878169216478,
-            "proj_ast": 1.0011708922886373,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Christian Koloko",
-            "team": "MEM",
-            "proj_pts": 2.725202121538894,
-            "proj_reb": 4.30503483684114,
-            "proj_ast": 0.9010538030597736,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "DeJon Jarreau",
-            "team": "MEM",
-            "proj_pts": 5.168486782228936,
-            "proj_reb": 6.007025353731824,
-            "proj_ast": 4.505269015298868,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "GG Jackson",
-            "team": "MEM",
-            "proj_pts": 15.223542885837958,
-            "proj_reb": 5.9069082645029605,
-            "proj_ast": 2.0023417845772746,
-            "status": "Doubtful",
-            "injury": "Knee",
-            "market_line": null
-          },
-          {
-            "player": "Ja Morant",
-            "team": "MEM",
-            "proj_pts": 18.512579929074555,
-            "proj_reb": 2.703161409179321,
-            "proj_ast": 8.209601316766825,
-            "status": "Out",
-            "injury": "Elbow",
-            "market_line": null,
-            "market_ast": 6.5,
-            "market_pts": 17.5,
-            "market_reb": 3.5
-          },
-          {
-            "player": "Jahmai Mashack",
-            "team": "MEM",
-            "proj_pts": 5.7323217039266385,
-            "proj_reb": 2.803278498408184,
-            "proj_ast": 1.7019905168906835,
-            "status": "Out",
-            "injury": "Ankle",
-            "market_line": null
-          },
-          {
-            "player": "Jaren Jackson Jr.",
-            "team": "MEM",
-            "proj_pts": 20.29805718111728,
-            "proj_reb": 6.407493710647279,
-            "proj_ast": 1.8021076061195471,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Javon Small",
-            "team": "MEM",
-            "proj_pts": 13.062175685996767,
-            "proj_reb": 4.605386104527732,
-            "proj_ast": 5.1059715506720496,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Jaylen Wells",
-            "team": "MEM",
-            "proj_pts": 14.659707964140257,
-            "proj_reb": 2.703161409179321,
-            "proj_ast": 1.501756338432956,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 4.5,
-            "market_pts": 11.5,
-            "market_reb": 2.5
-          },
-          {
-            "player": "Jock Landale",
-            "team": "MEM",
-            "proj_pts": 11.840533355651745,
-            "proj_reb": 7.909250049080235,
-            "proj_ast": 1.6018734276618198,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "John Konchar",
-            "team": "MEM",
-            "proj_pts": 3.289037043236596,
-            "proj_reb": 3.704332301467958,
-            "proj_ast": 1.501756338432956,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Kentavious Caldwell-Pope",
-            "team": "MEM",
-            "proj_pts": 8.2695788515663,
-            "proj_reb": 2.5029272307215935,
-            "proj_ast": 2.0023417845772746,
-            "status": "Out For Season",
-            "injury": "Finger",
-            "market_line": null
-          },
-          {
-            "player": "Kyle Anderson",
-            "team": "MEM",
-            "proj_pts": 6.484101599523576,
-            "proj_reb": 2.703161409179321,
-            "proj_ast": 2.2025759630350024,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Lawson Lovering",
-            "team": "MEM",
-            "proj_pts": 6.578074086473192,
-            "proj_reb": 7.50878169216478,
-            "proj_ast": 1.501756338432956,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Olivier-Maxence Prosper",
-            "team": "MEM",
-            "proj_pts": 12.02847832955098,
-            "proj_reb": 4.705503193756596,
-            "proj_ast": 1.401639249204092,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "PJ Hall",
-            "team": "MEM",
-            "proj_pts": 1.7452033290643163,
-            "proj_reb": 1.2872197186568195,
-            "proj_ast": 0.2860488263681821,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Rayan Rupert",
-            "team": "MEM",
-            "proj_pts": 10.055056103609022,
-            "proj_reb": 5.506439907587505,
-            "proj_ast": 1.0011708922886373,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Santi Aldama",
-            "team": "MEM",
-            "proj_pts": 12.216423303450213,
-            "proj_reb": 6.7078449783338705,
-            "proj_ast": 2.803278498408184,
-            "status": "Out For Season",
-            "injury": "Knee",
-            "market_line": null
-          },
-          {
-            "player": "Scotty Pippen Jr.",
-            "team": "MEM",
-            "proj_pts": 10.712863512256341,
-            "proj_reb": 2.2025759630350024,
-            "proj_ast": 4.705503193756596,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Taj Gibson",
-            "team": "MEM",
-            "proj_pts": 2.349312173740426,
-            "proj_reb": 2.5029272307215935,
-            "proj_ast": 0.0,
-            "status": "Doubtful",
-            "injury": "Foot",
-            "market_line": null
-          },
-          {
-            "player": "Taylor Hendricks",
-            "team": "MEM",
-            "proj_pts": 12.216423303450213,
-            "proj_reb": 5.005854461443187,
-            "proj_ast": 1.501756338432956,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Ty Jerome",
-            "team": "MEM",
-            "proj_pts": 18.98244236382264,
-            "proj_reb": 2.4028101414927296,
-            "proj_ast": 5.1059715506720496,
-            "status": "Active",
-            "injury": "",
-            "market_line": null,
-            "market_ast": 5.5,
-            "market_pts": 24.5,
-            "market_reb": 3.5
-          },
-          {
-            "player": "Tyler Burton",
-            "team": "MEM",
-            "proj_pts": 4.698624347480852,
-            "proj_reb": 4.672130830680308,
-            "proj_ast": 0.6674472615257582,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Vince Williams Jr.",
-            "team": "MEM",
-            "proj_pts": 7.7057439298685955,
-            "proj_reb": 3.403981033781367,
-            "proj_ast": 3.2037468553236397,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Walter Clayton Jr.",
-            "team": "MEM",
-            "proj_pts": 8.2695788515663,
-            "proj_reb": 1.7019905168906835,
-            "proj_ast": 6.807962067562734,
-            "status": "Active",
-            "injury": "",
-            "market_line": null
-          },
-          {
-            "player": "Zach Edey",
-            "team": "MEM",
-            "proj_pts": 12.874230712097532,
-            "proj_reb": 11.513465261319329,
-            "proj_ast": 1.2014050707463648,
-            "status": "Out For Season",
-            "injury": "Ankle",
-            "market_line": null,
-            "market_pts": 8.5,
-            "market_reb": 7.5
-          }
-        ],
-        "factors": {
-          "teamA": {
-            "efg": 0.5278167610573037,
-            "tov": 0.1490926400947112,
-            "orb": 0.2949927047272585,
-            "ftr": 0.2759079614473887,
-            "sos": -2.63007257569559,
-            "rest": 228,
-            "is_b2b": 0,
-            "ml_influence": {
-              "roll_efg_pct_10": -0.0023950659193472746,
-              "roll_tov_pct_10": -0.015300013843070559,
-              "roll_orb_pct_10": 0.011777248404198559,
-              "roll_ft_rate_10": -0.0024366742699979227,
-              "p_tov": -0.021957849780137408
-            }
-          },
-          "teamB": {
-            "efg": 0.5443658578662921,
-            "tov": 0.1321596069385897,
-            "orb": 0.2723102213348293,
-            "ftr": 0.2600320568834138,
-            "sos": -3.993266010038102,
-            "rest": 228,
-            "is_b2b": 0
-          }
-        },
-        "margins": {
-          "1-5": 0.23432235759184442,
-          "6-10": 0.10064907573674095,
-          "11+": 0.1661506259037212
-        },
-        "formA": [
-          {
-            "date": "2026-02-26",
-            "opponent": "CHI",
-            "result": "W",
-            "score": "121-112",
-            "quarters": [
-              30,
-              30,
-              30,
-              30
-            ],
-            "halves": [
-              60,
-              60
-            ]
-          },
-          {
-            "date": "2026-02-28",
-            "opponent": "CHA",
-            "result": "L",
-            "score": "93-109",
-            "quarters": [
-              23,
-              23,
-              23,
-              23
-            ],
-            "halves": [
-              46,
-              46
-            ]
-          },
-          {
-            "date": "2026-03-01",
-            "opponent": "ATL",
-            "result": "L",
-            "score": "101-135",
-            "quarters": [
-              25,
-              25,
-              25,
-              25
-            ],
-            "halves": [
-              50,
-              50
-            ]
-          },
-          {
-            "date": "2026-03-04",
-            "opponent": "MEM",
-            "result": "W",
-            "score": "122-114",
-            "quarters": [
-              30,
-              30,
-              30,
-              30
-            ],
-            "halves": [
-              60,
-              60
-            ]
-          },
-          {
-            "date": "2026-03-06",
-            "opponent": "HOU",
-            "result": "L",
-            "score": "99-106",
-            "quarters": [
-              24,
-              24,
-              24,
-              24
-            ],
-            "halves": [
-              48,
-              48
-            ]
-          },
-          {
-            "date": "2026-03-08",
-            "opponent": "IND",
-            "result": "W",
-            "score": "131-111",
-            "quarters": [
-              32,
-              32,
-              32,
-              32
-            ],
-            "halves": [
-              64,
-              64
-            ]
-          },
-          {
-            "date": "2026-03-10",
-            "opponent": "CHA",
-            "result": "L",
-            "score": "101-103",
-            "quarters": [
-              25,
-              25,
-              25,
-              25
-            ],
-            "halves": [
-              50,
-              50
-            ]
-          },
-          {
-            "date": "2026-03-13",
-            "opponent": "UTA",
-            "result": "W",
-            "score": "124-114",
-            "quarters": [
-              31,
-              31,
-              31,
-              31
-            ],
-            "halves": [
-              62,
-              62
-            ]
-          },
-          {
-            "date": "2026-03-15",
-            "opponent": "PHI",
-            "result": "L",
-            "score": "103-109",
-            "quarters": [
-              25,
-              25,
-              25,
-              25
-            ],
-            "halves": [
-              50,
-              50
-            ]
-          },
-          {
-            "date": "2026-03-16",
-            "opponent": "BKN",
-            "result": "W",
-            "score": "114-95",
-            "quarters": [
-              28,
-              28,
-              28,
-              28
-            ],
-            "halves": [
-              56,
-              56
-            ]
-          }
-        ],
-        "formB": [
-          {
-            "date": "2026-02-27",
-            "opponent": "DAL",
-            "result": "W",
-            "score": "124-105",
-            "quarters": [
-              31,
-              31,
-              31,
-              31
-            ],
-            "halves": [
-              62,
-              62
-            ]
-          },
-          {
-            "date": "2026-03-01",
-            "opponent": "IND",
-            "result": "W",
-            "score": "125-106",
-            "quarters": [
-              31,
-              31,
-              31,
-              31
-            ],
-            "halves": [
-              62,
-              62
-            ]
-          },
-          {
-            "date": "2026-03-03",
-            "opponent": "MIN",
-            "result": "L",
-            "score": "110-117",
-            "quarters": [
-              27,
-              27,
-              27,
-              27
-            ],
-            "halves": [
-              54,
-              54
-            ]
-          },
-          {
-            "date": "2026-03-04",
-            "opponent": "POR",
-            "result": "L",
-            "score": "114-122",
-            "quarters": [
-              28,
-              28,
-              28,
-              28
-            ],
-            "halves": [
-              56,
-              56
-            ]
-          },
-          {
-            "date": "2026-03-07",
-            "opponent": "LAC",
-            "result": "L",
-            "score": "120-123",
-            "quarters": [
-              30,
-              30,
-              30,
-              30
-            ],
-            "halves": [
-              60,
-              60
-            ]
-          },
-          {
-            "date": "2026-03-09",
-            "opponent": "BKN",
-            "result": "L",
-            "score": "115-126",
-            "quarters": [
-              28,
-              28,
-              28,
-              28
-            ],
-            "halves": [
-              56,
-              56
-            ]
-          },
-          {
-            "date": "2026-03-10",
-            "opponent": "PHI",
-            "result": "L",
-            "score": "129-139",
-            "quarters": [
-              32,
-              32,
-              32,
-              32
-            ],
-            "halves": [
-              64,
-              64
-            ]
-          },
-          {
-            "date": "2026-03-12",
-            "opponent": "DAL",
-            "result": "L",
-            "score": "112-120",
-            "quarters": [
-              28,
-              28,
-              28,
-              28
-            ],
-            "halves": [
-              56,
-              56
-            ]
-          },
-          {
-            "date": "2026-03-13",
-            "opponent": "DET",
-            "result": "L",
-            "score": "110-126",
-            "quarters": [
-              27,
-              27,
-              27,
-              27
-            ],
-            "halves": [
-              54,
-              54
-            ]
-          },
-          {
-            "date": "2026-03-16",
-            "opponent": "CHI",
-            "result": "L",
-            "score": "107-132",
-            "quarters": [
-              26,
-              26,
-              26,
-              26
-            ],
-            "halves": [
-              52,
-              52
-            ]
-          }
-        ],
-        "shap_explanation": {
-          "adj_ortg_10": -0.02660960064737125,
-          "adj_drtg_10": 0.040505205209184186,
-          "adj_pace_10": 0.0024555327003811557,
-          "net_rating": 0.011907564532629778,
-          "roll_efg_pct_10": -0.0023950659193472746,
-          "roll_tov_pct_10": -0.015300013843070559,
-          "roll_orb_pct_10": 0.011777248404198559,
-          "roll_ft_rate_10": -0.0024366742699979227,
-          "sos_10": -0.0049708648802891985,
-          "is_b2b": 0.00018495547073769104,
-          "p_pts": 0.00953692484635667,
-          "p_reb": -0.009153205868675655,
-          "p_ast": 0.00012790728670729833,
-          "p_stl": 0.004263543260792773,
-          "p_blk": 0.0012828332823562505,
-          "p_tov": -0.021957849780137408,
-          "p_pf": -0.015193319878038025,
-          "p_pm": -0.003688447516673037,
-          "p_usage": 0.010208532862770738,
-          "p_eff": 0.007782539552351721,
-          "opp_adj_ortg_10": -0.0016547071259380174,
-          "opp_adj_drtg_10": 0.06154745373631442,
-          "opp_sos_10": -0.009339987990742387,
-          "opp_is_b2b": -0.000930734760137284
-        },
-        "match_id": "odds_73719456",
-        "time": "TBD"
-      },
-      "ml_prob_A": 0.5718896634503379,
-      "mc_win_A": 0.5394,
-      "shap_explanation": {
-        "adj_ortg_10": -0.02660960064737125,
-        "adj_drtg_10": 0.040505205209184186,
-        "adj_pace_10": 0.0024555327003811557,
-        "net_rating": 0.011907564532629778,
-        "roll_efg_pct_10": -0.0023950659193472746,
-        "roll_tov_pct_10": -0.015300013843070559,
-        "roll_orb_pct_10": 0.011777248404198559,
-        "roll_ft_rate_10": -0.0024366742699979227,
-        "sos_10": -0.0049708648802891985,
-        "is_b2b": 0.00018495547073769104,
-        "p_pts": 0.00953692484635667,
-        "p_reb": -0.009153205868675655,
-        "p_ast": 0.00012790728670729833,
-        "p_stl": 0.004263543260792773,
-        "p_blk": 0.0012828332823562505,
-        "p_tov": -0.021957849780137408,
-        "p_pf": -0.015193319878038025,
-        "p_pm": -0.003688447516673037,
-        "p_usage": 0.010208532862770738,
-        "p_eff": 0.007782539552351721,
-        "opp_adj_ortg_10": -0.0016547071259380174,
-        "opp_adj_drtg_10": 0.06154745373631442,
-        "opp_sos_10": -0.009339987990742387,
-        "opp_is_b2b": -0.000930734760137284
-      },
-      "is_b2b_home": 0,
-      "is_b2b_away": 0,
-      "rest_home": 228,
-      "rest_away": 228
-    },
-    {
       "matchId": "odds_73696946",
       "matchTime": 1793401200,
       "gameStatus": "11:00 PM ET",
@@ -29866,19 +22859,19 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 113.92945837051874,
-          "ptsB": 123.73106252624399,
-          "total": 237.66052089676273,
-          "spread": 9.80160415572523,
-          "win_prob_A": 42.623197064209926,
+          "ptsA": 113.01195837051876,
+          "ptsB": 121.44856252624399,
+          "total": 234.46052089676274,
+          "spread": 8.436604155725233,
+          "win_prob_A": 42.732751760865014,
           "ml_prob_A": 0.4909760327479722,
-          "mc_win_A": 0.2578,
-          "base_win_prob_A": 0.22162965031285115,
-          "market_prob_A": 0.5118110236220472,
+          "mc_win_A": 0.2528,
+          "base_win_prob_A": 0.25282906879233336,
+          "market_prob_A": 0.5221932114882506,
           "market": {
             "ml": {
-              "home": "1.86",
-              "away": "1.95"
+              "home": "1.83",
+              "away": "2.00"
             },
             "spread": {
               "hdp": -1.5,
@@ -29886,21 +22879,1819 @@ const analyticsData = {
               "away": "1.86"
             },
             "total": {
-              "hdp": 235.5,
-              "over": "1.90",
-              "under": "1.90"
+              "hdp": 219.5,
+              "over": "1.92",
+              "under": "1.89"
             },
-            "props": []
+            "props": [
+              {
+                "label": "AJ Dybantsa (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.20",
+                "under": "1.62"
+              },
+              {
+                "label": "AJ Dybantsa (Assists)",
+                "hdp": 2.5,
+                "over": "2.30",
+                "under": "1.58"
+              },
+              {
+                "label": "AJ Dybantsa (Blocks)",
+                "hdp": 0.5,
+                "over": "1.98"
+              },
+              {
+                "label": "AJ Dybantsa (Blocks)",
+                "hdp": 1.5,
+                "over": "5.81"
+              },
+              {
+                "label": "AJ Dybantsa (Blocks)",
+                "hdp": 2.5,
+                "over": "17.00"
+              },
+              {
+                "label": "AJ Dybantsa (Double+Double)",
+                "hdp": 0.5,
+                "over": "16.00"
+              },
+              {
+                "label": "AJ Dybantsa (Points)",
+                "hdp": 15.5,
+                "over": "1.93",
+                "under": "1.83"
+              },
+              {
+                "label": "AJ Dybantsa (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.14"
+              },
+              {
+                "label": "AJ Dybantsa (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.42"
+              },
+              {
+                "label": "AJ Dybantsa (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.62"
+              },
+              {
+                "label": "AJ Dybantsa (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.08"
+              },
+              {
+                "label": "AJ Dybantsa (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.72"
+              },
+              {
+                "label": "AJ Dybantsa (Points 1Q)",
+                "hdp": 6.5,
+                "over": "3.61"
+              },
+              {
+                "label": "AJ Dybantsa (Points 1Q)",
+                "hdp": 7.5,
+                "over": "5.05"
+              },
+              {
+                "label": "AJ Dybantsa (Points 1Q)",
+                "hdp": 8.5,
+                "over": "7.00"
+              },
+              {
+                "label": "AJ Dybantsa (Points 1Q)",
+                "hdp": 9.5,
+                "over": "10.50"
+              },
+              {
+                "label": "AJ Dybantsa (Pts+Asts)",
+                "hdp": 17.5,
+                "over": "1.85",
+                "under": "1.88"
+              },
+              {
+                "label": "AJ Dybantsa (Pts+Rebs)",
+                "hdp": 20.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "AJ Dybantsa (Pts+Rebs+Asts)",
+                "hdp": 22.5,
+                "over": "1.84",
+                "under": "1.89"
+              },
+              {
+                "label": "AJ Dybantsa (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.76",
+                "under": "2.00"
+              },
+              {
+                "label": "AJ Dybantsa (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "2.32"
+              },
+              {
+                "label": "AJ Dybantsa (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "5.26"
+              },
+              {
+                "label": "AJ Dybantsa (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "14.20"
+              },
+              {
+                "label": "AJ Dybantsa (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "2.12",
+                "under": "1.68"
+              },
+              {
+                "label": "AJ Dybantsa (Steals)",
+                "hdp": 0.5,
+                "over": "1.60"
+              },
+              {
+                "label": "AJ Dybantsa (Steals)",
+                "hdp": 1.5,
+                "over": "3.77"
+              },
+              {
+                "label": "AJ Dybantsa (Steals)",
+                "hdp": 2.5,
+                "over": "10.50"
+              },
+              {
+                "label": "AJ Dybantsa (Steals)",
+                "hdp": 3.5,
+                "over": "24.00"
+              },
+              {
+                "label": "Alex Sarr (3 Point FG)",
+                "hdp": 0.5,
+                "over": "1.59"
+              },
+              {
+                "label": "Alex Sarr (3 Point FG)",
+                "hdp": 1.5,
+                "over": "3.79"
+              },
+              {
+                "label": "Alex Sarr (3 Point FG)",
+                "hdp": 2.5,
+                "over": "10.60"
+              },
+              {
+                "label": "Alex Sarr (3 Point FG)",
+                "hdp": 3.5,
+                "over": "25.00"
+              },
+              {
+                "label": "Alex Sarr (Assists)",
+                "hdp": 2.5,
+                "over": "2.26",
+                "under": "1.60"
+              },
+              {
+                "label": "Alex Sarr (Blocks)",
+                "hdp": 1.5,
+                "over": "2.47",
+                "under": "1.50"
+              },
+              {
+                "label": "Alex Sarr (Double+Double)",
+                "hdp": 0.5,
+                "over": "9.90"
+              },
+              {
+                "label": "Alex Sarr (Points)",
+                "hdp": 10.5,
+                "over": "1.79",
+                "under": "1.99"
+              },
+              {
+                "label": "Alex Sarr (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.18"
+              },
+              {
+                "label": "Alex Sarr (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.60"
+              },
+              {
+                "label": "Alex Sarr (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.83"
+              },
+              {
+                "label": "Alex Sarr (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.55"
+              },
+              {
+                "label": "Alex Sarr (Points 1Q)",
+                "hdp": 5.5,
+                "over": "3.41"
+              },
+              {
+                "label": "Alex Sarr (Points 1Q)",
+                "hdp": 6.5,
+                "over": "4.86"
+              },
+              {
+                "label": "Alex Sarr (Points 1Q)",
+                "hdp": 7.5,
+                "over": "7.00"
+              },
+              {
+                "label": "Alex Sarr (Points 1Q)",
+                "hdp": 8.5,
+                "over": "10.60"
+              },
+              {
+                "label": "Alex Sarr (Pts+Asts)",
+                "hdp": 13.5,
+                "over": "1.95",
+                "under": "1.80"
+              },
+              {
+                "label": "Alex Sarr (Pts+Rebs)",
+                "hdp": 16.5,
+                "over": "1.82",
+                "under": "1.91"
+              },
+              {
+                "label": "Alex Sarr (Pts+Rebs+Asts)",
+                "hdp": 19.5,
+                "over": "1.97",
+                "under": "1.78"
+              },
+              {
+                "label": "Alex Sarr (Rebounds)",
+                "hdp": 5.5,
+                "over": "1.78",
+                "under": "1.97"
+              },
+              {
+                "label": "Alex Sarr (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.74"
+              },
+              {
+                "label": "Alex Sarr (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "3.21"
+              },
+              {
+                "label": "Alex Sarr (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "7.00"
+              },
+              {
+                "label": "Alex Sarr (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.70",
+                "under": "2.08"
+              },
+              {
+                "label": "Alex Sarr (Steals)",
+                "hdp": 0.5,
+                "over": "1.45"
+              },
+              {
+                "label": "Alex Sarr (Steals)",
+                "hdp": 1.5,
+                "over": "3.08"
+              },
+              {
+                "label": "Alex Sarr (Steals)",
+                "hdp": 2.5,
+                "over": "7.80"
+              },
+              {
+                "label": "Alex Sarr (Steals)",
+                "hdp": 3.5,
+                "over": "18.20"
+              },
+              {
+                "label": "Alex Sarr (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "1.43"
+              },
+              {
+                "label": "Alex Sarr (Steals+Blocks)",
+                "hdp": 2.5,
+                "over": "2.20"
+              },
+              {
+                "label": "Alex Sarr (Steals+Blocks)",
+                "hdp": 3.5,
+                "over": "3.90"
+              },
+              {
+                "label": "Alex Sarr (Steals+Blocks)",
+                "hdp": 4.5,
+                "over": "7.50"
+              },
+              {
+                "label": "Anthony Davis (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.73",
+                "under": "1.43"
+              },
+              {
+                "label": "Anthony Davis (Assists)",
+                "hdp": 2.5,
+                "over": "2.01",
+                "under": "1.75"
+              },
+              {
+                "label": "Anthony Davis (Blocks)",
+                "hdp": 1.5,
+                "over": "2.73",
+                "under": "1.42"
+              },
+              {
+                "label": "Anthony Davis (Double+Double)",
+                "hdp": 0.5,
+                "over": "1.73"
+              },
+              {
+                "label": "Anthony Davis (Points)",
+                "hdp": 21.5,
+                "over": "1.90",
+                "under": "1.86"
+              },
+              {
+                "label": "Anthony Davis (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.04"
+              },
+              {
+                "label": "Anthony Davis (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.19"
+              },
+              {
+                "label": "Anthony Davis (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.24"
+              },
+              {
+                "label": "Anthony Davis (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.54"
+              },
+              {
+                "label": "Anthony Davis (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.72"
+              },
+              {
+                "label": "Anthony Davis (Points 1Q)",
+                "hdp": 6.5,
+                "over": "2.25"
+              },
+              {
+                "label": "Anthony Davis (Points 1Q)",
+                "hdp": 7.5,
+                "over": "2.76"
+              },
+              {
+                "label": "Anthony Davis (Points 1Q)",
+                "hdp": 8.5,
+                "over": "3.75"
+              },
+              {
+                "label": "Anthony Davis (Points 1Q)",
+                "hdp": 9.5,
+                "over": "4.96"
+              },
+              {
+                "label": "Anthony Davis (Points 1Q)",
+                "hdp": 10.5,
+                "over": "7.10"
+              },
+              {
+                "label": "Anthony Davis (Points 1Q)",
+                "hdp": 11.5,
+                "over": "9.90"
+              },
+              {
+                "label": "Anthony Davis (Pts+Asts)",
+                "hdp": 24.5,
+                "over": "1.97",
+                "under": "1.78"
+              },
+              {
+                "label": "Anthony Davis (Pts+Rebs)",
+                "hdp": 31.5,
+                "over": "1.85",
+                "under": "1.88"
+              },
+              {
+                "label": "Anthony Davis (Pts+Rebs+Asts)",
+                "hdp": 34.5,
+                "over": "1.92",
+                "under": "1.81"
+              },
+              {
+                "label": "Anthony Davis (Rebounds)",
+                "hdp": 9.5,
+                "over": "1.72",
+                "under": "2.05"
+              },
+              {
+                "label": "Anthony Davis (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.25"
+              },
+              {
+                "label": "Anthony Davis (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "1.74"
+              },
+              {
+                "label": "Anthony Davis (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "2.81"
+              },
+              {
+                "label": "Anthony Davis (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "5.19"
+              },
+              {
+                "label": "Anthony Davis (Rebounds 1Q)",
+                "hdp": 5.5,
+                "over": "10.50"
+              },
+              {
+                "label": "Anthony Davis (Rebs+Asts)",
+                "hdp": 12.5,
+                "over": "1.87",
+                "under": "1.86"
+              },
+              {
+                "label": "Anthony Davis (Steals)",
+                "hdp": 1.5,
+                "over": "2.72",
+                "under": "1.42"
+              },
+              {
+                "label": "Anthony Davis (Steals+Blocks)",
+                "hdp": 2.5,
+                "over": "2.19",
+                "under": "1.62"
+              },
+              {
+                "label": "Brandon Miller (3 Point FG)",
+                "hdp": 3.5,
+                "over": "1.78",
+                "under": "1.97"
+              },
+              {
+                "label": "Brandon Miller (Assists)",
+                "hdp": 3.5,
+                "over": "2.29",
+                "under": "1.58"
+              },
+              {
+                "label": "Brandon Miller (Blocks)",
+                "hdp": 0.5,
+                "over": "1.59"
+              },
+              {
+                "label": "Brandon Miller (Blocks)",
+                "hdp": 1.5,
+                "over": "3.79"
+              },
+              {
+                "label": "Brandon Miller (Blocks)",
+                "hdp": 2.5,
+                "over": "10.60"
+              },
+              {
+                "label": "Brandon Miller (Blocks)",
+                "hdp": 3.5,
+                "over": "23.00"
+              },
+              {
+                "label": "Brandon Miller (Double+Double)",
+                "hdp": 0.5,
+                "over": "6.77"
+              },
+              {
+                "label": "Brandon Miller (Points)",
+                "hdp": 27.5,
+                "over": "1.81",
+                "under": "1.95"
+              },
+              {
+                "label": "Brandon Miller (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.08"
+              },
+              {
+                "label": "Brandon Miller (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.13"
+              },
+              {
+                "label": "Brandon Miller (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.23"
+              },
+              {
+                "label": "Brandon Miller (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.38"
+              },
+              {
+                "label": "Brandon Miller (Points 1Q)",
+                "hdp": 6.5,
+                "over": "1.56"
+              },
+              {
+                "label": "Brandon Miller (Points 1Q)",
+                "hdp": 7.5,
+                "over": "1.82"
+              },
+              {
+                "label": "Brandon Miller (Points 1Q)",
+                "hdp": 8.5,
+                "over": "2.18"
+              },
+              {
+                "label": "Brandon Miller (Points 1Q)",
+                "hdp": 9.5,
+                "over": "2.66"
+              },
+              {
+                "label": "Brandon Miller (Points 1Q)",
+                "hdp": 10.5,
+                "over": "3.34"
+              },
+              {
+                "label": "Brandon Miller (Points 1Q)",
+                "hdp": 11.5,
+                "over": "4.27"
+              },
+              {
+                "label": "Brandon Miller (Points 1Q)",
+                "hdp": 12.5,
+                "over": "5.59"
+              },
+              {
+                "label": "Brandon Miller (Points 1Q)",
+                "hdp": 13.5,
+                "over": "7.50"
+              },
+              {
+                "label": "Brandon Miller (Points 1Q)",
+                "hdp": 14.5,
+                "over": "10.30"
+              },
+              {
+                "label": "Brandon Miller (Pts+Asts)",
+                "hdp": 31.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Brandon Miller (Pts+Rebs)",
+                "hdp": 34.5,
+                "over": "1.92",
+                "under": "1.82"
+              },
+              {
+                "label": "Brandon Miller (Pts+Rebs+Asts)",
+                "hdp": 37.5,
+                "over": "1.84",
+                "under": "1.89"
+              },
+              {
+                "label": "Brandon Miller (Rebounds)",
+                "hdp": 6.5,
+                "over": "2.14",
+                "under": "1.66"
+              },
+              {
+                "label": "Brandon Miller (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.81"
+              },
+              {
+                "label": "Brandon Miller (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "3.46"
+              },
+              {
+                "label": "Brandon Miller (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "7.90"
+              },
+              {
+                "label": "Brandon Miller (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.96",
+                "under": "1.79"
+              },
+              {
+                "label": "Brandon Miller (Steals)",
+                "hdp": 0.5,
+                "over": "1.36"
+              },
+              {
+                "label": "Brandon Miller (Steals)",
+                "hdp": 1.5,
+                "over": "2.62"
+              },
+              {
+                "label": "Brandon Miller (Steals)",
+                "hdp": 2.5,
+                "over": "6.13"
+              },
+              {
+                "label": "Brandon Miller (Steals)",
+                "hdp": 3.5,
+                "over": "14.40"
+              },
+              {
+                "label": "Brandon Miller (Steals)",
+                "hdp": 4.5,
+                "over": "27.00"
+              },
+              {
+                "label": "Brandon Miller (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "1.51"
+              },
+              {
+                "label": "Brandon Miller (Steals+Blocks)",
+                "hdp": 2.5,
+                "over": "2.55"
+              },
+              {
+                "label": "Brandon Miller (Steals+Blocks)",
+                "hdp": 3.5,
+                "over": "4.80"
+              },
+              {
+                "label": "Brandon Miller (Steals+Blocks)",
+                "hdp": 4.5,
+                "over": "9.50"
+              },
+              {
+                "label": "Deandre Ayton (Double+Double)",
+                "hdp": 0.5,
+                "over": "25.00"
+              },
+              {
+                "label": "Deandre Ayton (Points)",
+                "hdp": 5.5,
+                "over": "1.87"
+              },
+              {
+                "label": "Deandre Ayton (Points)",
+                "hdp": 7.5,
+                "over": "2.91"
+              },
+              {
+                "label": "Deandre Ayton (Points)",
+                "hdp": 9.5,
+                "over": "4.87"
+              },
+              {
+                "label": "Deandre Ayton (Points)",
+                "hdp": 11.5,
+                "over": "8.50"
+              },
+              {
+                "label": "Deandre Ayton (Points)",
+                "hdp": 14.5,
+                "over": "19.20"
+              },
+              {
+                "label": "Deandre Ayton (Pts+Rebs)",
+                "hdp": 4.5,
+                "over": "1.13"
+              },
+              {
+                "label": "Deandre Ayton (Pts+Rebs)",
+                "hdp": 9.5,
+                "over": "1.82"
+              },
+              {
+                "label": "Deandre Ayton (Pts+Rebs)",
+                "hdp": 14.5,
+                "over": "4.08"
+              },
+              {
+                "label": "Deandre Ayton (Pts+Rebs)",
+                "hdp": 19.5,
+                "over": "10.80"
+              },
+              {
+                "label": "Deandre Ayton (Pts+Rebs)",
+                "hdp": 24.5,
+                "over": "25.00"
+              },
+              {
+                "label": "Deandre Ayton (Rebounds)",
+                "hdp": 2.5,
+                "over": "1.28"
+              },
+              {
+                "label": "Deandre Ayton (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.57"
+              },
+              {
+                "label": "Deandre Ayton (Rebounds)",
+                "hdp": 4.5,
+                "over": "2.05"
+              },
+              {
+                "label": "Deandre Ayton (Rebounds)",
+                "hdp": 5.5,
+                "over": "2.81"
+              },
+              {
+                "label": "Deandre Ayton (Rebounds)",
+                "hdp": 6.5,
+                "over": "4.03"
+              },
+              {
+                "label": "Deandre Ayton (Rebounds)",
+                "hdp": 7.5,
+                "over": "6.00"
+              },
+              {
+                "label": "Deandre Ayton (Rebounds)",
+                "hdp": 8.5,
+                "over": "8.90"
+              },
+              {
+                "label": "Deandre Ayton (Rebounds)",
+                "hdp": 9.5,
+                "over": "13.00"
+              },
+              {
+                "label": "Deandre Ayton (Rebounds)",
+                "hdp": 10.5,
+                "over": "19.20"
+              },
+              {
+                "label": "Deandre Ayton (Rebounds)",
+                "hdp": 11.5,
+                "over": "26.00"
+              },
+              {
+                "label": "Dennis Schroder (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.19",
+                "under": "1.63"
+              },
+              {
+                "label": "Dennis Schroder (Assists)",
+                "hdp": 5.5,
+                "over": "2.17",
+                "under": "1.64"
+              },
+              {
+                "label": "Dennis Schroder (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.88"
+              },
+              {
+                "label": "Dennis Schroder (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "3.79"
+              },
+              {
+                "label": "Dennis Schroder (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "9.20"
+              },
+              {
+                "label": "Dennis Schroder (Double+Double)",
+                "hdp": 0.5,
+                "over": "15.60"
+              },
+              {
+                "label": "Dennis Schroder (Points)",
+                "hdp": 14.5,
+                "over": "1.80",
+                "under": "1.98"
+              },
+              {
+                "label": "Dennis Schroder (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.17"
+              },
+              {
+                "label": "Dennis Schroder (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.51"
+              },
+              {
+                "label": "Dennis Schroder (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.76"
+              },
+              {
+                "label": "Dennis Schroder (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.31"
+              },
+              {
+                "label": "Dennis Schroder (Points 1Q)",
+                "hdp": 5.5,
+                "over": "3.10"
+              },
+              {
+                "label": "Dennis Schroder (Points 1Q)",
+                "hdp": 6.5,
+                "over": "4.28"
+              },
+              {
+                "label": "Dennis Schroder (Points 1Q)",
+                "hdp": 7.5,
+                "over": "6.20"
+              },
+              {
+                "label": "Dennis Schroder (Points 1Q)",
+                "hdp": 8.5,
+                "over": "9.00"
+              },
+              {
+                "label": "Dennis Schroder (Pts+Asts)",
+                "hdp": 20.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Dennis Schroder (Pts+Rebs)",
+                "hdp": 18.5,
+                "over": "1.86",
+                "under": "1.86"
+              },
+              {
+                "label": "Dennis Schroder (Pts+Rebs+Asts)",
+                "hdp": 23.5,
+                "over": "1.80",
+                "under": "1.94"
+              },
+              {
+                "label": "Dennis Schroder (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.99",
+                "under": "1.76"
+              },
+              {
+                "label": "Dennis Schroder (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "1.83",
+                "under": "1.90"
+              },
+              {
+                "label": "Grayson Allen (3 Point FG)",
+                "hdp": 2.5,
+                "over": "1.61",
+                "under": "2.23"
+              },
+              {
+                "label": "Grayson Allen (Assists)",
+                "hdp": 3.5,
+                "over": "2.12",
+                "under": "1.68"
+              },
+              {
+                "label": "Grayson Allen (Points)",
+                "hdp": 15.5,
+                "over": "1.92",
+                "under": "1.84"
+              },
+              {
+                "label": "Grayson Allen (Pts+Asts)",
+                "hdp": 18.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "Grayson Allen (Pts+Rebs)",
+                "hdp": 18.5,
+                "over": "1.91",
+                "under": "1.82"
+              },
+              {
+                "label": "Grayson Allen (Pts+Rebs+Asts)",
+                "hdp": 21.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "Grayson Allen (Rebounds)",
+                "hdp": 2.5,
+                "over": "1.69",
+                "under": "2.10"
+              },
+              {
+                "label": "Grayson Allen (Rebs+Asts)",
+                "hdp": 6.5,
+                "over": "2.08",
+                "under": "1.70"
+              },
+              {
+                "label": "Grayson Allen (Steals)",
+                "hdp": 0.5,
+                "over": "1.71"
+              },
+              {
+                "label": "Grayson Allen (Steals)",
+                "hdp": 1.5,
+                "over": "4.27"
+              },
+              {
+                "label": "Grayson Allen (Steals)",
+                "hdp": 2.5,
+                "over": "11.60"
+              },
+              {
+                "label": "Grayson Allen (Steals)",
+                "hdp": 3.5,
+                "over": "25.00"
+              },
+              {
+                "label": "Kyshawn George (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.88",
+                "under": "1.86"
+              },
+              {
+                "label": "Kyshawn George (Assists)",
+                "hdp": 3.5,
+                "over": "1.70",
+                "under": "2.08"
+              },
+              {
+                "label": "Kyshawn George (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "2.76"
+              },
+              {
+                "label": "Kyshawn George (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "7.50"
+              },
+              {
+                "label": "Kyshawn George (Blocks)",
+                "hdp": 0.5,
+                "over": "1.53"
+              },
+              {
+                "label": "Kyshawn George (Blocks)",
+                "hdp": 1.5,
+                "over": "3.41"
+              },
+              {
+                "label": "Kyshawn George (Blocks)",
+                "hdp": 2.5,
+                "over": "9.00"
+              },
+              {
+                "label": "Kyshawn George (Blocks)",
+                "hdp": 3.5,
+                "over": "20.60"
+              },
+              {
+                "label": "Kyshawn George (Double+Double)",
+                "hdp": 0.5,
+                "over": "17.60"
+              },
+              {
+                "label": "Kyshawn George (Points)",
+                "hdp": 12.5,
+                "over": "1.78",
+                "under": "2.00"
+              },
+              {
+                "label": "Kyshawn George (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.19"
+              },
+              {
+                "label": "Kyshawn George (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.50"
+              },
+              {
+                "label": "Kyshawn George (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.83"
+              },
+              {
+                "label": "Kyshawn George (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.27"
+              },
+              {
+                "label": "Kyshawn George (Points 1Q)",
+                "hdp": 5.5,
+                "over": "3.12"
+              },
+              {
+                "label": "Kyshawn George (Points 1Q)",
+                "hdp": 6.5,
+                "over": "4.20"
+              },
+              {
+                "label": "Kyshawn George (Points 1Q)",
+                "hdp": 7.5,
+                "over": "6.04"
+              },
+              {
+                "label": "Kyshawn George (Points 1Q)",
+                "hdp": 8.5,
+                "over": "8.70"
+              },
+              {
+                "label": "Kyshawn George (Pts+Asts)",
+                "hdp": 17.5,
+                "over": "1.96",
+                "under": "1.78"
+              },
+              {
+                "label": "Kyshawn George (Pts+Rebs)",
+                "hdp": 17.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "Kyshawn George (Pts+Rebs+Asts)",
+                "hdp": 21.5,
+                "over": "1.82",
+                "under": "1.92"
+              },
+              {
+                "label": "Kyshawn George (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Kyshawn George (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "2.34"
+              },
+              {
+                "label": "Kyshawn George (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "5.47"
+              },
+              {
+                "label": "Kyshawn George (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "1.89",
+                "under": "1.84"
+              },
+              {
+                "label": "Kyshawn George (Steals)",
+                "hdp": 0.5,
+                "over": "1.44"
+              },
+              {
+                "label": "Kyshawn George (Steals)",
+                "hdp": 1.5,
+                "over": "3.02"
+              },
+              {
+                "label": "Kyshawn George (Steals)",
+                "hdp": 2.5,
+                "over": "7.70"
+              },
+              {
+                "label": "Kyshawn George (Steals)",
+                "hdp": 3.5,
+                "over": "18.80"
+              },
+              {
+                "label": "Kyshawn George (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "1.58"
+              },
+              {
+                "label": "Kyshawn George (Steals+Blocks)",
+                "hdp": 2.5,
+                "over": "2.65"
+              },
+              {
+                "label": "Kyshawn George (Steals+Blocks)",
+                "hdp": 3.5,
+                "over": "5.00"
+              },
+              {
+                "label": "Kyshawn George (Steals+Blocks)",
+                "hdp": 4.5,
+                "over": "10.00"
+              },
+              {
+                "label": "Moussa Diabate (Assists)",
+                "hdp": 1.5,
+                "over": "1.52",
+                "under": "2.45"
+              },
+              {
+                "label": "Moussa Diabate (Blocks)",
+                "hdp": 0.5,
+                "over": "1.43"
+              },
+              {
+                "label": "Moussa Diabate (Blocks)",
+                "hdp": 1.5,
+                "over": "2.92"
+              },
+              {
+                "label": "Moussa Diabate (Blocks)",
+                "hdp": 2.5,
+                "over": "7.30"
+              },
+              {
+                "label": "Moussa Diabate (Blocks)",
+                "hdp": 3.5,
+                "over": "17.80"
+              },
+              {
+                "label": "Moussa Diabate (Double+Double)",
+                "hdp": 0.5,
+                "over": "2.82"
+              },
+              {
+                "label": "Moussa Diabate (Points)",
+                "hdp": 9.5,
+                "over": "1.99",
+                "under": "1.79"
+              },
+              {
+                "label": "Moussa Diabate (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.35"
+              },
+              {
+                "label": "Moussa Diabate (Points 1Q)",
+                "hdp": 2.5,
+                "over": "2.29"
+              },
+              {
+                "label": "Moussa Diabate (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.55"
+              },
+              {
+                "label": "Moussa Diabate (Points 1Q)",
+                "hdp": 4.5,
+                "over": "4.81"
+              },
+              {
+                "label": "Moussa Diabate (Points 1Q)",
+                "hdp": 5.5,
+                "over": "6.10"
+              },
+              {
+                "label": "Moussa Diabate (Pts+Asts)",
+                "hdp": 11.5,
+                "over": "1.91",
+                "under": "1.82"
+              },
+              {
+                "label": "Moussa Diabate (Pts+Rebs)",
+                "hdp": 19.5,
+                "over": "1.83",
+                "under": "1.91"
+              },
+              {
+                "label": "Moussa Diabate (Pts+Rebs+Asts)",
+                "hdp": 21.5,
+                "over": "1.80",
+                "under": "1.94"
+              },
+              {
+                "label": "Moussa Diabate (Rebounds)",
+                "hdp": 10.5,
+                "over": "1.99",
+                "under": "1.76"
+              },
+              {
+                "label": "Moussa Diabate (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.21"
+              },
+              {
+                "label": "Moussa Diabate (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "1.63"
+              },
+              {
+                "label": "Moussa Diabate (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "2.51"
+              },
+              {
+                "label": "Moussa Diabate (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "4.40"
+              },
+              {
+                "label": "Moussa Diabate (Rebounds 1Q)",
+                "hdp": 5.5,
+                "over": "8.70"
+              },
+              {
+                "label": "Moussa Diabate (Rebs+Asts)",
+                "hdp": 12.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Moussa Diabate (Steals)",
+                "hdp": 1.5,
+                "over": "2.57",
+                "under": "1.47"
+              },
+              {
+                "label": "Moussa Diabate (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "1.41"
+              },
+              {
+                "label": "Moussa Diabate (Steals+Blocks)",
+                "hdp": 2.5,
+                "over": "2.20"
+              },
+              {
+                "label": "Moussa Diabate (Steals+Blocks)",
+                "hdp": 3.5,
+                "over": "4.00"
+              },
+              {
+                "label": "Moussa Diabate (Steals+Blocks)",
+                "hdp": 4.5,
+                "over": "7.50"
+              },
+              {
+                "label": "Naz Reid (3 Point FG)",
+                "hdp": 2.5,
+                "over": "1.91",
+                "under": "1.82"
+              },
+              {
+                "label": "Naz Reid (Assists)",
+                "hdp": 2.5,
+                "over": "2.36",
+                "under": "1.55"
+              },
+              {
+                "label": "Naz Reid (Double+Double)",
+                "hdp": 0.5,
+                "over": "3.48"
+              },
+              {
+                "label": "Naz Reid (Points)",
+                "hdp": 16.5,
+                "over": "1.86",
+                "under": "1.90"
+              },
+              {
+                "label": "Naz Reid (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.08"
+              },
+              {
+                "label": "Naz Reid (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.25"
+              },
+              {
+                "label": "Naz Reid (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.42"
+              },
+              {
+                "label": "Naz Reid (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.60"
+              },
+              {
+                "label": "Naz Reid (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.00"
+              },
+              {
+                "label": "Naz Reid (Points 1Q)",
+                "hdp": 6.5,
+                "over": "2.45"
+              },
+              {
+                "label": "Naz Reid (Points 1Q)",
+                "hdp": 7.5,
+                "over": "3.12"
+              },
+              {
+                "label": "Naz Reid (Points 1Q)",
+                "hdp": 8.5,
+                "over": "4.22"
+              },
+              {
+                "label": "Naz Reid (Points 1Q)",
+                "hdp": 9.5,
+                "over": "5.57"
+              },
+              {
+                "label": "Naz Reid (Points 1Q)",
+                "hdp": 10.5,
+                "over": "7.70"
+              },
+              {
+                "label": "Naz Reid (Pts+Asts)",
+                "hdp": 18.5,
+                "over": "1.78",
+                "under": "1.96"
+              },
+              {
+                "label": "Naz Reid (Pts+Rebs)",
+                "hdp": 24.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Naz Reid (Pts+Rebs+Asts)",
+                "hdp": 26.5,
+                "over": "1.85",
+                "under": "1.89"
+              },
+              {
+                "label": "Naz Reid (Rebounds)",
+                "hdp": 7.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Naz Reid (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.43"
+              },
+              {
+                "label": "Naz Reid (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "2.24"
+              },
+              {
+                "label": "Naz Reid (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "4.14"
+              },
+              {
+                "label": "Naz Reid (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "8.50"
+              },
+              {
+                "label": "Naz Reid (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.80",
+                "under": "1.94"
+              },
+              {
+                "label": "Naz Reid (Steals)",
+                "hdp": 0.5,
+                "over": "1.79"
+              },
+              {
+                "label": "Naz Reid (Steals)",
+                "hdp": 1.5,
+                "over": "4.87"
+              },
+              {
+                "label": "Naz Reid (Steals)",
+                "hdp": 2.5,
+                "over": "13.80"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Blocks)",
+                "hdp": 0.5,
+                "over": "1.39"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Blocks)",
+                "hdp": 1.5,
+                "over": "2.67"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Blocks)",
+                "hdp": 2.5,
+                "over": "5.99"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Blocks)",
+                "hdp": 3.5,
+                "over": "13.40"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Blocks)",
+                "hdp": 4.5,
+                "over": "24.00"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Double+Double)",
+                "hdp": 0.5,
+                "over": "29.00"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Points)",
+                "hdp": 5.5,
+                "over": "1.96"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Points)",
+                "hdp": 7.5,
+                "over": "3.04"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Points)",
+                "hdp": 9.5,
+                "over": "5.04"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Points)",
+                "hdp": 11.5,
+                "over": "8.60"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Points)",
+                "hdp": 14.5,
+                "over": "18.40"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Points)",
+                "hdp": 17.5,
+                "over": "31.00"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Pts+Rebs)",
+                "hdp": 4.5,
+                "over": "1.14"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Pts+Rebs)",
+                "hdp": 9.5,
+                "over": "1.90"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Pts+Rebs)",
+                "hdp": 14.5,
+                "over": "4.25"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Pts+Rebs)",
+                "hdp": 19.5,
+                "over": "11.40"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Pts+Rebs)",
+                "hdp": 24.5,
+                "over": "25.00"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Rebounds)",
+                "hdp": 2.5,
+                "over": "1.30"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.62"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Rebounds)",
+                "hdp": 4.5,
+                "over": "2.13"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Rebounds)",
+                "hdp": 5.5,
+                "over": "3.00"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Rebounds)",
+                "hdp": 6.5,
+                "over": "4.38"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Rebounds)",
+                "hdp": 7.5,
+                "over": "6.67"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Rebounds)",
+                "hdp": 8.5,
+                "over": "10.00"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Rebounds)",
+                "hdp": 9.5,
+                "over": "15.40"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Rebounds)",
+                "hdp": 10.5,
+                "over": "22.00"
+              },
+              {
+                "label": "Ryan Kalkbrenner (Rebounds)",
+                "hdp": 11.5,
+                "over": "30.00"
+              },
+              {
+                "label": "Sion James (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.19",
+                "under": "1.63"
+              },
+              {
+                "label": "Sion James (Assists)",
+                "hdp": 3.5,
+                "over": "1.86",
+                "under": "1.86"
+              },
+              {
+                "label": "Sion James (Points)",
+                "hdp": 5.5,
+                "over": "1.93",
+                "under": "1.84"
+              },
+              {
+                "label": "Sion James (Pts+Asts)",
+                "hdp": 8.5,
+                "over": "1.75",
+                "under": "2.01"
+              },
+              {
+                "label": "Sion James (Pts+Rebs)",
+                "hdp": 8.5,
+                "over": "1.90",
+                "under": "1.83"
+              },
+              {
+                "label": "Sion James (Pts+Rebs+Asts)",
+                "hdp": 12.5,
+                "over": "1.97",
+                "under": "1.78"
+              },
+              {
+                "label": "Sion James (Rebounds)",
+                "hdp": 3.5,
+                "over": "2.31",
+                "under": "1.57"
+              },
+              {
+                "label": "Sion James (Rebs+Asts)",
+                "hdp": 6.5,
+                "over": "1.77",
+                "under": "1.98"
+              },
+              {
+                "label": "Trae Young (3 Point FG)",
+                "hdp": 2.5,
+                "over": "2.14",
+                "under": "1.66"
+              },
+              {
+                "label": "Trae Young (Assists)",
+                "hdp": 9.5,
+                "over": "1.89",
+                "under": "1.84"
+              },
+              {
+                "label": "Trae Young (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.13"
+              },
+              {
+                "label": "Trae Young (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "1.44"
+              },
+              {
+                "label": "Trae Young (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "2.12"
+              },
+              {
+                "label": "Trae Young (Assists 1Q)",
+                "hdp": 4.5,
+                "over": "3.68"
+              },
+              {
+                "label": "Trae Young (Assists 1Q)",
+                "hdp": 5.5,
+                "over": "7.20"
+              },
+              {
+                "label": "Trae Young (Double+Double)",
+                "hdp": 0.5,
+                "over": "1.99"
+              },
+              {
+                "label": "Trae Young (Points)",
+                "hdp": 18.5,
+                "over": "1.80",
+                "under": "1.98"
+              },
+              {
+                "label": "Trae Young (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.08"
+              },
+              {
+                "label": "Trae Young (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.23"
+              },
+              {
+                "label": "Trae Young (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.38"
+              },
+              {
+                "label": "Trae Young (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.59"
+              },
+              {
+                "label": "Trae Young (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.95"
+              },
+              {
+                "label": "Trae Young (Points 1Q)",
+                "hdp": 6.5,
+                "over": "2.41"
+              },
+              {
+                "label": "Trae Young (Points 1Q)",
+                "hdp": 7.5,
+                "over": "3.06"
+              },
+              {
+                "label": "Trae Young (Points 1Q)",
+                "hdp": 8.5,
+                "over": "4.07"
+              },
+              {
+                "label": "Trae Young (Points 1Q)",
+                "hdp": 9.5,
+                "over": "5.37"
+              },
+              {
+                "label": "Trae Young (Points 1Q)",
+                "hdp": 10.5,
+                "over": "7.40"
+              },
+              {
+                "label": "Trae Young (Points 1Q)",
+                "hdp": 11.5,
+                "over": "10.70"
+              },
+              {
+                "label": "Trae Young (Pts+Asts)",
+                "hdp": 28.5,
+                "over": "1.82",
+                "under": "1.91"
+              },
+              {
+                "label": "Trae Young (Pts+Rebs)",
+                "hdp": 21.5,
+                "over": "1.79",
+                "under": "1.96"
+              },
+              {
+                "label": "Trae Young (Pts+Rebs+Asts)",
+                "hdp": 31.5,
+                "over": "1.82",
+                "under": "1.92"
+              },
+              {
+                "label": "Trae Young (Rebounds)",
+                "hdp": 2.5,
+                "over": "1.69",
+                "under": "2.10"
+              },
+              {
+                "label": "Trae Young (Rebs+Asts)",
+                "hdp": 12.5,
+                "over": "1.90",
+                "under": "1.83"
+              },
+              {
+                "label": "Trae Young (Steals)",
+                "hdp": 0.5,
+                "over": "1.45"
+              },
+              {
+                "label": "Trae Young (Steals)",
+                "hdp": 1.5,
+                "over": "3.07"
+              },
+              {
+                "label": "Trae Young (Steals)",
+                "hdp": 2.5,
+                "over": "8.00"
+              },
+              {
+                "label": "Trae Young (Steals)",
+                "hdp": 3.5,
+                "over": "18.40"
+              },
+              {
+                "label": "Trae Young (Triple+Double)",
+                "hdp": 0.5,
+                "over": "74.00"
+              },
+              {
+                "label": "Tre Johnson (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.96",
+                "under": "1.78"
+              },
+              {
+                "label": "Tre Johnson (Assists)",
+                "hdp": 1.5,
+                "over": "2.24"
+              },
+              {
+                "label": "Tre Johnson (Assists)",
+                "hdp": 2.5,
+                "over": "4.71"
+              },
+              {
+                "label": "Tre Johnson (Assists)",
+                "hdp": 3.5,
+                "over": "11.00"
+              },
+              {
+                "label": "Tre Johnson (Assists)",
+                "hdp": 4.5,
+                "over": "23.00"
+              },
+              {
+                "label": "Tre Johnson (Points)",
+                "hdp": 8.5,
+                "over": "1.82",
+                "under": "1.95"
+              },
+              {
+                "label": "Tre Johnson (Pts+Asts)",
+                "hdp": 10.5,
+                "over": "1.94",
+                "under": "1.80"
+              },
+              {
+                "label": "Tre Johnson (Pts+Rebs)",
+                "hdp": 10.5,
+                "over": "1.76",
+                "under": "2.00"
+              },
+              {
+                "label": "Tre Johnson (Pts+Rebs+Asts)",
+                "hdp": 12.5,
+                "over": "1.89",
+                "under": "1.84"
+              },
+              {
+                "label": "Tre Johnson (Rebounds)",
+                "hdp": 2.5,
+                "over": "2.40",
+                "under": "1.54"
+              }
+            ]
           }
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
           "recommended_bet": 0.0,
-          "market_edge": -0.08557905297994794,
+          "market_edge": -0.09486569387960042,
           "latent_strength_A": -11.538579090957425,
           "latent_strength_B": 8.583838975026982,
-          "form_state_A": 1,
-          "form_state_B": 2,
+          "form_state_A": 2,
+          "form_state_B": 0,
           "entropy_A": 3.321928094887362
         },
         "halves": {
@@ -29950,7 +24741,10 @@ const analyticsData = {
             "proj_ast": 2.052849515860729,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 2.5,
+            "market_pts": 10.5,
+            "market_reb": 5.5
           },
           {
             "player": "Alondes Williams",
@@ -30100,7 +24894,10 @@ const analyticsData = {
             "proj_ast": 2.052849515860729,
             "status": "Out",
             "injury": "Elbow",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 3.5,
+            "market_pts": 12.5,
+            "market_reb": 4.5
           },
           {
             "player": "Leaky Black",
@@ -30160,7 +24957,10 @@ const analyticsData = {
             "proj_ast": 7.918133846891383,
             "status": "Questionable",
             "injury": "Quadriceps",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 9.5,
+            "market_pts": 18.5,
+            "market_reb": 2.5
           },
           {
             "player": "Tre Johnson",
@@ -30170,7 +24970,10 @@ const analyticsData = {
             "proj_ast": 1.4663210827576636,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 4.5,
+            "market_pts": 8.5,
+            "market_reb": 2.5
           },
           {
             "player": "Tristan Vukcevic",
@@ -30210,7 +25013,10 @@ const analyticsData = {
             "proj_ast": 3.3236611209173708,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 3.5,
+            "market_pts": 27.5,
+            "market_reb": 6.5
           },
           {
             "player": "Coby White",
@@ -30360,7 +25166,9 @@ const analyticsData = {
             "proj_ast": 0.8797926496545981,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_pts": 17.5,
+            "market_reb": 11.5
           },
           {
             "player": "Sion James",
@@ -30370,7 +25178,10 @@ const analyticsData = {
             "proj_ast": 1.4663210827576636,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 3.5,
+            "market_pts": 5.5,
+            "market_reb": 3.5
           },
           {
             "player": "Tidjane Sala\u00fcn",
@@ -30431,9 +25242,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.06743836665394617,
-          "6-10": 0.028992551623984158,
-          "11+": 0.048103090205468324
+          "1-5": 0.07756112587629517,
+          "6-10": 0.03325854016432777,
+          "11+": 0.05437543129369132
         },
         "formA": [
           {
@@ -30789,7 +25600,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.4909760327479722,
-      "mc_win_A": 0.2578,
+      "mc_win_A": 0.2528,
       "shap_explanation": {
         "adj_ortg_10": 0.0013874497877526437,
         "adj_drtg_10": -0.026266136915434828,
@@ -30832,40 +25643,1674 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 116.29926431149377,
-          "ptsB": 115.53939869871769,
+          "ptsA": 116.87676431149377,
+          "ptsB": 114.96189869871769,
           "total": 231.83866301021146,
-          "spread": -0.7598656127760703,
-          "win_prob_A": 49.1664857476782,
+          "spread": -1.9148656127760721,
+          "win_prob_A": 51.685837195871684,
           "ml_prob_A": 0.4730003904702836,
-          "mc_win_A": 0.406,
-          "base_win_prob_A": 0.525117932643892,
-          "market_prob_A": 0.583756345177665,
+          "mc_win_A": 0.4024,
+          "base_win_prob_A": 0.5625985329334056,
+          "market_prob_A": 0.6588235294117647,
           "market": {
             "ml": {
-              "home": "1.64",
-              "away": "2.30"
+              "home": "1.45",
+              "away": "2.80"
             },
             "spread": {
-              "hdp": -3.5,
-              "home": "1.92",
-              "away": "1.89"
+              "hdp": -5.5,
+              "home": "1.86",
+              "away": "1.95"
             },
             "total": {
               "hdp": 226.5,
-              "over": "1.90",
-              "under": "1.90"
+              "over": "1.92",
+              "under": "1.89"
             },
-            "props": []
+            "props": [
+              {
+                "label": "Anthony Black (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.91",
+                "under": "1.82"
+              },
+              {
+                "label": "Anthony Black (Assists)",
+                "hdp": 4.5,
+                "over": "2.24",
+                "under": "1.61"
+              },
+              {
+                "label": "Anthony Black (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "2.26"
+              },
+              {
+                "label": "Anthony Black (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "5.23"
+              },
+              {
+                "label": "Anthony Black (Blocks)",
+                "hdp": 0.5,
+                "over": "1.86"
+              },
+              {
+                "label": "Anthony Black (Blocks)",
+                "hdp": 1.5,
+                "over": "5.14"
+              },
+              {
+                "label": "Anthony Black (Blocks)",
+                "hdp": 2.5,
+                "over": "14.80"
+              },
+              {
+                "label": "Anthony Black (Double+Double)",
+                "hdp": 0.5,
+                "over": "25.00"
+              },
+              {
+                "label": "Anthony Black (Points)",
+                "hdp": 13.5,
+                "over": "1.89",
+                "under": "1.87"
+              },
+              {
+                "label": "Anthony Black (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.17"
+              },
+              {
+                "label": "Anthony Black (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.42"
+              },
+              {
+                "label": "Anthony Black (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.73"
+              },
+              {
+                "label": "Anthony Black (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.08"
+              },
+              {
+                "label": "Anthony Black (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.79"
+              },
+              {
+                "label": "Anthony Black (Points 1Q)",
+                "hdp": 6.5,
+                "over": "3.68"
+              },
+              {
+                "label": "Anthony Black (Points 1Q)",
+                "hdp": 7.5,
+                "over": "4.95"
+              },
+              {
+                "label": "Anthony Black (Points 1Q)",
+                "hdp": 8.5,
+                "over": "7.10"
+              },
+              {
+                "label": "Anthony Black (Points 1Q)",
+                "hdp": 9.5,
+                "over": "10.20"
+              },
+              {
+                "label": "Anthony Black (Pts+Asts)",
+                "hdp": 17.5,
+                "over": "1.81",
+                "under": "1.92"
+              },
+              {
+                "label": "Anthony Black (Pts+Rebs)",
+                "hdp": 16.5,
+                "over": "1.78",
+                "under": "1.97"
+              },
+              {
+                "label": "Anthony Black (Pts+Rebs+Asts)",
+                "hdp": 21.5,
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "Anthony Black (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.94",
+                "under": "1.80"
+              },
+              {
+                "label": "Anthony Black (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "2.51"
+              },
+              {
+                "label": "Anthony Black (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "5.94"
+              },
+              {
+                "label": "Anthony Black (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "Anthony Black (Steals)",
+                "hdp": 1.5,
+                "over": "2.66",
+                "under": "1.44"
+              },
+              {
+                "label": "Anthony Black (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "1.68"
+              },
+              {
+                "label": "Anthony Black (Steals+Blocks)",
+                "hdp": 2.5,
+                "over": "2.90"
+              },
+              {
+                "label": "Anthony Black (Steals+Blocks)",
+                "hdp": 3.5,
+                "over": "5.75"
+              },
+              {
+                "label": "Anthony Black (Steals+Blocks)",
+                "hdp": 4.5,
+                "over": "12.00"
+              },
+              {
+                "label": "Collin Murray-Boyles (Assists)",
+                "hdp": 1.5,
+                "over": "1.78",
+                "under": "1.97"
+              },
+              {
+                "label": "Collin Murray-Boyles (Blocks)",
+                "hdp": 0.5,
+                "over": "1.62"
+              },
+              {
+                "label": "Collin Murray-Boyles (Blocks)",
+                "hdp": 1.5,
+                "over": "3.88"
+              },
+              {
+                "label": "Collin Murray-Boyles (Blocks)",
+                "hdp": 2.5,
+                "over": "10.20"
+              },
+              {
+                "label": "Collin Murray-Boyles (Blocks)",
+                "hdp": 3.5,
+                "over": "22.00"
+              },
+              {
+                "label": "Collin Murray-Boyles (Double+Double)",
+                "hdp": 0.5,
+                "over": "12.00"
+              },
+              {
+                "label": "Collin Murray-Boyles (Points)",
+                "hdp": 9.5,
+                "over": "2.01",
+                "under": "1.78"
+              },
+              {
+                "label": "Collin Murray-Boyles (Pts+Asts)",
+                "hdp": 10.5,
+                "over": "1.78",
+                "under": "1.96"
+              },
+              {
+                "label": "Collin Murray-Boyles (Pts+Rebs)",
+                "hdp": 14.5,
+                "over": "1.92",
+                "under": "1.82"
+              },
+              {
+                "label": "Collin Murray-Boyles (Pts+Rebs+Asts)",
+                "hdp": 16.5,
+                "over": "1.94",
+                "under": "1.80"
+              },
+              {
+                "label": "Collin Murray-Boyles (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.66",
+                "under": "2.14"
+              },
+              {
+                "label": "Collin Murray-Boyles (Rebs+Asts)",
+                "hdp": 6.5,
+                "over": "1.75",
+                "under": "2.00"
+              },
+              {
+                "label": "Collin Murray-Boyles (Steals)",
+                "hdp": 0.5,
+                "over": "1.50"
+              },
+              {
+                "label": "Collin Murray-Boyles (Steals)",
+                "hdp": 1.5,
+                "over": "3.23"
+              },
+              {
+                "label": "Collin Murray-Boyles (Steals)",
+                "hdp": 2.5,
+                "over": "8.20"
+              },
+              {
+                "label": "Collin Murray-Boyles (Steals)",
+                "hdp": 3.5,
+                "over": "19.40"
+              },
+              {
+                "label": "Collin Murray-Boyles (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "1.68"
+              },
+              {
+                "label": "Collin Murray-Boyles (Steals+Blocks)",
+                "hdp": 2.5,
+                "over": "2.95"
+              },
+              {
+                "label": "Collin Murray-Boyles (Steals+Blocks)",
+                "hdp": 3.5,
+                "over": "5.50"
+              },
+              {
+                "label": "Collin Murray-Boyles (Steals+Blocks)",
+                "hdp": 4.5,
+                "over": "11.00"
+              },
+              {
+                "label": "Desmond Bane (3 Point FG)",
+                "hdp": 2.5,
+                "over": "1.70",
+                "under": "2.07"
+              },
+              {
+                "label": "Desmond Bane (Assists)",
+                "hdp": 3.5,
+                "over": "1.80",
+                "under": "1.94"
+              },
+              {
+                "label": "Desmond Bane (Double+Double)",
+                "hdp": 0.5,
+                "over": "15.80"
+              },
+              {
+                "label": "Desmond Bane (Points)",
+                "hdp": 20.5,
+                "over": "1.97",
+                "under": "1.80"
+              },
+              {
+                "label": "Desmond Bane (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.10"
+              },
+              {
+                "label": "Desmond Bane (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.26"
+              },
+              {
+                "label": "Desmond Bane (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.47"
+              },
+              {
+                "label": "Desmond Bane (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.68"
+              },
+              {
+                "label": "Desmond Bane (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.14"
+              },
+              {
+                "label": "Desmond Bane (Points 1Q)",
+                "hdp": 6.5,
+                "over": "2.67"
+              },
+              {
+                "label": "Desmond Bane (Points 1Q)",
+                "hdp": 7.5,
+                "over": "3.41"
+              },
+              {
+                "label": "Desmond Bane (Points 1Q)",
+                "hdp": 8.5,
+                "over": "4.61"
+              },
+              {
+                "label": "Desmond Bane (Points 1Q)",
+                "hdp": 9.5,
+                "over": "6.08"
+              },
+              {
+                "label": "Desmond Bane (Points 1Q)",
+                "hdp": 10.5,
+                "over": "8.30"
+              },
+              {
+                "label": "Desmond Bane (Pts+Asts)",
+                "hdp": 23.5,
+                "over": "1.80",
+                "under": "1.95"
+              },
+              {
+                "label": "Desmond Bane (Pts+Rebs)",
+                "hdp": 24.5,
+                "over": "1.82",
+                "under": "1.91"
+              },
+              {
+                "label": "Desmond Bane (Pts+Rebs+Asts)",
+                "hdp": 28.5,
+                "over": "1.82",
+                "under": "1.91"
+              },
+              {
+                "label": "Desmond Bane (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "Desmond Bane (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "2.05"
+              },
+              {
+                "label": "Desmond Bane (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "4.35"
+              },
+              {
+                "label": "Desmond Bane (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "10.80"
+              },
+              {
+                "label": "Desmond Bane (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "1.91",
+                "under": "1.82"
+              },
+              {
+                "label": "Desmond Bane (Steals)",
+                "hdp": 0.5,
+                "over": "1.43",
+                "under": "2.71"
+              },
+              {
+                "label": "Franz Wagner (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.30",
+                "under": "1.58"
+              },
+              {
+                "label": "Franz Wagner (Assists)",
+                "hdp": 5.5,
+                "over": "1.73",
+                "under": "2.04"
+              },
+              {
+                "label": "Franz Wagner (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.76"
+              },
+              {
+                "label": "Franz Wagner (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "3.44"
+              },
+              {
+                "label": "Franz Wagner (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "8.20"
+              },
+              {
+                "label": "Franz Wagner (Double+Double)",
+                "hdp": 0.5,
+                "over": "4.03"
+              },
+              {
+                "label": "Franz Wagner (Points)",
+                "hdp": 22.5,
+                "over": "1.88",
+                "under": "1.88"
+              },
+              {
+                "label": "Franz Wagner (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.06"
+              },
+              {
+                "label": "Franz Wagner (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.19"
+              },
+              {
+                "label": "Franz Wagner (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.28"
+              },
+              {
+                "label": "Franz Wagner (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.51"
+              },
+              {
+                "label": "Franz Wagner (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.76"
+              },
+              {
+                "label": "Franz Wagner (Points 1Q)",
+                "hdp": 6.5,
+                "over": "2.17"
+              },
+              {
+                "label": "Franz Wagner (Points 1Q)",
+                "hdp": 7.5,
+                "over": "2.75"
+              },
+              {
+                "label": "Franz Wagner (Points 1Q)",
+                "hdp": 8.5,
+                "over": "3.59"
+              },
+              {
+                "label": "Franz Wagner (Points 1Q)",
+                "hdp": 9.5,
+                "over": "4.73"
+              },
+              {
+                "label": "Franz Wagner (Points 1Q)",
+                "hdp": 10.5,
+                "over": "6.55"
+              },
+              {
+                "label": "Franz Wagner (Points 1Q)",
+                "hdp": 11.5,
+                "over": "9.10"
+              },
+              {
+                "label": "Franz Wagner (Pts+Asts)",
+                "hdp": 28.5,
+                "over": "1.85",
+                "under": "1.89"
+              },
+              {
+                "label": "Franz Wagner (Pts+Rebs)",
+                "hdp": 29.5,
+                "over": "1.91",
+                "under": "1.83"
+              },
+              {
+                "label": "Franz Wagner (Pts+Rebs+Asts)",
+                "hdp": 35.5,
+                "over": "1.88",
+                "under": "1.86"
+              },
+              {
+                "label": "Franz Wagner (Rebounds)",
+                "hdp": 6.5,
+                "over": "1.92",
+                "under": "1.81"
+              },
+              {
+                "label": "Franz Wagner (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.54"
+              },
+              {
+                "label": "Franz Wagner (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "2.66"
+              },
+              {
+                "label": "Franz Wagner (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "5.52"
+              },
+              {
+                "label": "Franz Wagner (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "12.60"
+              },
+              {
+                "label": "Franz Wagner (Rebs+Asts)",
+                "hdp": 12.5,
+                "over": "1.91",
+                "under": "1.83"
+              },
+              {
+                "label": "Franz Wagner (Steals)",
+                "hdp": 0.5,
+                "over": "1.35"
+              },
+              {
+                "label": "Franz Wagner (Steals)",
+                "hdp": 1.5,
+                "over": "2.61"
+              },
+              {
+                "label": "Franz Wagner (Steals)",
+                "hdp": 2.5,
+                "over": "6.08"
+              },
+              {
+                "label": "Franz Wagner (Steals)",
+                "hdp": 3.5,
+                "over": "14.40"
+              },
+              {
+                "label": "Franz Wagner (Triple+Double)",
+                "hdp": 0.5,
+                "over": "28.00"
+              },
+              {
+                "label": "Immanuel Quickley (3 Point FG)",
+                "hdp": 2.5,
+                "over": "2.10",
+                "under": "1.68"
+              },
+              {
+                "label": "Immanuel Quickley (Assists)",
+                "hdp": 5.5,
+                "over": "1.64",
+                "under": "2.18"
+              },
+              {
+                "label": "Immanuel Quickley (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.67"
+              },
+              {
+                "label": "Immanuel Quickley (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "3.08"
+              },
+              {
+                "label": "Immanuel Quickley (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "6.79"
+              },
+              {
+                "label": "Immanuel Quickley (Double+Double)",
+                "hdp": 0.5,
+                "over": "7.60"
+              },
+              {
+                "label": "Immanuel Quickley (Points)",
+                "hdp": 17.5,
+                "over": "1.92",
+                "under": "1.85"
+              },
+              {
+                "label": "Immanuel Quickley (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.13"
+              },
+              {
+                "label": "Immanuel Quickley (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.35"
+              },
+              {
+                "label": "Immanuel Quickley (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.56"
+              },
+              {
+                "label": "Immanuel Quickley (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.89"
+              },
+              {
+                "label": "Immanuel Quickley (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.42"
+              },
+              {
+                "label": "Immanuel Quickley (Points 1Q)",
+                "hdp": 6.5,
+                "over": "3.10"
+              },
+              {
+                "label": "Immanuel Quickley (Points 1Q)",
+                "hdp": 7.5,
+                "over": "4.18"
+              },
+              {
+                "label": "Immanuel Quickley (Points 1Q)",
+                "hdp": 8.5,
+                "over": "5.87"
+              },
+              {
+                "label": "Immanuel Quickley (Points 1Q)",
+                "hdp": 9.5,
+                "over": "8.30"
+              },
+              {
+                "label": "Immanuel Quickley (Pts+Asts)",
+                "hdp": 23.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "Immanuel Quickley (Pts+Rebs)",
+                "hdp": 21.5,
+                "over": "1.92",
+                "under": "1.81"
+              },
+              {
+                "label": "Immanuel Quickley (Pts+Rebs+Asts)",
+                "hdp": 27.5,
+                "over": "1.88",
+                "under": "1.85"
+              },
+              {
+                "label": "Immanuel Quickley (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.83",
+                "under": "1.90"
+              },
+              {
+                "label": "Immanuel Quickley (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "2.46"
+              },
+              {
+                "label": "Immanuel Quickley (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "5.86"
+              },
+              {
+                "label": "Immanuel Quickley (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.77",
+                "under": "1.98"
+              },
+              {
+                "label": "Immanuel Quickley (Steals)",
+                "hdp": 1.5,
+                "over": "2.28",
+                "under": "1.58"
+              },
+              {
+                "label": "Ja'Kobe Walter (3 Point FG)",
+                "hdp": 2.5,
+                "over": "2.19",
+                "under": "1.63"
+              },
+              {
+                "label": "Ja'Kobe Walter (Assists)",
+                "hdp": 1.5,
+                "over": "1.96",
+                "under": "1.79"
+              },
+              {
+                "label": "Ja'Kobe Walter (Double+Double)",
+                "hdp": 0.5,
+                "over": "39.00"
+              },
+              {
+                "label": "Ja'Kobe Walter (Points)",
+                "hdp": 11.5,
+                "over": "1.82",
+                "under": "1.95"
+              },
+              {
+                "label": "Ja'Kobe Walter (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.24"
+              },
+              {
+                "label": "Ja'Kobe Walter (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.48"
+              },
+              {
+                "label": "Ja'Kobe Walter (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.03"
+              },
+              {
+                "label": "Ja'Kobe Walter (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.31"
+              },
+              {
+                "label": "Ja'Kobe Walter (Points 1Q)",
+                "hdp": 5.5,
+                "over": "3.14"
+              },
+              {
+                "label": "Ja'Kobe Walter (Points 1Q)",
+                "hdp": 6.5,
+                "over": "4.54"
+              },
+              {
+                "label": "Ja'Kobe Walter (Points 1Q)",
+                "hdp": 7.5,
+                "over": "5.77"
+              },
+              {
+                "label": "Ja'Kobe Walter (Points 1Q)",
+                "hdp": 8.5,
+                "over": "8.50"
+              },
+              {
+                "label": "Ja'Kobe Walter (Pts+Asts)",
+                "hdp": 13.5,
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "Ja'Kobe Walter (Pts+Rebs)",
+                "hdp": 15.5,
+                "over": "1.85",
+                "under": "1.88"
+              },
+              {
+                "label": "Ja'Kobe Walter (Pts+Rebs+Asts)",
+                "hdp": 17.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Ja'Kobe Walter (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "Ja'Kobe Walter (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "2.63"
+              },
+              {
+                "label": "Ja'Kobe Walter (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "6.44"
+              },
+              {
+                "label": "Ja'Kobe Walter (Rebs+Asts)",
+                "hdp": 5.5,
+                "over": "2.05",
+                "under": "1.72"
+              },
+              {
+                "label": "Ja'Kobe Walter (Steals)",
+                "hdp": 1.5,
+                "over": "2.61",
+                "under": "1.46"
+              },
+              {
+                "label": "Jakob Poeltl (Assists)",
+                "hdp": 1.5,
+                "over": "1.68",
+                "under": "2.11"
+              },
+              {
+                "label": "Jakob Poeltl (Blocks)",
+                "hdp": 0.5,
+                "over": "1.76"
+              },
+              {
+                "label": "Jakob Poeltl (Blocks)",
+                "hdp": 1.5,
+                "over": "4.64"
+              },
+              {
+                "label": "Jakob Poeltl (Blocks)",
+                "hdp": 2.5,
+                "over": "13.20"
+              },
+              {
+                "label": "Jakob Poeltl (Double+Double)",
+                "hdp": 0.5,
+                "over": "13.20"
+              },
+              {
+                "label": "Jakob Poeltl (Points)",
+                "hdp": 6.5,
+                "over": "1.92",
+                "under": "1.84"
+              },
+              {
+                "label": "Jakob Poeltl (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.43"
+              },
+              {
+                "label": "Jakob Poeltl (Points 1Q)",
+                "hdp": 2.5,
+                "over": "2.61"
+              },
+              {
+                "label": "Jakob Poeltl (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.92"
+              },
+              {
+                "label": "Jakob Poeltl (Points 1Q)",
+                "hdp": 4.5,
+                "over": "6.16"
+              },
+              {
+                "label": "Jakob Poeltl (Points 1Q)",
+                "hdp": 5.5,
+                "over": "7.60"
+              },
+              {
+                "label": "Jakob Poeltl (Pts+Asts)",
+                "hdp": 8.5,
+                "over": "1.86",
+                "under": "1.87"
+              },
+              {
+                "label": "Jakob Poeltl (Pts+Rebs)",
+                "hdp": 12.5,
+                "over": "1.83",
+                "under": "1.90"
+              },
+              {
+                "label": "Jakob Poeltl (Pts+Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "1.85",
+                "under": "1.88"
+              },
+              {
+                "label": "Jakob Poeltl (Rebounds)",
+                "hdp": 5.5,
+                "over": "1.75",
+                "under": "2.01"
+              },
+              {
+                "label": "Jakob Poeltl (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.44"
+              },
+              {
+                "label": "Jakob Poeltl (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "2.33"
+              },
+              {
+                "label": "Jakob Poeltl (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "4.41"
+              },
+              {
+                "label": "Jakob Poeltl (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "9.50"
+              },
+              {
+                "label": "Jakob Poeltl (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.79",
+                "under": "1.96"
+              },
+              {
+                "label": "Jamal Shead (3 Point FG)",
+                "hdp": 0.5,
+                "over": "1.42",
+                "under": "2.75"
+              },
+              {
+                "label": "Jamal Shead (Assists)",
+                "hdp": 4.5,
+                "over": "1.80",
+                "under": "1.94"
+              },
+              {
+                "label": "Jamal Shead (Double+Double)",
+                "hdp": 0.5,
+                "over": "28.00"
+              },
+              {
+                "label": "Jamal Shead (Points)",
+                "hdp": 7.5,
+                "over": "1.91",
+                "under": "1.85"
+              },
+              {
+                "label": "Jamal Shead (Pts+Asts)",
+                "hdp": 12.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Jamal Shead (Pts+Rebs)",
+                "hdp": 9.5,
+                "over": "1.81",
+                "under": "1.92"
+              },
+              {
+                "label": "Jamal Shead (Pts+Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "Jamal Shead (Rebounds)",
+                "hdp": 2.5,
+                "over": "2.41",
+                "under": "1.53"
+              },
+              {
+                "label": "Jamal Shead (Rebs+Asts)",
+                "hdp": 6.5,
+                "over": "1.75",
+                "under": "2.01"
+              },
+              {
+                "label": "Jase Richardson (3 Point FG)",
+                "hdp": 0.5,
+                "over": "1.52",
+                "under": "2.42"
+              },
+              {
+                "label": "Jase Richardson (Assists)",
+                "hdp": 2.5,
+                "over": "2.26",
+                "under": "1.59"
+              },
+              {
+                "label": "Jase Richardson (Double+Double)",
+                "hdp": 0.5,
+                "over": "63.00"
+              },
+              {
+                "label": "Jase Richardson (Points)",
+                "hdp": 7.5,
+                "over": "1.80",
+                "under": "1.98"
+              },
+              {
+                "label": "Jase Richardson (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.39"
+              },
+              {
+                "label": "Jase Richardson (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.94"
+              },
+              {
+                "label": "Jase Richardson (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.73"
+              },
+              {
+                "label": "Jase Richardson (Points 1Q)",
+                "hdp": 4.5,
+                "over": "3.54"
+              },
+              {
+                "label": "Jase Richardson (Points 1Q)",
+                "hdp": 5.5,
+                "over": "5.71"
+              },
+              {
+                "label": "Jase Richardson (Points 1Q)",
+                "hdp": 6.5,
+                "over": "8.60"
+              },
+              {
+                "label": "Jase Richardson (Pts+Asts)",
+                "hdp": 10.5,
+                "over": "1.95",
+                "under": "1.80"
+              },
+              {
+                "label": "Jase Richardson (Pts+Rebs)",
+                "hdp": 10.5,
+                "over": "1.87",
+                "under": "1.86"
+              },
+              {
+                "label": "Jase Richardson (Pts+Rebs+Asts)",
+                "hdp": 12.5,
+                "over": "1.80",
+                "under": "1.95"
+              },
+              {
+                "label": "Jase Richardson (Rebounds)",
+                "hdp": 2.5,
+                "over": "1.93"
+              },
+              {
+                "label": "Jase Richardson (Rebounds)",
+                "hdp": 3.5,
+                "over": "3.19"
+              },
+              {
+                "label": "Jase Richardson (Rebounds)",
+                "hdp": 4.5,
+                "over": "5.89"
+              },
+              {
+                "label": "Jase Richardson (Rebounds)",
+                "hdp": 5.5,
+                "over": "10.80"
+              },
+              {
+                "label": "Jase Richardson (Rebounds)",
+                "hdp": 6.5,
+                "over": "18.80"
+              },
+              {
+                "label": "Jase Richardson (Rebounds)",
+                "hdp": 7.5,
+                "over": "29.00"
+              },
+              {
+                "label": "Jevon Carter (3 Point FG)",
+                "hdp": 0.5,
+                "over": "1.34"
+              },
+              {
+                "label": "Jevon Carter (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.45"
+              },
+              {
+                "label": "Jevon Carter (3 Point FG)",
+                "hdp": 2.5,
+                "over": "5.41"
+              },
+              {
+                "label": "Jevon Carter (3 Point FG)",
+                "hdp": 3.5,
+                "over": "12.00"
+              },
+              {
+                "label": "Jevon Carter (3 Point FG)",
+                "hdp": 4.5,
+                "over": "24.00"
+              },
+              {
+                "label": "Jevon Carter (Assists)",
+                "hdp": 1.5,
+                "over": "1.67"
+              },
+              {
+                "label": "Jevon Carter (Assists)",
+                "hdp": 2.5,
+                "over": "2.87"
+              },
+              {
+                "label": "Jevon Carter (Assists)",
+                "hdp": 3.5,
+                "over": "5.61"
+              },
+              {
+                "label": "Jevon Carter (Assists)",
+                "hdp": 4.5,
+                "over": "11.40"
+              },
+              {
+                "label": "Jevon Carter (Assists)",
+                "hdp": 5.5,
+                "over": "22.00"
+              },
+              {
+                "label": "Jevon Carter (Points)",
+                "hdp": 5.5,
+                "over": "2.00"
+              },
+              {
+                "label": "Jevon Carter (Points)",
+                "hdp": 7.5,
+                "over": "3.02"
+              },
+              {
+                "label": "Jevon Carter (Points)",
+                "hdp": 9.5,
+                "over": "5.27"
+              },
+              {
+                "label": "Jevon Carter (Points)",
+                "hdp": 11.5,
+                "over": "8.10"
+              },
+              {
+                "label": "Jevon Carter (Points)",
+                "hdp": 14.5,
+                "over": "16.60"
+              },
+              {
+                "label": "Jevon Carter (Points)",
+                "hdp": 17.5,
+                "over": "30.00"
+              },
+              {
+                "label": "Jevon Carter (Pts+Rebs)",
+                "hdp": 7.5,
+                "over": "2.01",
+                "under": "1.75"
+              },
+              {
+                "label": "RJ Barrett (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.75",
+                "under": "2.00"
+              },
+              {
+                "label": "RJ Barrett (Assists)",
+                "hdp": 3.5,
+                "over": "1.82",
+                "under": "1.91"
+              },
+              {
+                "label": "RJ Barrett (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "2.82"
+              },
+              {
+                "label": "RJ Barrett (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "7.50"
+              },
+              {
+                "label": "RJ Barrett (Double+Double)",
+                "hdp": 0.5,
+                "over": "9.30"
+              },
+              {
+                "label": "RJ Barrett (Points)",
+                "hdp": 23.5,
+                "over": "1.95",
+                "under": "1.82"
+              },
+              {
+                "label": "RJ Barrett (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.04"
+              },
+              {
+                "label": "RJ Barrett (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.17"
+              },
+              {
+                "label": "RJ Barrett (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.24"
+              },
+              {
+                "label": "RJ Barrett (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.48"
+              },
+              {
+                "label": "RJ Barrett (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.69"
+              },
+              {
+                "label": "RJ Barrett (Points 1Q)",
+                "hdp": 6.5,
+                "over": "2.12"
+              },
+              {
+                "label": "RJ Barrett (Points 1Q)",
+                "hdp": 7.5,
+                "over": "2.64"
+              },
+              {
+                "label": "RJ Barrett (Points 1Q)",
+                "hdp": 8.5,
+                "over": "3.46"
+              },
+              {
+                "label": "RJ Barrett (Points 1Q)",
+                "hdp": 9.5,
+                "over": "4.60"
+              },
+              {
+                "label": "RJ Barrett (Points 1Q)",
+                "hdp": 10.5,
+                "over": "6.29"
+              },
+              {
+                "label": "RJ Barrett (Points 1Q)",
+                "hdp": 11.5,
+                "over": "8.80"
+              },
+              {
+                "label": "RJ Barrett (Pts+Asts)",
+                "hdp": 27.5,
+                "over": "1.95",
+                "under": "1.79"
+              },
+              {
+                "label": "RJ Barrett (Pts+Rebs)",
+                "hdp": 28.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "RJ Barrett (Pts+Rebs+Asts)",
+                "hdp": 32.5,
+                "over": "1.85",
+                "under": "1.89"
+              },
+              {
+                "label": "RJ Barrett (Rebounds)",
+                "hdp": 5.5,
+                "over": "1.90",
+                "under": "1.83"
+              },
+              {
+                "label": "RJ Barrett (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.81"
+              },
+              {
+                "label": "RJ Barrett (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "3.57"
+              },
+              {
+                "label": "RJ Barrett (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "8.20"
+              },
+              {
+                "label": "RJ Barrett (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "2.00",
+                "under": "1.76"
+              },
+              {
+                "label": "Scottie Barnes (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.67",
+                "under": "1.44"
+              },
+              {
+                "label": "Scottie Barnes (Assists)",
+                "hdp": 6.5,
+                "over": "2.19",
+                "under": "1.63"
+              },
+              {
+                "label": "Scottie Barnes (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.70"
+              },
+              {
+                "label": "Scottie Barnes (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "3.18"
+              },
+              {
+                "label": "Scottie Barnes (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "7.40"
+              },
+              {
+                "label": "Scottie Barnes (Blocks)",
+                "hdp": 1.5,
+                "over": "2.32",
+                "under": "1.56"
+              },
+              {
+                "label": "Scottie Barnes (Double+Double)",
+                "hdp": 0.5,
+                "over": "3.04"
+              },
+              {
+                "label": "Scottie Barnes (Points)",
+                "hdp": 22.5,
+                "over": "1.97",
+                "under": "1.81"
+              },
+              {
+                "label": "Scottie Barnes (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.04"
+              },
+              {
+                "label": "Scottie Barnes (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.17"
+              },
+              {
+                "label": "Scottie Barnes (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.24"
+              },
+              {
+                "label": "Scottie Barnes (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.47"
+              },
+              {
+                "label": "Scottie Barnes (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.67"
+              },
+              {
+                "label": "Scottie Barnes (Points 1Q)",
+                "hdp": 6.5,
+                "over": "2.10"
+              },
+              {
+                "label": "Scottie Barnes (Points 1Q)",
+                "hdp": 7.5,
+                "over": "2.55"
+              },
+              {
+                "label": "Scottie Barnes (Points 1Q)",
+                "hdp": 8.5,
+                "over": "3.29"
+              },
+              {
+                "label": "Scottie Barnes (Points 1Q)",
+                "hdp": 9.5,
+                "over": "4.24"
+              },
+              {
+                "label": "Scottie Barnes (Points 1Q)",
+                "hdp": 10.5,
+                "over": "5.76"
+              },
+              {
+                "label": "Scottie Barnes (Points 1Q)",
+                "hdp": 11.5,
+                "over": "7.90"
+              },
+              {
+                "label": "Scottie Barnes (Points 1Q)",
+                "hdp": 12.5,
+                "over": "11.00"
+              },
+              {
+                "label": "Scottie Barnes (Pts+Asts)",
+                "hdp": 28.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Scottie Barnes (Pts+Rebs)",
+                "hdp": 29.5,
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "Scottie Barnes (Pts+Rebs+Asts)",
+                "hdp": 35.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "Scottie Barnes (Rebounds)",
+                "hdp": 7.5,
+                "over": "2.11",
+                "under": "1.68"
+              },
+              {
+                "label": "Scottie Barnes (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.48"
+              },
+              {
+                "label": "Scottie Barnes (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "2.42"
+              },
+              {
+                "label": "Scottie Barnes (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "4.54"
+              },
+              {
+                "label": "Scottie Barnes (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "9.90"
+              },
+              {
+                "label": "Scottie Barnes (Rebs+Asts)",
+                "hdp": 13.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Scottie Barnes (Steals)",
+                "hdp": 1.5,
+                "over": "1.86",
+                "under": "1.86"
+              },
+              {
+                "label": "Scottie Barnes (Steals+Blocks)",
+                "hdp": 2.5,
+                "over": "1.63",
+                "under": "2.19"
+              },
+              {
+                "label": "Scottie Barnes (Triple+Double)",
+                "hdp": 0.5,
+                "over": "20.00"
+              },
+              {
+                "label": "Tristan da Silva (3 Point FG)",
+                "hdp": 2.5,
+                "over": "1.96",
+                "under": "1.78"
+              },
+              {
+                "label": "Tristan da Silva (Assists)",
+                "hdp": 1.5,
+                "over": "1.52",
+                "under": "2.44"
+              },
+              {
+                "label": "Tristan da Silva (Double+Double)",
+                "hdp": 0.5,
+                "over": "33.00"
+              },
+              {
+                "label": "Tristan da Silva (Points)",
+                "hdp": 11.5,
+                "over": "1.81",
+                "under": "1.96"
+              },
+              {
+                "label": "Tristan da Silva (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "1.98",
+                "under": "1.78"
+              },
+              {
+                "label": "Tristan da Silva (Pts+Rebs)",
+                "hdp": 16.5,
+                "over": "1.96",
+                "under": "1.79"
+              },
+              {
+                "label": "Tristan da Silva (Pts+Rebs+Asts)",
+                "hdp": 18.5,
+                "over": "1.91",
+                "under": "1.82"
+              },
+              {
+                "label": "Tristan da Silva (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.62",
+                "under": "2.21"
+              },
+              {
+                "label": "Tristan da Silva (Rebs+Asts)",
+                "hdp": 6.5,
+                "over": "2.08",
+                "under": "1.70"
+              },
+              {
+                "label": "Tristan da Silva (Steals)",
+                "hdp": 0.5,
+                "over": "1.59"
+              },
+              {
+                "label": "Tristan da Silva (Steals)",
+                "hdp": 1.5,
+                "over": "3.74"
+              },
+              {
+                "label": "Tristan da Silva (Steals)",
+                "hdp": 2.5,
+                "over": "10.50"
+              },
+              {
+                "label": "Tristan da Silva (Steals)",
+                "hdp": 3.5,
+                "over": "24.00"
+              },
+              {
+                "label": "Wendell Carter Jr. (3 Point FG)",
+                "hdp": 0.5,
+                "over": "1.57",
+                "under": "2.32"
+              },
+              {
+                "label": "Wendell Carter Jr. (Assists)",
+                "hdp": 2.5,
+                "over": "2.29",
+                "under": "1.58"
+              },
+              {
+                "label": "Wendell Carter Jr. (Double+Double)",
+                "hdp": 0.5,
+                "over": "4.19"
+              },
+              {
+                "label": "Wendell Carter Jr. (Points)",
+                "hdp": 10.5,
+                "over": "1.80",
+                "under": "1.97"
+              },
+              {
+                "label": "Wendell Carter Jr. (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.29"
+              },
+              {
+                "label": "Wendell Carter Jr. (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.81"
+              },
+              {
+                "label": "Wendell Carter Jr. (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.30"
+              },
+              {
+                "label": "Wendell Carter Jr. (Points 1Q)",
+                "hdp": 4.5,
+                "over": "3.18"
+              },
+              {
+                "label": "Wendell Carter Jr. (Points 1Q)",
+                "hdp": 5.5,
+                "over": "4.70"
+              },
+              {
+                "label": "Wendell Carter Jr. (Points 1Q)",
+                "hdp": 6.5,
+                "over": "6.77"
+              },
+              {
+                "label": "Wendell Carter Jr. (Points 1Q)",
+                "hdp": 7.5,
+                "over": "10.50"
+              },
+              {
+                "label": "Wendell Carter Jr. (Pts+Asts)",
+                "hdp": 13.5,
+                "over": "1.95",
+                "under": "1.80"
+              },
+              {
+                "label": "Wendell Carter Jr. (Pts+Rebs)",
+                "hdp": 18.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "Wendell Carter Jr. (Pts+Rebs+Asts)",
+                "hdp": 20.5,
+                "over": "1.78",
+                "under": "1.97"
+              },
+              {
+                "label": "Wendell Carter Jr. (Rebounds)",
+                "hdp": 7.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "Wendell Carter Jr. (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.31"
+              },
+              {
+                "label": "Wendell Carter Jr. (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "1.89"
+              },
+              {
+                "label": "Wendell Carter Jr. (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "3.14"
+              },
+              {
+                "label": "Wendell Carter Jr. (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "5.95"
+              },
+              {
+                "label": "Wendell Carter Jr. (Rebounds 1Q)",
+                "hdp": 5.5,
+                "over": "12.40"
+              },
+              {
+                "label": "Wendell Carter Jr. (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.74",
+                "under": "2.02"
+              }
+            ]
           }
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
           "recommended_bet": 0.0,
-          "market_edge": -0.09209148770088293,
+          "market_edge": -0.14196515745304783,
           "latent_strength_A": 1.9461049922231322,
           "latent_strength_B": 3.8521453438927282,
-          "form_state_A": 0,
+          "form_state_A": 1,
           "form_state_B": 2,
           "entropy_A": 3.321928094887362
         },
@@ -30946,7 +27391,10 @@ const analyticsData = {
             "proj_ast": 2.0333747178025736,
             "status": "Doubtful",
             "injury": "Thumb",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 1.5,
+            "market_pts": 9.5,
+            "market_reb": 4.5
           },
           {
             "player": "Garrett Temple",
@@ -30976,7 +27424,10 @@ const analyticsData = {
             "proj_ast": 5.998455417517593,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 5.5,
+            "market_pts": 17.5,
+            "market_reb": 3.5
           },
           {
             "player": "Ja'Kobe Walter",
@@ -30986,7 +27437,10 @@ const analyticsData = {
             "proj_ast": 1.2200248306815442,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 1.5,
+            "market_pts": 11.5,
+            "market_reb": 3.5
           },
           {
             "player": "Jakob Poeltl",
@@ -30996,7 +27450,10 @@ const analyticsData = {
             "proj_ast": 2.236712189582831,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 1.5,
+            "market_pts": 6.5,
+            "market_reb": 5.5
           },
           {
             "player": "Jamal Shead",
@@ -31006,7 +27463,10 @@ const analyticsData = {
             "proj_ast": 3.558405756154504,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 4.5,
+            "market_pts": 7.5,
+            "market_reb": 2.5
           },
           {
             "player": "Jamison Battle",
@@ -31056,7 +27516,10 @@ const analyticsData = {
             "proj_ast": 2.541718397253217,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 3.5,
+            "market_pts": 23.5,
+            "market_reb": 5.5
           },
           {
             "player": "Sandro Mamukelashvili",
@@ -31076,7 +27539,10 @@ const analyticsData = {
             "proj_ast": 4.066749435605147,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 6.5,
+            "market_pts": 22.5,
+            "market_reb": 7.5
           },
           {
             "player": "Trayce Jackson-Davis",
@@ -31096,7 +27562,10 @@ const analyticsData = {
             "proj_ast": 2.643387133143346,
             "status": "Doubtful",
             "injury": "Abdomen",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 4.5,
+            "market_pts": 13.5,
+            "market_reb": 3.5
           },
           {
             "player": "Desmond Bane",
@@ -31106,7 +27575,10 @@ const analyticsData = {
             "proj_ast": 4.880099322726177,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 3.5,
+            "market_pts": 20.5,
+            "market_reb": 4.5
           },
           {
             "player": "Franz Wagner",
@@ -31116,7 +27588,10 @@ const analyticsData = {
             "proj_ast": 2.9483933408137317,
             "status": "Doubtful",
             "injury": "Ankle",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 5.5,
+            "market_pts": 22.5,
+            "market_reb": 6.5
           },
           {
             "player": "Goga Bitadze",
@@ -31156,7 +27631,10 @@ const analyticsData = {
             "proj_ast": 1.0166873589012868,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 2.5,
+            "market_pts": 7.5,
+            "market_reb": 7.5
           },
           {
             "player": "Jett Howard",
@@ -31176,7 +27654,9 @@ const analyticsData = {
             "proj_ast": 2.9483933408137317,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 5.5,
+            "market_pts": 17.5
           },
           {
             "player": "Jonathan Isaac",
@@ -31236,7 +27716,10 @@ const analyticsData = {
             "proj_ast": 2.4400496613630884,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 1.5,
+            "market_pts": 11.5,
+            "market_reb": 3.5
           },
           {
             "player": "Tyus Jones",
@@ -31256,7 +27739,10 @@ const analyticsData = {
             "proj_ast": 2.236712189582831,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 2.5,
+            "market_pts": 10.5,
+            "market_reb": 7.5
           }
         ],
         "factors": {
@@ -31287,9 +27773,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.1688468261044382,
-          "6-10": 0.07126641984133983,
-          "11+": 0.10686913342838704
+          "1-5": 0.17959916257822758,
+          "6-10": 0.07599677691407568,
+          "11+": 0.1155029082635133
         },
         "formA": [
           {
@@ -31645,7 +28131,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.4730003904702836,
-      "mc_win_A": 0.406,
+      "mc_win_A": 0.4024,
       "shap_explanation": {
         "adj_ortg_10": -0.004588579474975063,
         "adj_drtg_10": 0.008301085380745974,
@@ -31688,37 +28174,1501 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 109.9441075555263,
-          "ptsB": 119.26109438868306,
-          "total": 229.20520194420936,
-          "spread": 9.316986833156756,
-          "win_prob_A": 41.94004246620708,
+          "ptsA": 108.84410755552629,
+          "ptsB": 119.56109438868306,
+          "total": 228.40520194420935,
+          "spread": 10.716986833156756,
+          "win_prob_A": 40.004665842830455,
           "ml_prob_A": 0.4593856478781948,
-          "mc_win_A": 0.2652,
-          "base_win_prob_A": 0.23238647476391838,
-          "market_prob_A": 0.5324675324675325,
+          "mc_win_A": 0.2548,
+          "base_win_prob_A": 0.20227310878388638,
+          "market_prob_A": 0.4675324675324676,
           "market": {
             "ml": {
-              "home": "1.80",
-              "away": "2.05"
+              "home": "2.05",
+              "away": "1.80"
             },
             "spread": {
-              "hdp": -2.5,
+              "hdp": 1.5,
               "home": "1.95",
               "away": "1.86"
             },
             "total": {
-              "hdp": 231.5,
+              "hdp": 227.5,
               "over": "1.90",
               "under": "1.90"
             },
-            "props": []
+            "props": [
+              {
+                "label": "Jalen Brunson (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.52",
+                "under": "2.44"
+              },
+              {
+                "label": "Jalen Brunson (Assists)",
+                "hdp": 5.5,
+                "over": "1.64",
+                "under": "2.17"
+              },
+              {
+                "label": "Jalen Brunson (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.78"
+              },
+              {
+                "label": "Jalen Brunson (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "3.44"
+              },
+              {
+                "label": "Jalen Brunson (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "7.80"
+              },
+              {
+                "label": "Jalen Brunson (Double+Double)",
+                "hdp": 0.5,
+                "over": "7.50"
+              },
+              {
+                "label": "Jalen Brunson (Points)",
+                "hdp": 27.5,
+                "over": "1.96",
+                "under": "1.81"
+              },
+              {
+                "label": "Jalen Brunson (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.08"
+              },
+              {
+                "label": "Jalen Brunson (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.13"
+              },
+              {
+                "label": "Jalen Brunson (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.25"
+              },
+              {
+                "label": "Jalen Brunson (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.38"
+              },
+              {
+                "label": "Jalen Brunson (Points 1Q)",
+                "hdp": 6.5,
+                "over": "1.58"
+              },
+              {
+                "label": "Jalen Brunson (Points 1Q)",
+                "hdp": 7.5,
+                "over": "1.85"
+              },
+              {
+                "label": "Jalen Brunson (Points 1Q)",
+                "hdp": 8.5,
+                "over": "2.23"
+              },
+              {
+                "label": "Jalen Brunson (Points 1Q)",
+                "hdp": 9.5,
+                "over": "2.76"
+              },
+              {
+                "label": "Jalen Brunson (Points 1Q)",
+                "hdp": 10.5,
+                "over": "3.49"
+              },
+              {
+                "label": "Jalen Brunson (Points 1Q)",
+                "hdp": 11.5,
+                "over": "4.48"
+              },
+              {
+                "label": "Jalen Brunson (Points 1Q)",
+                "hdp": 12.5,
+                "over": "5.89"
+              },
+              {
+                "label": "Jalen Brunson (Points 1Q)",
+                "hdp": 13.5,
+                "over": "7.90"
+              },
+              {
+                "label": "Jalen Brunson (Points 1Q)",
+                "hdp": 14.5,
+                "over": "10.90"
+              },
+              {
+                "label": "Jalen Brunson (Pts+Asts)",
+                "hdp": 33.5,
+                "over": "1.88",
+                "under": "1.86"
+              },
+              {
+                "label": "Jalen Brunson (Pts+Rebs)",
+                "hdp": 29.5,
+                "over": "1.80",
+                "under": "1.94"
+              },
+              {
+                "label": "Jalen Brunson (Pts+Rebs+Asts)",
+                "hdp": 36.5,
+                "over": "1.91",
+                "under": "1.82"
+              },
+              {
+                "label": "Jalen Brunson (Rebounds)",
+                "hdp": 2.5,
+                "over": "1.77",
+                "under": "1.98"
+              },
+              {
+                "label": "Jalen Brunson (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "1.76",
+                "under": "1.99"
+              },
+              {
+                "label": "Jalen Brunson (Steals)",
+                "hdp": 0.5,
+                "over": "1.56"
+              },
+              {
+                "label": "Jalen Brunson (Steals)",
+                "hdp": 1.5,
+                "over": "3.68"
+              },
+              {
+                "label": "Jalen Brunson (Steals)",
+                "hdp": 2.5,
+                "over": "10.10"
+              },
+              {
+                "label": "Jalen Brunson (Steals)",
+                "hdp": 3.5,
+                "over": "23.00"
+              },
+              {
+                "label": "Jaylen Brown (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.14",
+                "under": "1.66"
+              },
+              {
+                "label": "Jaylen Brown (Assists)",
+                "hdp": 3.5,
+                "over": "2.14",
+                "under": "1.66"
+              },
+              {
+                "label": "Jaylen Brown (Double+Double)",
+                "hdp": 0.5,
+                "over": "6.87"
+              },
+              {
+                "label": "Jaylen Brown (Points)",
+                "hdp": 18.5,
+                "over": "1.83",
+                "under": "1.94"
+              },
+              {
+                "label": "Jaylen Brown (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.08"
+              },
+              {
+                "label": "Jaylen Brown (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.28"
+              },
+              {
+                "label": "Jaylen Brown (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.40"
+              },
+              {
+                "label": "Jaylen Brown (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.73"
+              },
+              {
+                "label": "Jaylen Brown (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.10"
+              },
+              {
+                "label": "Jaylen Brown (Points 1Q)",
+                "hdp": 6.5,
+                "over": "2.65"
+              },
+              {
+                "label": "Jaylen Brown (Points 1Q)",
+                "hdp": 7.5,
+                "over": "3.43"
+              },
+              {
+                "label": "Jaylen Brown (Points 1Q)",
+                "hdp": 8.5,
+                "over": "4.56"
+              },
+              {
+                "label": "Jaylen Brown (Points 1Q)",
+                "hdp": 9.5,
+                "over": "6.35"
+              },
+              {
+                "label": "Jaylen Brown (Points 1Q)",
+                "hdp": 10.5,
+                "over": "9.00"
+              },
+              {
+                "label": "Jaylen Brown (Pts+Asts)",
+                "hdp": 22.5,
+                "over": "1.91",
+                "under": "1.83"
+              },
+              {
+                "label": "Jaylen Brown (Pts+Rebs)",
+                "hdp": 24.5,
+                "over": "1.80",
+                "under": "1.95"
+              },
+              {
+                "label": "Jaylen Brown (Pts+Rebs+Asts)",
+                "hdp": 28.5,
+                "over": "1.87",
+                "under": "1.86"
+              },
+              {
+                "label": "Jaylen Brown (Rebounds)",
+                "hdp": 5.5,
+                "over": "1.72",
+                "under": "2.05"
+              },
+              {
+                "label": "Jaylen Brown (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.82"
+              },
+              {
+                "label": "Jaylen Brown (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "3.53"
+              },
+              {
+                "label": "Jaylen Brown (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "8.30"
+              },
+              {
+                "label": "Jaylen Brown (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.98",
+                "under": "1.77"
+              },
+              {
+                "label": "Jaylen Brown (Steals)",
+                "hdp": 1.5,
+                "over": "2.65",
+                "under": "1.45"
+              },
+              {
+                "label": "Joel Embiid (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.57",
+                "under": "1.47"
+              },
+              {
+                "label": "Joel Embiid (Assists)",
+                "hdp": 4.5,
+                "over": "2.06",
+                "under": "1.71"
+              },
+              {
+                "label": "Joel Embiid (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "2.32"
+              },
+              {
+                "label": "Joel Embiid (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "5.40"
+              },
+              {
+                "label": "Joel Embiid (Blocks)",
+                "hdp": 1.5,
+                "over": "2.75",
+                "under": "1.42"
+              },
+              {
+                "label": "Joel Embiid (Double+Double)",
+                "hdp": 0.5,
+                "over": "2.13"
+              },
+              {
+                "label": "Joel Embiid (Points)",
+                "hdp": 22.5,
+                "over": "1.85",
+                "under": "1.91"
+              },
+              {
+                "label": "Joel Embiid (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.13"
+              },
+              {
+                "label": "Joel Embiid (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.18"
+              },
+              {
+                "label": "Joel Embiid (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.36"
+              },
+              {
+                "label": "Joel Embiid (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.52"
+              },
+              {
+                "label": "Joel Embiid (Points 1Q)",
+                "hdp": 6.5,
+                "over": "1.83"
+              },
+              {
+                "label": "Joel Embiid (Points 1Q)",
+                "hdp": 7.5,
+                "over": "2.20"
+              },
+              {
+                "label": "Joel Embiid (Points 1Q)",
+                "hdp": 8.5,
+                "over": "2.75"
+              },
+              {
+                "label": "Joel Embiid (Points 1Q)",
+                "hdp": 9.5,
+                "over": "3.48"
+              },
+              {
+                "label": "Joel Embiid (Points 1Q)",
+                "hdp": 10.5,
+                "over": "4.55"
+              },
+              {
+                "label": "Joel Embiid (Points 1Q)",
+                "hdp": 11.5,
+                "over": "6.16"
+              },
+              {
+                "label": "Joel Embiid (Points 1Q)",
+                "hdp": 12.5,
+                "over": "8.60"
+              },
+              {
+                "label": "Joel Embiid (Pts+Asts)",
+                "hdp": 27.5,
+                "over": "1.88",
+                "under": "1.85"
+              },
+              {
+                "label": "Joel Embiid (Pts+Rebs)",
+                "hdp": 32.5,
+                "over": "1.92",
+                "under": "1.81"
+              },
+              {
+                "label": "Joel Embiid (Pts+Rebs+Asts)",
+                "hdp": 36.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "Joel Embiid (Rebounds)",
+                "hdp": 8.5,
+                "over": "1.75",
+                "under": "2.01"
+              },
+              {
+                "label": "Joel Embiid (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.28"
+              },
+              {
+                "label": "Joel Embiid (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "1.81"
+              },
+              {
+                "label": "Joel Embiid (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "3.07"
+              },
+              {
+                "label": "Joel Embiid (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "5.95"
+              },
+              {
+                "label": "Joel Embiid (Rebounds 1Q)",
+                "hdp": 5.5,
+                "over": "12.60"
+              },
+              {
+                "label": "Joel Embiid (Rebs+Asts)",
+                "hdp": 13.5,
+                "over": "1.92",
+                "under": "1.81"
+              },
+              {
+                "label": "Joel Embiid (Steals)",
+                "hdp": 0.5,
+                "over": "1.76"
+              },
+              {
+                "label": "Joel Embiid (Steals)",
+                "hdp": 1.5,
+                "over": "4.63"
+              },
+              {
+                "label": "Joel Embiid (Steals)",
+                "hdp": 2.5,
+                "over": "13.40"
+              },
+              {
+                "label": "Joel Embiid (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "1.66"
+              },
+              {
+                "label": "Joel Embiid (Steals+Blocks)",
+                "hdp": 2.5,
+                "over": "2.85"
+              },
+              {
+                "label": "Joel Embiid (Steals+Blocks)",
+                "hdp": 3.5,
+                "over": "5.75"
+              },
+              {
+                "label": "Joel Embiid (Steals+Blocks)",
+                "hdp": 4.5,
+                "over": "11.00"
+              },
+              {
+                "label": "Joel Embiid (Triple+Double)",
+                "hdp": 0.5,
+                "over": "31.00"
+              },
+              {
+                "label": "Josh Hart (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.05",
+                "under": "1.72"
+              },
+              {
+                "label": "Josh Hart (Assists)",
+                "hdp": 3.5,
+                "over": "1.61",
+                "under": "2.23"
+              },
+              {
+                "label": "Josh Hart (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "2.39"
+              },
+              {
+                "label": "Josh Hart (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "5.37"
+              },
+              {
+                "label": "Josh Hart (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "13.80"
+              },
+              {
+                "label": "Josh Hart (Double+Double)",
+                "hdp": 0.5,
+                "over": "4.37"
+              },
+              {
+                "label": "Josh Hart (Points)",
+                "hdp": 10.5,
+                "over": "2.01",
+                "under": "1.78"
+              },
+              {
+                "label": "Josh Hart (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.32"
+              },
+              {
+                "label": "Josh Hart (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.78"
+              },
+              {
+                "label": "Josh Hart (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.41"
+              },
+              {
+                "label": "Josh Hart (Points 1Q)",
+                "hdp": 4.5,
+                "over": "3.04"
+              },
+              {
+                "label": "Josh Hart (Points 1Q)",
+                "hdp": 5.5,
+                "over": "4.69"
+              },
+              {
+                "label": "Josh Hart (Points 1Q)",
+                "hdp": 6.5,
+                "over": "6.76"
+              },
+              {
+                "label": "Josh Hart (Points 1Q)",
+                "hdp": 7.5,
+                "over": "9.70"
+              },
+              {
+                "label": "Josh Hart (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "1.87",
+                "under": "1.86"
+              },
+              {
+                "label": "Josh Hart (Pts+Rebs)",
+                "hdp": 18.5,
+                "over": "1.97",
+                "under": "1.78"
+              },
+              {
+                "label": "Josh Hart (Pts+Rebs+Asts)",
+                "hdp": 22.5,
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "Josh Hart (Rebounds)",
+                "hdp": 7.5,
+                "over": "1.83",
+                "under": "1.90"
+              },
+              {
+                "label": "Josh Hart (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.45"
+              },
+              {
+                "label": "Josh Hart (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "2.36"
+              },
+              {
+                "label": "Josh Hart (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "4.61"
+              },
+              {
+                "label": "Josh Hart (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "10.50"
+              },
+              {
+                "label": "Josh Hart (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "1.75",
+                "under": "2.00"
+              },
+              {
+                "label": "Josh Hart (Steals)",
+                "hdp": 1.5,
+                "over": "2.10",
+                "under": "1.68"
+              },
+              {
+                "label": "Josh Hart (Triple+Double)",
+                "hdp": 0.5,
+                "over": "48.00"
+              },
+              {
+                "label": "Karl-Anthony Towns (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.12",
+                "under": "1.67"
+              },
+              {
+                "label": "Karl-Anthony Towns (Assists)",
+                "hdp": 3.5,
+                "over": "2.11",
+                "under": "1.68"
+              },
+              {
+                "label": "Karl-Anthony Towns (Blocks)",
+                "hdp": 0.5,
+                "over": "1.79",
+                "under": "1.95"
+              },
+              {
+                "label": "Karl-Anthony Towns (Double+Double)",
+                "hdp": 0.5,
+                "over": "1.40"
+              },
+              {
+                "label": "Karl-Anthony Towns (Points)",
+                "hdp": 19.5,
+                "over": "1.92",
+                "under": "1.84"
+              },
+              {
+                "label": "Karl-Anthony Towns (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.07"
+              },
+              {
+                "label": "Karl-Anthony Towns (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.23"
+              },
+              {
+                "label": "Karl-Anthony Towns (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.33"
+              },
+              {
+                "label": "Karl-Anthony Towns (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.59"
+              },
+              {
+                "label": "Karl-Anthony Towns (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.89"
+              },
+              {
+                "label": "Karl-Anthony Towns (Points 1Q)",
+                "hdp": 6.5,
+                "over": "2.38"
+              },
+              {
+                "label": "Karl-Anthony Towns (Points 1Q)",
+                "hdp": 7.5,
+                "over": "3.04"
+              },
+              {
+                "label": "Karl-Anthony Towns (Points 1Q)",
+                "hdp": 8.5,
+                "over": "3.99"
+              },
+              {
+                "label": "Karl-Anthony Towns (Points 1Q)",
+                "hdp": 9.5,
+                "over": "5.42"
+              },
+              {
+                "label": "Karl-Anthony Towns (Points 1Q)",
+                "hdp": 10.5,
+                "over": "7.40"
+              },
+              {
+                "label": "Karl-Anthony Towns (Points 1Q)",
+                "hdp": 11.5,
+                "over": "10.60"
+              },
+              {
+                "label": "Karl-Anthony Towns (Pts+Asts)",
+                "hdp": 22.5,
+                "over": "1.82",
+                "under": "1.91"
+              },
+              {
+                "label": "Karl-Anthony Towns (Pts+Rebs)",
+                "hdp": 31.5,
+                "over": "1.85",
+                "under": "1.89"
+              },
+              {
+                "label": "Karl-Anthony Towns (Pts+Rebs+Asts)",
+                "hdp": 35.5,
+                "over": "1.91",
+                "under": "1.82"
+              },
+              {
+                "label": "Karl-Anthony Towns (Rebounds)",
+                "hdp": 11.5,
+                "over": "1.75",
+                "under": "2.01"
+              },
+              {
+                "label": "Karl-Anthony Towns (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.11"
+              },
+              {
+                "label": "Karl-Anthony Towns (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "1.37"
+              },
+              {
+                "label": "Karl-Anthony Towns (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "1.92"
+              },
+              {
+                "label": "Karl-Anthony Towns (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "3.06"
+              },
+              {
+                "label": "Karl-Anthony Towns (Rebounds 1Q)",
+                "hdp": 5.5,
+                "over": "5.63"
+              },
+              {
+                "label": "Karl-Anthony Towns (Rebounds 1Q)",
+                "hdp": 6.5,
+                "over": "11.40"
+              },
+              {
+                "label": "Karl-Anthony Towns (Rebs+Asts)",
+                "hdp": 15.5,
+                "over": "1.90",
+                "under": "1.83"
+              },
+              {
+                "label": "Karl-Anthony Towns (Steals)",
+                "hdp": 0.5,
+                "over": "1.59"
+              },
+              {
+                "label": "Karl-Anthony Towns (Steals)",
+                "hdp": 1.5,
+                "over": "3.65"
+              },
+              {
+                "label": "Karl-Anthony Towns (Steals)",
+                "hdp": 2.5,
+                "over": "9.90"
+              },
+              {
+                "label": "Karl-Anthony Towns (Steals)",
+                "hdp": 3.5,
+                "over": "23.00"
+              },
+              {
+                "label": "Karl-Anthony Towns (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "1.90"
+              },
+              {
+                "label": "Karl-Anthony Towns (Steals+Blocks)",
+                "hdp": 2.5,
+                "over": "3.60"
+              },
+              {
+                "label": "Karl-Anthony Towns (Steals+Blocks)",
+                "hdp": 3.5,
+                "over": "7.00"
+              },
+              {
+                "label": "Karl-Anthony Towns (Triple+Double)",
+                "hdp": 0.5,
+                "over": "57.00"
+              },
+              {
+                "label": "Landry Shamet (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Landry Shamet (Points)",
+                "hdp": 8.5,
+                "over": "1.90",
+                "under": "1.86"
+              },
+              {
+                "label": "LeBron James (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.62",
+                "under": "1.46"
+              },
+              {
+                "label": "LeBron James (Assists)",
+                "hdp": 6.5,
+                "over": "1.78",
+                "under": "1.97"
+              },
+              {
+                "label": "LeBron James (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.61"
+              },
+              {
+                "label": "LeBron James (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "2.86"
+              },
+              {
+                "label": "LeBron James (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "6.23"
+              },
+              {
+                "label": "LeBron James (Blocks)",
+                "hdp": 0.5,
+                "over": "1.96"
+              },
+              {
+                "label": "LeBron James (Blocks)",
+                "hdp": 1.5,
+                "over": "5.77"
+              },
+              {
+                "label": "LeBron James (Blocks)",
+                "hdp": 2.5,
+                "over": "16.80"
+              },
+              {
+                "label": "LeBron James (Double+Double)",
+                "hdp": 0.5,
+                "over": "3.28"
+              },
+              {
+                "label": "LeBron James (Points)",
+                "hdp": 16.5,
+                "over": "1.88",
+                "under": "1.88"
+              },
+              {
+                "label": "LeBron James (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.14"
+              },
+              {
+                "label": "LeBron James (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.45"
+              },
+              {
+                "label": "LeBron James (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.64"
+              },
+              {
+                "label": "LeBron James (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.15"
+              },
+              {
+                "label": "LeBron James (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.80"
+              },
+              {
+                "label": "LeBron James (Points 1Q)",
+                "hdp": 6.5,
+                "over": "3.83"
+              },
+              {
+                "label": "LeBron James (Points 1Q)",
+                "hdp": 7.5,
+                "over": "5.39"
+              },
+              {
+                "label": "LeBron James (Points 1Q)",
+                "hdp": 8.5,
+                "over": "7.80"
+              },
+              {
+                "label": "LeBron James (Pts+Asts)",
+                "hdp": 23.5,
+                "over": "1.86",
+                "under": "1.88"
+              },
+              {
+                "label": "LeBron James (Pts+Rebs)",
+                "hdp": 23.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "LeBron James (Pts+Rebs+Asts)",
+                "hdp": 30.5,
+                "over": "1.87",
+                "under": "1.86"
+              },
+              {
+                "label": "LeBron James (Rebounds)",
+                "hdp": 6.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "LeBron James (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.76"
+              },
+              {
+                "label": "LeBron James (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "3.23"
+              },
+              {
+                "label": "LeBron James (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "7.10"
+              },
+              {
+                "label": "LeBron James (Rebs+Asts)",
+                "hdp": 13.5,
+                "over": "1.86",
+                "under": "1.86"
+              },
+              {
+                "label": "LeBron James (Steals)",
+                "hdp": 1.5,
+                "over": "2.42",
+                "under": "1.52"
+              },
+              {
+                "label": "LeBron James (Triple+Double)",
+                "hdp": 0.5,
+                "over": "16.80"
+              },
+              {
+                "label": "Mikal Bridges (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.36",
+                "under": "1.55"
+              },
+              {
+                "label": "Mikal Bridges (Assists)",
+                "hdp": 2.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Mikal Bridges (Blocks)",
+                "hdp": 0.5,
+                "over": "2.37",
+                "under": "1.54"
+              },
+              {
+                "label": "Mikal Bridges (Double+Double)",
+                "hdp": 0.5,
+                "over": "59.00"
+              },
+              {
+                "label": "Mikal Bridges (Points)",
+                "hdp": 9.5,
+                "over": "1.76",
+                "under": "2.02"
+              },
+              {
+                "label": "Mikal Bridges (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.24"
+              },
+              {
+                "label": "Mikal Bridges (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.70"
+              },
+              {
+                "label": "Mikal Bridges (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.11"
+              },
+              {
+                "label": "Mikal Bridges (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.78"
+              },
+              {
+                "label": "Mikal Bridges (Points 1Q)",
+                "hdp": 5.5,
+                "over": "4.06"
+              },
+              {
+                "label": "Mikal Bridges (Points 1Q)",
+                "hdp": 6.5,
+                "over": "5.82"
+              },
+              {
+                "label": "Mikal Bridges (Points 1Q)",
+                "hdp": 7.5,
+                "over": "8.80"
+              },
+              {
+                "label": "Mikal Bridges (Pts+Asts)",
+                "hdp": 12.5,
+                "over": "1.81",
+                "under": "1.92"
+              },
+              {
+                "label": "Mikal Bridges (Pts+Rebs)",
+                "hdp": 12.5,
+                "over": "1.80",
+                "under": "1.95"
+              },
+              {
+                "label": "Mikal Bridges (Pts+Rebs+Asts)",
+                "hdp": 15.5,
+                "over": "1.88",
+                "under": "1.86"
+              },
+              {
+                "label": "Mikal Bridges (Rebounds)",
+                "hdp": 2.5,
+                "over": "1.80",
+                "under": "1.94"
+              },
+              {
+                "label": "Mikal Bridges (Rebs+Asts)",
+                "hdp": 5.5,
+                "over": "2.05",
+                "under": "1.72"
+              },
+              {
+                "label": "Mikal Bridges (Steals)",
+                "hdp": 0.5,
+                "over": "1.69"
+              },
+              {
+                "label": "Mikal Bridges (Steals)",
+                "hdp": 1.5,
+                "over": "4.24"
+              },
+              {
+                "label": "Mikal Bridges (Steals)",
+                "hdp": 2.5,
+                "over": "12.40"
+              },
+              {
+                "label": "Mikal Bridges (Steals)",
+                "hdp": 3.5,
+                "over": "26.00"
+              },
+              {
+                "label": "Mikal Bridges (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "2.40"
+              },
+              {
+                "label": "Mikal Bridges (Steals+Blocks)",
+                "hdp": 2.5,
+                "over": "5.50"
+              },
+              {
+                "label": "Mikal Bridges (Steals+Blocks)",
+                "hdp": 3.5,
+                "over": "12.00"
+              },
+              {
+                "label": "OG Anunoby (3 Point FG)",
+                "hdp": 2.5,
+                "over": "2.05",
+                "under": "1.71"
+              },
+              {
+                "label": "OG Anunoby (Assists)",
+                "hdp": 1.5,
+                "over": "1.60",
+                "under": "2.26"
+              },
+              {
+                "label": "OG Anunoby (Blocks)",
+                "hdp": 0.5,
+                "over": "1.76",
+                "under": "1.99"
+              },
+              {
+                "label": "OG Anunoby (Double+Double)",
+                "hdp": 0.5,
+                "over": "11.40"
+              },
+              {
+                "label": "OG Anunoby (Points)",
+                "hdp": 16.5,
+                "over": "1.91",
+                "under": "1.85"
+              },
+              {
+                "label": "OG Anunoby (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.12"
+              },
+              {
+                "label": "OG Anunoby (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.32"
+              },
+              {
+                "label": "OG Anunoby (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.55"
+              },
+              {
+                "label": "OG Anunoby (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.81"
+              },
+              {
+                "label": "OG Anunoby (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.38"
+              },
+              {
+                "label": "OG Anunoby (Points 1Q)",
+                "hdp": 6.5,
+                "over": "3.05"
+              },
+              {
+                "label": "OG Anunoby (Points 1Q)",
+                "hdp": 7.5,
+                "over": "3.99"
+              },
+              {
+                "label": "OG Anunoby (Points 1Q)",
+                "hdp": 8.5,
+                "over": "5.55"
+              },
+              {
+                "label": "OG Anunoby (Points 1Q)",
+                "hdp": 9.5,
+                "over": "7.80"
+              },
+              {
+                "label": "OG Anunoby (Points 1Q)",
+                "hdp": 10.5,
+                "over": "11.00"
+              },
+              {
+                "label": "OG Anunoby (Pts+Asts)",
+                "hdp": 18.5,
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "OG Anunoby (Pts+Rebs)",
+                "hdp": 21.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "OG Anunoby (Pts+Rebs+Asts)",
+                "hdp": 23.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "OG Anunoby (Rebounds)",
+                "hdp": 5.5,
+                "over": "2.08",
+                "under": "1.69"
+              },
+              {
+                "label": "OG Anunoby (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "2.04"
+              },
+              {
+                "label": "OG Anunoby (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "4.12"
+              },
+              {
+                "label": "OG Anunoby (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "10.00"
+              },
+              {
+                "label": "OG Anunoby (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "2.04",
+                "under": "1.72"
+              },
+              {
+                "label": "OG Anunoby (Steals)",
+                "hdp": 1.5,
+                "over": "2.52",
+                "under": "1.49"
+              },
+              {
+                "label": "OG Anunoby (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "1.59",
+                "under": "2.25"
+              },
+              {
+                "label": "Tyrese Maxey (3 Point FG)",
+                "hdp": 2.5,
+                "over": "2.04",
+                "under": "1.72"
+              },
+              {
+                "label": "Tyrese Maxey (Assists)",
+                "hdp": 4.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Tyrese Maxey (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "2.39"
+              },
+              {
+                "label": "Tyrese Maxey (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "5.85"
+              },
+              {
+                "label": "Tyrese Maxey (Double+Double)",
+                "hdp": 0.5,
+                "over": "16.00"
+              },
+              {
+                "label": "Tyrese Maxey (Points)",
+                "hdp": 23.5,
+                "over": "1.84",
+                "under": "1.92"
+              },
+              {
+                "label": "Tyrese Maxey (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.04"
+              },
+              {
+                "label": "Tyrese Maxey (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.15"
+              },
+              {
+                "label": "Tyrese Maxey (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.24"
+              },
+              {
+                "label": "Tyrese Maxey (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.39"
+              },
+              {
+                "label": "Tyrese Maxey (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.64"
+              },
+              {
+                "label": "Tyrese Maxey (Points 1Q)",
+                "hdp": 6.5,
+                "over": "1.95"
+              },
+              {
+                "label": "Tyrese Maxey (Points 1Q)",
+                "hdp": 7.5,
+                "over": "2.41"
+              },
+              {
+                "label": "Tyrese Maxey (Points 1Q)",
+                "hdp": 8.5,
+                "over": "3.05"
+              },
+              {
+                "label": "Tyrese Maxey (Points 1Q)",
+                "hdp": 9.5,
+                "over": "3.89"
+              },
+              {
+                "label": "Tyrese Maxey (Points 1Q)",
+                "hdp": 10.5,
+                "over": "5.18"
+              },
+              {
+                "label": "Tyrese Maxey (Points 1Q)",
+                "hdp": 11.5,
+                "over": "6.87"
+              },
+              {
+                "label": "Tyrese Maxey (Points 1Q)",
+                "hdp": 12.5,
+                "over": "9.40"
+              },
+              {
+                "label": "Tyrese Maxey (Pts+Asts)",
+                "hdp": 28.5,
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "Tyrese Maxey (Pts+Rebs)",
+                "hdp": 28.5,
+                "over": "1.92",
+                "under": "1.81"
+              },
+              {
+                "label": "Tyrese Maxey (Pts+Rebs+Asts)",
+                "hdp": 32.5,
+                "over": "1.80",
+                "under": "1.94"
+              },
+              {
+                "label": "Tyrese Maxey (Rebounds)",
+                "hdp": 4.5,
+                "over": "2.11",
+                "under": "1.68"
+              },
+              {
+                "label": "Tyrese Maxey (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "2.68"
+              },
+              {
+                "label": "Tyrese Maxey (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "6.89"
+              },
+              {
+                "label": "Tyrese Maxey (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "1.75",
+                "under": "2.01"
+              },
+              {
+                "label": "Tyrese Maxey (Steals)",
+                "hdp": 1.5,
+                "over": "2.07",
+                "under": "1.70"
+              },
+              {
+                "label": "VJ Edgecombe (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.86",
+                "under": "1.87"
+              },
+              {
+                "label": "VJ Edgecombe (Assists)",
+                "hdp": 2.5,
+                "over": "2.10",
+                "under": "1.69"
+              },
+              {
+                "label": "VJ Edgecombe (Double+Double)",
+                "hdp": 0.5,
+                "over": "10.80"
+              },
+              {
+                "label": "VJ Edgecombe (Points)",
+                "hdp": 11.5,
+                "over": "1.92",
+                "under": "1.84"
+              },
+              {
+                "label": "VJ Edgecombe (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.25"
+              },
+              {
+                "label": "VJ Edgecombe (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.59"
+              },
+              {
+                "label": "VJ Edgecombe (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.06"
+              },
+              {
+                "label": "VJ Edgecombe (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.49"
+              },
+              {
+                "label": "VJ Edgecombe (Points 1Q)",
+                "hdp": 5.5,
+                "over": "3.57"
+              },
+              {
+                "label": "VJ Edgecombe (Points 1Q)",
+                "hdp": 6.5,
+                "over": "4.86"
+              },
+              {
+                "label": "VJ Edgecombe (Points 1Q)",
+                "hdp": 7.5,
+                "over": "6.72"
+              },
+              {
+                "label": "VJ Edgecombe (Points 1Q)",
+                "hdp": 8.5,
+                "over": "10.20"
+              },
+              {
+                "label": "VJ Edgecombe (Pts+Asts)",
+                "hdp": 13.5,
+                "over": "1.80",
+                "under": "1.95"
+              },
+              {
+                "label": "VJ Edgecombe (Pts+Rebs)",
+                "hdp": 17.5,
+                "over": "1.95",
+                "under": "1.79"
+              },
+              {
+                "label": "VJ Edgecombe (Pts+Rebs+Asts)",
+                "hdp": 19.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "VJ Edgecombe (Rebounds)",
+                "hdp": 5.5,
+                "over": "1.91",
+                "under": "1.82"
+              },
+              {
+                "label": "VJ Edgecombe (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.98"
+              },
+              {
+                "label": "VJ Edgecombe (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "4.00"
+              },
+              {
+                "label": "VJ Edgecombe (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "9.20"
+              },
+              {
+                "label": "VJ Edgecombe (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.72",
+                "under": "2.05"
+              },
+              {
+                "label": "VJ Edgecombe (Steals)",
+                "hdp": 1.5,
+                "over": "2.25",
+                "under": "1.59"
+              }
+            ]
           }
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
           "recommended_bet": 0.0,
-          "market_edge": -0.1130671078054617,
+          "market_edge": -0.06748580910416302,
           "latent_strength_A": -6.388660634860212,
           "latent_strength_B": 10.342643187752282,
           "form_state_A": 0,
@@ -31862,7 +29812,10 @@ const analyticsData = {
             "proj_ast": 5.308632785129818,
             "status": "Questionable",
             "injury": "Oblique",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 4.5,
+            "market_pts": 22.5,
+            "market_reb": 8.5
           },
           {
             "player": "Johni Broome",
@@ -31972,7 +29925,10 @@ const analyticsData = {
             "proj_ast": 5.7018648432875825,
             "status": "Out",
             "injury": "Finger",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 4.5,
+            "market_pts": 23.5,
+            "market_reb": 4.5
           },
           {
             "player": "VJ Edgecombe",
@@ -31982,7 +29938,10 @@ const analyticsData = {
             "proj_ast": 3.145856465262115,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 2.5,
+            "market_pts": 11.5,
+            "market_reb": 5.5
           },
           {
             "player": "Ariel Hukporti",
@@ -32022,7 +29981,10 @@ const analyticsData = {
             "proj_ast": 8.946029323089139,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 5.5,
+            "market_pts": 27.5,
+            "market_reb": 2.5
           },
           {
             "player": "Jeremy Sochan",
@@ -32062,7 +30024,10 @@ const analyticsData = {
             "proj_ast": 4.325552639735408,
             "status": "Out",
             "injury": "Knee",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 3.5,
+            "market_pts": 10.5,
+            "market_reb": 7.5
           },
           {
             "player": "Karl-Anthony Towns",
@@ -32072,7 +30037,10 @@ const analyticsData = {
             "proj_ast": 3.0475484507226738,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 3.5,
+            "market_pts": 19.5,
+            "market_reb": 11.5
           },
           {
             "player": "Kevin McCullar Jr.",
@@ -32092,7 +30060,8 @@ const analyticsData = {
             "proj_ast": 1.179696174473293,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_pts": 8.5
           },
           {
             "player": "Mikal Bridges",
@@ -32102,7 +30071,10 @@ const analyticsData = {
             "proj_ast": 2.75262440710435,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 2.5,
+            "market_pts": 9.5,
+            "market_reb": 2.5
           },
           {
             "player": "Miles McBride",
@@ -32142,7 +30114,10 @@ const analyticsData = {
             "proj_ast": 1.9661602907888216,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 1.5,
+            "market_pts": 16.5,
+            "market_reb": 5.5
           },
           {
             "player": "Pac\u00f4me Dadiet",
@@ -32213,9 +30188,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.07091579708165043,
-          "6-10": 0.03045985809207302,
-          "11+": 0.050275480749060956
+          "1-5": 0.061215291019763377,
+          "6-10": 0.026361792952031643,
+          "11+": 0.04416711593002986
         },
         "formA": [
           {
@@ -32571,7 +30546,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.4593856478781948,
-      "mc_win_A": 0.2652,
+      "mc_win_A": 0.2548,
       "shap_explanation": {
         "adj_ortg_10": -0.02462871458903777,
         "adj_drtg_10": -0.007438382940137274,
@@ -32614,40 +30589,1725 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 109.08288992398879,
-          "ptsB": 120.90891025610982,
-          "total": 229.9918001800986,
-          "spread": 11.826020332121027,
-          "win_prob_A": 32.00326096606364,
+          "ptsA": 109.1628899239888,
+          "ptsB": 120.42891025610983,
+          "total": 229.59180018009863,
+          "spread": 11.266020332121034,
+          "win_prob_A": 31.48791301111403,
           "ml_prob_A": 0.4010342492971356,
-          "mc_win_A": 0.2794,
-          "base_win_prob_A": 0.1804943898165391,
-          "market_prob_A": 0.2738589211618257,
+          "mc_win_A": 0.2722,
+          "base_win_prob_A": 0.19126391722317548,
+          "market_prob_A": 0.26530612244897966,
           "market": {
             "ml": {
-              "home": "3.50",
-              "away": "1.32"
+              "home": "3.60",
+              "away": "1.30"
             },
             "spread": {
-              "hdp": 7.5,
-              "home": "1.98",
-              "away": "1.84"
+              "hdp": 8.5,
+              "home": "1.86",
+              "away": "1.95"
             },
             "total": {
-              "hdp": 225.5,
-              "over": "1.90",
-              "under": "1.90"
+              "hdp": 223.5,
+              "over": "1.92",
+              "under": "1.89"
             },
-            "props": []
+            "props": [
+              {
+                "label": "Ausar Thompson (Assists)",
+                "hdp": 3.5,
+                "over": "1.67",
+                "under": "2.13"
+              },
+              {
+                "label": "Ausar Thompson (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "2.43"
+              },
+              {
+                "label": "Ausar Thompson (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "5.80"
+              },
+              {
+                "label": "Ausar Thompson (Double+Double)",
+                "hdp": 0.5,
+                "over": "5.95"
+              },
+              {
+                "label": "Ausar Thompson (Points)",
+                "hdp": 10.5,
+                "over": "1.94",
+                "under": "1.83"
+              },
+              {
+                "label": "Ausar Thompson (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.27"
+              },
+              {
+                "label": "Ausar Thompson (Points 1Q)",
+                "hdp": 2.5,
+                "over": "2.00"
+              },
+              {
+                "label": "Ausar Thompson (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.20"
+              },
+              {
+                "label": "Ausar Thompson (Points 1Q)",
+                "hdp": 4.5,
+                "over": "4.00"
+              },
+              {
+                "label": "Ausar Thompson (Points 1Q)",
+                "hdp": 5.5,
+                "over": "4.93"
+              },
+              {
+                "label": "Ausar Thompson (Points 1Q)",
+                "hdp": 6.5,
+                "over": "9.80"
+              },
+              {
+                "label": "Ausar Thompson (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Ausar Thompson (Pts+Rebs)",
+                "hdp": 17.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Ausar Thompson (Pts+Rebs+Asts)",
+                "hdp": 21.5,
+                "over": "1.89",
+                "under": "1.84"
+              },
+              {
+                "label": "Ausar Thompson (Rebounds)",
+                "hdp": 6.5,
+                "over": "1.86",
+                "under": "1.87"
+              },
+              {
+                "label": "Ausar Thompson (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.66"
+              },
+              {
+                "label": "Ausar Thompson (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "2.88"
+              },
+              {
+                "label": "Ausar Thompson (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "5.84"
+              },
+              {
+                "label": "Ausar Thompson (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "13.40"
+              },
+              {
+                "label": "Ausar Thompson (Rebs+Asts)",
+                "hdp": 10.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "Ausar Thompson (Steals)",
+                "hdp": 1.5,
+                "over": "1.98",
+                "under": "1.76"
+              },
+              {
+                "label": "Ausar Thompson (Triple+Double)",
+                "hdp": 0.5,
+                "over": "65.00"
+              },
+              {
+                "label": "Cade Cunningham (3 Point FG)",
+                "hdp": 2.5,
+                "over": "2.28",
+                "under": "1.59"
+              },
+              {
+                "label": "Cade Cunningham (Assists)",
+                "hdp": 9.5,
+                "over": "2.00",
+                "under": "1.75"
+              },
+              {
+                "label": "Cade Cunningham (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.18"
+              },
+              {
+                "label": "Cade Cunningham (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "1.60"
+              },
+              {
+                "label": "Cade Cunningham (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "2.53"
+              },
+              {
+                "label": "Cade Cunningham (Assists 1Q)",
+                "hdp": 4.5,
+                "over": "4.58"
+              },
+              {
+                "label": "Cade Cunningham (Assists 1Q)",
+                "hdp": 5.5,
+                "over": "9.50"
+              },
+              {
+                "label": "Cade Cunningham (Blocks)",
+                "hdp": 0.5,
+                "over": "1.50"
+              },
+              {
+                "label": "Cade Cunningham (Blocks)",
+                "hdp": 1.5,
+                "over": "3.26"
+              },
+              {
+                "label": "Cade Cunningham (Blocks)",
+                "hdp": 2.5,
+                "over": "8.60"
+              },
+              {
+                "label": "Cade Cunningham (Blocks)",
+                "hdp": 3.5,
+                "over": "19.60"
+              },
+              {
+                "label": "Cade Cunningham (Double+Double)",
+                "hdp": 0.5,
+                "over": "1.91"
+              },
+              {
+                "label": "Cade Cunningham (Points)",
+                "hdp": 24.5,
+                "over": "1.84",
+                "under": "1.92"
+              },
+              {
+                "label": "Cade Cunningham (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.03"
+              },
+              {
+                "label": "Cade Cunningham (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.13"
+              },
+              {
+                "label": "Cade Cunningham (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.20"
+              },
+              {
+                "label": "Cade Cunningham (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.37"
+              },
+              {
+                "label": "Cade Cunningham (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.57"
+              },
+              {
+                "label": "Cade Cunningham (Points 1Q)",
+                "hdp": 6.5,
+                "over": "1.86"
+              },
+              {
+                "label": "Cade Cunningham (Points 1Q)",
+                "hdp": 7.5,
+                "over": "2.25"
+              },
+              {
+                "label": "Cade Cunningham (Points 1Q)",
+                "hdp": 8.5,
+                "over": "2.81"
+              },
+              {
+                "label": "Cade Cunningham (Points 1Q)",
+                "hdp": 9.5,
+                "over": "3.59"
+              },
+              {
+                "label": "Cade Cunningham (Points 1Q)",
+                "hdp": 10.5,
+                "over": "4.70"
+              },
+              {
+                "label": "Cade Cunningham (Points 1Q)",
+                "hdp": 11.5,
+                "over": "6.23"
+              },
+              {
+                "label": "Cade Cunningham (Points 1Q)",
+                "hdp": 12.5,
+                "over": "8.30"
+              },
+              {
+                "label": "Cade Cunningham (Pts+Asts)",
+                "hdp": 34.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Cade Cunningham (Pts+Rebs)",
+                "hdp": 30.5,
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "Cade Cunningham (Pts+Rebs+Asts)",
+                "hdp": 39.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "Cade Cunningham (Rebounds)",
+                "hdp": 5.5,
+                "over": "1.95",
+                "under": "1.80"
+              },
+              {
+                "label": "Cade Cunningham (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.90"
+              },
+              {
+                "label": "Cade Cunningham (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "3.83"
+              },
+              {
+                "label": "Cade Cunningham (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "8.80"
+              },
+              {
+                "label": "Cade Cunningham (Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "1.80",
+                "under": "1.95"
+              },
+              {
+                "label": "Cade Cunningham (Steals)",
+                "hdp": 0.5,
+                "over": "1.41",
+                "under": "2.78"
+              },
+              {
+                "label": "Cade Cunningham (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "1.52"
+              },
+              {
+                "label": "Cade Cunningham (Steals+Blocks)",
+                "hdp": 2.5,
+                "over": "2.50"
+              },
+              {
+                "label": "Cade Cunningham (Steals+Blocks)",
+                "hdp": 3.5,
+                "over": "4.80"
+              },
+              {
+                "label": "Cade Cunningham (Steals+Blocks)",
+                "hdp": 4.5,
+                "over": "9.50"
+              },
+              {
+                "label": "Cade Cunningham (Triple+Double)",
+                "hdp": 0.5,
+                "over": "16.20"
+              },
+              {
+                "label": "Daniss Jenkins (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.61",
+                "under": "1.46"
+              },
+              {
+                "label": "Daniss Jenkins (Assists)",
+                "hdp": 4.5,
+                "over": "2.22",
+                "under": "1.62"
+              },
+              {
+                "label": "Daniss Jenkins (Double+Double)",
+                "hdp": 0.5,
+                "over": "30.00"
+              },
+              {
+                "label": "Daniss Jenkins (Points)",
+                "hdp": 10.5,
+                "over": "1.94",
+                "under": "1.83"
+              },
+              {
+                "label": "Daniss Jenkins (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "1.86",
+                "under": "1.87"
+              },
+              {
+                "label": "Daniss Jenkins (Pts+Rebs)",
+                "hdp": 13.5,
+                "over": "1.88",
+                "under": "1.85"
+              },
+              {
+                "label": "Daniss Jenkins (Pts+Rebs+Asts)",
+                "hdp": 17.5,
+                "over": "1.82",
+                "under": "1.91"
+              },
+              {
+                "label": "Daniss Jenkins (Rebounds)",
+                "hdp": 2.5,
+                "over": "1.59",
+                "under": "2.28"
+              },
+              {
+                "label": "Daniss Jenkins (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "2.03",
+                "under": "1.74"
+              },
+              {
+                "label": "Day'Ron Sharpe (Assists)",
+                "hdp": 2.5,
+                "over": "2.21",
+                "under": "1.62"
+              },
+              {
+                "label": "Day'Ron Sharpe (Blocks)",
+                "hdp": 0.5,
+                "over": "1.65"
+              },
+              {
+                "label": "Day'Ron Sharpe (Blocks)",
+                "hdp": 1.5,
+                "over": "4.06"
+              },
+              {
+                "label": "Day'Ron Sharpe (Blocks)",
+                "hdp": 2.5,
+                "over": "11.00"
+              },
+              {
+                "label": "Day'Ron Sharpe (Blocks)",
+                "hdp": 3.5,
+                "over": "24.00"
+              },
+              {
+                "label": "Day'Ron Sharpe (Double+Double)",
+                "hdp": 0.5,
+                "over": "5.55"
+              },
+              {
+                "label": "Day'Ron Sharpe (Points)",
+                "hdp": 8.5,
+                "over": "1.95",
+                "under": "1.82"
+              },
+              {
+                "label": "Day'Ron Sharpe (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.25"
+              },
+              {
+                "label": "Day'Ron Sharpe (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.85"
+              },
+              {
+                "label": "Day'Ron Sharpe (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.11"
+              },
+              {
+                "label": "Day'Ron Sharpe (Points 1Q)",
+                "hdp": 4.5,
+                "over": "3.35"
+              },
+              {
+                "label": "Day'Ron Sharpe (Points 1Q)",
+                "hdp": 5.5,
+                "over": "4.45"
+              },
+              {
+                "label": "Day'Ron Sharpe (Points 1Q)",
+                "hdp": 6.5,
+                "over": "7.20"
+              },
+              {
+                "label": "Day'Ron Sharpe (Points 1Q)",
+                "hdp": 7.5,
+                "over": "10.90"
+              },
+              {
+                "label": "Day'Ron Sharpe (Pts+Asts)",
+                "hdp": 10.5,
+                "over": "1.78",
+                "under": "1.96"
+              },
+              {
+                "label": "Day'Ron Sharpe (Pts+Rebs)",
+                "hdp": 15.5,
+                "over": "1.81",
+                "under": "1.92"
+              },
+              {
+                "label": "Day'Ron Sharpe (Pts+Rebs+Asts)",
+                "hdp": 18.5,
+                "over": "1.95",
+                "under": "1.80"
+              },
+              {
+                "label": "Day'Ron Sharpe (Rebounds)",
+                "hdp": 7.5,
+                "over": "2.04",
+                "under": "1.72"
+              },
+              {
+                "label": "Day'Ron Sharpe (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.32"
+              },
+              {
+                "label": "Day'Ron Sharpe (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "1.96"
+              },
+              {
+                "label": "Day'Ron Sharpe (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "3.33"
+              },
+              {
+                "label": "Day'Ron Sharpe (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "6.64"
+              },
+              {
+                "label": "Day'Ron Sharpe (Rebounds 1Q)",
+                "hdp": 5.5,
+                "over": "14.40"
+              },
+              {
+                "label": "Day'Ron Sharpe (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.86",
+                "under": "1.86"
+              },
+              {
+                "label": "Duncan Robinson (3 Point FG)",
+                "hdp": 3.5,
+                "over": "2.30",
+                "under": "1.58"
+              },
+              {
+                "label": "Duncan Robinson (Assists)",
+                "hdp": 1.5,
+                "over": "1.53",
+                "under": "2.42"
+              },
+              {
+                "label": "Duncan Robinson (Points)",
+                "hdp": 13.5,
+                "over": "1.87",
+                "under": "1.89"
+              },
+              {
+                "label": "Duncan Robinson (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.22"
+              },
+              {
+                "label": "Duncan Robinson (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.39"
+              },
+              {
+                "label": "Duncan Robinson (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.99"
+              },
+              {
+                "label": "Duncan Robinson (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.16"
+              },
+              {
+                "label": "Duncan Robinson (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.78"
+              },
+              {
+                "label": "Duncan Robinson (Points 1Q)",
+                "hdp": 6.5,
+                "over": "4.26"
+              },
+              {
+                "label": "Duncan Robinson (Points 1Q)",
+                "hdp": 7.5,
+                "over": "5.02"
+              },
+              {
+                "label": "Duncan Robinson (Points 1Q)",
+                "hdp": 8.5,
+                "over": "7.00"
+              },
+              {
+                "label": "Duncan Robinson (Pts+Asts)",
+                "hdp": 15.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "Duncan Robinson (Pts+Rebs)",
+                "hdp": 16.5,
+                "over": "1.94",
+                "under": "1.80"
+              },
+              {
+                "label": "Duncan Robinson (Pts+Rebs+Asts)",
+                "hdp": 18.5,
+                "over": "1.92",
+                "under": "1.82"
+              },
+              {
+                "label": "Duncan Robinson (Rebounds)",
+                "hdp": 2.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Duncan Robinson (Rebs+Asts)",
+                "hdp": 4.5,
+                "over": "1.82",
+                "under": "1.91"
+              },
+              {
+                "label": "Duncan Robinson (Steals)",
+                "hdp": 0.5,
+                "over": "1.45"
+              },
+              {
+                "label": "Duncan Robinson (Steals)",
+                "hdp": 1.5,
+                "over": "3.06"
+              },
+              {
+                "label": "Duncan Robinson (Steals)",
+                "hdp": 2.5,
+                "over": "7.70"
+              },
+              {
+                "label": "Duncan Robinson (Steals)",
+                "hdp": 3.5,
+                "over": "17.60"
+              },
+              {
+                "label": "Isaiah Joe (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.62",
+                "under": "2.20"
+              },
+              {
+                "label": "Isaiah Joe (Points)",
+                "hdp": 8.5,
+                "over": "1.90",
+                "under": "1.86"
+              },
+              {
+                "label": "John Collins (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.41",
+                "under": "1.53"
+              },
+              {
+                "label": "John Collins (Assists)",
+                "hdp": 1.5,
+                "over": "2.32"
+              },
+              {
+                "label": "John Collins (Assists)",
+                "hdp": 2.5,
+                "over": "5.13"
+              },
+              {
+                "label": "John Collins (Assists)",
+                "hdp": 3.5,
+                "over": "12.40"
+              },
+              {
+                "label": "John Collins (Assists)",
+                "hdp": 4.5,
+                "over": "26.00"
+              },
+              {
+                "label": "John Collins (Blocks)",
+                "hdp": 0.5,
+                "over": "1.54"
+              },
+              {
+                "label": "John Collins (Blocks)",
+                "hdp": 1.5,
+                "over": "3.46"
+              },
+              {
+                "label": "John Collins (Blocks)",
+                "hdp": 2.5,
+                "over": "9.10"
+              },
+              {
+                "label": "John Collins (Blocks)",
+                "hdp": 3.5,
+                "over": "21.00"
+              },
+              {
+                "label": "John Collins (Double+Double)",
+                "hdp": 0.5,
+                "over": "4.57"
+              },
+              {
+                "label": "John Collins (Points)",
+                "hdp": 14.5,
+                "over": "1.87",
+                "under": "1.89"
+              },
+              {
+                "label": "John Collins (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.10"
+              },
+              {
+                "label": "John Collins (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.35"
+              },
+              {
+                "label": "John Collins (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.49"
+              },
+              {
+                "label": "John Collins (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.91"
+              },
+              {
+                "label": "John Collins (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.36"
+              },
+              {
+                "label": "John Collins (Points 1Q)",
+                "hdp": 6.5,
+                "over": "3.11"
+              },
+              {
+                "label": "John Collins (Points 1Q)",
+                "hdp": 7.5,
+                "over": "4.14"
+              },
+              {
+                "label": "John Collins (Points 1Q)",
+                "hdp": 8.5,
+                "over": "5.72"
+              },
+              {
+                "label": "John Collins (Points 1Q)",
+                "hdp": 9.5,
+                "over": "8.10"
+              },
+              {
+                "label": "John Collins (Pts+Asts)",
+                "hdp": 9.5,
+                "over": "1.12"
+              },
+              {
+                "label": "John Collins (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "1.60"
+              },
+              {
+                "label": "John Collins (Pts+Asts)",
+                "hdp": 15.5,
+                "over": "1.78"
+              },
+              {
+                "label": "John Collins (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "2.98"
+              },
+              {
+                "label": "John Collins (Pts+Asts)",
+                "hdp": 24.5,
+                "over": "6.93"
+              },
+              {
+                "label": "John Collins (Pts+Asts)",
+                "hdp": 29.5,
+                "over": "16.60"
+              },
+              {
+                "label": "John Collins (Pts+Rebs)",
+                "hdp": 21.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "John Collins (Pts+Rebs+Asts)",
+                "hdp": 23.5,
+                "over": "1.91",
+                "under": "1.82"
+              },
+              {
+                "label": "John Collins (Rebounds)",
+                "hdp": 6.5,
+                "over": "1.73",
+                "under": "2.03"
+              },
+              {
+                "label": "John Collins (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.57"
+              },
+              {
+                "label": "John Collins (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "2.68"
+              },
+              {
+                "label": "John Collins (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "5.41"
+              },
+              {
+                "label": "John Collins (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "12.40"
+              },
+              {
+                "label": "John Collins (Rebs+Asts)",
+                "hdp": 4.5,
+                "over": "1.10"
+              },
+              {
+                "label": "John Collins (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.60"
+              },
+              {
+                "label": "John Collins (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "2.00"
+              },
+              {
+                "label": "John Collins (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "2.55"
+              },
+              {
+                "label": "John Collins (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "4.80"
+              },
+              {
+                "label": "John Collins (Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "13.00"
+              },
+              {
+                "label": "Julius Randle (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.23",
+                "under": "1.61"
+              },
+              {
+                "label": "Julius Randle (Assists)",
+                "hdp": 5.5,
+                "over": "2.03",
+                "under": "1.73"
+              },
+              {
+                "label": "Julius Randle (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.95"
+              },
+              {
+                "label": "Julius Randle (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "3.95"
+              },
+              {
+                "label": "Julius Randle (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "9.70"
+              },
+              {
+                "label": "Julius Randle (Double+Double)",
+                "hdp": 0.5,
+                "over": "4.00"
+              },
+              {
+                "label": "Julius Randle (Points)",
+                "hdp": 19.5,
+                "over": "1.86",
+                "under": "1.90"
+              },
+              {
+                "label": "Julius Randle (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.07"
+              },
+              {
+                "label": "Julius Randle (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.25"
+              },
+              {
+                "label": "Julius Randle (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.38"
+              },
+              {
+                "label": "Julius Randle (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.66"
+              },
+              {
+                "label": "Julius Randle (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.03"
+              },
+              {
+                "label": "Julius Randle (Points 1Q)",
+                "hdp": 6.5,
+                "over": "2.57"
+              },
+              {
+                "label": "Julius Randle (Points 1Q)",
+                "hdp": 7.5,
+                "over": "3.34"
+              },
+              {
+                "label": "Julius Randle (Points 1Q)",
+                "hdp": 8.5,
+                "over": "4.39"
+              },
+              {
+                "label": "Julius Randle (Points 1Q)",
+                "hdp": 9.5,
+                "over": "5.94"
+              },
+              {
+                "label": "Julius Randle (Points 1Q)",
+                "hdp": 10.5,
+                "over": "8.30"
+              },
+              {
+                "label": "Julius Randle (Pts+Asts)",
+                "hdp": 25.5,
+                "over": "1.91",
+                "under": "1.82"
+              },
+              {
+                "label": "Julius Randle (Pts+Rebs)",
+                "hdp": 26.5,
+                "over": "1.87",
+                "under": "1.86"
+              },
+              {
+                "label": "Julius Randle (Pts+Rebs+Asts)",
+                "hdp": 32.5,
+                "over": "1.94",
+                "under": "1.80"
+              },
+              {
+                "label": "Julius Randle (Rebounds)",
+                "hdp": 6.5,
+                "over": "1.86",
+                "under": "1.88"
+              },
+              {
+                "label": "Julius Randle (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.66"
+              },
+              {
+                "label": "Julius Randle (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "2.88"
+              },
+              {
+                "label": "Julius Randle (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "6.01"
+              },
+              {
+                "label": "Julius Randle (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "13.80"
+              },
+              {
+                "label": "Julius Randle (Rebs+Asts)",
+                "hdp": 12.5,
+                "over": "2.05",
+                "under": "1.71"
+              },
+              {
+                "label": "Julius Randle (Steals)",
+                "hdp": 0.5,
+                "over": "1.65"
+              },
+              {
+                "label": "Julius Randle (Steals)",
+                "hdp": 1.5,
+                "over": "4.07"
+              },
+              {
+                "label": "Julius Randle (Steals)",
+                "hdp": 2.5,
+                "over": "11.60"
+              },
+              {
+                "label": "Julius Randle (Steals)",
+                "hdp": 3.5,
+                "over": "26.00"
+              },
+              {
+                "label": "Julius Randle (Triple+Double)",
+                "hdp": 0.5,
+                "over": "27.00"
+              },
+              {
+                "label": "Keon Ellis (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.61",
+                "under": "1.46"
+              },
+              {
+                "label": "Keon Ellis (Blocks)",
+                "hdp": 0.5,
+                "over": "1.70"
+              },
+              {
+                "label": "Keon Ellis (Blocks)",
+                "hdp": 1.5,
+                "over": "4.28"
+              },
+              {
+                "label": "Keon Ellis (Blocks)",
+                "hdp": 2.5,
+                "over": "11.60"
+              },
+              {
+                "label": "Keon Ellis (Blocks)",
+                "hdp": 3.5,
+                "over": "25.00"
+              },
+              {
+                "label": "Keon Ellis (Points)",
+                "hdp": 6.5,
+                "over": "1.88",
+                "under": "1.88"
+              },
+              {
+                "label": "Keon Ellis (Pts+Rebs)",
+                "hdp": 9.5,
+                "over": "1.99",
+                "under": "1.76"
+              },
+              {
+                "label": "Keon Ellis (Rebounds)",
+                "hdp": 2.5,
+                "over": "2.02",
+                "under": "1.74"
+              },
+              {
+                "label": "Keon Ellis (Steals)",
+                "hdp": 1.5,
+                "over": "2.44",
+                "under": "1.51"
+              },
+              {
+                "label": "Keon Ellis (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "1.55"
+              },
+              {
+                "label": "Keon Ellis (Steals+Blocks)",
+                "hdp": 2.5,
+                "over": "2.50"
+              },
+              {
+                "label": "Keon Ellis (Steals+Blocks)",
+                "hdp": 3.5,
+                "over": "4.60"
+              },
+              {
+                "label": "Keon Ellis (Steals+Blocks)",
+                "hdp": 4.5,
+                "over": "9.00"
+              },
+              {
+                "label": "Michael Porter Jr. (3 Point FG)",
+                "hdp": 3.5,
+                "over": "2.26",
+                "under": "1.60"
+              },
+              {
+                "label": "Michael Porter Jr. (Assists)",
+                "hdp": 1.5,
+                "over": "1.64",
+                "under": "2.19"
+              },
+              {
+                "label": "Michael Porter Jr. (Blocks)",
+                "hdp": 0.5,
+                "over": "1.81"
+              },
+              {
+                "label": "Michael Porter Jr. (Blocks)",
+                "hdp": 1.5,
+                "over": "5.04"
+              },
+              {
+                "label": "Michael Porter Jr. (Blocks)",
+                "hdp": 2.5,
+                "over": "14.80"
+              },
+              {
+                "label": "Michael Porter Jr. (Double+Double)",
+                "hdp": 0.5,
+                "over": "5.55"
+              },
+              {
+                "label": "Michael Porter Jr. (Points)",
+                "hdp": 21.5,
+                "over": "1.86",
+                "under": "1.90"
+              },
+              {
+                "label": "Michael Porter Jr. (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.05"
+              },
+              {
+                "label": "Michael Porter Jr. (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.17"
+              },
+              {
+                "label": "Michael Porter Jr. (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.28"
+              },
+              {
+                "label": "Michael Porter Jr. (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.45"
+              },
+              {
+                "label": "Michael Porter Jr. (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.75"
+              },
+              {
+                "label": "Michael Porter Jr. (Points 1Q)",
+                "hdp": 6.5,
+                "over": "2.10"
+              },
+              {
+                "label": "Michael Porter Jr. (Points 1Q)",
+                "hdp": 7.5,
+                "over": "2.61"
+              },
+              {
+                "label": "Michael Porter Jr. (Points 1Q)",
+                "hdp": 8.5,
+                "over": "3.33"
+              },
+              {
+                "label": "Michael Porter Jr. (Points 1Q)",
+                "hdp": 9.5,
+                "over": "4.27"
+              },
+              {
+                "label": "Michael Porter Jr. (Points 1Q)",
+                "hdp": 10.5,
+                "over": "5.67"
+              },
+              {
+                "label": "Michael Porter Jr. (Points 1Q)",
+                "hdp": 11.5,
+                "over": "7.80"
+              },
+              {
+                "label": "Michael Porter Jr. (Points 1Q)",
+                "hdp": 12.5,
+                "over": "10.70"
+              },
+              {
+                "label": "Michael Porter Jr. (Pts+Asts)",
+                "hdp": 23.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "Michael Porter Jr. (Pts+Rebs)",
+                "hdp": 28.5,
+                "over": "1.88",
+                "under": "1.86"
+              },
+              {
+                "label": "Michael Porter Jr. (Pts+Rebs+Asts)",
+                "hdp": 30.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Michael Porter Jr. (Rebounds)",
+                "hdp": 6.5,
+                "over": "1.95",
+                "under": "1.79"
+              },
+              {
+                "label": "Michael Porter Jr. (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.66"
+              },
+              {
+                "label": "Michael Porter Jr. (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "2.95"
+              },
+              {
+                "label": "Michael Porter Jr. (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "6.11"
+              },
+              {
+                "label": "Michael Porter Jr. (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "1.98",
+                "under": "1.77"
+              },
+              {
+                "label": "Michael Porter Jr. (Steals)",
+                "hdp": 1.5,
+                "over": "2.67",
+                "under": "1.44"
+              },
+              {
+                "label": "Michael Porter Jr. (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "1.64"
+              },
+              {
+                "label": "Michael Porter Jr. (Steals+Blocks)",
+                "hdp": 2.5,
+                "over": "2.85"
+              },
+              {
+                "label": "Michael Porter Jr. (Steals+Blocks)",
+                "hdp": 3.5,
+                "over": "6.00"
+              },
+              {
+                "label": "Michael Porter Jr. (Steals+Blocks)",
+                "hdp": 4.5,
+                "over": "12.00"
+              },
+              {
+                "label": "Mikel Brown Jr. (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.61",
+                "under": "2.23"
+              },
+              {
+                "label": "Mikel Brown Jr. (Assists)",
+                "hdp": 3.5,
+                "over": "1.75",
+                "under": "2.01"
+              },
+              {
+                "label": "Mikel Brown Jr. (Double+Double)",
+                "hdp": 0.5,
+                "over": "36.00"
+              },
+              {
+                "label": "Mikel Brown Jr. (Points)",
+                "hdp": 11.5,
+                "over": "1.97",
+                "under": "1.80"
+              },
+              {
+                "label": "Mikel Brown Jr. (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.24"
+              },
+              {
+                "label": "Mikel Brown Jr. (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.51"
+              },
+              {
+                "label": "Mikel Brown Jr. (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.03"
+              },
+              {
+                "label": "Mikel Brown Jr. (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.35"
+              },
+              {
+                "label": "Mikel Brown Jr. (Points 1Q)",
+                "hdp": 5.5,
+                "over": "3.25"
+              },
+              {
+                "label": "Mikel Brown Jr. (Points 1Q)",
+                "hdp": 6.5,
+                "over": "4.54"
+              },
+              {
+                "label": "Mikel Brown Jr. (Points 1Q)",
+                "hdp": 7.5,
+                "over": "5.85"
+              },
+              {
+                "label": "Mikel Brown Jr. (Points 1Q)",
+                "hdp": 8.5,
+                "over": "8.80"
+              },
+              {
+                "label": "Mikel Brown Jr. (Pts+Asts)",
+                "hdp": 15.5,
+                "over": "1.97",
+                "under": "1.78"
+              },
+              {
+                "label": "Mikel Brown Jr. (Pts+Rebs)",
+                "hdp": 14.5,
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "Mikel Brown Jr. (Pts+Rebs+Asts)",
+                "hdp": 18.5,
+                "over": "1.89",
+                "under": "1.84"
+              },
+              {
+                "label": "Mikel Brown Jr. (Rebounds)",
+                "hdp": 3.5,
+                "over": "2.30",
+                "under": "1.57"
+              },
+              {
+                "label": "Mikel Brown Jr. (Rebs+Asts)",
+                "hdp": 6.5,
+                "over": "1.70",
+                "under": "2.08"
+              },
+              {
+                "label": "Moritz Wagner (3 Point FG)",
+                "hdp": 0.5,
+                "over": "1.58",
+                "under": "2.29"
+              },
+              {
+                "label": "Moritz Wagner (Points)",
+                "hdp": 8.5,
+                "over": "1.87",
+                "under": "1.89"
+              },
+              {
+                "label": "Moritz Wagner (Pts+Rebs)",
+                "hdp": 11.5,
+                "over": "1.78",
+                "under": "1.96"
+              },
+              {
+                "label": "Moritz Wagner (Rebounds)",
+                "hdp": 3.5,
+                "over": "2.17",
+                "under": "1.64"
+              },
+              {
+                "label": "Nolan Traore (3 Point FG)",
+                "hdp": 0.5,
+                "over": "1.39"
+              },
+              {
+                "label": "Nolan Traore (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.65"
+              },
+              {
+                "label": "Nolan Traore (3 Point FG)",
+                "hdp": 2.5,
+                "over": "6.13"
+              },
+              {
+                "label": "Nolan Traore (3 Point FG)",
+                "hdp": 3.5,
+                "over": "15.00"
+              },
+              {
+                "label": "Nolan Traore (3 Point FG)",
+                "hdp": 4.5,
+                "over": "29.00"
+              },
+              {
+                "label": "Nolan Traore (Assists)",
+                "hdp": 3.5,
+                "over": "1.76",
+                "under": "1.99"
+              },
+              {
+                "label": "Nolan Traore (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "2.62"
+              },
+              {
+                "label": "Nolan Traore (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "6.59"
+              },
+              {
+                "label": "Nolan Traore (Double+Double)",
+                "hdp": 0.5,
+                "over": "42.00"
+              },
+              {
+                "label": "Nolan Traore (Points)",
+                "hdp": 9.5,
+                "over": "1.87",
+                "under": "1.90"
+              },
+              {
+                "label": "Nolan Traore (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.33"
+              },
+              {
+                "label": "Nolan Traore (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.90"
+              },
+              {
+                "label": "Nolan Traore (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.45"
+              },
+              {
+                "label": "Nolan Traore (Points 1Q)",
+                "hdp": 4.5,
+                "over": "3.35"
+              },
+              {
+                "label": "Nolan Traore (Points 1Q)",
+                "hdp": 5.5,
+                "over": "5.08"
+              },
+              {
+                "label": "Nolan Traore (Points 1Q)",
+                "hdp": 6.5,
+                "over": "7.50"
+              },
+              {
+                "label": "Nolan Traore (Pts+Asts)",
+                "hdp": 13.5,
+                "over": "1.87",
+                "under": "1.86"
+              },
+              {
+                "label": "Nolan Traore (Pts+Rebs)",
+                "hdp": 12.5,
+                "over": "1.92",
+                "under": "1.81"
+              },
+              {
+                "label": "Nolan Traore (Pts+Rebs+Asts)",
+                "hdp": 16.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Nolan Traore (Rebounds)",
+                "hdp": 2.5,
+                "over": "1.86"
+              },
+              {
+                "label": "Nolan Traore (Rebounds)",
+                "hdp": 3.5,
+                "over": "3.04"
+              },
+              {
+                "label": "Nolan Traore (Rebounds)",
+                "hdp": 4.5,
+                "over": "5.44"
+              },
+              {
+                "label": "Nolan Traore (Rebounds)",
+                "hdp": 5.5,
+                "over": "10.20"
+              },
+              {
+                "label": "Nolan Traore (Rebounds)",
+                "hdp": 6.5,
+                "over": "18.40"
+              },
+              {
+                "label": "Nolan Traore (Rebounds)",
+                "hdp": 7.5,
+                "over": "29.00"
+              },
+              {
+                "label": "Nolan Traore (Rebs+Asts)",
+                "hdp": 4.5,
+                "over": "1.27"
+              },
+              {
+                "label": "Nolan Traore (Rebs+Asts)",
+                "hdp": 6.5,
+                "over": "1.95"
+              },
+              {
+                "label": "Nolan Traore (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "2.60"
+              },
+              {
+                "label": "Nolan Traore (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "5.25"
+              },
+              {
+                "label": "Nolan Traore (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "11.00"
+              },
+              {
+                "label": "Paul Reed (3 Point FG)",
+                "hdp": 0.5,
+                "over": "2.72"
+              },
+              {
+                "label": "Paul Reed (3 Point FG)",
+                "hdp": 1.5,
+                "over": "10.40"
+              },
+              {
+                "label": "Paul Reed (Assists)",
+                "hdp": 2.5,
+                "over": "2.28",
+                "under": "1.59"
+              },
+              {
+                "label": "Paul Reed (Blocks)",
+                "hdp": 0.5,
+                "over": "1.18"
+              },
+              {
+                "label": "Paul Reed (Blocks)",
+                "hdp": 1.5,
+                "over": "1.81"
+              },
+              {
+                "label": "Paul Reed (Blocks)",
+                "hdp": 2.5,
+                "over": "3.36"
+              },
+              {
+                "label": "Paul Reed (Blocks)",
+                "hdp": 3.5,
+                "over": "7.00"
+              },
+              {
+                "label": "Paul Reed (Blocks)",
+                "hdp": 4.5,
+                "over": "14.00"
+              },
+              {
+                "label": "Paul Reed (Blocks)",
+                "hdp": 5.5,
+                "over": "26.00"
+              },
+              {
+                "label": "Paul Reed (Double+Double)",
+                "hdp": 0.5,
+                "over": "2.22"
+              },
+              {
+                "label": "Paul Reed (Points)",
+                "hdp": 15.5,
+                "over": "1.90",
+                "under": "1.86"
+              },
+              {
+                "label": "Paul Reed (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.08"
+              },
+              {
+                "label": "Paul Reed (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.33"
+              },
+              {
+                "label": "Paul Reed (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.40"
+              },
+              {
+                "label": "Paul Reed (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.90"
+              },
+              {
+                "label": "Paul Reed (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.17"
+              },
+              {
+                "label": "Paul Reed (Points 1Q)",
+                "hdp": 6.5,
+                "over": "3.18"
+              },
+              {
+                "label": "Paul Reed (Points 1Q)",
+                "hdp": 7.5,
+                "over": "3.98"
+              },
+              {
+                "label": "Paul Reed (Points 1Q)",
+                "hdp": 8.5,
+                "over": "6.24"
+              },
+              {
+                "label": "Paul Reed (Points 1Q)",
+                "hdp": 9.5,
+                "over": "8.20"
+              },
+              {
+                "label": "Paul Reed (Pts+Asts)",
+                "hdp": 17.5,
+                "over": "1.86",
+                "under": "1.87"
+              },
+              {
+                "label": "Paul Reed (Pts+Rebs)",
+                "hdp": 24.5,
+                "over": "1.85",
+                "under": "1.88"
+              },
+              {
+                "label": "Paul Reed (Pts+Rebs+Asts)",
+                "hdp": 27.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Paul Reed (Rebounds)",
+                "hdp": 9.5,
+                "over": "2.07",
+                "under": "1.70"
+              },
+              {
+                "label": "Paul Reed (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.25"
+              },
+              {
+                "label": "Paul Reed (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "1.75"
+              },
+              {
+                "label": "Paul Reed (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "2.77"
+              },
+              {
+                "label": "Paul Reed (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "5.02"
+              },
+              {
+                "label": "Paul Reed (Rebounds 1Q)",
+                "hdp": 5.5,
+                "over": "10.00"
+              },
+              {
+                "label": "Paul Reed (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "1.92",
+                "under": "1.81"
+              },
+              {
+                "label": "Paul Reed (Steals)",
+                "hdp": 1.5,
+                "over": "2.76",
+                "under": "1.42"
+              },
+              {
+                "label": "Paul Reed (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "1.25"
+              },
+              {
+                "label": "Paul Reed (Steals+Blocks)",
+                "hdp": 2.5,
+                "over": "1.71"
+              },
+              {
+                "label": "Paul Reed (Steals+Blocks)",
+                "hdp": 3.5,
+                "over": "2.65"
+              },
+              {
+                "label": "Paul Reed (Steals+Blocks)",
+                "hdp": 4.5,
+                "over": "4.50"
+              },
+              {
+                "label": "Paul Reed (Steals+Blocks)",
+                "hdp": 5.5,
+                "over": "8.00"
+              }
+            ]
           }
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
-          "recommended_bet": 12.011413381222768,
-          "market_edge": 0.04617368849881076,
+          "recommended_bet": 12.84277580770242,
+          "market_edge": 0.04957300766216066,
           "latent_strength_A": -13.547446377571957,
           "latent_strength_B": 7.5024314190974115,
-          "form_state_A": 0,
+          "form_state_A": 2,
           "form_state_B": 1,
           "entropy_A": 3.321928094887362
         },
@@ -32728,7 +32388,10 @@ const analyticsData = {
             "proj_ast": 2.5959213964770282,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 2.5,
+            "market_pts": 8.5,
+            "market_reb": 7.5
           },
           {
             "player": "Drake Powell",
@@ -32808,7 +32471,10 @@ const analyticsData = {
             "proj_ast": 2.5959213964770282,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 1.5,
+            "market_pts": 21.5,
+            "market_reb": 6.5
           },
           {
             "player": "Nic Claxton",
@@ -32838,7 +32504,10 @@ const analyticsData = {
             "proj_ast": 3.294823310913151,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 3.5,
+            "market_pts": 9.5,
+            "market_reb": 7.5
           },
           {
             "player": "Ochai Agbaji",
@@ -32898,7 +32567,10 @@ const analyticsData = {
             "proj_ast": 3.993725225349274,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 3.5,
+            "market_pts": 10.5,
+            "market_reb": 6.5
           },
           {
             "player": "Bobi Klintman",
@@ -32918,7 +32590,10 @@ const analyticsData = {
             "proj_ast": 10.183999324640647,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 9.5,
+            "market_pts": 24.5,
+            "market_reb": 5.5
           },
           {
             "player": "Caris LeVert",
@@ -32958,7 +32633,10 @@ const analyticsData = {
             "proj_ast": 3.6941958334480787,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 4.5,
+            "market_pts": 10.5,
+            "market_reb": 2.5
           },
           {
             "player": "Duncan Robinson",
@@ -32968,7 +32646,10 @@ const analyticsData = {
             "proj_ast": 2.69576452711076,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 1.5,
+            "market_pts": 13.5,
+            "market_reb": 2.5
           },
           {
             "player": "Isaac Jones",
@@ -33048,7 +32729,10 @@ const analyticsData = {
             "proj_ast": 0.3993725225349274,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 2.5,
+            "market_pts": 15.5,
+            "market_reb": 9.5
           },
           {
             "player": "Ronald Holland II",
@@ -33119,9 +32803,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.054268204589514535,
-          "6-10": 0.023417220381862048,
-          "11+": 0.039695872231650234
+          "1-5": 0.05769612568695525,
+          "6-10": 0.024871214988252344,
+          "11+": 0.041912680779857776
         },
         "formA": [
           {
@@ -33477,7 +33161,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.4010342492971356,
-      "mc_win_A": 0.2794,
+      "mc_win_A": 0.2722,
       "shap_explanation": {
         "adj_ortg_10": -0.031034738752302216,
         "adj_drtg_10": -0.04489607262724334,
@@ -33520,41 +33204,1810 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 120.35508068490037,
-          "ptsB": 111.49066407703131,
-          "total": 231.84574476193168,
-          "spread": -8.864416607869053,
-          "win_prob_A": 68.41608060398087,
+          "ptsA": 121.12758068490035,
+          "ptsB": 111.3181640770313,
+          "total": 232.44574476193165,
+          "spread": -9.809416607869053,
+          "win_prob_A": 69.78180683376429,
           "ml_prob_A": 0.5870452936250875,
-          "mc_win_A": 0.6416,
-          "base_win_prob_A": 0.7572496687841536,
-          "market_prob_A": 0.8177570093457944,
+          "mc_win_A": 0.6282,
+          "base_win_prob_A": 0.7785408691404354,
+          "market_prob_A": 0.8682634730538923,
           "market": {
             "ml": {
-              "home": "1.17",
-              "away": "5.25"
+              "home": "1.10",
+              "away": "7.25"
             },
             "spread": {
-              "hdp": -11.5,
-              "home": "1.90",
-              "away": "1.90"
+              "hdp": -15.5,
+              "home": "1.95",
+              "away": "1.86"
             },
             "total": {
-              "hdp": 232.5,
-              "over": "1.90",
-              "under": "1.90"
+              "hdp": 235.5,
+              "over": "1.92",
+              "under": "1.89"
             },
-            "props": []
+            "props": [
+              {
+                "label": "Caleb Wilson (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.71",
+                "under": "2.06"
+              },
+              {
+                "label": "Caleb Wilson (Assists)",
+                "hdp": 2.5,
+                "over": "2.19",
+                "under": "1.63"
+              },
+              {
+                "label": "Caleb Wilson (Blocks)",
+                "hdp": 0.5,
+                "over": "1.42",
+                "under": "2.76"
+              },
+              {
+                "label": "Caleb Wilson (Double+Double)",
+                "hdp": 0.5,
+                "over": "4.52"
+              },
+              {
+                "label": "Caleb Wilson (Points)",
+                "hdp": 17.5,
+                "over": "1.83",
+                "under": "1.94"
+              },
+              {
+                "label": "Caleb Wilson (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.05"
+              },
+              {
+                "label": "Caleb Wilson (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.20"
+              },
+              {
+                "label": "Caleb Wilson (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.30"
+              },
+              {
+                "label": "Caleb Wilson (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.55"
+              },
+              {
+                "label": "Caleb Wilson (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.84"
+              },
+              {
+                "label": "Caleb Wilson (Points 1Q)",
+                "hdp": 6.5,
+                "over": "2.27"
+              },
+              {
+                "label": "Caleb Wilson (Points 1Q)",
+                "hdp": 7.5,
+                "over": "2.90"
+              },
+              {
+                "label": "Caleb Wilson (Points 1Q)",
+                "hdp": 8.5,
+                "over": "3.75"
+              },
+              {
+                "label": "Caleb Wilson (Points 1Q)",
+                "hdp": 9.5,
+                "over": "5.07"
+              },
+              {
+                "label": "Caleb Wilson (Points 1Q)",
+                "hdp": 10.5,
+                "over": "7.00"
+              },
+              {
+                "label": "Caleb Wilson (Points 1Q)",
+                "hdp": 11.5,
+                "over": "10.00"
+              },
+              {
+                "label": "Caleb Wilson (Pts+Asts)",
+                "hdp": 20.5,
+                "over": "1.92",
+                "under": "1.82"
+              },
+              {
+                "label": "Caleb Wilson (Pts+Rebs)",
+                "hdp": 24.5,
+                "over": "1.80",
+                "under": "1.94"
+              },
+              {
+                "label": "Caleb Wilson (Pts+Rebs+Asts)",
+                "hdp": 27.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Caleb Wilson (Rebounds)",
+                "hdp": 6.5,
+                "over": "1.75",
+                "under": "2.01"
+              },
+              {
+                "label": "Caleb Wilson (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.39"
+              },
+              {
+                "label": "Caleb Wilson (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "2.17"
+              },
+              {
+                "label": "Caleb Wilson (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "4.03"
+              },
+              {
+                "label": "Caleb Wilson (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "8.50"
+              },
+              {
+                "label": "Caleb Wilson (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "2.02",
+                "under": "1.74"
+              },
+              {
+                "label": "Caleb Wilson (Steals)",
+                "hdp": 1.5,
+                "over": "2.29",
+                "under": "1.58"
+              },
+              {
+                "label": "Caleb Wilson (Steals+Blocks)",
+                "hdp": 2.5,
+                "over": "2.02",
+                "under": "1.74"
+              },
+              {
+                "label": "Derrick White (3 Point FG)",
+                "hdp": 2.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Derrick White (Assists)",
+                "hdp": 5.5,
+                "over": "2.06",
+                "under": "1.71"
+              },
+              {
+                "label": "Derrick White (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.84"
+              },
+              {
+                "label": "Derrick White (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "3.67"
+              },
+              {
+                "label": "Derrick White (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "9.30"
+              },
+              {
+                "label": "Derrick White (Double+Double)",
+                "hdp": 0.5,
+                "over": "12.60"
+              },
+              {
+                "label": "Derrick White (Points)",
+                "hdp": 16.5,
+                "over": "1.90",
+                "under": "1.86"
+              },
+              {
+                "label": "Derrick White (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.11"
+              },
+              {
+                "label": "Derrick White (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.32"
+              },
+              {
+                "label": "Derrick White (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.55"
+              },
+              {
+                "label": "Derrick White (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.81"
+              },
+              {
+                "label": "Derrick White (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.37"
+              },
+              {
+                "label": "Derrick White (Points 1Q)",
+                "hdp": 6.5,
+                "over": "3.01"
+              },
+              {
+                "label": "Derrick White (Points 1Q)",
+                "hdp": 7.5,
+                "over": "3.95"
+              },
+              {
+                "label": "Derrick White (Points 1Q)",
+                "hdp": 8.5,
+                "over": "5.50"
+              },
+              {
+                "label": "Derrick White (Points 1Q)",
+                "hdp": 9.5,
+                "over": "7.50"
+              },
+              {
+                "label": "Derrick White (Points 1Q)",
+                "hdp": 10.5,
+                "over": "10.60"
+              },
+              {
+                "label": "Derrick White (Pts+Asts)",
+                "hdp": 21.5,
+                "over": "1.81",
+                "under": "1.92"
+              },
+              {
+                "label": "Derrick White (Pts+Rebs)",
+                "hdp": 20.5,
+                "over": "1.86",
+                "under": "1.87"
+              },
+              {
+                "label": "Derrick White (Pts+Rebs+Asts)",
+                "hdp": 25.5,
+                "over": "1.80",
+                "under": "1.94"
+              },
+              {
+                "label": "Derrick White (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.64",
+                "under": "2.18"
+              },
+              {
+                "label": "Derrick White (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "2.72"
+              },
+              {
+                "label": "Derrick White (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "7.00"
+              },
+              {
+                "label": "Derrick White (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.95",
+                "under": "1.79"
+              },
+              {
+                "label": "Derrick White (Steals)",
+                "hdp": 1.5,
+                "over": "2.66",
+                "under": "1.44"
+              },
+              {
+                "label": "Jalen Smith (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.59",
+                "under": "2.28"
+              },
+              {
+                "label": "Jalen Smith (Assists)",
+                "hdp": 1.5,
+                "over": "1.86"
+              },
+              {
+                "label": "Jalen Smith (Assists)",
+                "hdp": 2.5,
+                "over": "3.53"
+              },
+              {
+                "label": "Jalen Smith (Assists)",
+                "hdp": 3.5,
+                "over": "7.40"
+              },
+              {
+                "label": "Jalen Smith (Assists)",
+                "hdp": 4.5,
+                "over": "15.40"
+              },
+              {
+                "label": "Jalen Smith (Assists)",
+                "hdp": 5.5,
+                "over": "27.00"
+              },
+              {
+                "label": "Jalen Smith (Double+Double)",
+                "hdp": 0.5,
+                "over": "4.18"
+              },
+              {
+                "label": "Jalen Smith (Points)",
+                "hdp": 11.5,
+                "over": "1.90",
+                "under": "1.86"
+              },
+              {
+                "label": "Jalen Smith (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.23"
+              },
+              {
+                "label": "Jalen Smith (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.52"
+              },
+              {
+                "label": "Jalen Smith (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.99"
+              },
+              {
+                "label": "Jalen Smith (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.36"
+              },
+              {
+                "label": "Jalen Smith (Points 1Q)",
+                "hdp": 5.5,
+                "over": "3.34"
+              },
+              {
+                "label": "Jalen Smith (Points 1Q)",
+                "hdp": 6.5,
+                "over": "4.64"
+              },
+              {
+                "label": "Jalen Smith (Points 1Q)",
+                "hdp": 7.5,
+                "over": "6.25"
+              },
+              {
+                "label": "Jalen Smith (Points 1Q)",
+                "hdp": 8.5,
+                "over": "9.50"
+              },
+              {
+                "label": "Jalen Smith (Pts+Asts)",
+                "hdp": 4.5,
+                "over": "1.03"
+              },
+              {
+                "label": "Jalen Smith (Pts+Asts)",
+                "hdp": 9.5,
+                "over": "1.32"
+              },
+              {
+                "label": "Jalen Smith (Pts+Asts)",
+                "hdp": 13.5,
+                "over": "1.95"
+              },
+              {
+                "label": "Jalen Smith (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "2.22"
+              },
+              {
+                "label": "Jalen Smith (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "4.77"
+              },
+              {
+                "label": "Jalen Smith (Pts+Asts)",
+                "hdp": 24.5,
+                "over": "11.80"
+              },
+              {
+                "label": "Jalen Smith (Pts+Asts)",
+                "hdp": 29.5,
+                "over": "25.00"
+              },
+              {
+                "label": "Jalen Smith (Pts+Rebs)",
+                "hdp": 19.5,
+                "over": "1.95",
+                "under": "1.79"
+              },
+              {
+                "label": "Jalen Smith (Pts+Rebs+Asts)",
+                "hdp": 20.5,
+                "over": "1.82",
+                "under": "1.92"
+              },
+              {
+                "label": "Jalen Smith (Rebounds)",
+                "hdp": 7.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Jalen Smith (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.42"
+              },
+              {
+                "label": "Jalen Smith (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "2.22"
+              },
+              {
+                "label": "Jalen Smith (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "3.96"
+              },
+              {
+                "label": "Jalen Smith (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "8.10"
+              },
+              {
+                "label": "Jalen Smith (Rebs+Asts)",
+                "hdp": 4.5,
+                "over": "1.07"
+              },
+              {
+                "label": "Jalen Smith (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.43"
+              },
+              {
+                "label": "Jalen Smith (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "2.05"
+              },
+              {
+                "label": "Jalen Smith (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "3.25"
+              },
+              {
+                "label": "Jalen Smith (Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "7.50"
+              },
+              {
+                "label": "Jalen Smith (Rebs+Asts)",
+                "hdp": 17.5,
+                "over": "18.00"
+              },
+              {
+                "label": "Jayson Tatum (3 Point FG)",
+                "hdp": 3.5,
+                "over": "2.32",
+                "under": "1.57"
+              },
+              {
+                "label": "Jayson Tatum (Assists)",
+                "hdp": 7.5,
+                "over": "2.10",
+                "under": "1.68"
+              },
+              {
+                "label": "Jayson Tatum (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.29"
+              },
+              {
+                "label": "Jayson Tatum (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "1.90"
+              },
+              {
+                "label": "Jayson Tatum (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "3.34"
+              },
+              {
+                "label": "Jayson Tatum (Assists 1Q)",
+                "hdp": 4.5,
+                "over": "6.81"
+              },
+              {
+                "label": "Jayson Tatum (Double+Double)",
+                "hdp": 0.5,
+                "over": "2.04"
+              },
+              {
+                "label": "Jayson Tatum (Points)",
+                "hdp": 27.5,
+                "over": "1.85",
+                "under": "1.91"
+              },
+              {
+                "label": "Jayson Tatum (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.03"
+              },
+              {
+                "label": "Jayson Tatum (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.06"
+              },
+              {
+                "label": "Jayson Tatum (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.11"
+              },
+              {
+                "label": "Jayson Tatum (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.19"
+              },
+              {
+                "label": "Jayson Tatum (Points 1Q)",
+                "hdp": 6.5,
+                "over": "1.29"
+              },
+              {
+                "label": "Jayson Tatum (Points 1Q)",
+                "hdp": 7.5,
+                "over": "1.43"
+              },
+              {
+                "label": "Jayson Tatum (Points 1Q)",
+                "hdp": 8.5,
+                "over": "1.63"
+              },
+              {
+                "label": "Jayson Tatum (Points 1Q)",
+                "hdp": 9.5,
+                "over": "1.89"
+              },
+              {
+                "label": "Jayson Tatum (Points 1Q)",
+                "hdp": 10.5,
+                "over": "2.22"
+              },
+              {
+                "label": "Jayson Tatum (Points 1Q)",
+                "hdp": 11.5,
+                "over": "2.70"
+              },
+              {
+                "label": "Jayson Tatum (Points 1Q)",
+                "hdp": 12.5,
+                "over": "3.31"
+              },
+              {
+                "label": "Jayson Tatum (Points 1Q)",
+                "hdp": 13.5,
+                "over": "4.18"
+              },
+              {
+                "label": "Jayson Tatum (Points 1Q)",
+                "hdp": 14.5,
+                "over": "5.37"
+              },
+              {
+                "label": "Jayson Tatum (Points 1Q)",
+                "hdp": 15.5,
+                "over": "7.00"
+              },
+              {
+                "label": "Jayson Tatum (Pts+Asts)",
+                "hdp": 35.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Jayson Tatum (Pts+Rebs)",
+                "hdp": 35.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "Jayson Tatum (Pts+Rebs+Asts)",
+                "hdp": 43.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Jayson Tatum (Rebounds)",
+                "hdp": 8.5,
+                "over": "2.08",
+                "under": "1.69"
+              },
+              {
+                "label": "Jayson Tatum (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.23"
+              },
+              {
+                "label": "Jayson Tatum (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "1.69"
+              },
+              {
+                "label": "Jayson Tatum (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "2.69"
+              },
+              {
+                "label": "Jayson Tatum (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "4.89"
+              },
+              {
+                "label": "Jayson Tatum (Rebounds 1Q)",
+                "hdp": 5.5,
+                "over": "10.30"
+              },
+              {
+                "label": "Jayson Tatum (Rebs+Asts)",
+                "hdp": 15.5,
+                "over": "1.94",
+                "under": "1.80"
+              },
+              {
+                "label": "Jayson Tatum (Steals)",
+                "hdp": 0.5,
+                "over": "1.27"
+              },
+              {
+                "label": "Jayson Tatum (Steals)",
+                "hdp": 1.5,
+                "over": "2.21"
+              },
+              {
+                "label": "Jayson Tatum (Steals)",
+                "hdp": 2.5,
+                "over": "4.74"
+              },
+              {
+                "label": "Jayson Tatum (Steals)",
+                "hdp": 3.5,
+                "over": "11.00"
+              },
+              {
+                "label": "Jayson Tatum (Steals)",
+                "hdp": 4.5,
+                "over": "22.00"
+              },
+              {
+                "label": "Jayson Tatum (Triple+Double)",
+                "hdp": 0.5,
+                "over": "8.90"
+              },
+              {
+                "label": "Jordan Walsh (3 Point FG)",
+                "hdp": 0.5,
+                "over": "1.63",
+                "under": "2.19"
+              },
+              {
+                "label": "Jordan Walsh (Assists)",
+                "hdp": 1.5,
+                "over": "2.53"
+              },
+              {
+                "label": "Jordan Walsh (Assists)",
+                "hdp": 2.5,
+                "over": "5.90"
+              },
+              {
+                "label": "Jordan Walsh (Assists)",
+                "hdp": 3.5,
+                "over": "14.00"
+              },
+              {
+                "label": "Jordan Walsh (Assists)",
+                "hdp": 4.5,
+                "over": "27.00"
+              },
+              {
+                "label": "Jordan Walsh (Double+Double)",
+                "hdp": 0.5,
+                "over": "51.00"
+              },
+              {
+                "label": "Jordan Walsh (Points)",
+                "hdp": 4.5,
+                "over": "1.79",
+                "under": "1.99"
+              },
+              {
+                "label": "Jordan Walsh (Pts+Asts)",
+                "hdp": 4.5,
+                "over": "1.46"
+              },
+              {
+                "label": "Jordan Walsh (Pts+Asts)",
+                "hdp": 5.5,
+                "over": "1.71"
+              },
+              {
+                "label": "Jordan Walsh (Pts+Asts)",
+                "hdp": 9.5,
+                "over": "4.19"
+              },
+              {
+                "label": "Jordan Walsh (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "15.20"
+              },
+              {
+                "label": "Jordan Walsh (Pts+Rebs)",
+                "hdp": 8.5,
+                "over": "1.80",
+                "under": "1.95"
+              },
+              {
+                "label": "Jordan Walsh (Pts+Rebs+Asts)",
+                "hdp": 4.5,
+                "over": "1.07"
+              },
+              {
+                "label": "Jordan Walsh (Pts+Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.72"
+              },
+              {
+                "label": "Jordan Walsh (Pts+Rebs+Asts)",
+                "hdp": 10.5,
+                "over": "2.00"
+              },
+              {
+                "label": "Jordan Walsh (Pts+Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "4.23"
+              },
+              {
+                "label": "Jordan Walsh (Pts+Rebs+Asts)",
+                "hdp": 19.5,
+                "over": "12.80"
+              },
+              {
+                "label": "Jordan Walsh (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.69",
+                "under": "2.09"
+              },
+              {
+                "label": "Jordan Walsh (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "2.27"
+              },
+              {
+                "label": "Jordan Walsh (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "5.06"
+              },
+              {
+                "label": "Jordan Walsh (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "13.40"
+              },
+              {
+                "label": "Josh Giddey (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.59",
+                "under": "1.47"
+              },
+              {
+                "label": "Josh Giddey (Assists)",
+                "hdp": 7.5,
+                "over": "1.95",
+                "under": "1.79"
+              },
+              {
+                "label": "Josh Giddey (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.28"
+              },
+              {
+                "label": "Josh Giddey (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "1.88"
+              },
+              {
+                "label": "Josh Giddey (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "3.31"
+              },
+              {
+                "label": "Josh Giddey (Assists 1Q)",
+                "hdp": 4.5,
+                "over": "6.95"
+              },
+              {
+                "label": "Josh Giddey (Double+Double)",
+                "hdp": 0.5,
+                "over": "3.55"
+              },
+              {
+                "label": "Josh Giddey (Points)",
+                "hdp": 11.5,
+                "over": "1.96",
+                "under": "1.81"
+              },
+              {
+                "label": "Josh Giddey (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.26"
+              },
+              {
+                "label": "Josh Giddey (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.74"
+              },
+              {
+                "label": "Josh Giddey (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.17"
+              },
+              {
+                "label": "Josh Giddey (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.88"
+              },
+              {
+                "label": "Josh Giddey (Points 1Q)",
+                "hdp": 5.5,
+                "over": "4.14"
+              },
+              {
+                "label": "Josh Giddey (Points 1Q)",
+                "hdp": 6.5,
+                "over": "5.89"
+              },
+              {
+                "label": "Josh Giddey (Points 1Q)",
+                "hdp": 7.5,
+                "over": "9.00"
+              },
+              {
+                "label": "Josh Giddey (Pts+Asts)",
+                "hdp": 18.5,
+                "over": "1.80",
+                "under": "1.94"
+              },
+              {
+                "label": "Josh Giddey (Pts+Rebs)",
+                "hdp": 17.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Josh Giddey (Pts+Rebs+Asts)",
+                "hdp": 24.5,
+                "over": "1.80",
+                "under": "1.94"
+              },
+              {
+                "label": "Josh Giddey (Rebounds)",
+                "hdp": 6.5,
+                "over": "2.13",
+                "under": "1.67"
+              },
+              {
+                "label": "Josh Giddey (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.68"
+              },
+              {
+                "label": "Josh Giddey (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "3.03"
+              },
+              {
+                "label": "Josh Giddey (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "6.67"
+              },
+              {
+                "label": "Josh Giddey (Rebs+Asts)",
+                "hdp": 13.5,
+                "over": "1.86",
+                "under": "1.87"
+              },
+              {
+                "label": "Josh Giddey (Steals)",
+                "hdp": 0.5,
+                "over": "1.54"
+              },
+              {
+                "label": "Josh Giddey (Steals)",
+                "hdp": 1.5,
+                "over": "3.49"
+              },
+              {
+                "label": "Josh Giddey (Steals)",
+                "hdp": 2.5,
+                "over": "9.20"
+              },
+              {
+                "label": "Josh Giddey (Steals)",
+                "hdp": 3.5,
+                "over": "21.00"
+              },
+              {
+                "label": "Josh Giddey (Triple+Double)",
+                "hdp": 0.5,
+                "over": "14.80"
+              },
+              {
+                "label": "Leonard Miller (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.48",
+                "under": "1.50"
+              },
+              {
+                "label": "Leonard Miller (Double+Double)",
+                "hdp": 0.5,
+                "over": "13.60"
+              },
+              {
+                "label": "Leonard Miller (Points)",
+                "hdp": 9.5,
+                "over": "1.99",
+                "under": "1.79"
+              },
+              {
+                "label": "Leonard Miller (Pts+Rebs)",
+                "hdp": 13.5,
+                "over": "1.78",
+                "under": "1.97"
+              },
+              {
+                "label": "Leonard Miller (Pts+Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.17"
+              },
+              {
+                "label": "Leonard Miller (Pts+Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "1.71"
+              },
+              {
+                "label": "Leonard Miller (Pts+Rebs+Asts)",
+                "hdp": 15.5,
+                "over": "1.89"
+              },
+              {
+                "label": "Leonard Miller (Pts+Rebs+Asts)",
+                "hdp": 19.5,
+                "over": "3.05"
+              },
+              {
+                "label": "Leonard Miller (Pts+Rebs+Asts)",
+                "hdp": 24.5,
+                "over": "6.08"
+              },
+              {
+                "label": "Leonard Miller (Pts+Rebs+Asts)",
+                "hdp": 29.5,
+                "over": "12.80"
+              },
+              {
+                "label": "Leonard Miller (Pts+Rebs+Asts)",
+                "hdp": 34.5,
+                "over": "23.00"
+              },
+              {
+                "label": "Leonard Miller (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.77",
+                "under": "1.98"
+              },
+              {
+                "label": "Matas Buzelis (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.54",
+                "under": "2.38"
+              },
+              {
+                "label": "Matas Buzelis (Assists)",
+                "hdp": 1.5,
+                "over": "1.53"
+              },
+              {
+                "label": "Matas Buzelis (Assists)",
+                "hdp": 2.5,
+                "over": "2.51"
+              },
+              {
+                "label": "Matas Buzelis (Assists)",
+                "hdp": 3.5,
+                "over": "4.85"
+              },
+              {
+                "label": "Matas Buzelis (Assists)",
+                "hdp": 4.5,
+                "over": "10.10"
+              },
+              {
+                "label": "Matas Buzelis (Assists)",
+                "hdp": 5.5,
+                "over": "19.60"
+              },
+              {
+                "label": "Matas Buzelis (Blocks)",
+                "hdp": 1.5,
+                "over": "2.57",
+                "under": "1.47"
+              },
+              {
+                "label": "Matas Buzelis (Double+Double)",
+                "hdp": 0.5,
+                "over": "13.00"
+              },
+              {
+                "label": "Matas Buzelis (Points)",
+                "hdp": 14.5,
+                "over": "1.98",
+                "under": "1.80"
+              },
+              {
+                "label": "Matas Buzelis (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.15"
+              },
+              {
+                "label": "Matas Buzelis (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.40"
+              },
+              {
+                "label": "Matas Buzelis (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.68"
+              },
+              {
+                "label": "Matas Buzelis (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.01"
+              },
+              {
+                "label": "Matas Buzelis (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.70"
+              },
+              {
+                "label": "Matas Buzelis (Points 1Q)",
+                "hdp": 6.5,
+                "over": "3.52"
+              },
+              {
+                "label": "Matas Buzelis (Points 1Q)",
+                "hdp": 7.5,
+                "over": "4.83"
+              },
+              {
+                "label": "Matas Buzelis (Points 1Q)",
+                "hdp": 8.5,
+                "over": "7.00"
+              },
+              {
+                "label": "Matas Buzelis (Points 1Q)",
+                "hdp": 9.5,
+                "over": "9.90"
+              },
+              {
+                "label": "Matas Buzelis (Pts+Asts)",
+                "hdp": 9.5,
+                "over": "1.14"
+              },
+              {
+                "label": "Matas Buzelis (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "1.56"
+              },
+              {
+                "label": "Matas Buzelis (Pts+Asts)",
+                "hdp": 16.5,
+                "over": "1.91"
+              },
+              {
+                "label": "Matas Buzelis (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "2.75"
+              },
+              {
+                "label": "Matas Buzelis (Pts+Asts)",
+                "hdp": 24.5,
+                "over": "5.90"
+              },
+              {
+                "label": "Matas Buzelis (Pts+Asts)",
+                "hdp": 29.5,
+                "over": "13.00"
+              },
+              {
+                "label": "Matas Buzelis (Pts+Asts)",
+                "hdp": 34.5,
+                "over": "25.00"
+              },
+              {
+                "label": "Matas Buzelis (Pts+Rebs)",
+                "hdp": 19.5,
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "Matas Buzelis (Pts+Rebs+Asts)",
+                "hdp": 21.5,
+                "over": "1.86",
+                "under": "1.88"
+              },
+              {
+                "label": "Matas Buzelis (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.68",
+                "under": "2.12"
+              },
+              {
+                "label": "Matas Buzelis (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "2.09"
+              },
+              {
+                "label": "Matas Buzelis (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "4.37"
+              },
+              {
+                "label": "Matas Buzelis (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "10.90"
+              },
+              {
+                "label": "Matas Buzelis (Rebs+Asts)",
+                "hdp": 4.5,
+                "over": "1.20"
+              },
+              {
+                "label": "Matas Buzelis (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "2.05"
+              },
+              {
+                "label": "Matas Buzelis (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "3.75"
+              },
+              {
+                "label": "Matas Buzelis (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "7.50"
+              },
+              {
+                "label": "Matas Buzelis (Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "21.00"
+              },
+              {
+                "label": "Mitchell Robinson (Blocks)",
+                "hdp": 0.5,
+                "over": "1.46"
+              },
+              {
+                "label": "Mitchell Robinson (Blocks)",
+                "hdp": 1.5,
+                "over": "3.06"
+              },
+              {
+                "label": "Mitchell Robinson (Blocks)",
+                "hdp": 2.5,
+                "over": "7.40"
+              },
+              {
+                "label": "Mitchell Robinson (Blocks)",
+                "hdp": 3.5,
+                "over": "18.40"
+              },
+              {
+                "label": "Mitchell Robinson (Double+Double)",
+                "hdp": 0.5,
+                "over": "11.20"
+              },
+              {
+                "label": "Mitchell Robinson (Points)",
+                "hdp": 5.5,
+                "over": "1.72",
+                "under": "2.07"
+              },
+              {
+                "label": "Mitchell Robinson (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.33"
+              },
+              {
+                "label": "Mitchell Robinson (Points 1Q)",
+                "hdp": 2.5,
+                "over": "2.38"
+              },
+              {
+                "label": "Mitchell Robinson (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.57"
+              },
+              {
+                "label": "Mitchell Robinson (Points 1Q)",
+                "hdp": 4.5,
+                "over": "5.50"
+              },
+              {
+                "label": "Mitchell Robinson (Points 1Q)",
+                "hdp": 5.5,
+                "over": "6.48"
+              },
+              {
+                "label": "Mitchell Robinson (Pts+Rebs)",
+                "hdp": 12.5,
+                "over": "1.82",
+                "under": "1.91"
+              },
+              {
+                "label": "Mitchell Robinson (Rebounds)",
+                "hdp": 6.5,
+                "over": "1.76",
+                "under": "2.00"
+              },
+              {
+                "label": "Mitchell Robinson (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.30"
+              },
+              {
+                "label": "Mitchell Robinson (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "1.90"
+              },
+              {
+                "label": "Mitchell Robinson (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "3.23"
+              },
+              {
+                "label": "Mitchell Robinson (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "6.17"
+              },
+              {
+                "label": "Mitchell Robinson (Rebounds 1Q)",
+                "hdp": 5.5,
+                "over": "12.80"
+              },
+              {
+                "label": "Neemias Queta (Assists)",
+                "hdp": 1.5,
+                "over": "2.01"
+              },
+              {
+                "label": "Neemias Queta (Assists)",
+                "hdp": 2.5,
+                "over": "3.98"
+              },
+              {
+                "label": "Neemias Queta (Assists)",
+                "hdp": 3.5,
+                "over": "8.50"
+              },
+              {
+                "label": "Neemias Queta (Assists)",
+                "hdp": 4.5,
+                "over": "18.00"
+              },
+              {
+                "label": "Neemias Queta (Blocks)",
+                "hdp": 0.5,
+                "over": "1.32"
+              },
+              {
+                "label": "Neemias Queta (Blocks)",
+                "hdp": 1.5,
+                "over": "2.36"
+              },
+              {
+                "label": "Neemias Queta (Blocks)",
+                "hdp": 2.5,
+                "over": "5.02"
+              },
+              {
+                "label": "Neemias Queta (Blocks)",
+                "hdp": 3.5,
+                "over": "11.40"
+              },
+              {
+                "label": "Neemias Queta (Blocks)",
+                "hdp": 4.5,
+                "over": "23.00"
+              },
+              {
+                "label": "Neemias Queta (Double+Double)",
+                "hdp": 0.5,
+                "over": "7.70"
+              },
+              {
+                "label": "Neemias Queta (Points)",
+                "hdp": 8.5,
+                "over": "1.88",
+                "under": "1.89"
+              },
+              {
+                "label": "Neemias Queta (Pts+Asts)",
+                "hdp": 4.5,
+                "over": "1.09"
+              },
+              {
+                "label": "Neemias Queta (Pts+Asts)",
+                "hdp": 9.5,
+                "over": "1.66"
+              },
+              {
+                "label": "Neemias Queta (Pts+Asts)",
+                "hdp": 10.5,
+                "over": "1.90"
+              },
+              {
+                "label": "Neemias Queta (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "3.75"
+              },
+              {
+                "label": "Neemias Queta (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "10.70"
+              },
+              {
+                "label": "Neemias Queta (Pts+Asts)",
+                "hdp": 24.5,
+                "over": "25.00"
+              },
+              {
+                "label": "Neemias Queta (Pts+Rebs)",
+                "hdp": 14.5,
+                "over": "1.78",
+                "under": "1.97"
+              },
+              {
+                "label": "Neemias Queta (Pts+Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.13"
+              },
+              {
+                "label": "Neemias Queta (Pts+Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "1.54"
+              },
+              {
+                "label": "Neemias Queta (Pts+Rebs+Asts)",
+                "hdp": 16.5,
+                "over": "1.85"
+              },
+              {
+                "label": "Neemias Queta (Pts+Rebs+Asts)",
+                "hdp": 19.5,
+                "over": "2.63"
+              },
+              {
+                "label": "Neemias Queta (Pts+Rebs+Asts)",
+                "hdp": 24.5,
+                "over": "5.54"
+              },
+              {
+                "label": "Neemias Queta (Pts+Rebs+Asts)",
+                "hdp": 29.5,
+                "over": "12.60"
+              },
+              {
+                "label": "Neemias Queta (Pts+Rebs+Asts)",
+                "hdp": 34.5,
+                "over": "24.00"
+              },
+              {
+                "label": "Neemias Queta (Rebounds)",
+                "hdp": 5.5,
+                "over": "1.70",
+                "under": "2.08"
+              },
+              {
+                "label": "Neemias Queta (Rebs+Asts)",
+                "hdp": 4.5,
+                "over": "1.17"
+              },
+              {
+                "label": "Neemias Queta (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.83"
+              },
+              {
+                "label": "Neemias Queta (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "3.00"
+              },
+              {
+                "label": "Neemias Queta (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "5.25"
+              },
+              {
+                "label": "Neemias Queta (Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "13.00"
+              },
+              {
+                "label": "Norman Powell (3 Point FG)",
+                "hdp": 2.5,
+                "over": "1.72",
+                "under": "2.05"
+              },
+              {
+                "label": "Norman Powell (Assists)",
+                "hdp": 1.5,
+                "over": "1.57",
+                "under": "2.32"
+              },
+              {
+                "label": "Norman Powell (Points)",
+                "hdp": 20.5,
+                "over": "1.96",
+                "under": "1.81"
+              },
+              {
+                "label": "Norman Powell (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.09"
+              },
+              {
+                "label": "Norman Powell (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.25"
+              },
+              {
+                "label": "Norman Powell (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.44"
+              },
+              {
+                "label": "Norman Powell (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.66"
+              },
+              {
+                "label": "Norman Powell (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.07"
+              },
+              {
+                "label": "Norman Powell (Points 1Q)",
+                "hdp": 6.5,
+                "over": "2.55"
+              },
+              {
+                "label": "Norman Powell (Points 1Q)",
+                "hdp": 7.5,
+                "over": "3.26"
+              },
+              {
+                "label": "Norman Powell (Points 1Q)",
+                "hdp": 8.5,
+                "over": "4.39"
+              },
+              {
+                "label": "Norman Powell (Points 1Q)",
+                "hdp": 9.5,
+                "over": "5.88"
+              },
+              {
+                "label": "Norman Powell (Points 1Q)",
+                "hdp": 10.5,
+                "over": "8.20"
+              },
+              {
+                "label": "Norman Powell (Pts+Asts)",
+                "hdp": 22.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Norman Powell (Pts+Rebs)",
+                "hdp": 23.5,
+                "over": "1.86",
+                "under": "1.86"
+              },
+              {
+                "label": "Norman Powell (Pts+Rebs+Asts)",
+                "hdp": 25.5,
+                "over": "1.85",
+                "under": "1.89"
+              },
+              {
+                "label": "Norman Powell (Rebounds)",
+                "hdp": 3.5,
+                "over": "2.03",
+                "under": "1.74"
+              },
+              {
+                "label": "Norman Powell (Rebs+Asts)",
+                "hdp": 5.5,
+                "over": "1.95",
+                "under": "1.80"
+              },
+              {
+                "label": "Norman Powell (Steals)",
+                "hdp": 0.5,
+                "over": "1.37"
+              },
+              {
+                "label": "Norman Powell (Steals)",
+                "hdp": 1.5,
+                "over": "2.68"
+              },
+              {
+                "label": "Norman Powell (Steals)",
+                "hdp": 2.5,
+                "over": "6.25"
+              },
+              {
+                "label": "Norman Powell (Steals)",
+                "hdp": 3.5,
+                "over": "15.20"
+              },
+              {
+                "label": "Norman Powell (Steals)",
+                "hdp": 4.5,
+                "over": "26.00"
+              },
+              {
+                "label": "Paul George (3 Point FG)",
+                "hdp": 3.5,
+                "over": "2.22",
+                "under": "1.62"
+              },
+              {
+                "label": "Paul George (Assists)",
+                "hdp": 3.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Paul George (Double+Double)",
+                "hdp": 0.5,
+                "over": "12.80"
+              },
+              {
+                "label": "Paul George (Points)",
+                "hdp": 20.5,
+                "over": "1.83",
+                "under": "1.94"
+              },
+              {
+                "label": "Paul George (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.05"
+              },
+              {
+                "label": "Paul George (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.18"
+              },
+              {
+                "label": "Paul George (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.28"
+              },
+              {
+                "label": "Paul George (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.46"
+              },
+              {
+                "label": "Paul George (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.75"
+              },
+              {
+                "label": "Paul George (Points 1Q)",
+                "hdp": 6.5,
+                "over": "2.09"
+              },
+              {
+                "label": "Paul George (Points 1Q)",
+                "hdp": 7.5,
+                "over": "2.61"
+              },
+              {
+                "label": "Paul George (Points 1Q)",
+                "hdp": 8.5,
+                "over": "3.34"
+              },
+              {
+                "label": "Paul George (Points 1Q)",
+                "hdp": 9.5,
+                "over": "4.35"
+              },
+              {
+                "label": "Paul George (Points 1Q)",
+                "hdp": 10.5,
+                "over": "5.96"
+              },
+              {
+                "label": "Paul George (Points 1Q)",
+                "hdp": 11.5,
+                "over": "8.00"
+              },
+              {
+                "label": "Paul George (Pts+Asts)",
+                "hdp": 24.5,
+                "over": "1.85",
+                "under": "1.89"
+              },
+              {
+                "label": "Paul George (Pts+Rebs)",
+                "hdp": 25.5,
+                "over": "1.80",
+                "under": "1.94"
+              },
+              {
+                "label": "Paul George (Pts+Rebs+Asts)",
+                "hdp": 29.5,
+                "over": "1.84",
+                "under": "1.89"
+              },
+              {
+                "label": "Paul George (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.72",
+                "under": "2.04"
+              },
+              {
+                "label": "Paul George (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "2.22"
+              },
+              {
+                "label": "Paul George (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "4.99"
+              },
+              {
+                "label": "Paul George (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "13.60"
+              },
+              {
+                "label": "Paul George (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "1.92",
+                "under": "1.82"
+              },
+              {
+                "label": "Paul George (Steals)",
+                "hdp": 1.5,
+                "over": "1.87",
+                "under": "1.86"
+              },
+              {
+                "label": "Payton Pritchard (3 Point FG)",
+                "hdp": 2.5,
+                "over": "1.71",
+                "under": "2.05"
+              },
+              {
+                "label": "Payton Pritchard (Assists)",
+                "hdp": 4.5,
+                "over": "1.92",
+                "under": "1.81"
+              },
+              {
+                "label": "Payton Pritchard (Double+Double)",
+                "hdp": 0.5,
+                "over": "21.00"
+              },
+              {
+                "label": "Payton Pritchard (Points)",
+                "hdp": 16.5,
+                "over": "1.86",
+                "under": "1.90"
+              },
+              {
+                "label": "Payton Pritchard (Pts+Asts)",
+                "hdp": 21.5,
+                "over": "1.90",
+                "under": "1.83"
+              },
+              {
+                "label": "Payton Pritchard (Pts+Rebs)",
+                "hdp": 19.5,
+                "over": "1.88",
+                "under": "1.85"
+              },
+              {
+                "label": "Payton Pritchard (Pts+Rebs+Asts)",
+                "hdp": 24.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Payton Pritchard (Rebounds)",
+                "hdp": 2.5,
+                "over": "1.75",
+                "under": "2.01"
+              },
+              {
+                "label": "Payton Pritchard (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "2.01",
+                "under": "1.75"
+              },
+              {
+                "label": "Tre Jones (Assists)",
+                "hdp": 3.5,
+                "over": "2.01",
+                "under": "1.75"
+              },
+              {
+                "label": "Tre Jones (Points)",
+                "hdp": 8.5,
+                "over": "1.98",
+                "under": "1.80"
+              },
+              {
+                "label": "Tre Jones (Pts+Asts)",
+                "hdp": 11.5,
+                "over": "1.79",
+                "under": "1.96"
+              },
+              {
+                "label": "Tre Jones (Pts+Rebs)",
+                "hdp": 10.5,
+                "over": "1.86",
+                "under": "1.88"
+              },
+              {
+                "label": "Tre Jones (Pts+Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "1.96",
+                "under": "1.79"
+              },
+              {
+                "label": "Tre Jones (Rebounds)",
+                "hdp": 2.5,
+                "over": "2.35",
+                "under": "1.55"
+              },
+              {
+                "label": "Tre Jones (Rebs+Asts)",
+                "hdp": 5.5,
+                "over": "1.86",
+                "under": "1.87"
+              }
+            ]
           }
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
           "recommended_bet": 0.0,
-          "market_edge": -0.13359620330598576,
+          "market_edge": -0.17044540471624936,
           "latent_strength_A": 7.091850752870968,
           "latent_strength_B": -2.9535234490350355,
           "form_state_A": 0,
-          "form_state_B": 0,
+          "form_state_B": 1,
           "entropy_A": 3.321928094887362
         },
         "halves": {
@@ -33644,7 +35097,10 @@ const analyticsData = {
             "proj_ast": 5.843908430442081,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 5.5,
+            "market_pts": 16.5,
+            "market_reb": 3.5
           },
           {
             "player": "Hugo Gonz\u00e1lez",
@@ -33674,7 +35130,10 @@ const analyticsData = {
             "proj_ast": 4.591642338204492,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 7.5,
+            "market_pts": 27.5,
+            "market_reb": 8.5
           },
           {
             "player": "John Tonje",
@@ -33694,7 +35153,10 @@ const analyticsData = {
             "proj_ast": 0.20871101537293146,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 4.5,
+            "market_pts": 4.5,
+            "market_reb": 3.5
           },
           {
             "player": "Josh Minott",
@@ -33734,7 +35196,10 @@ const analyticsData = {
             "proj_ast": 1.565332615296986,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 4.5,
+            "market_pts": 8.5,
+            "market_reb": 5.5
           },
           {
             "player": "Nikola Vu\u010devi\u0107",
@@ -33754,7 +35219,10 @@ const analyticsData = {
             "proj_ast": 5.217775384323287,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 4.5,
+            "market_pts": 16.5,
+            "market_reb": 2.5
           },
           {
             "player": "Ron Harper Jr.",
@@ -33884,7 +35352,10 @@ const analyticsData = {
             "proj_ast": 1.0435550768646573,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 5.5,
+            "market_pts": 11.5,
+            "market_reb": 7.5
           },
           {
             "player": "Jevon Carter",
@@ -33904,7 +35375,10 @@ const analyticsData = {
             "proj_ast": 10.852972799392436,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 7.5,
+            "market_pts": 11.5,
+            "market_reb": 6.5
           },
           {
             "player": "Julian Phillips",
@@ -33944,7 +35418,9 @@ const analyticsData = {
             "proj_ast": 1.3566215999240545,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_pts": 9.5,
+            "market_reb": 4.5
           },
           {
             "player": "Mac McClung",
@@ -33964,7 +35440,10 @@ const analyticsData = {
             "proj_ast": 2.295821169102246,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 5.5,
+            "market_pts": 14.5,
+            "market_reb": 4.5
           },
           {
             "player": "Nick Richards",
@@ -34024,7 +35503,10 @@ const analyticsData = {
             "proj_ast": 4.2785758151450946,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 3.5,
+            "market_pts": 8.5,
+            "market_reb": 2.5
           },
           {
             "player": "Trentyn Flowers",
@@ -34085,9 +35567,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.23170981149172135,
-          "6-10": 0.09943921380096388,
-          "11+": 0.16333071484525222
+          "1-5": 0.2368865629579096,
+          "6-10": 0.10184182038957272,
+          "11+": 0.1689853327016902
         },
         "formA": [
           {
@@ -34443,7 +35925,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5870452936250875,
-      "mc_win_A": 0.6416,
+      "mc_win_A": 0.6282,
       "shap_explanation": {
         "adj_ortg_10": 0.02646168385662378,
         "adj_drtg_10": 0.026503735644187714,
@@ -34486,41 +35968,1643 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 118.30533795287353,
-          "ptsB": 117.33684526967473,
-          "total": 235.64218322254825,
-          "spread": -0.9684926831987903,
-          "win_prob_A": 53.06170394361227,
+          "ptsA": 117.53533795287352,
+          "ptsB": 116.70684526967473,
+          "total": 234.24218322254825,
+          "spread": -0.8284926831987944,
+          "win_prob_A": 52.138061005562264,
           "ml_prob_A": 0.4635942895999154,
-          "mc_win_A": 0.3628,
-          "base_win_prob_A": 0.5319569154272747,
-          "market_prob_A": 0.7414829659318637,
+          "mc_win_A": 0.3728,
+          "base_win_prob_A": 0.5273705944359346,
+          "market_prob_A": 0.7065217391304348,
           "market": {
             "ml": {
-              "home": "1.29",
-              "away": "3.70"
+              "home": "1.35",
+              "away": "3.25"
             },
             "spread": {
-              "hdp": -9.5,
-              "home": "1.90",
-              "away": "1.90"
+              "hdp": -6.5,
+              "home": "1.84",
+              "away": "1.98"
             },
             "total": {
-              "hdp": 230.5,
-              "over": "1.90",
-              "under": "1.90"
+              "hdp": 223.5,
+              "over": "1.89",
+              "under": "1.92"
             },
-            "props": []
+            "props": [
+              {
+                "label": "Ayo Dosunmu (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.91",
+                "under": "1.82"
+              },
+              {
+                "label": "Ayo Dosunmu (Assists)",
+                "hdp": 4.5,
+                "over": "1.99",
+                "under": "1.76"
+              },
+              {
+                "label": "Ayo Dosunmu (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "2.37"
+              },
+              {
+                "label": "Ayo Dosunmu (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "5.76"
+              },
+              {
+                "label": "Ayo Dosunmu (Double+Double)",
+                "hdp": 0.5,
+                "over": "20.00"
+              },
+              {
+                "label": "Ayo Dosunmu (Points)",
+                "hdp": 15.5,
+                "over": "1.83",
+                "under": "1.94"
+              },
+              {
+                "label": "Ayo Dosunmu (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.13"
+              },
+              {
+                "label": "Ayo Dosunmu (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.40"
+              },
+              {
+                "label": "Ayo Dosunmu (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.62"
+              },
+              {
+                "label": "Ayo Dosunmu (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.01"
+              },
+              {
+                "label": "Ayo Dosunmu (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.65"
+              },
+              {
+                "label": "Ayo Dosunmu (Points 1Q)",
+                "hdp": 6.5,
+                "over": "3.50"
+              },
+              {
+                "label": "Ayo Dosunmu (Points 1Q)",
+                "hdp": 7.5,
+                "over": "4.82"
+              },
+              {
+                "label": "Ayo Dosunmu (Points 1Q)",
+                "hdp": 8.5,
+                "over": "6.81"
+              },
+              {
+                "label": "Ayo Dosunmu (Points 1Q)",
+                "hdp": 9.5,
+                "over": "9.70"
+              },
+              {
+                "label": "Ayo Dosunmu (Pts+Asts)",
+                "hdp": 20.5,
+                "over": "1.87",
+                "under": "1.86"
+              },
+              {
+                "label": "Ayo Dosunmu (Pts+Rebs)",
+                "hdp": 20.5,
+                "over": "1.95",
+                "under": "1.80"
+              },
+              {
+                "label": "Ayo Dosunmu (Pts+Rebs+Asts)",
+                "hdp": 24.5,
+                "over": "1.83",
+                "under": "1.91"
+              },
+              {
+                "label": "Ayo Dosunmu (Rebounds)",
+                "hdp": 4.5,
+                "over": "2.25",
+                "under": "1.60"
+              },
+              {
+                "label": "Ayo Dosunmu (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "2.41"
+              },
+              {
+                "label": "Ayo Dosunmu (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "5.82"
+              },
+              {
+                "label": "Ayo Dosunmu (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "1.86",
+                "under": "1.88"
+              },
+              {
+                "label": "Ayo Dosunmu (Steals)",
+                "hdp": 1.5,
+                "over": "2.48",
+                "under": "1.50"
+              },
+              {
+                "label": "Ayo Dosunmu (Triple+Double)",
+                "hdp": 0.5,
+                "over": "85.00"
+              },
+              {
+                "label": "Darius Garland (3 Point FG)",
+                "hdp": 2.5,
+                "over": "1.74",
+                "under": "2.01"
+              },
+              {
+                "label": "Darius Garland (Assists)",
+                "hdp": 7.5,
+                "over": "1.98",
+                "under": "1.77"
+              },
+              {
+                "label": "Darius Garland (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.51"
+              },
+              {
+                "label": "Darius Garland (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "2.57"
+              },
+              {
+                "label": "Darius Garland (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "5.41"
+              },
+              {
+                "label": "Darius Garland (Assists 1Q)",
+                "hdp": 4.5,
+                "over": "13.40"
+              },
+              {
+                "label": "Darius Garland (Double+Double)",
+                "hdp": 0.5,
+                "over": "3.77"
+              },
+              {
+                "label": "Darius Garland (Points)",
+                "hdp": 24.5,
+                "over": "1.91",
+                "under": "1.85"
+              },
+              {
+                "label": "Darius Garland (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.05"
+              },
+              {
+                "label": "Darius Garland (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.18"
+              },
+              {
+                "label": "Darius Garland (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.28"
+              },
+              {
+                "label": "Darius Garland (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.46"
+              },
+              {
+                "label": "Darius Garland (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.72"
+              },
+              {
+                "label": "Darius Garland (Points 1Q)",
+                "hdp": 6.5,
+                "over": "2.04"
+              },
+              {
+                "label": "Darius Garland (Points 1Q)",
+                "hdp": 7.5,
+                "over": "2.52"
+              },
+              {
+                "label": "Darius Garland (Points 1Q)",
+                "hdp": 8.5,
+                "over": "3.19"
+              },
+              {
+                "label": "Darius Garland (Points 1Q)",
+                "hdp": 9.5,
+                "over": "4.06"
+              },
+              {
+                "label": "Darius Garland (Points 1Q)",
+                "hdp": 10.5,
+                "over": "5.32"
+              },
+              {
+                "label": "Darius Garland (Points 1Q)",
+                "hdp": 11.5,
+                "over": "7.10"
+              },
+              {
+                "label": "Darius Garland (Points 1Q)",
+                "hdp": 12.5,
+                "over": "9.50"
+              },
+              {
+                "label": "Darius Garland (Pts+Asts)",
+                "hdp": 32.5,
+                "over": "1.94",
+                "under": "1.80"
+              },
+              {
+                "label": "Darius Garland (Pts+Rebs)",
+                "hdp": 27.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Darius Garland (Pts+Rebs+Asts)",
+                "hdp": 34.5,
+                "over": "1.83",
+                "under": "1.90"
+              },
+              {
+                "label": "Darius Garland (Rebounds)",
+                "hdp": 2.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "Darius Garland (Rebs+Asts)",
+                "hdp": 10.5,
+                "over": "2.07",
+                "under": "1.70"
+              },
+              {
+                "label": "Darius Garland (Steals)",
+                "hdp": 1.5,
+                "over": "2.65",
+                "under": "1.44"
+              },
+              {
+                "label": "Darius Garland (Triple+Double)",
+                "hdp": 0.5,
+                "over": "88.00"
+              },
+              {
+                "label": "Derrick Jones Jr. (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.45",
+                "under": "1.51"
+              },
+              {
+                "label": "Derrick Jones Jr. (Assists)",
+                "hdp": 1.5,
+                "over": "1.95",
+                "under": "1.80"
+              },
+              {
+                "label": "Derrick Jones Jr. (Blocks)",
+                "hdp": 0.5,
+                "over": "1.59"
+              },
+              {
+                "label": "Derrick Jones Jr. (Blocks)",
+                "hdp": 1.5,
+                "over": "3.79"
+              },
+              {
+                "label": "Derrick Jones Jr. (Blocks)",
+                "hdp": 2.5,
+                "over": "10.30"
+              },
+              {
+                "label": "Derrick Jones Jr. (Blocks)",
+                "hdp": 3.5,
+                "over": "24.00"
+              },
+              {
+                "label": "Derrick Jones Jr. (Double+Double)",
+                "hdp": 0.5,
+                "over": "23.00"
+              },
+              {
+                "label": "Derrick Jones Jr. (Points)",
+                "hdp": 10.5,
+                "over": "1.85",
+                "under": "1.91"
+              },
+              {
+                "label": "Derrick Jones Jr. (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.33"
+              },
+              {
+                "label": "Derrick Jones Jr. (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.81"
+              },
+              {
+                "label": "Derrick Jones Jr. (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.41"
+              },
+              {
+                "label": "Derrick Jones Jr. (Points 1Q)",
+                "hdp": 4.5,
+                "over": "3.14"
+              },
+              {
+                "label": "Derrick Jones Jr. (Points 1Q)",
+                "hdp": 5.5,
+                "over": "4.72"
+              },
+              {
+                "label": "Derrick Jones Jr. (Points 1Q)",
+                "hdp": 6.5,
+                "over": "6.86"
+              },
+              {
+                "label": "Derrick Jones Jr. (Points 1Q)",
+                "hdp": 7.5,
+                "over": "10.20"
+              },
+              {
+                "label": "Derrick Jones Jr. (Pts+Asts)",
+                "hdp": 12.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Derrick Jones Jr. (Pts+Rebs)",
+                "hdp": 15.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Derrick Jones Jr. (Pts+Rebs+Asts)",
+                "hdp": 16.5,
+                "over": "1.79",
+                "under": "1.96"
+              },
+              {
+                "label": "Derrick Jones Jr. (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Derrick Jones Jr. (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "2.18"
+              },
+              {
+                "label": "Derrick Jones Jr. (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "4.89"
+              },
+              {
+                "label": "Derrick Jones Jr. (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "12.80"
+              },
+              {
+                "label": "Derrick Jones Jr. (Rebs+Asts)",
+                "hdp": 5.5,
+                "over": "1.65",
+                "under": "2.15"
+              },
+              {
+                "label": "Derrick Jones Jr. (Steals)",
+                "hdp": 1.5,
+                "over": "2.67",
+                "under": "1.44"
+              },
+              {
+                "label": "Derrick Jones Jr. (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "1.54"
+              },
+              {
+                "label": "Derrick Jones Jr. (Steals+Blocks)",
+                "hdp": 2.5,
+                "over": "2.55"
+              },
+              {
+                "label": "Derrick Jones Jr. (Steals+Blocks)",
+                "hdp": 3.5,
+                "over": "4.90"
+              },
+              {
+                "label": "Derrick Jones Jr. (Steals+Blocks)",
+                "hdp": 4.5,
+                "over": "9.50"
+              },
+              {
+                "label": "Isaiah Jackson (Assists)",
+                "hdp": 1.5,
+                "over": "2.00"
+              },
+              {
+                "label": "Isaiah Jackson (Assists)",
+                "hdp": 2.5,
+                "over": "3.95"
+              },
+              {
+                "label": "Isaiah Jackson (Assists)",
+                "hdp": 3.5,
+                "over": "8.70"
+              },
+              {
+                "label": "Isaiah Jackson (Assists)",
+                "hdp": 4.5,
+                "over": "18.60"
+              },
+              {
+                "label": "Isaiah Jackson (Blocks)",
+                "hdp": 0.5,
+                "over": "1.42"
+              },
+              {
+                "label": "Isaiah Jackson (Blocks)",
+                "hdp": 1.5,
+                "over": "2.81"
+              },
+              {
+                "label": "Isaiah Jackson (Blocks)",
+                "hdp": 2.5,
+                "over": "6.65"
+              },
+              {
+                "label": "Isaiah Jackson (Blocks)",
+                "hdp": 3.5,
+                "over": "15.40"
+              },
+              {
+                "label": "Isaiah Jackson (Double+Double)",
+                "hdp": 0.5,
+                "over": "5.47"
+              },
+              {
+                "label": "Isaiah Jackson (Points)",
+                "hdp": 8.5,
+                "over": "1.91",
+                "under": "1.85"
+              },
+              {
+                "label": "Isaiah Jackson (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.30"
+              },
+              {
+                "label": "Isaiah Jackson (Points 1Q)",
+                "hdp": 2.5,
+                "over": "2.04"
+              },
+              {
+                "label": "Isaiah Jackson (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.32"
+              },
+              {
+                "label": "Isaiah Jackson (Points 1Q)",
+                "hdp": 4.5,
+                "over": "4.01"
+              },
+              {
+                "label": "Isaiah Jackson (Points 1Q)",
+                "hdp": 5.5,
+                "over": "5.17"
+              },
+              {
+                "label": "Isaiah Jackson (Points 1Q)",
+                "hdp": 6.5,
+                "over": "9.10"
+              },
+              {
+                "label": "Isaiah Jackson (Pts+Asts)",
+                "hdp": 4.5,
+                "over": "1.09"
+              },
+              {
+                "label": "Isaiah Jackson (Pts+Asts)",
+                "hdp": 9.5,
+                "over": "1.72"
+              },
+              {
+                "label": "Isaiah Jackson (Pts+Asts)",
+                "hdp": 10.5,
+                "over": "1.97"
+              },
+              {
+                "label": "Isaiah Jackson (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "3.82"
+              },
+              {
+                "label": "Isaiah Jackson (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "10.50"
+              },
+              {
+                "label": "Isaiah Jackson (Pts+Asts)",
+                "hdp": 24.5,
+                "over": "24.00"
+              },
+              {
+                "label": "Isaiah Jackson (Pts+Rebs)",
+                "hdp": 15.5,
+                "over": "1.80",
+                "under": "1.95"
+              },
+              {
+                "label": "Isaiah Jackson (Pts+Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.10"
+              },
+              {
+                "label": "Isaiah Jackson (Pts+Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "1.45"
+              },
+              {
+                "label": "Isaiah Jackson (Pts+Rebs+Asts)",
+                "hdp": 17.5,
+                "over": "1.89"
+              },
+              {
+                "label": "Isaiah Jackson (Pts+Rebs+Asts)",
+                "hdp": 19.5,
+                "over": "2.36"
+              },
+              {
+                "label": "Isaiah Jackson (Pts+Rebs+Asts)",
+                "hdp": 24.5,
+                "over": "4.63"
+              },
+              {
+                "label": "Isaiah Jackson (Pts+Rebs+Asts)",
+                "hdp": 29.5,
+                "over": "10.20"
+              },
+              {
+                "label": "Isaiah Jackson (Pts+Rebs+Asts)",
+                "hdp": 34.5,
+                "over": "20.60"
+              },
+              {
+                "label": "Isaiah Jackson (Rebounds)",
+                "hdp": 6.5,
+                "over": "1.68",
+                "under": "2.11"
+              },
+              {
+                "label": "Isaiah Jackson (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.32"
+              },
+              {
+                "label": "Isaiah Jackson (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "1.90"
+              },
+              {
+                "label": "Isaiah Jackson (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "3.18"
+              },
+              {
+                "label": "Isaiah Jackson (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "5.90"
+              },
+              {
+                "label": "Isaiah Jackson (Rebounds 1Q)",
+                "hdp": 5.5,
+                "over": "12.00"
+              },
+              {
+                "label": "Isaiah Jackson (Rebs+Asts)",
+                "hdp": 4.5,
+                "over": "1.10"
+              },
+              {
+                "label": "Isaiah Jackson (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.55"
+              },
+              {
+                "label": "Isaiah Jackson (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "1.83"
+              },
+              {
+                "label": "Isaiah Jackson (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "2.30"
+              },
+              {
+                "label": "Isaiah Jackson (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "3.65"
+              },
+              {
+                "label": "Isaiah Jackson (Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "8.50"
+              },
+              {
+                "label": "Isaiah Jackson (Rebs+Asts)",
+                "hdp": 17.5,
+                "over": "19.00"
+              },
+              {
+                "label": "Jaden McDaniels (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.68",
+                "under": "2.11"
+              },
+              {
+                "label": "Jaden McDaniels (Assists)",
+                "hdp": 2.5,
+                "over": "1.84",
+                "under": "1.89"
+              },
+              {
+                "label": "Jaden McDaniels (Blocks)",
+                "hdp": 0.5,
+                "over": "1.54"
+              },
+              {
+                "label": "Jaden McDaniels (Blocks)",
+                "hdp": 1.5,
+                "over": "3.50"
+              },
+              {
+                "label": "Jaden McDaniels (Blocks)",
+                "hdp": 2.5,
+                "over": "9.20"
+              },
+              {
+                "label": "Jaden McDaniels (Blocks)",
+                "hdp": 3.5,
+                "over": "21.00"
+              },
+              {
+                "label": "Jaden McDaniels (Double+Double)",
+                "hdp": 0.5,
+                "over": "9.50"
+              },
+              {
+                "label": "Jaden McDaniels (Points)",
+                "hdp": 17.5,
+                "over": "1.97",
+                "under": "1.80"
+              },
+              {
+                "label": "Jaden McDaniels (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.11"
+              },
+              {
+                "label": "Jaden McDaniels (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.34"
+              },
+              {
+                "label": "Jaden McDaniels (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.52"
+              },
+              {
+                "label": "Jaden McDaniels (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.87"
+              },
+              {
+                "label": "Jaden McDaniels (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.39"
+              },
+              {
+                "label": "Jaden McDaniels (Points 1Q)",
+                "hdp": 6.5,
+                "over": "3.06"
+              },
+              {
+                "label": "Jaden McDaniels (Points 1Q)",
+                "hdp": 7.5,
+                "over": "4.11"
+              },
+              {
+                "label": "Jaden McDaniels (Points 1Q)",
+                "hdp": 8.5,
+                "over": "5.62"
+              },
+              {
+                "label": "Jaden McDaniels (Points 1Q)",
+                "hdp": 9.5,
+                "over": "8.00"
+              },
+              {
+                "label": "Jaden McDaniels (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "1.79",
+                "under": "1.95"
+              },
+              {
+                "label": "Jaden McDaniels (Pts+Rebs)",
+                "hdp": 22.5,
+                "over": "1.83",
+                "under": "1.90"
+              },
+              {
+                "label": "Jaden McDaniels (Pts+Rebs+Asts)",
+                "hdp": 25.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "Jaden McDaniels (Rebounds)",
+                "hdp": 5.5,
+                "over": "1.99",
+                "under": "1.76"
+              },
+              {
+                "label": "Jaden McDaniels (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.79"
+              },
+              {
+                "label": "Jaden McDaniels (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "3.31"
+              },
+              {
+                "label": "Jaden McDaniels (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "7.30"
+              },
+              {
+                "label": "Jaden McDaniels (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "2.05",
+                "under": "1.71"
+              },
+              {
+                "label": "Jaden McDaniels (Steals)",
+                "hdp": 0.5,
+                "over": "1.44",
+                "under": "2.67"
+              },
+              {
+                "label": "Jaden McDaniels (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "1.57"
+              },
+              {
+                "label": "Jaden McDaniels (Steals+Blocks)",
+                "hdp": 2.5,
+                "over": "2.60"
+              },
+              {
+                "label": "Jaden McDaniels (Steals+Blocks)",
+                "hdp": 3.5,
+                "over": "4.90"
+              },
+              {
+                "label": "Jaden McDaniels (Steals+Blocks)",
+                "hdp": 4.5,
+                "over": "9.50"
+              },
+              {
+                "label": "Jaden McDaniels (Triple+Double)",
+                "hdp": 0.5,
+                "over": "95.00"
+              },
+              {
+                "label": "Jonathan Kuminga (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.09",
+                "under": "1.69"
+              },
+              {
+                "label": "Jonathan Kuminga (Assists)",
+                "hdp": 2.5,
+                "over": "1.96",
+                "under": "1.79"
+              },
+              {
+                "label": "Jonathan Kuminga (Blocks)",
+                "hdp": 0.5,
+                "over": "2.21"
+              },
+              {
+                "label": "Jonathan Kuminga (Blocks)",
+                "hdp": 1.5,
+                "over": "7.60"
+              },
+              {
+                "label": "Jonathan Kuminga (Blocks)",
+                "hdp": 2.5,
+                "over": "22.00"
+              },
+              {
+                "label": "Jonathan Kuminga (Double+Double)",
+                "hdp": 0.5,
+                "over": "10.20"
+              },
+              {
+                "label": "Jonathan Kuminga (Points)",
+                "hdp": 14.5,
+                "over": "1.90",
+                "under": "1.86"
+              },
+              {
+                "label": "Jonathan Kuminga (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.16"
+              },
+              {
+                "label": "Jonathan Kuminga (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.42"
+              },
+              {
+                "label": "Jonathan Kuminga (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.70"
+              },
+              {
+                "label": "Jonathan Kuminga (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.11"
+              },
+              {
+                "label": "Jonathan Kuminga (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.84"
+              },
+              {
+                "label": "Jonathan Kuminga (Points 1Q)",
+                "hdp": 6.5,
+                "over": "3.73"
+              },
+              {
+                "label": "Jonathan Kuminga (Points 1Q)",
+                "hdp": 7.5,
+                "over": "5.18"
+              },
+              {
+                "label": "Jonathan Kuminga (Points 1Q)",
+                "hdp": 8.5,
+                "over": "7.50"
+              },
+              {
+                "label": "Jonathan Kuminga (Points 1Q)",
+                "hdp": 9.5,
+                "over": "11.00"
+              },
+              {
+                "label": "Jonathan Kuminga (Pts+Asts)",
+                "hdp": 17.5,
+                "over": "1.97",
+                "under": "1.78"
+              },
+              {
+                "label": "Jonathan Kuminga (Pts+Rebs)",
+                "hdp": 20.5,
+                "over": "1.91",
+                "under": "1.82"
+              },
+              {
+                "label": "Jonathan Kuminga (Pts+Rebs+Asts)",
+                "hdp": 22.5,
+                "over": "1.80",
+                "under": "1.94"
+              },
+              {
+                "label": "Jonathan Kuminga (Rebounds)",
+                "hdp": 5.5,
+                "over": "1.86",
+                "under": "1.88"
+              },
+              {
+                "label": "Jonathan Kuminga (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.75"
+              },
+              {
+                "label": "Jonathan Kuminga (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "3.33"
+              },
+              {
+                "label": "Jonathan Kuminga (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "7.50"
+              },
+              {
+                "label": "Jonathan Kuminga (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "2.05",
+                "under": "1.71"
+              },
+              {
+                "label": "Jonathan Kuminga (Steals)",
+                "hdp": 0.5,
+                "over": "1.23"
+              },
+              {
+                "label": "Jonathan Kuminga (Steals)",
+                "hdp": 1.5,
+                "over": "2.05"
+              },
+              {
+                "label": "Jonathan Kuminga (Steals)",
+                "hdp": 2.5,
+                "over": "4.22"
+              },
+              {
+                "label": "Jonathan Kuminga (Steals)",
+                "hdp": 3.5,
+                "over": "9.50"
+              },
+              {
+                "label": "Jonathan Kuminga (Steals)",
+                "hdp": 4.5,
+                "over": "19.80"
+              },
+              {
+                "label": "Jonathan Kuminga (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "1.55"
+              },
+              {
+                "label": "Jonathan Kuminga (Steals+Blocks)",
+                "hdp": 2.5,
+                "over": "2.65"
+              },
+              {
+                "label": "Jonathan Kuminga (Steals+Blocks)",
+                "hdp": 3.5,
+                "over": "5.00"
+              },
+              {
+                "label": "Jonathan Kuminga (Steals+Blocks)",
+                "hdp": 4.5,
+                "over": "10.50"
+              },
+              {
+                "label": "Keaton Wagler (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.72",
+                "under": "2.04"
+              },
+              {
+                "label": "Keaton Wagler (Assists)",
+                "hdp": 2.5,
+                "over": "1.70",
+                "under": "2.07"
+              },
+              {
+                "label": "Keaton Wagler (Double+Double)",
+                "hdp": 0.5,
+                "over": "23.00"
+              },
+              {
+                "label": "Keaton Wagler (Points)",
+                "hdp": 13.5,
+                "over": "1.96",
+                "under": "1.81"
+              },
+              {
+                "label": "Keaton Wagler (Pts+Asts)",
+                "hdp": 16.5,
+                "over": "1.94",
+                "under": "1.80"
+              },
+              {
+                "label": "Keaton Wagler (Pts+Rebs)",
+                "hdp": 17.5,
+                "over": "1.85",
+                "under": "1.88"
+              },
+              {
+                "label": "Keaton Wagler (Pts+Rebs+Asts)",
+                "hdp": 20.5,
+                "over": "1.86",
+                "under": "1.88"
+              },
+              {
+                "label": "Keaton Wagler (Rebounds)",
+                "hdp": 4.5,
+                "over": "2.16",
+                "under": "1.65"
+              },
+              {
+                "label": "Keaton Wagler (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "2.11",
+                "under": "1.68"
+              },
+              {
+                "label": "Kris Dunn (3 Point FG)",
+                "hdp": 0.5,
+                "over": "1.45",
+                "under": "2.64"
+              },
+              {
+                "label": "Kris Dunn (Assists)",
+                "hdp": 4.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Kris Dunn (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "2.50"
+              },
+              {
+                "label": "Kris Dunn (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "6.15"
+              },
+              {
+                "label": "Kris Dunn (Double+Double)",
+                "hdp": 0.5,
+                "over": "23.00"
+              },
+              {
+                "label": "Kris Dunn (Points)",
+                "hdp": 8.5,
+                "over": "1.97",
+                "under": "1.80"
+              },
+              {
+                "label": "Kris Dunn (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.44"
+              },
+              {
+                "label": "Kris Dunn (Points 1Q)",
+                "hdp": 2.5,
+                "over": "2.11"
+              },
+              {
+                "label": "Kris Dunn (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.94"
+              },
+              {
+                "label": "Kris Dunn (Points 1Q)",
+                "hdp": 4.5,
+                "over": "3.96"
+              },
+              {
+                "label": "Kris Dunn (Points 1Q)",
+                "hdp": 5.5,
+                "over": "6.44"
+              },
+              {
+                "label": "Kris Dunn (Points 1Q)",
+                "hdp": 6.5,
+                "over": "9.60"
+              },
+              {
+                "label": "Kris Dunn (Pts+Asts)",
+                "hdp": 12.5,
+                "over": "1.76",
+                "under": "2.00"
+              },
+              {
+                "label": "Kris Dunn (Pts+Rebs)",
+                "hdp": 12.5,
+                "over": "1.85",
+                "under": "1.89"
+              },
+              {
+                "label": "Kris Dunn (Pts+Rebs+Asts)",
+                "hdp": 17.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Kris Dunn (Rebounds)",
+                "hdp": 4.5,
+                "over": "2.20",
+                "under": "1.63"
+              },
+              {
+                "label": "Kris Dunn (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "2.37"
+              },
+              {
+                "label": "Kris Dunn (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "5.39"
+              },
+              {
+                "label": "Kris Dunn (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "1.82",
+                "under": "1.91"
+              },
+              {
+                "label": "Kris Dunn (Steals)",
+                "hdp": 0.5,
+                "over": "1.07"
+              },
+              {
+                "label": "Kris Dunn (Steals)",
+                "hdp": 1.5,
+                "over": "1.43"
+              },
+              {
+                "label": "Kris Dunn (Steals)",
+                "hdp": 2.5,
+                "over": "2.20"
+              },
+              {
+                "label": "Kris Dunn (Steals)",
+                "hdp": 3.5,
+                "over": "3.93"
+              },
+              {
+                "label": "Kris Dunn (Steals)",
+                "hdp": 4.5,
+                "over": "7.60"
+              },
+              {
+                "label": "Kris Dunn (Steals)",
+                "hdp": 5.5,
+                "over": "14.60"
+              },
+              {
+                "label": "Kris Dunn (Steals)",
+                "hdp": 6.5,
+                "over": "24.00"
+              },
+              {
+                "label": "Kris Dunn (Triple+Double)",
+                "hdp": 0.5,
+                "over": "79.00"
+              },
+              {
+                "label": "LaMelo Ball (3 Point FG)",
+                "hdp": 3.5,
+                "over": "1.84",
+                "under": "1.89"
+              },
+              {
+                "label": "LaMelo Ball (Assists)",
+                "hdp": 7.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "LaMelo Ball (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.40"
+              },
+              {
+                "label": "LaMelo Ball (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "2.24"
+              },
+              {
+                "label": "LaMelo Ball (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "4.39"
+              },
+              {
+                "label": "LaMelo Ball (Assists 1Q)",
+                "hdp": 4.5,
+                "over": "9.90"
+              },
+              {
+                "label": "LaMelo Ball (Double+Double)",
+                "hdp": 0.5,
+                "over": "3.22"
+              },
+              {
+                "label": "LaMelo Ball (Points)",
+                "hdp": 20.5,
+                "over": "1.92",
+                "under": "1.84"
+              },
+              {
+                "label": "LaMelo Ball (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.10"
+              },
+              {
+                "label": "LaMelo Ball (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.24"
+              },
+              {
+                "label": "LaMelo Ball (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.43"
+              },
+              {
+                "label": "LaMelo Ball (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.59"
+              },
+              {
+                "label": "LaMelo Ball (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.93"
+              },
+              {
+                "label": "LaMelo Ball (Points 1Q)",
+                "hdp": 6.5,
+                "over": "2.41"
+              },
+              {
+                "label": "LaMelo Ball (Points 1Q)",
+                "hdp": 7.5,
+                "over": "2.86"
+              },
+              {
+                "label": "LaMelo Ball (Points 1Q)",
+                "hdp": 8.5,
+                "over": "3.74"
+              },
+              {
+                "label": "LaMelo Ball (Points 1Q)",
+                "hdp": 9.5,
+                "over": "4.83"
+              },
+              {
+                "label": "LaMelo Ball (Points 1Q)",
+                "hdp": 10.5,
+                "over": "6.21"
+              },
+              {
+                "label": "LaMelo Ball (Points 1Q)",
+                "hdp": 11.5,
+                "over": "8.40"
+              },
+              {
+                "label": "LaMelo Ball (Pts+Asts)",
+                "hdp": 28.5,
+                "over": "1.90",
+                "under": "1.83"
+              },
+              {
+                "label": "LaMelo Ball (Pts+Rebs)",
+                "hdp": 24.5,
+                "over": "1.80",
+                "under": "1.94"
+              },
+              {
+                "label": "LaMelo Ball (Pts+Rebs+Asts)",
+                "hdp": 33.5,
+                "over": "1.92",
+                "under": "1.81"
+              },
+              {
+                "label": "LaMelo Ball (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.95",
+                "under": "1.79"
+              },
+              {
+                "label": "LaMelo Ball (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "2.19"
+              },
+              {
+                "label": "LaMelo Ball (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "4.90"
+              },
+              {
+                "label": "LaMelo Ball (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "13.00"
+              },
+              {
+                "label": "LaMelo Ball (Rebs+Asts)",
+                "hdp": 12.5,
+                "over": "1.97",
+                "under": "1.78"
+              },
+              {
+                "label": "LaMelo Ball (Steals)",
+                "hdp": 1.5,
+                "over": "2.36",
+                "under": "1.54"
+              },
+              {
+                "label": "LaMelo Ball (Triple+Double)",
+                "hdp": 0.5,
+                "over": "39.00"
+              },
+              {
+                "label": "Rudy Gobert (Blocks)",
+                "hdp": 0.5,
+                "over": "1.40"
+              },
+              {
+                "label": "Rudy Gobert (Blocks)",
+                "hdp": 1.5,
+                "over": "2.79"
+              },
+              {
+                "label": "Rudy Gobert (Blocks)",
+                "hdp": 2.5,
+                "over": "6.70"
+              },
+              {
+                "label": "Rudy Gobert (Blocks)",
+                "hdp": 3.5,
+                "over": "16.40"
+              },
+              {
+                "label": "Rudy Gobert (Double+Double)",
+                "hdp": 0.5,
+                "over": "2.29"
+              },
+              {
+                "label": "Rudy Gobert (Points)",
+                "hdp": 9.5,
+                "over": "1.81",
+                "under": "1.95"
+              },
+              {
+                "label": "Rudy Gobert (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.23"
+              },
+              {
+                "label": "Rudy Gobert (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.84"
+              },
+              {
+                "label": "Rudy Gobert (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.05"
+              },
+              {
+                "label": "Rudy Gobert (Points 1Q)",
+                "hdp": 4.5,
+                "over": "3.49"
+              },
+              {
+                "label": "Rudy Gobert (Points 1Q)",
+                "hdp": 5.5,
+                "over": "4.34"
+              },
+              {
+                "label": "Rudy Gobert (Points 1Q)",
+                "hdp": 6.5,
+                "over": "8.00"
+              },
+              {
+                "label": "Rudy Gobert (Pts+Rebs)",
+                "hdp": 21.5,
+                "over": "1.89",
+                "under": "1.84"
+              },
+              {
+                "label": "Rudy Gobert (Rebounds)",
+                "hdp": 11.5,
+                "over": "1.92",
+                "under": "1.81"
+              },
+              {
+                "label": "Rudy Gobert (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.11"
+              },
+              {
+                "label": "Rudy Gobert (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "1.33"
+              },
+              {
+                "label": "Rudy Gobert (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "1.78"
+              },
+              {
+                "label": "Rudy Gobert (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "2.65"
+              },
+              {
+                "label": "Rudy Gobert (Rebounds 1Q)",
+                "hdp": 5.5,
+                "over": "4.33"
+              },
+              {
+                "label": "Rudy Gobert (Rebounds 1Q)",
+                "hdp": 6.5,
+                "over": "7.70"
+              },
+              {
+                "label": "Rudy Gobert (Rebounds 1Q)",
+                "hdp": 7.5,
+                "over": "14.20"
+              },
+              {
+                "label": "Rui Hachimura (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.53",
+                "under": "2.42"
+              },
+              {
+                "label": "Rui Hachimura (Assists)",
+                "hdp": 1.5,
+                "over": "2.71",
+                "under": "1.43"
+              },
+              {
+                "label": "Rui Hachimura (Double+Double)",
+                "hdp": 0.5,
+                "over": "14.80"
+              },
+              {
+                "label": "Rui Hachimura (Points)",
+                "hdp": 15.5,
+                "over": "2.00",
+                "under": "1.78"
+              },
+              {
+                "label": "Rui Hachimura (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.15"
+              },
+              {
+                "label": "Rui Hachimura (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.42"
+              },
+              {
+                "label": "Rui Hachimura (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.68"
+              },
+              {
+                "label": "Rui Hachimura (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.02"
+              },
+              {
+                "label": "Rui Hachimura (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.74"
+              },
+              {
+                "label": "Rui Hachimura (Points 1Q)",
+                "hdp": 6.5,
+                "over": "3.56"
+              },
+              {
+                "label": "Rui Hachimura (Points 1Q)",
+                "hdp": 7.5,
+                "over": "4.90"
+              },
+              {
+                "label": "Rui Hachimura (Points 1Q)",
+                "hdp": 8.5,
+                "over": "6.95"
+              },
+              {
+                "label": "Rui Hachimura (Points 1Q)",
+                "hdp": 9.5,
+                "over": "9.90"
+              },
+              {
+                "label": "Rui Hachimura (Pts+Asts)",
+                "hdp": 16.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Rui Hachimura (Pts+Rebs)",
+                "hdp": 20.5,
+                "over": "1.92",
+                "under": "1.81"
+              },
+              {
+                "label": "Rui Hachimura (Pts+Rebs+Asts)",
+                "hdp": 21.5,
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "Rui Hachimura (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.69",
+                "under": "2.09"
+              },
+              {
+                "label": "Rui Hachimura (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.96"
+              },
+              {
+                "label": "Rui Hachimura (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "3.95"
+              },
+              {
+                "label": "Rui Hachimura (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "9.40"
+              },
+              {
+                "label": "Rui Hachimura (Rebs+Asts)",
+                "hdp": 6.5,
+                "over": "2.11",
+                "under": "1.68"
+              },
+              {
+                "label": "Terrence Shannon Jr. (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Terrence Shannon Jr. (Assists)",
+                "hdp": 2.5,
+                "over": "2.08",
+                "under": "1.69"
+              },
+              {
+                "label": "Terrence Shannon Jr. (Double+Double)",
+                "hdp": 0.5,
+                "over": "52.00"
+              },
+              {
+                "label": "Terrence Shannon Jr. (Points)",
+                "hdp": 14.5,
+                "over": "1.97",
+                "under": "1.80"
+              },
+              {
+                "label": "Terrence Shannon Jr. (Pts+Asts)",
+                "hdp": 16.5,
+                "over": "1.85",
+                "under": "1.89"
+              },
+              {
+                "label": "Terrence Shannon Jr. (Pts+Rebs)",
+                "hdp": 17.5,
+                "over": "1.89",
+                "under": "1.84"
+              },
+              {
+                "label": "Terrence Shannon Jr. (Pts+Rebs+Asts)",
+                "hdp": 19.5,
+                "over": "1.80",
+                "under": "1.95"
+              },
+              {
+                "label": "Terrence Shannon Jr. (Rebounds)",
+                "hdp": 3.5,
+                "over": "2.24",
+                "under": "1.61"
+              },
+              {
+                "label": "Terrence Shannon Jr. (Rebs+Asts)",
+                "hdp": 5.5,
+                "over": "1.85",
+                "under": "1.89"
+              }
+            ]
           }
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
           "recommended_bet": 0.0,
-          "market_edge": -0.21086592649574099,
+          "market_edge": -0.18514112907481217,
           "latent_strength_A": -1.9556884864469732,
           "latent_strength_B": 4.390603830960883,
-          "form_state_A": 1,
-          "form_state_B": 2,
+          "form_state_A": 2,
+          "form_state_B": 1,
           "entropy_A": 3.321928094887362
         },
         "halves": {
@@ -34570,7 +37654,10 @@ const analyticsData = {
             "proj_ast": 2.4079305029143976,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 4.5,
+            "market_pts": 15.5,
+            "market_reb": 4.5
           },
           {
             "player": "Bones Hyland",
@@ -34610,7 +37697,10 @@ const analyticsData = {
             "proj_ast": 2.2072696276715313,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 2.5,
+            "market_pts": 17.5,
+            "market_reb": 5.5
           },
           {
             "player": "Jaylen Clark",
@@ -34740,7 +37830,9 @@ const analyticsData = {
             "proj_ast": 2.2072696276715313,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_pts": 9.5,
+            "market_reb": 11.5
           },
           {
             "player": "Terrence Shannon Jr.",
@@ -34750,7 +37842,10 @@ const analyticsData = {
             "proj_ast": 0.6019826257285994,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 2.5,
+            "market_pts": 14.5,
+            "market_reb": 3.5
           },
           {
             "player": "Bennedict Mathurin",
@@ -34830,7 +37925,10 @@ const analyticsData = {
             "proj_ast": 6.7221393206360265,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 7.5,
+            "market_pts": 24.5,
+            "market_reb": 2.5
           },
           {
             "player": "Derrick Jones Jr.",
@@ -34840,7 +37938,10 @@ const analyticsData = {
             "proj_ast": 1.2039652514571988,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 1.5,
+            "market_pts": 10.5,
+            "market_reb": 4.5
           },
           {
             "player": "Isaiah Jackson",
@@ -34850,7 +37951,10 @@ const analyticsData = {
             "proj_ast": 1.3042956890786321,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 4.5,
+            "market_pts": 8.5,
+            "market_reb": 6.5
           },
           {
             "player": "Ivica Zubac",
@@ -34940,7 +38044,10 @@ const analyticsData = {
             "proj_ast": 4.013217504857329,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 4.5,
+            "market_pts": 8.5,
+            "market_reb": 4.5
           },
           {
             "player": "Nicolas Batum",
@@ -35041,9 +38148,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.17082267266048828,
-          "6-10": 0.07213364289075098,
-          "11+": 0.10843347849264225
+          "1-5": 0.16949831052156178,
+          "6-10": 0.07155226669956015,
+          "11+": 0.10738387525762627
         },
         "formA": [
           {
@@ -35399,7 +38506,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.4635942895999154,
-      "mc_win_A": 0.3628,
+      "mc_win_A": 0.3728,
       "shap_explanation": {
         "adj_ortg_10": -0.01843272418193166,
         "adj_drtg_10": 0.00035815413387481956,
@@ -35442,41 +38549,2112 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 112.55430185184886,
-          "ptsB": 116.30476762170687,
-          "total": 228.85906947355573,
-          "spread": 3.7504657698580077,
-          "win_prob_A": 43.87481195505995,
+          "ptsA": 112.00430185184887,
+          "ptsB": 116.45476762170686,
+          "total": 228.45906947355573,
+          "spread": 4.450465769858008,
+          "win_prob_A": 40.89980966673043,
           "ml_prob_A": 0.5218517701445698,
-          "mc_win_A": 0.387,
-          "base_win_prob_A": 0.3802154483895454,
-          "market_prob_A": 0.39999999999999997,
+          "mc_win_A": 0.3754,
+          "base_win_prob_A": 0.35935419927718215,
+          "market_prob_A": 0.32494279176201374,
           "market": {
             "ml": {
-              "home": "2.40",
-              "away": "1.60"
+              "home": "2.95",
+              "away": "1.42"
             },
             "spread": {
-              "hdp": 4.5,
-              "home": "1.90",
-              "away": "1.90"
+              "hdp": 6.5,
+              "home": "1.89",
+              "away": "1.92"
             },
             "total": {
-              "hdp": 226.5,
-              "over": "1.86",
-              "under": "1.95"
+              "hdp": 224.5,
+              "over": "1.92",
+              "under": "1.89"
             },
-            "props": []
+            "props": [
+              {
+                "label": "Alperen Sengun (3 Point FG)",
+                "hdp": 0.5,
+                "over": "1.75"
+              },
+              {
+                "label": "Alperen Sengun (3 Point FG)",
+                "hdp": 1.5,
+                "over": "4.57"
+              },
+              {
+                "label": "Alperen Sengun (3 Point FG)",
+                "hdp": 2.5,
+                "over": "13.00"
+              },
+              {
+                "label": "Alperen Sengun (3 Point FG)",
+                "hdp": 3.5,
+                "over": "29.00"
+              },
+              {
+                "label": "Alperen Sengun (Assists)",
+                "hdp": 5.5,
+                "over": "1.98",
+                "under": "1.78"
+              },
+              {
+                "label": "Alperen Sengun (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.97"
+              },
+              {
+                "label": "Alperen Sengun (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "4.00"
+              },
+              {
+                "label": "Alperen Sengun (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "10.10"
+              },
+              {
+                "label": "Alperen Sengun (Blocks)",
+                "hdp": 0.5,
+                "over": "1.72"
+              },
+              {
+                "label": "Alperen Sengun (Blocks)",
+                "hdp": 1.5,
+                "over": "4.34"
+              },
+              {
+                "label": "Alperen Sengun (Blocks)",
+                "hdp": 2.5,
+                "over": "12.40"
+              },
+              {
+                "label": "Alperen Sengun (Blocks)",
+                "hdp": 3.5,
+                "over": "27.00"
+              },
+              {
+                "label": "Alperen Sengun (Double+Double)",
+                "hdp": 0.5,
+                "over": "2.16"
+              },
+              {
+                "label": "Alperen Sengun (Points)",
+                "hdp": 21.5,
+                "over": "1.97",
+                "under": "1.80"
+              },
+              {
+                "label": "Alperen Sengun (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.06"
+              },
+              {
+                "label": "Alperen Sengun (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.26"
+              },
+              {
+                "label": "Alperen Sengun (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.33"
+              },
+              {
+                "label": "Alperen Sengun (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.73"
+              },
+              {
+                "label": "Alperen Sengun (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.95"
+              },
+              {
+                "label": "Alperen Sengun (Points 1Q)",
+                "hdp": 6.5,
+                "over": "2.67"
+              },
+              {
+                "label": "Alperen Sengun (Points 1Q)",
+                "hdp": 7.5,
+                "over": "3.29"
+              },
+              {
+                "label": "Alperen Sengun (Points 1Q)",
+                "hdp": 8.5,
+                "over": "4.83"
+              },
+              {
+                "label": "Alperen Sengun (Points 1Q)",
+                "hdp": 9.5,
+                "over": "6.38"
+              },
+              {
+                "label": "Alperen Sengun (Points 1Q)",
+                "hdp": 10.5,
+                "over": "9.80"
+              },
+              {
+                "label": "Alperen Sengun (Pts+Asts)",
+                "hdp": 26.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "Alperen Sengun (Pts+Rebs)",
+                "hdp": 30.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Alperen Sengun (Pts+Rebs+Asts)",
+                "hdp": 35.5,
+                "over": "1.83",
+                "under": "1.90"
+              },
+              {
+                "label": "Alperen Sengun (Rebounds)",
+                "hdp": 8.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "Alperen Sengun (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.30"
+              },
+              {
+                "label": "Alperen Sengun (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "1.85"
+              },
+              {
+                "label": "Alperen Sengun (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "3.04"
+              },
+              {
+                "label": "Alperen Sengun (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "5.41"
+              },
+              {
+                "label": "Alperen Sengun (Rebounds 1Q)",
+                "hdp": 5.5,
+                "over": "11.20"
+              },
+              {
+                "label": "Alperen Sengun (Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "1.95",
+                "under": "1.79"
+              },
+              {
+                "label": "Alperen Sengun (Triple+Double)",
+                "hdp": 0.5,
+                "over": "16.00"
+              },
+              {
+                "label": "Amen Thompson (3 Point FG)",
+                "hdp": 0.5,
+                "over": "3.01"
+              },
+              {
+                "label": "Amen Thompson (3 Point FG)",
+                "hdp": 1.5,
+                "over": "12.40"
+              },
+              {
+                "label": "Amen Thompson (Assists)",
+                "hdp": 4.5,
+                "over": "1.63",
+                "under": "2.20"
+              },
+              {
+                "label": "Amen Thompson (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "2.15"
+              },
+              {
+                "label": "Amen Thompson (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "4.63"
+              },
+              {
+                "label": "Amen Thompson (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "11.80"
+              },
+              {
+                "label": "Amen Thompson (Double+Double)",
+                "hdp": 0.5,
+                "over": "3.01"
+              },
+              {
+                "label": "Amen Thompson (Points)",
+                "hdp": 17.5,
+                "over": "1.90",
+                "under": "1.87"
+              },
+              {
+                "label": "Amen Thompson (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.10"
+              },
+              {
+                "label": "Amen Thompson (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.39"
+              },
+              {
+                "label": "Amen Thompson (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.49"
+              },
+              {
+                "label": "Amen Thompson (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.08"
+              },
+              {
+                "label": "Amen Thompson (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.40"
+              },
+              {
+                "label": "Amen Thompson (Points 1Q)",
+                "hdp": 6.5,
+                "over": "3.60"
+              },
+              {
+                "label": "Amen Thompson (Points 1Q)",
+                "hdp": 7.5,
+                "over": "4.53"
+              },
+              {
+                "label": "Amen Thompson (Points 1Q)",
+                "hdp": 8.5,
+                "over": "6.90"
+              },
+              {
+                "label": "Amen Thompson (Points 1Q)",
+                "hdp": 9.5,
+                "over": "9.20"
+              },
+              {
+                "label": "Amen Thompson (Pts+Asts)",
+                "hdp": 22.5,
+                "over": "1.86",
+                "under": "1.87"
+              },
+              {
+                "label": "Amen Thompson (Pts+Rebs)",
+                "hdp": 25.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Amen Thompson (Pts+Rebs+Asts)",
+                "hdp": 30.5,
+                "over": "1.87",
+                "under": "1.86"
+              },
+              {
+                "label": "Amen Thompson (Rebounds)",
+                "hdp": 7.5,
+                "over": "1.80",
+                "under": "1.94"
+              },
+              {
+                "label": "Amen Thompson (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.42"
+              },
+              {
+                "label": "Amen Thompson (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "2.25"
+              },
+              {
+                "label": "Amen Thompson (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "4.19"
+              },
+              {
+                "label": "Amen Thompson (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "9.00"
+              },
+              {
+                "label": "Amen Thompson (Rebs+Asts)",
+                "hdp": 12.5,
+                "over": "1.77",
+                "under": "1.98"
+              },
+              {
+                "label": "Amen Thompson (Steals)",
+                "hdp": 1.5,
+                "over": "2.23",
+                "under": "1.60"
+              },
+              {
+                "label": "Amen Thompson (Triple+Double)",
+                "hdp": 0.5,
+                "over": "25.00"
+              },
+              {
+                "label": "Cooper Flagg (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.36",
+                "under": "1.55"
+              },
+              {
+                "label": "Cooper Flagg (Assists)",
+                "hdp": 5.5,
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "Cooper Flagg (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.90"
+              },
+              {
+                "label": "Cooper Flagg (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "3.83"
+              },
+              {
+                "label": "Cooper Flagg (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "9.30"
+              },
+              {
+                "label": "Cooper Flagg (Blocks)",
+                "hdp": 0.5,
+                "over": "1.62"
+              },
+              {
+                "label": "Cooper Flagg (Blocks)",
+                "hdp": 1.5,
+                "over": "3.86"
+              },
+              {
+                "label": "Cooper Flagg (Blocks)",
+                "hdp": 2.5,
+                "over": "10.40"
+              },
+              {
+                "label": "Cooper Flagg (Blocks)",
+                "hdp": 3.5,
+                "over": "23.00"
+              },
+              {
+                "label": "Cooper Flagg (Double+Double)",
+                "hdp": 0.5,
+                "over": "4.42"
+              },
+              {
+                "label": "Cooper Flagg (Points)",
+                "hdp": 23.5,
+                "over": "1.92",
+                "under": "1.84"
+              },
+              {
+                "label": "Cooper Flagg (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.14"
+              },
+              {
+                "label": "Cooper Flagg (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.19"
+              },
+              {
+                "label": "Cooper Flagg (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.40"
+              },
+              {
+                "label": "Cooper Flagg (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.56"
+              },
+              {
+                "label": "Cooper Flagg (Points 1Q)",
+                "hdp": 6.5,
+                "over": "1.94"
+              },
+              {
+                "label": "Cooper Flagg (Points 1Q)",
+                "hdp": 7.5,
+                "over": "2.33"
+              },
+              {
+                "label": "Cooper Flagg (Points 1Q)",
+                "hdp": 8.5,
+                "over": "3.08"
+              },
+              {
+                "label": "Cooper Flagg (Points 1Q)",
+                "hdp": 9.5,
+                "over": "4.01"
+              },
+              {
+                "label": "Cooper Flagg (Points 1Q)",
+                "hdp": 10.5,
+                "over": "5.51"
+              },
+              {
+                "label": "Cooper Flagg (Points 1Q)",
+                "hdp": 11.5,
+                "over": "7.60"
+              },
+              {
+                "label": "Cooper Flagg (Points 1Q)",
+                "hdp": 12.5,
+                "over": "10.70"
+              },
+              {
+                "label": "Cooper Flagg (Pts+Asts)",
+                "hdp": 28.5,
+                "over": "1.79",
+                "under": "1.96"
+              },
+              {
+                "label": "Cooper Flagg (Pts+Rebs)",
+                "hdp": 29.5,
+                "over": "1.81",
+                "under": "1.92"
+              },
+              {
+                "label": "Cooper Flagg (Pts+Rebs+Asts)",
+                "hdp": 35.5,
+                "over": "1.87",
+                "under": "1.86"
+              },
+              {
+                "label": "Cooper Flagg (Rebounds)",
+                "hdp": 6.5,
+                "over": "2.03",
+                "under": "1.74"
+              },
+              {
+                "label": "Cooper Flagg (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.64"
+              },
+              {
+                "label": "Cooper Flagg (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "2.88"
+              },
+              {
+                "label": "Cooper Flagg (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "6.03"
+              },
+              {
+                "label": "Cooper Flagg (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "14.60"
+              },
+              {
+                "label": "Cooper Flagg (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "1.74",
+                "under": "2.03"
+              },
+              {
+                "label": "Cooper Flagg (Steals)",
+                "hdp": 1.5,
+                "over": "2.54",
+                "under": "1.48"
+              },
+              {
+                "label": "Cooper Flagg (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "1.52"
+              },
+              {
+                "label": "Cooper Flagg (Steals+Blocks)",
+                "hdp": 2.5,
+                "over": "2.50"
+              },
+              {
+                "label": "Cooper Flagg (Steals+Blocks)",
+                "hdp": 3.5,
+                "over": "4.60"
+              },
+              {
+                "label": "Cooper Flagg (Steals+Blocks)",
+                "hdp": 4.5,
+                "over": "9.00"
+              },
+              {
+                "label": "Cooper Flagg (Triple+Double)",
+                "hdp": 0.5,
+                "over": "31.00"
+              },
+              {
+                "label": "Daniel Gafford (Assists)",
+                "hdp": 1.5,
+                "over": "1.93"
+              },
+              {
+                "label": "Daniel Gafford (Assists)",
+                "hdp": 2.5,
+                "over": "3.74"
+              },
+              {
+                "label": "Daniel Gafford (Assists)",
+                "hdp": 3.5,
+                "over": "8.00"
+              },
+              {
+                "label": "Daniel Gafford (Assists)",
+                "hdp": 4.5,
+                "over": "17.80"
+              },
+              {
+                "label": "Daniel Gafford (Assists)",
+                "hdp": 5.5,
+                "over": "30.00"
+              },
+              {
+                "label": "Daniel Gafford (Blocks)",
+                "hdp": 0.5,
+                "over": "1.28"
+              },
+              {
+                "label": "Daniel Gafford (Blocks)",
+                "hdp": 1.5,
+                "over": "2.20"
+              },
+              {
+                "label": "Daniel Gafford (Blocks)",
+                "hdp": 2.5,
+                "over": "4.69"
+              },
+              {
+                "label": "Daniel Gafford (Blocks)",
+                "hdp": 3.5,
+                "over": "10.80"
+              },
+              {
+                "label": "Daniel Gafford (Blocks)",
+                "hdp": 4.5,
+                "over": "21.00"
+              },
+              {
+                "label": "Daniel Gafford (Double+Double)",
+                "hdp": 0.5,
+                "over": "7.70"
+              },
+              {
+                "label": "Daniel Gafford (Points)",
+                "hdp": 7.5,
+                "over": "1.75",
+                "under": "2.03"
+              },
+              {
+                "label": "Daniel Gafford (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.38"
+              },
+              {
+                "label": "Daniel Gafford (Points 1Q)",
+                "hdp": 2.5,
+                "over": "2.46"
+              },
+              {
+                "label": "Daniel Gafford (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.74"
+              },
+              {
+                "label": "Daniel Gafford (Points 1Q)",
+                "hdp": 4.5,
+                "over": "5.79"
+              },
+              {
+                "label": "Daniel Gafford (Points 1Q)",
+                "hdp": 5.5,
+                "over": "7.20"
+              },
+              {
+                "label": "Daniel Gafford (Pts+Asts)",
+                "hdp": 4.5,
+                "over": "1.11"
+              },
+              {
+                "label": "Daniel Gafford (Pts+Asts)",
+                "hdp": 9.5,
+                "over": "1.90"
+              },
+              {
+                "label": "Daniel Gafford (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "5.00"
+              },
+              {
+                "label": "Daniel Gafford (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "15.20"
+              },
+              {
+                "label": "Daniel Gafford (Pts+Rebs)",
+                "hdp": 14.5,
+                "over": "1.87",
+                "under": "1.86"
+              },
+              {
+                "label": "Daniel Gafford (Pts+Rebs+Asts)",
+                "hdp": 16.5,
+                "over": "1.94",
+                "under": "1.80"
+              },
+              {
+                "label": "Daniel Gafford (Rebounds)",
+                "hdp": 6.5,
+                "over": "1.86",
+                "under": "1.87"
+              },
+              {
+                "label": "Daniel Gafford (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.46"
+              },
+              {
+                "label": "Daniel Gafford (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "2.34"
+              },
+              {
+                "label": "Daniel Gafford (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "4.47"
+              },
+              {
+                "label": "Daniel Gafford (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "9.80"
+              },
+              {
+                "label": "Daniel Gafford (Rebs+Asts)",
+                "hdp": 4.5,
+                "over": "1.11"
+              },
+              {
+                "label": "Daniel Gafford (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.62"
+              },
+              {
+                "label": "Daniel Gafford (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "2.00"
+              },
+              {
+                "label": "Daniel Gafford (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "2.50"
+              },
+              {
+                "label": "Daniel Gafford (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "4.40"
+              },
+              {
+                "label": "Daniel Gafford (Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "12.00"
+              },
+              {
+                "label": "Daniel Gafford (Rebs+Asts)",
+                "hdp": 17.5,
+                "over": "26.00"
+              },
+              {
+                "label": "Fred VanVleet (3 Point FG)",
+                "hdp": 2.5,
+                "over": "2.28",
+                "under": "1.59"
+              },
+              {
+                "label": "Fred VanVleet (Assists)",
+                "hdp": 5.5,
+                "over": "1.68",
+                "under": "2.10"
+              },
+              {
+                "label": "Fred VanVleet (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.81"
+              },
+              {
+                "label": "Fred VanVleet (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "3.52"
+              },
+              {
+                "label": "Fred VanVleet (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "8.20"
+              },
+              {
+                "label": "Fred VanVleet (Double+Double)",
+                "hdp": 0.5,
+                "over": "9.50"
+              },
+              {
+                "label": "Fred VanVleet (Points)",
+                "hdp": 11.5,
+                "over": "1.81",
+                "under": "1.96"
+              },
+              {
+                "label": "Fred VanVleet (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.25"
+              },
+              {
+                "label": "Fred VanVleet (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.50"
+              },
+              {
+                "label": "Fred VanVleet (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.07"
+              },
+              {
+                "label": "Fred VanVleet (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.34"
+              },
+              {
+                "label": "Fred VanVleet (Points 1Q)",
+                "hdp": 5.5,
+                "over": "3.18"
+              },
+              {
+                "label": "Fred VanVleet (Points 1Q)",
+                "hdp": 6.5,
+                "over": "4.60"
+              },
+              {
+                "label": "Fred VanVleet (Points 1Q)",
+                "hdp": 7.5,
+                "over": "5.76"
+              },
+              {
+                "label": "Fred VanVleet (Points 1Q)",
+                "hdp": 8.5,
+                "over": "8.40"
+              },
+              {
+                "label": "Fred VanVleet (Pts+Asts)",
+                "hdp": 18.5,
+                "over": "1.96",
+                "under": "1.79"
+              },
+              {
+                "label": "Fred VanVleet (Pts+Rebs)",
+                "hdp": 15.5,
+                "over": "1.92",
+                "under": "1.81"
+              },
+              {
+                "label": "Fred VanVleet (Pts+Rebs+Asts)",
+                "hdp": 21.5,
+                "over": "1.87",
+                "under": "1.86"
+              },
+              {
+                "label": "Fred VanVleet (Rebounds)",
+                "hdp": 3.5,
+                "over": "2.23",
+                "under": "1.61"
+              },
+              {
+                "label": "Fred VanVleet (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "2.00",
+                "under": "1.75"
+              },
+              {
+                "label": "Fred VanVleet (Steals)",
+                "hdp": 1.5,
+                "over": "2.33",
+                "under": "1.56"
+              },
+              {
+                "label": "Jabari Smith Jr. (3 Point FG)",
+                "hdp": 2.5,
+                "over": "2.25",
+                "under": "1.60"
+              },
+              {
+                "label": "Jabari Smith Jr. (Assists)",
+                "hdp": 1.5,
+                "over": "1.70"
+              },
+              {
+                "label": "Jabari Smith Jr. (Assists)",
+                "hdp": 2.5,
+                "over": "3.06"
+              },
+              {
+                "label": "Jabari Smith Jr. (Assists)",
+                "hdp": 3.5,
+                "over": "6.19"
+              },
+              {
+                "label": "Jabari Smith Jr. (Assists)",
+                "hdp": 4.5,
+                "over": "13.00"
+              },
+              {
+                "label": "Jabari Smith Jr. (Assists)",
+                "hdp": 5.5,
+                "over": "25.00"
+              },
+              {
+                "label": "Jabari Smith Jr. (Blocks)",
+                "hdp": 0.5,
+                "over": "1.59"
+              },
+              {
+                "label": "Jabari Smith Jr. (Blocks)",
+                "hdp": 1.5,
+                "over": "3.75"
+              },
+              {
+                "label": "Jabari Smith Jr. (Blocks)",
+                "hdp": 2.5,
+                "over": "10.30"
+              },
+              {
+                "label": "Jabari Smith Jr. (Blocks)",
+                "hdp": 3.5,
+                "over": "23.00"
+              },
+              {
+                "label": "Jabari Smith Jr. (Double+Double)",
+                "hdp": 0.5,
+                "over": "6.60"
+              },
+              {
+                "label": "Jabari Smith Jr. (Points)",
+                "hdp": 15.5,
+                "over": "1.82",
+                "under": "1.94"
+              },
+              {
+                "label": "Jabari Smith Jr. (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.14"
+              },
+              {
+                "label": "Jabari Smith Jr. (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.37"
+              },
+              {
+                "label": "Jabari Smith Jr. (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.62"
+              },
+              {
+                "label": "Jabari Smith Jr. (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.90"
+              },
+              {
+                "label": "Jabari Smith Jr. (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.51"
+              },
+              {
+                "label": "Jabari Smith Jr. (Points 1Q)",
+                "hdp": 6.5,
+                "over": "3.25"
+              },
+              {
+                "label": "Jabari Smith Jr. (Points 1Q)",
+                "hdp": 7.5,
+                "over": "4.31"
+              },
+              {
+                "label": "Jabari Smith Jr. (Points 1Q)",
+                "hdp": 8.5,
+                "over": "6.19"
+              },
+              {
+                "label": "Jabari Smith Jr. (Points 1Q)",
+                "hdp": 9.5,
+                "over": "8.50"
+              },
+              {
+                "label": "Jabari Smith Jr. (Pts+Asts)",
+                "hdp": 9.5,
+                "over": "1.08"
+              },
+              {
+                "label": "Jabari Smith Jr. (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "1.42"
+              },
+              {
+                "label": "Jabari Smith Jr. (Pts+Asts)",
+                "hdp": 17.5,
+                "over": "1.85"
+              },
+              {
+                "label": "Jabari Smith Jr. (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "2.32"
+              },
+              {
+                "label": "Jabari Smith Jr. (Pts+Asts)",
+                "hdp": 24.5,
+                "over": "4.70"
+              },
+              {
+                "label": "Jabari Smith Jr. (Pts+Asts)",
+                "hdp": 29.5,
+                "over": "10.90"
+              },
+              {
+                "label": "Jabari Smith Jr. (Pts+Asts)",
+                "hdp": 34.5,
+                "over": "22.00"
+              },
+              {
+                "label": "Jabari Smith Jr. (Pts+Rebs)",
+                "hdp": 22.5,
+                "over": "1.94",
+                "under": "1.80"
+              },
+              {
+                "label": "Jabari Smith Jr. (Pts+Rebs+Asts)",
+                "hdp": 24.5,
+                "over": "1.96",
+                "under": "1.79"
+              },
+              {
+                "label": "Jabari Smith Jr. (Rebounds)",
+                "hdp": 6.5,
+                "over": "2.10",
+                "under": "1.68"
+              },
+              {
+                "label": "Jabari Smith Jr. (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.67"
+              },
+              {
+                "label": "Jabari Smith Jr. (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "3.01"
+              },
+              {
+                "label": "Jabari Smith Jr. (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "6.44"
+              },
+              {
+                "label": "Jabari Smith Jr. (Rebs+Asts)",
+                "hdp": 4.5,
+                "over": "1.11"
+              },
+              {
+                "label": "Jabari Smith Jr. (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.71"
+              },
+              {
+                "label": "Jabari Smith Jr. (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "2.80"
+              },
+              {
+                "label": "Jabari Smith Jr. (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "5.25"
+              },
+              {
+                "label": "Jabari Smith Jr. (Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "15.00"
+              },
+              {
+                "label": "Jabari Smith Jr. (Steals)",
+                "hdp": 0.5,
+                "over": "1.55"
+              },
+              {
+                "label": "Jabari Smith Jr. (Steals)",
+                "hdp": 1.5,
+                "over": "3.57"
+              },
+              {
+                "label": "Jabari Smith Jr. (Steals)",
+                "hdp": 2.5,
+                "over": "9.70"
+              },
+              {
+                "label": "Jabari Smith Jr. (Steals)",
+                "hdp": 3.5,
+                "over": "22.00"
+              },
+              {
+                "label": "Jabari Smith Jr. (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "1.71"
+              },
+              {
+                "label": "Jabari Smith Jr. (Steals+Blocks)",
+                "hdp": 2.5,
+                "over": "3.10"
+              },
+              {
+                "label": "Jabari Smith Jr. (Steals+Blocks)",
+                "hdp": 3.5,
+                "over": "6.00"
+              },
+              {
+                "label": "Kevin Durant (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.57",
+                "under": "2.31"
+              },
+              {
+                "label": "Kevin Durant (Assists)",
+                "hdp": 3.5,
+                "over": "1.69",
+                "under": "2.09"
+              },
+              {
+                "label": "Kevin Durant (Blocks)",
+                "hdp": 0.5,
+                "over": "1.50"
+              },
+              {
+                "label": "Kevin Durant (Blocks)",
+                "hdp": 1.5,
+                "over": "3.30"
+              },
+              {
+                "label": "Kevin Durant (Blocks)",
+                "hdp": 2.5,
+                "over": "8.60"
+              },
+              {
+                "label": "Kevin Durant (Blocks)",
+                "hdp": 3.5,
+                "over": "20.80"
+              },
+              {
+                "label": "Kevin Durant (Double+Double)",
+                "hdp": 0.5,
+                "over": "9.20"
+              },
+              {
+                "label": "Kevin Durant (Points)",
+                "hdp": 23.5,
+                "over": "1.97",
+                "under": "1.80"
+              },
+              {
+                "label": "Kevin Durant (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.05"
+              },
+              {
+                "label": "Kevin Durant (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.17"
+              },
+              {
+                "label": "Kevin Durant (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.25"
+              },
+              {
+                "label": "Kevin Durant (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.48"
+              },
+              {
+                "label": "Kevin Durant (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.69"
+              },
+              {
+                "label": "Kevin Durant (Points 1Q)",
+                "hdp": 6.5,
+                "over": "2.11"
+              },
+              {
+                "label": "Kevin Durant (Points 1Q)",
+                "hdp": 7.5,
+                "over": "2.63"
+              },
+              {
+                "label": "Kevin Durant (Points 1Q)",
+                "hdp": 8.5,
+                "over": "3.44"
+              },
+              {
+                "label": "Kevin Durant (Points 1Q)",
+                "hdp": 9.5,
+                "over": "4.54"
+              },
+              {
+                "label": "Kevin Durant (Points 1Q)",
+                "hdp": 10.5,
+                "over": "6.23"
+              },
+              {
+                "label": "Kevin Durant (Points 1Q)",
+                "hdp": 11.5,
+                "over": "8.50"
+              },
+              {
+                "label": "Kevin Durant (Pts+Asts)",
+                "hdp": 27.5,
+                "over": "1.91",
+                "under": "1.82"
+              },
+              {
+                "label": "Kevin Durant (Pts+Rebs)",
+                "hdp": 28.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "Kevin Durant (Pts+Rebs+Asts)",
+                "hdp": 32.5,
+                "over": "1.82",
+                "under": "1.91"
+              },
+              {
+                "label": "Kevin Durant (Rebounds)",
+                "hdp": 5.5,
+                "over": "1.92",
+                "under": "1.81"
+              },
+              {
+                "label": "Kevin Durant (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.80"
+              },
+              {
+                "label": "Kevin Durant (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "3.42"
+              },
+              {
+                "label": "Kevin Durant (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "7.80"
+              },
+              {
+                "label": "Kevin Durant (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.94",
+                "under": "1.80"
+              },
+              {
+                "label": "Kevin Durant (Triple+Double)",
+                "hdp": 0.5,
+                "over": "69.00"
+              },
+              {
+                "label": "Kyrie Irving (3 Point FG)",
+                "hdp": 2.5,
+                "over": "1.81",
+                "under": "1.92"
+              },
+              {
+                "label": "Kyrie Irving (Assists)",
+                "hdp": 3.5,
+                "over": "1.82",
+                "under": "1.91"
+              },
+              {
+                "label": "Kyrie Irving (Double+Double)",
+                "hdp": 0.5,
+                "over": "23.00"
+              },
+              {
+                "label": "Kyrie Irving (Points)",
+                "hdp": 19.5,
+                "over": "1.95",
+                "under": "1.81"
+              },
+              {
+                "label": "Kyrie Irving (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.10"
+              },
+              {
+                "label": "Kyrie Irving (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.30"
+              },
+              {
+                "label": "Kyrie Irving (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.47"
+              },
+              {
+                "label": "Kyrie Irving (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.76"
+              },
+              {
+                "label": "Kyrie Irving (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.24"
+              },
+              {
+                "label": "Kyrie Irving (Points 1Q)",
+                "hdp": 6.5,
+                "over": "2.83"
+              },
+              {
+                "label": "Kyrie Irving (Points 1Q)",
+                "hdp": 7.5,
+                "over": "3.76"
+              },
+              {
+                "label": "Kyrie Irving (Points 1Q)",
+                "hdp": 8.5,
+                "over": "5.12"
+              },
+              {
+                "label": "Kyrie Irving (Points 1Q)",
+                "hdp": 9.5,
+                "over": "6.98"
+              },
+              {
+                "label": "Kyrie Irving (Points 1Q)",
+                "hdp": 10.5,
+                "over": "9.90"
+              },
+              {
+                "label": "Kyrie Irving (Pts+Asts)",
+                "hdp": 23.5,
+                "over": "1.94",
+                "under": "1.80"
+              },
+              {
+                "label": "Kyrie Irving (Pts+Rebs)",
+                "hdp": 23.5,
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "Kyrie Irving (Pts+Rebs+Asts)",
+                "hdp": 27.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Kyrie Irving (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.65",
+                "under": "2.16"
+              },
+              {
+                "label": "Kyrie Irving (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "2.58"
+              },
+              {
+                "label": "Kyrie Irving (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "6.17"
+              },
+              {
+                "label": "Kyrie Irving (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.80",
+                "under": "1.94"
+              },
+              {
+                "label": "Kyrie Irving (Steals)",
+                "hdp": 1.5,
+                "over": "2.78",
+                "under": "1.41"
+              },
+              {
+                "label": "Marcus Sasser (3 Point FG)",
+                "hdp": 0.5,
+                "over": "1.38"
+              },
+              {
+                "label": "Marcus Sasser (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.58"
+              },
+              {
+                "label": "Marcus Sasser (3 Point FG)",
+                "hdp": 2.5,
+                "over": "5.84"
+              },
+              {
+                "label": "Marcus Sasser (3 Point FG)",
+                "hdp": 3.5,
+                "over": "13.80"
+              },
+              {
+                "label": "Marcus Sasser (3 Point FG)",
+                "hdp": 4.5,
+                "over": "27.00"
+              },
+              {
+                "label": "Marcus Sasser (Assists)",
+                "hdp": 2.5,
+                "over": "2.05"
+              },
+              {
+                "label": "Marcus Sasser (Assists)",
+                "hdp": 3.5,
+                "over": "3.36"
+              },
+              {
+                "label": "Marcus Sasser (Assists)",
+                "hdp": 4.5,
+                "over": "6.02"
+              },
+              {
+                "label": "Marcus Sasser (Assists)",
+                "hdp": 5.5,
+                "over": "11.40"
+              },
+              {
+                "label": "Marcus Sasser (Assists)",
+                "hdp": 6.5,
+                "over": "19.60"
+              },
+              {
+                "label": "Marcus Sasser (Assists)",
+                "hdp": 7.5,
+                "over": "29.00"
+              },
+              {
+                "label": "Marcus Sasser (Points)",
+                "hdp": 5.5,
+                "over": "1.76"
+              },
+              {
+                "label": "Marcus Sasser (Points)",
+                "hdp": 7.5,
+                "over": "2.49"
+              },
+              {
+                "label": "Marcus Sasser (Points)",
+                "hdp": 9.5,
+                "over": "3.88"
+              },
+              {
+                "label": "Marcus Sasser (Points)",
+                "hdp": 11.5,
+                "over": "6.17"
+              },
+              {
+                "label": "Marcus Sasser (Points)",
+                "hdp": 14.5,
+                "over": "12.40"
+              },
+              {
+                "label": "Marcus Sasser (Points)",
+                "hdp": 17.5,
+                "over": "22.00"
+              },
+              {
+                "label": "Marcus Sasser (Pts+Asts)",
+                "hdp": 4.5,
+                "over": "1.19"
+              },
+              {
+                "label": "Marcus Sasser (Pts+Asts)",
+                "hdp": 8.5,
+                "over": "1.88"
+              },
+              {
+                "label": "Marcus Sasser (Pts+Asts)",
+                "hdp": 9.5,
+                "over": "2.19"
+              },
+              {
+                "label": "Marcus Sasser (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "5.72"
+              },
+              {
+                "label": "Marcus Sasser (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "15.80"
+              },
+              {
+                "label": "Marcus Sasser (Pts+Rebs)",
+                "hdp": 4.5,
+                "over": "1.28"
+              },
+              {
+                "label": "Marcus Sasser (Pts+Rebs)",
+                "hdp": 7.5,
+                "over": "1.87"
+              },
+              {
+                "label": "Marcus Sasser (Pts+Rebs)",
+                "hdp": 9.5,
+                "over": "2.61"
+              },
+              {
+                "label": "Marcus Sasser (Pts+Rebs)",
+                "hdp": 14.5,
+                "over": "7.30"
+              },
+              {
+                "label": "Marcus Sasser (Pts+Rebs)",
+                "hdp": 19.5,
+                "over": "19.20"
+              },
+              {
+                "label": "Marcus Sasser (Pts+Rebs+Asts)",
+                "hdp": 4.5,
+                "over": "1.10"
+              },
+              {
+                "label": "Marcus Sasser (Pts+Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.74"
+              },
+              {
+                "label": "Marcus Sasser (Pts+Rebs+Asts)",
+                "hdp": 10.5,
+                "over": "1.99"
+              },
+              {
+                "label": "Marcus Sasser (Pts+Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "3.80"
+              },
+              {
+                "label": "Marcus Sasser (Pts+Rebs+Asts)",
+                "hdp": 19.5,
+                "over": "10.10"
+              },
+              {
+                "label": "Marcus Sasser (Pts+Rebs+Asts)",
+                "hdp": 24.5,
+                "over": "23.00"
+              },
+              {
+                "label": "Marcus Sasser (Rebounds)",
+                "hdp": 1.5,
+                "over": "2.01"
+              },
+              {
+                "label": "Marcus Sasser (Rebounds)",
+                "hdp": 2.5,
+                "over": "3.86"
+              },
+              {
+                "label": "Marcus Sasser (Rebounds)",
+                "hdp": 3.5,
+                "over": "8.10"
+              },
+              {
+                "label": "Marcus Sasser (Rebounds)",
+                "hdp": 4.5,
+                "over": "16.60"
+              },
+              {
+                "label": "Marcus Sasser (Rebounds)",
+                "hdp": 5.5,
+                "over": "29.00"
+              },
+              {
+                "label": "Max Christie (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.70",
+                "under": "2.08"
+              },
+              {
+                "label": "Max Christie (Assists)",
+                "hdp": 1.5,
+                "over": "1.84"
+              },
+              {
+                "label": "Max Christie (Assists)",
+                "hdp": 2.5,
+                "over": "3.48"
+              },
+              {
+                "label": "Max Christie (Assists)",
+                "hdp": 3.5,
+                "over": "7.40"
+              },
+              {
+                "label": "Max Christie (Assists)",
+                "hdp": 4.5,
+                "over": "16.40"
+              },
+              {
+                "label": "Max Christie (Assists)",
+                "hdp": 5.5,
+                "over": "29.00"
+              },
+              {
+                "label": "Max Christie (Double+Double)",
+                "hdp": 0.5,
+                "over": "63.00"
+              },
+              {
+                "label": "Max Christie (Points)",
+                "hdp": 9.5,
+                "over": "2.02",
+                "under": "1.76"
+              },
+              {
+                "label": "Max Christie (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.43"
+              },
+              {
+                "label": "Max Christie (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.84"
+              },
+              {
+                "label": "Max Christie (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.94"
+              },
+              {
+                "label": "Max Christie (Points 1Q)",
+                "hdp": 4.5,
+                "over": "3.42"
+              },
+              {
+                "label": "Max Christie (Points 1Q)",
+                "hdp": 5.5,
+                "over": "5.19"
+              },
+              {
+                "label": "Max Christie (Points 1Q)",
+                "hdp": 6.5,
+                "over": "8.40"
+              },
+              {
+                "label": "Max Christie (Pts+Asts)",
+                "hdp": 4.5,
+                "over": "1.07"
+              },
+              {
+                "label": "Max Christie (Pts+Asts)",
+                "hdp": 9.5,
+                "over": "1.59"
+              },
+              {
+                "label": "Max Christie (Pts+Asts)",
+                "hdp": 10.5,
+                "over": "1.79"
+              },
+              {
+                "label": "Max Christie (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "3.40"
+              },
+              {
+                "label": "Max Christie (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "9.00"
+              },
+              {
+                "label": "Max Christie (Pts+Asts)",
+                "hdp": 24.5,
+                "over": "21.00"
+              },
+              {
+                "label": "Max Christie (Pts+Rebs)",
+                "hdp": 12.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Max Christie (Pts+Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "1.99",
+                "under": "1.76"
+              },
+              {
+                "label": "Max Christie (Rebounds)",
+                "hdp": 3.5,
+                "over": "2.29",
+                "under": "1.58"
+              },
+              {
+                "label": "Naji Marshall (3 Point FG)",
+                "hdp": 0.5,
+                "over": "1.49",
+                "under": "2.52"
+              },
+              {
+                "label": "Naji Marshall (Assists)",
+                "hdp": 3.5,
+                "over": "2.08",
+                "under": "1.69"
+              },
+              {
+                "label": "Naji Marshall (Double+Double)",
+                "hdp": 0.5,
+                "over": "35.00"
+              },
+              {
+                "label": "Naji Marshall (Points)",
+                "hdp": 11.5,
+                "over": "1.86",
+                "under": "1.90"
+              },
+              {
+                "label": "Naji Marshall (Pts+Asts)",
+                "hdp": 15.5,
+                "over": "1.94",
+                "under": "1.80"
+              },
+              {
+                "label": "Naji Marshall (Pts+Rebs)",
+                "hdp": 15.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Naji Marshall (Pts+Rebs+Asts)",
+                "hdp": 18.5,
+                "over": "1.80",
+                "under": "1.95"
+              },
+              {
+                "label": "Naji Marshall (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.86",
+                "under": "1.87"
+              },
+              {
+                "label": "Naji Marshall (Rebs+Asts)",
+                "hdp": 6.5,
+                "over": "1.69",
+                "under": "2.09"
+              },
+              {
+                "label": "Naji Marshall (Steals)",
+                "hdp": 0.5,
+                "over": "1.45"
+              },
+              {
+                "label": "Naji Marshall (Steals)",
+                "hdp": 1.5,
+                "over": "3.10"
+              },
+              {
+                "label": "Naji Marshall (Steals)",
+                "hdp": 2.5,
+                "over": "7.90"
+              },
+              {
+                "label": "Naji Marshall (Steals)",
+                "hdp": 3.5,
+                "over": "18.20"
+              },
+              {
+                "label": "P.J. Washington (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.82",
+                "under": "1.91"
+              },
+              {
+                "label": "P.J. Washington (Assists)",
+                "hdp": 1.5,
+                "over": "1.99"
+              },
+              {
+                "label": "P.J. Washington (Assists)",
+                "hdp": 2.5,
+                "over": "4.09"
+              },
+              {
+                "label": "P.J. Washington (Assists)",
+                "hdp": 3.5,
+                "over": "9.30"
+              },
+              {
+                "label": "P.J. Washington (Assists)",
+                "hdp": 4.5,
+                "over": "20.40"
+              },
+              {
+                "label": "P.J. Washington (Double+Double)",
+                "hdp": 0.5,
+                "over": "6.15"
+              },
+              {
+                "label": "P.J. Washington (Points)",
+                "hdp": 12.5,
+                "over": "1.83",
+                "under": "1.93"
+              },
+              {
+                "label": "P.J. Washington (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.21"
+              },
+              {
+                "label": "P.J. Washington (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.56"
+              },
+              {
+                "label": "P.J. Washington (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.91"
+              },
+              {
+                "label": "P.J. Washington (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.42"
+              },
+              {
+                "label": "P.J. Washington (Points 1Q)",
+                "hdp": 5.5,
+                "over": "3.40"
+              },
+              {
+                "label": "P.J. Washington (Points 1Q)",
+                "hdp": 6.5,
+                "over": "4.65"
+              },
+              {
+                "label": "P.J. Washington (Points 1Q)",
+                "hdp": 7.5,
+                "over": "6.68"
+              },
+              {
+                "label": "P.J. Washington (Points 1Q)",
+                "hdp": 8.5,
+                "over": "9.90"
+              },
+              {
+                "label": "P.J. Washington (Pts+Asts)",
+                "hdp": 9.5,
+                "over": "1.21"
+              },
+              {
+                "label": "P.J. Washington (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "1.88"
+              },
+              {
+                "label": "P.J. Washington (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "3.88"
+              },
+              {
+                "label": "P.J. Washington (Pts+Asts)",
+                "hdp": 24.5,
+                "over": "9.60"
+              },
+              {
+                "label": "P.J. Washington (Pts+Asts)",
+                "hdp": 29.5,
+                "over": "21.00"
+              },
+              {
+                "label": "P.J. Washington (Pts+Rebs)",
+                "hdp": 19.5,
+                "over": "1.86",
+                "under": "1.87"
+              },
+              {
+                "label": "P.J. Washington (Pts+Rebs+Asts)",
+                "hdp": 21.5,
+                "over": "1.92",
+                "under": "1.81"
+              },
+              {
+                "label": "P.J. Washington (Rebounds)",
+                "hdp": 6.5,
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "P.J. Washington (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.60"
+              },
+              {
+                "label": "P.J. Washington (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "2.75"
+              },
+              {
+                "label": "P.J. Washington (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "5.59"
+              },
+              {
+                "label": "P.J. Washington (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "12.60"
+              },
+              {
+                "label": "P.J. Washington (Rebs+Asts)",
+                "hdp": 4.5,
+                "over": "1.10"
+              },
+              {
+                "label": "P.J. Washington (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.66"
+              },
+              {
+                "label": "P.J. Washington (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "2.10"
+              },
+              {
+                "label": "P.J. Washington (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "2.75"
+              },
+              {
+                "label": "P.J. Washington (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "5.25"
+              },
+              {
+                "label": "P.J. Washington (Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "14.00"
+              },
+              {
+                "label": "Tari Eason (3 Point FG)",
+                "hdp": 0.5,
+                "over": "1.41",
+                "under": "2.80"
+              },
+              {
+                "label": "Tari Eason (Assists)",
+                "hdp": 1.5,
+                "over": "2.22",
+                "under": "1.62"
+              },
+              {
+                "label": "Tari Eason (Double+Double)",
+                "hdp": 0.5,
+                "over": "11.60"
+              },
+              {
+                "label": "Tari Eason (Points)",
+                "hdp": 10.5,
+                "over": "1.92",
+                "under": "1.84"
+              },
+              {
+                "label": "Tari Eason (Pts+Asts)",
+                "hdp": 11.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "Tari Eason (Pts+Rebs)",
+                "hdp": 15.5,
+                "over": "1.80",
+                "under": "1.95"
+              },
+              {
+                "label": "Tari Eason (Pts+Rebs+Asts)",
+                "hdp": 17.5,
+                "over": "1.91",
+                "under": "1.82"
+              },
+              {
+                "label": "Tari Eason (Rebounds)",
+                "hdp": 5.5,
+                "over": "2.04",
+                "under": "1.72"
+              },
+              {
+                "label": "Tari Eason (Rebs+Asts)",
+                "hdp": 6.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "Zaccharie Risacher (3 Point FG)",
+                "hdp": 0.5,
+                "over": "1.41"
+              },
+              {
+                "label": "Zaccharie Risacher (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.85"
+              },
+              {
+                "label": "Zaccharie Risacher (3 Point FG)",
+                "hdp": 2.5,
+                "over": "6.91"
+              },
+              {
+                "label": "Zaccharie Risacher (3 Point FG)",
+                "hdp": 3.5,
+                "over": "16.20"
+              },
+              {
+                "label": "Zaccharie Risacher (Points)",
+                "hdp": 5.5,
+                "over": "1.29"
+              },
+              {
+                "label": "Zaccharie Risacher (Points)",
+                "hdp": 7.5,
+                "over": "1.63"
+              },
+              {
+                "label": "Zaccharie Risacher (Points)",
+                "hdp": 8.5,
+                "over": "1.86"
+              },
+              {
+                "label": "Zaccharie Risacher (Points)",
+                "hdp": 9.5,
+                "over": "2.20"
+              },
+              {
+                "label": "Zaccharie Risacher (Points)",
+                "hdp": 11.5,
+                "over": "3.19"
+              },
+              {
+                "label": "Zaccharie Risacher (Points)",
+                "hdp": 14.5,
+                "over": "6.05"
+              },
+              {
+                "label": "Zaccharie Risacher (Points)",
+                "hdp": 17.5,
+                "over": "12.20"
+              },
+              {
+                "label": "Zaccharie Risacher (Points)",
+                "hdp": 19.5,
+                "over": "19.00"
+              },
+              {
+                "label": "Zaccharie Risacher (Pts+Rebs)",
+                "hdp": 9.5,
+                "over": "1.30"
+              },
+              {
+                "label": "Zaccharie Risacher (Pts+Rebs)",
+                "hdp": 12.5,
+                "over": "1.78"
+              },
+              {
+                "label": "Zaccharie Risacher (Pts+Rebs)",
+                "hdp": 14.5,
+                "over": "2.36"
+              },
+              {
+                "label": "Zaccharie Risacher (Pts+Rebs)",
+                "hdp": 19.5,
+                "over": "5.63"
+              },
+              {
+                "label": "Zaccharie Risacher (Pts+Rebs)",
+                "hdp": 24.5,
+                "over": "15.20"
+              },
+              {
+                "label": "Zaccharie Risacher (Rebounds)",
+                "hdp": 2.5,
+                "over": "1.23"
+              },
+              {
+                "label": "Zaccharie Risacher (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.56"
+              },
+              {
+                "label": "Zaccharie Risacher (Rebounds)",
+                "hdp": 4.5,
+                "over": "2.16"
+              },
+              {
+                "label": "Zaccharie Risacher (Rebounds)",
+                "hdp": 5.5,
+                "over": "3.23"
+              },
+              {
+                "label": "Zaccharie Risacher (Rebounds)",
+                "hdp": 6.5,
+                "over": "5.18"
+              },
+              {
+                "label": "Zaccharie Risacher (Rebounds)",
+                "hdp": 7.5,
+                "over": "8.70"
+              },
+              {
+                "label": "Zaccharie Risacher (Rebounds)",
+                "hdp": 8.5,
+                "over": "14.60"
+              },
+              {
+                "label": "Zaccharie Risacher (Rebounds)",
+                "hdp": 9.5,
+                "over": "22.00"
+              },
+              {
+                "label": "Zaccharie Risacher (Steals)",
+                "hdp": 0.5,
+                "over": "1.39"
+              },
+              {
+                "label": "Zaccharie Risacher (Steals)",
+                "hdp": 1.5,
+                "over": "2.82"
+              },
+              {
+                "label": "Zaccharie Risacher (Steals)",
+                "hdp": 2.5,
+                "over": "6.75"
+              },
+              {
+                "label": "Zaccharie Risacher (Steals)",
+                "hdp": 3.5,
+                "over": "16.20"
+              }
+            ]
           }
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
-          "recommended_bet": 9.463479807399755,
-          "market_edge": 0.03874811955059948,
+          "recommended_bet": 26.48004938058302,
+          "market_edge": 0.0840553049052905,
           "latent_strength_A": -10.618255735009239,
           "latent_strength_B": -3.0522040387036955,
-          "form_state_A": 1,
-          "form_state_B": 0,
+          "form_state_A": 2,
+          "form_state_B": 1,
           "entropy_A": 3.321928094887362
         },
         "halves": {
@@ -35556,7 +40734,10 @@ const analyticsData = {
             "proj_ast": 5.81372179180436,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 5.5,
+            "market_pts": 23.5,
+            "market_reb": 6.5
           },
           {
             "player": "D'Angelo Russell",
@@ -35576,7 +40757,10 @@ const analyticsData = {
             "proj_ast": 1.3795272048349327,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 5.5,
+            "market_pts": 7.5,
+            "market_reb": 6.5
           },
           {
             "player": "Dereck Lively II",
@@ -35666,7 +40850,10 @@ const analyticsData = {
             "proj_ast": 1.2809895473467234,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 5.5,
+            "market_pts": 9.5,
+            "market_reb": 3.5
           },
           {
             "player": "Miles Kelly",
@@ -35696,7 +40883,10 @@ const analyticsData = {
             "proj_ast": 4.0400439570165885,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 3.5,
+            "market_pts": 11.5,
+            "market_reb": 3.5
           },
           {
             "player": "P.J. Washington",
@@ -35706,7 +40896,10 @@ const analyticsData = {
             "proj_ast": 1.8722154922759802,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 4.5,
+            "market_pts": 12.5,
+            "market_reb": 6.5
           },
           {
             "player": "Ryan Nembhard",
@@ -35756,7 +40949,10 @@ const analyticsData = {
             "proj_ast": 4.828345216922265,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 5.5,
+            "market_pts": 21.5,
+            "market_reb": 8.5
           },
           {
             "player": "Amen Thompson",
@@ -35766,7 +40962,10 @@ const analyticsData = {
             "proj_ast": 5.123958189386894,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 4.5,
+            "market_pts": 17.5,
+            "market_reb": 7.5
           },
           {
             "player": "Clint Capela",
@@ -35816,7 +41015,10 @@ const analyticsData = {
             "proj_ast": 1.675140177299561,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 5.5,
+            "market_pts": 15.5,
+            "market_reb": 6.5
           },
           {
             "player": "Jae'Sean Tate",
@@ -35856,7 +41058,10 @@ const analyticsData = {
             "proj_ast": 3.7444309845519603,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 3.5,
+            "market_pts": 23.5,
+            "market_reb": 5.5
           },
           {
             "player": "Reed Sheppard",
@@ -35886,7 +41091,10 @@ const analyticsData = {
             "proj_ast": 1.9707531497641897,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 1.5,
+            "market_pts": 10.5,
+            "market_reb": 5.5
           }
         ],
         "factors": {
@@ -35917,9 +41125,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.12000619464145389,
-          "6-10": 0.05097897676645156,
-          "11+": 0.0791256501075942
+          "1-5": 0.11293528861176146,
+          "6-10": 0.04804503539268149,
+          "11+": 0.07516441994002887
         },
         "formA": [
           {
@@ -36275,7 +41483,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5218517701445698,
-      "mc_win_A": 0.387,
+      "mc_win_A": 0.3754,
       "shap_explanation": {
         "adj_ortg_10": -0.018016792601255886,
         "adj_drtg_10": -0.038096464510262606,
@@ -36318,41 +41526,2234 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 126.05721965720153,
-          "ptsB": 114.60195400520027,
-          "total": 240.6591736624018,
-          "spread": -11.455265652001259,
-          "win_prob_A": 65.23306446216489,
+          "ptsA": 125.74971965720152,
+          "ptsB": 113.90945400520027,
+          "total": 239.6591736624018,
+          "spread": -11.840265652001253,
+          "win_prob_A": 71.04019928130994,
           "ml_prob_A": 0.6708546733435493,
-          "mc_win_A": 0.7234,
-          "base_win_prob_A": 0.8124272020015519,
-          "market_prob_A": 0.5728900255754477,
+          "mc_win_A": 0.7282,
+          "base_win_prob_A": 0.8197735564022517,
+          "market_prob_A": 0.7346938775510204,
           "market": {
             "ml": {
-              "home": "1.67",
-              "away": "2.24"
+              "home": "1.30",
+              "away": "3.60"
             },
             "spread": {
-              "hdp": -3.5,
-              "home": "1.90",
-              "away": "1.90"
+              "hdp": -8.5,
+              "home": "1.86",
+              "away": "1.95"
             },
             "total": {
-              "hdp": 241.5,
+              "hdp": 236.5,
               "over": "1.86",
               "under": "1.95"
             },
-            "props": []
+            "props": [
+              {
+                "label": "Aaron Nesmith (3 Point FG)",
+                "hdp": 2.5,
+                "over": "2.38",
+                "under": "1.54"
+              },
+              {
+                "label": "Aaron Nesmith (Assists)",
+                "hdp": 1.5,
+                "over": "1.68"
+              },
+              {
+                "label": "Aaron Nesmith (Assists)",
+                "hdp": 2.5,
+                "over": "2.94"
+              },
+              {
+                "label": "Aaron Nesmith (Assists)",
+                "hdp": 3.5,
+                "over": "6.02"
+              },
+              {
+                "label": "Aaron Nesmith (Assists)",
+                "hdp": 4.5,
+                "over": "12.80"
+              },
+              {
+                "label": "Aaron Nesmith (Assists)",
+                "hdp": 5.5,
+                "over": "24.00"
+              },
+              {
+                "label": "Aaron Nesmith (Blocks)",
+                "hdp": 0.5,
+                "over": "2.52"
+              },
+              {
+                "label": "Aaron Nesmith (Blocks)",
+                "hdp": 1.5,
+                "over": "9.10"
+              },
+              {
+                "label": "Aaron Nesmith (Blocks)",
+                "hdp": 2.5,
+                "over": "25.00"
+              },
+              {
+                "label": "Aaron Nesmith (Double+Double)",
+                "hdp": 0.5,
+                "over": "60.00"
+              },
+              {
+                "label": "Aaron Nesmith (Points)",
+                "hdp": 12.5,
+                "over": "1.86",
+                "under": "1.90"
+              },
+              {
+                "label": "Aaron Nesmith (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.27"
+              },
+              {
+                "label": "Aaron Nesmith (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.61"
+              },
+              {
+                "label": "Aaron Nesmith (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.20"
+              },
+              {
+                "label": "Aaron Nesmith (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.59"
+              },
+              {
+                "label": "Aaron Nesmith (Points 1Q)",
+                "hdp": 5.5,
+                "over": "3.71"
+              },
+              {
+                "label": "Aaron Nesmith (Points 1Q)",
+                "hdp": 6.5,
+                "over": "5.25"
+              },
+              {
+                "label": "Aaron Nesmith (Points 1Q)",
+                "hdp": 7.5,
+                "over": "7.00"
+              },
+              {
+                "label": "Aaron Nesmith (Points 1Q)",
+                "hdp": 8.5,
+                "over": "10.80"
+              },
+              {
+                "label": "Aaron Nesmith (Pts+Asts)",
+                "hdp": 9.5,
+                "over": "1.23"
+              },
+              {
+                "label": "Aaron Nesmith (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "1.86"
+              },
+              {
+                "label": "Aaron Nesmith (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "3.60"
+              },
+              {
+                "label": "Aaron Nesmith (Pts+Asts)",
+                "hdp": 24.5,
+                "over": "8.50"
+              },
+              {
+                "label": "Aaron Nesmith (Pts+Asts)",
+                "hdp": 29.5,
+                "over": "19.00"
+              },
+              {
+                "label": "Aaron Nesmith (Pts+Rebs)",
+                "hdp": 15.5,
+                "over": "1.80",
+                "under": "1.95"
+              },
+              {
+                "label": "Aaron Nesmith (Pts+Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.09"
+              },
+              {
+                "label": "Aaron Nesmith (Pts+Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "1.40"
+              },
+              {
+                "label": "Aaron Nesmith (Pts+Rebs+Asts)",
+                "hdp": 17.5,
+                "over": "1.80"
+              },
+              {
+                "label": "Aaron Nesmith (Pts+Rebs+Asts)",
+                "hdp": 19.5,
+                "over": "2.20"
+              },
+              {
+                "label": "Aaron Nesmith (Pts+Rebs+Asts)",
+                "hdp": 24.5,
+                "over": "4.26"
+              },
+              {
+                "label": "Aaron Nesmith (Pts+Rebs+Asts)",
+                "hdp": 29.5,
+                "over": "9.20"
+              },
+              {
+                "label": "Aaron Nesmith (Pts+Rebs+Asts)",
+                "hdp": 34.5,
+                "over": "19.80"
+              },
+              {
+                "label": "Aaron Nesmith (Rebounds)",
+                "hdp": 3.5,
+                "over": "2.21",
+                "under": "1.62"
+              },
+              {
+                "label": "Aaron Nesmith (Steals)",
+                "hdp": 0.5,
+                "over": "1.84"
+              },
+              {
+                "label": "Aaron Nesmith (Steals)",
+                "hdp": 1.5,
+                "over": "4.96"
+              },
+              {
+                "label": "Aaron Nesmith (Steals)",
+                "hdp": 2.5,
+                "over": "14.80"
+              },
+              {
+                "label": "Andrew Nembhard (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.72",
+                "under": "2.05"
+              },
+              {
+                "label": "Andrew Nembhard (Assists)",
+                "hdp": 8.5,
+                "over": "1.75",
+                "under": "2.00"
+              },
+              {
+                "label": "Andrew Nembhard (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.25"
+              },
+              {
+                "label": "Andrew Nembhard (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "1.78"
+              },
+              {
+                "label": "Andrew Nembhard (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "3.02"
+              },
+              {
+                "label": "Andrew Nembhard (Assists 1Q)",
+                "hdp": 4.5,
+                "over": "6.06"
+              },
+              {
+                "label": "Andrew Nembhard (Assists 1Q)",
+                "hdp": 5.5,
+                "over": "13.40"
+              },
+              {
+                "label": "Andrew Nembhard (Double+Double)",
+                "hdp": 0.5,
+                "over": "2.54"
+              },
+              {
+                "label": "Andrew Nembhard (Points)",
+                "hdp": 15.5,
+                "over": "1.87",
+                "under": "1.89"
+              },
+              {
+                "label": "Andrew Nembhard (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.15"
+              },
+              {
+                "label": "Andrew Nembhard (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.42"
+              },
+              {
+                "label": "Andrew Nembhard (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.65"
+              },
+              {
+                "label": "Andrew Nembhard (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.05"
+              },
+              {
+                "label": "Andrew Nembhard (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.66"
+              },
+              {
+                "label": "Andrew Nembhard (Points 1Q)",
+                "hdp": 6.5,
+                "over": "3.48"
+              },
+              {
+                "label": "Andrew Nembhard (Points 1Q)",
+                "hdp": 7.5,
+                "over": "4.64"
+              },
+              {
+                "label": "Andrew Nembhard (Points 1Q)",
+                "hdp": 8.5,
+                "over": "6.58"
+              },
+              {
+                "label": "Andrew Nembhard (Points 1Q)",
+                "hdp": 9.5,
+                "over": "9.00"
+              },
+              {
+                "label": "Andrew Nembhard (Pts+Asts)",
+                "hdp": 24.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "Andrew Nembhard (Pts+Rebs)",
+                "hdp": 18.5,
+                "over": "1.80",
+                "under": "1.94"
+              },
+              {
+                "label": "Andrew Nembhard (Pts+Rebs+Asts)",
+                "hdp": 27.5,
+                "over": "1.80",
+                "under": "1.95"
+              },
+              {
+                "label": "Andrew Nembhard (Rebounds)",
+                "hdp": 2.5,
+                "over": "1.57",
+                "under": "2.32"
+              },
+              {
+                "label": "Andrew Nembhard (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "1.72",
+                "under": "2.05"
+              },
+              {
+                "label": "Andrew Nembhard (Steals)",
+                "hdp": 0.5,
+                "over": "1.44"
+              },
+              {
+                "label": "Andrew Nembhard (Steals)",
+                "hdp": 1.5,
+                "over": "3.07"
+              },
+              {
+                "label": "Andrew Nembhard (Steals)",
+                "hdp": 2.5,
+                "over": "7.50"
+              },
+              {
+                "label": "Andrew Nembhard (Steals)",
+                "hdp": 3.5,
+                "over": "18.20"
+              },
+              {
+                "label": "Andrew Nembhard (Triple+Double)",
+                "hdp": 0.5,
+                "over": "67.00"
+              },
+              {
+                "label": "Andrew Wiggins (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.67",
+                "under": "2.13"
+              },
+              {
+                "label": "Andrew Wiggins (Assists)",
+                "hdp": 1.5,
+                "over": "1.64",
+                "under": "2.17"
+              },
+              {
+                "label": "Andrew Wiggins (Blocks)",
+                "hdp": 0.5,
+                "over": "1.60"
+              },
+              {
+                "label": "Andrew Wiggins (Blocks)",
+                "hdp": 1.5,
+                "over": "3.87"
+              },
+              {
+                "label": "Andrew Wiggins (Blocks)",
+                "hdp": 2.5,
+                "over": "11.00"
+              },
+              {
+                "label": "Andrew Wiggins (Blocks)",
+                "hdp": 3.5,
+                "over": "24.00"
+              },
+              {
+                "label": "Andrew Wiggins (Double+Double)",
+                "hdp": 0.5,
+                "over": "27.00"
+              },
+              {
+                "label": "Andrew Wiggins (Points)",
+                "hdp": 12.5,
+                "over": "1.81",
+                "under": "1.97"
+              },
+              {
+                "label": "Andrew Wiggins (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.21"
+              },
+              {
+                "label": "Andrew Wiggins (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.44"
+              },
+              {
+                "label": "Andrew Wiggins (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.89"
+              },
+              {
+                "label": "Andrew Wiggins (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.19"
+              },
+              {
+                "label": "Andrew Wiggins (Points 1Q)",
+                "hdp": 5.5,
+                "over": "3.00"
+              },
+              {
+                "label": "Andrew Wiggins (Points 1Q)",
+                "hdp": 6.5,
+                "over": "4.11"
+              },
+              {
+                "label": "Andrew Wiggins (Points 1Q)",
+                "hdp": 7.5,
+                "over": "5.37"
+              },
+              {
+                "label": "Andrew Wiggins (Points 1Q)",
+                "hdp": 8.5,
+                "over": "8.00"
+              },
+              {
+                "label": "Andrew Wiggins (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "1.79",
+                "under": "1.96"
+              },
+              {
+                "label": "Andrew Wiggins (Pts+Rebs)",
+                "hdp": 17.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Andrew Wiggins (Pts+Rebs+Asts)",
+                "hdp": 19.5,
+                "over": "1.89",
+                "under": "1.84"
+              },
+              {
+                "label": "Andrew Wiggins (Rebounds)",
+                "hdp": 4.5,
+                "over": "2.15",
+                "under": "1.66"
+              },
+              {
+                "label": "Andrew Wiggins (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "2.47"
+              },
+              {
+                "label": "Andrew Wiggins (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "5.77"
+              },
+              {
+                "label": "Andrew Wiggins (Rebs+Asts)",
+                "hdp": 6.5,
+                "over": "2.05",
+                "under": "1.72"
+              },
+              {
+                "label": "Andrew Wiggins (Steals)",
+                "hdp": 0.5,
+                "over": "1.56"
+              },
+              {
+                "label": "Andrew Wiggins (Steals)",
+                "hdp": 1.5,
+                "over": "3.62"
+              },
+              {
+                "label": "Andrew Wiggins (Steals)",
+                "hdp": 2.5,
+                "over": "9.70"
+              },
+              {
+                "label": "Andrew Wiggins (Steals)",
+                "hdp": 3.5,
+                "over": "22.00"
+              },
+              {
+                "label": "Bam Adebayo (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.13",
+                "under": "1.67"
+              },
+              {
+                "label": "Bam Adebayo (Assists)",
+                "hdp": 3.5,
+                "over": "1.75",
+                "under": "2.00"
+              },
+              {
+                "label": "Bam Adebayo (Blocks)",
+                "hdp": 0.5,
+                "over": "1.84"
+              },
+              {
+                "label": "Bam Adebayo (Blocks)",
+                "hdp": 1.5,
+                "over": "5.14"
+              },
+              {
+                "label": "Bam Adebayo (Blocks)",
+                "hdp": 2.5,
+                "over": "14.60"
+              },
+              {
+                "label": "Bam Adebayo (Double+Double)",
+                "hdp": 0.5,
+                "over": "1.85"
+              },
+              {
+                "label": "Bam Adebayo (Points)",
+                "hdp": 18.5,
+                "over": "1.88",
+                "under": "1.88"
+              },
+              {
+                "label": "Bam Adebayo (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.09"
+              },
+              {
+                "label": "Bam Adebayo (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.27"
+              },
+              {
+                "label": "Bam Adebayo (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.43"
+              },
+              {
+                "label": "Bam Adebayo (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.72"
+              },
+              {
+                "label": "Bam Adebayo (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.12"
+              },
+              {
+                "label": "Bam Adebayo (Points 1Q)",
+                "hdp": 6.5,
+                "over": "2.68"
+              },
+              {
+                "label": "Bam Adebayo (Points 1Q)",
+                "hdp": 7.5,
+                "over": "3.53"
+              },
+              {
+                "label": "Bam Adebayo (Points 1Q)",
+                "hdp": 8.5,
+                "over": "4.71"
+              },
+              {
+                "label": "Bam Adebayo (Points 1Q)",
+                "hdp": 9.5,
+                "over": "6.56"
+              },
+              {
+                "label": "Bam Adebayo (Points 1Q)",
+                "hdp": 10.5,
+                "over": "9.40"
+              },
+              {
+                "label": "Bam Adebayo (Pts+Asts)",
+                "hdp": 22.5,
+                "over": "1.85",
+                "under": "1.89"
+              },
+              {
+                "label": "Bam Adebayo (Pts+Rebs)",
+                "hdp": 28.5,
+                "over": "1.86",
+                "under": "1.87"
+              },
+              {
+                "label": "Bam Adebayo (Pts+Rebs+Asts)",
+                "hdp": 32.5,
+                "over": "1.87",
+                "under": "1.86"
+              },
+              {
+                "label": "Bam Adebayo (Rebounds)",
+                "hdp": 9.5,
+                "over": "1.81",
+                "under": "1.92"
+              },
+              {
+                "label": "Bam Adebayo (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.20"
+              },
+              {
+                "label": "Bam Adebayo (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "1.62"
+              },
+              {
+                "label": "Bam Adebayo (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "2.56"
+              },
+              {
+                "label": "Bam Adebayo (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "4.56"
+              },
+              {
+                "label": "Bam Adebayo (Rebounds 1Q)",
+                "hdp": 5.5,
+                "over": "9.50"
+              },
+              {
+                "label": "Bam Adebayo (Rebs+Asts)",
+                "hdp": 13.5,
+                "over": "1.85",
+                "under": "1.89"
+              },
+              {
+                "label": "Bam Adebayo (Steals)",
+                "hdp": 0.5,
+                "over": "1.26"
+              },
+              {
+                "label": "Bam Adebayo (Steals)",
+                "hdp": 1.5,
+                "over": "2.21"
+              },
+              {
+                "label": "Bam Adebayo (Steals)",
+                "hdp": 2.5,
+                "over": "4.85"
+              },
+              {
+                "label": "Bam Adebayo (Steals)",
+                "hdp": 3.5,
+                "over": "11.40"
+              },
+              {
+                "label": "Bam Adebayo (Steals)",
+                "hdp": 4.5,
+                "over": "23.00"
+              },
+              {
+                "label": "Bam Adebayo (Triple+Double)",
+                "hdp": 0.5,
+                "over": "52.00"
+              },
+              {
+                "label": "Bobby Portis (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.68",
+                "under": "2.11"
+              },
+              {
+                "label": "Bobby Portis (Assists)",
+                "hdp": 1.5,
+                "over": "1.85"
+              },
+              {
+                "label": "Bobby Portis (Assists)",
+                "hdp": 2.5,
+                "over": "3.59"
+              },
+              {
+                "label": "Bobby Portis (Assists)",
+                "hdp": 3.5,
+                "over": "7.60"
+              },
+              {
+                "label": "Bobby Portis (Assists)",
+                "hdp": 4.5,
+                "over": "16.60"
+              },
+              {
+                "label": "Bobby Portis (Assists)",
+                "hdp": 5.5,
+                "over": "29.00"
+              },
+              {
+                "label": "Bobby Portis (Double+Double)",
+                "hdp": 0.5,
+                "over": "4.58"
+              },
+              {
+                "label": "Bobby Portis (Points)",
+                "hdp": 12.5,
+                "over": "1.99",
+                "under": "1.79"
+              },
+              {
+                "label": "Bobby Portis (Pts+Asts)",
+                "hdp": 9.5,
+                "over": "1.26"
+              },
+              {
+                "label": "Bobby Portis (Pts+Asts)",
+                "hdp": 13.5,
+                "over": "1.80"
+              },
+              {
+                "label": "Bobby Portis (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "2.03"
+              },
+              {
+                "label": "Bobby Portis (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "4.16"
+              },
+              {
+                "label": "Bobby Portis (Pts+Asts)",
+                "hdp": 24.5,
+                "over": "10.00"
+              },
+              {
+                "label": "Bobby Portis (Pts+Asts)",
+                "hdp": 29.5,
+                "over": "21.00"
+              },
+              {
+                "label": "Bobby Portis (Pts+Rebs)",
+                "hdp": 19.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Bobby Portis (Pts+Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.02"
+              },
+              {
+                "label": "Bobby Portis (Pts+Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "1.19"
+              },
+              {
+                "label": "Bobby Portis (Pts+Rebs+Asts)",
+                "hdp": 19.5,
+                "over": "1.62"
+              },
+              {
+                "label": "Bobby Portis (Pts+Rebs+Asts)",
+                "hdp": 21.5,
+                "over": "1.94"
+              },
+              {
+                "label": "Bobby Portis (Pts+Rebs+Asts)",
+                "hdp": 24.5,
+                "over": "2.68"
+              },
+              {
+                "label": "Bobby Portis (Pts+Rebs+Asts)",
+                "hdp": 29.5,
+                "over": "5.06"
+              },
+              {
+                "label": "Bobby Portis (Pts+Rebs+Asts)",
+                "hdp": 34.5,
+                "over": "10.60"
+              },
+              {
+                "label": "Bobby Portis (Pts+Rebs+Asts)",
+                "hdp": 39.5,
+                "over": "20.60"
+              },
+              {
+                "label": "Bobby Portis (Rebounds)",
+                "hdp": 7.5,
+                "over": "2.09",
+                "under": "1.69"
+              },
+              {
+                "label": "Bobby Portis (Rebs+Asts)",
+                "hdp": 4.5,
+                "over": "1.07"
+              },
+              {
+                "label": "Bobby Portis (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.50"
+              },
+              {
+                "label": "Bobby Portis (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "1.76"
+              },
+              {
+                "label": "Bobby Portis (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "2.20"
+              },
+              {
+                "label": "Bobby Portis (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "3.75"
+              },
+              {
+                "label": "Bobby Portis (Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "9.50"
+              },
+              {
+                "label": "Bobby Portis (Rebs+Asts)",
+                "hdp": 17.5,
+                "over": "21.00"
+              },
+              {
+                "label": "Davion Mitchell (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.01",
+                "under": "1.75"
+              },
+              {
+                "label": "Davion Mitchell (Assists)",
+                "hdp": 6.5,
+                "over": "1.66",
+                "under": "2.13"
+              },
+              {
+                "label": "Davion Mitchell (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.46"
+              },
+              {
+                "label": "Davion Mitchell (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "2.41"
+              },
+              {
+                "label": "Davion Mitchell (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "4.79"
+              },
+              {
+                "label": "Davion Mitchell (Assists 1Q)",
+                "hdp": 4.5,
+                "over": "11.20"
+              },
+              {
+                "label": "Davion Mitchell (Double+Double)",
+                "hdp": 0.5,
+                "over": "5.17"
+              },
+              {
+                "label": "Davion Mitchell (Points)",
+                "hdp": 12.5,
+                "over": "1.82",
+                "under": "1.95"
+              },
+              {
+                "label": "Davion Mitchell (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.22"
+              },
+              {
+                "label": "Davion Mitchell (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.56"
+              },
+              {
+                "label": "Davion Mitchell (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.96"
+              },
+              {
+                "label": "Davion Mitchell (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.42"
+              },
+              {
+                "label": "Davion Mitchell (Points 1Q)",
+                "hdp": 5.5,
+                "over": "3.41"
+              },
+              {
+                "label": "Davion Mitchell (Points 1Q)",
+                "hdp": 6.5,
+                "over": "4.63"
+              },
+              {
+                "label": "Davion Mitchell (Points 1Q)",
+                "hdp": 7.5,
+                "over": "6.53"
+              },
+              {
+                "label": "Davion Mitchell (Points 1Q)",
+                "hdp": 8.5,
+                "over": "10.10"
+              },
+              {
+                "label": "Davion Mitchell (Pts+Asts)",
+                "hdp": 20.5,
+                "over": "1.97",
+                "under": "1.78"
+              },
+              {
+                "label": "Davion Mitchell (Pts+Rebs)",
+                "hdp": 14.5,
+                "over": "1.81",
+                "under": "1.92"
+              },
+              {
+                "label": "Davion Mitchell (Pts+Rebs+Asts)",
+                "hdp": 22.5,
+                "over": "1.91",
+                "under": "1.82"
+              },
+              {
+                "label": "Davion Mitchell (Rebounds)",
+                "hdp": 1.5,
+                "over": "1.57"
+              },
+              {
+                "label": "Davion Mitchell (Rebounds)",
+                "hdp": 2.5,
+                "over": "2.63"
+              },
+              {
+                "label": "Davion Mitchell (Rebounds)",
+                "hdp": 3.5,
+                "over": "5.19"
+              },
+              {
+                "label": "Davion Mitchell (Rebounds)",
+                "hdp": 4.5,
+                "over": "10.50"
+              },
+              {
+                "label": "Davion Mitchell (Rebounds)",
+                "hdp": 5.5,
+                "over": "20.20"
+              },
+              {
+                "label": "Davion Mitchell (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "2.05",
+                "under": "1.72"
+              },
+              {
+                "label": "Davion Mitchell (Steals)",
+                "hdp": 0.5,
+                "over": "1.46"
+              },
+              {
+                "label": "Davion Mitchell (Steals)",
+                "hdp": 1.5,
+                "over": "3.10"
+              },
+              {
+                "label": "Davion Mitchell (Steals)",
+                "hdp": 2.5,
+                "over": "7.90"
+              },
+              {
+                "label": "Davion Mitchell (Steals)",
+                "hdp": 3.5,
+                "over": "19.00"
+              },
+              {
+                "label": "Giannis Antetokounmpo (3 Point FG)",
+                "hdp": 0.5,
+                "over": "1.86",
+                "under": "1.87"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Assists)",
+                "hdp": 6.5,
+                "over": "2.09",
+                "under": "1.69"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.73"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "3.26"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "7.30"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Blocks)",
+                "hdp": 0.5,
+                "over": "1.56"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Blocks)",
+                "hdp": 1.5,
+                "over": "3.67"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Blocks)",
+                "hdp": 2.5,
+                "over": "9.90"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Blocks)",
+                "hdp": 3.5,
+                "over": "23.00"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Double+Double)",
+                "hdp": 0.5,
+                "over": "1.29"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Points)",
+                "hdp": 31.5,
+                "over": "1.84",
+                "under": "1.93"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.06"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.09"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.19"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.27"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Points 1Q)",
+                "hdp": 6.5,
+                "over": "1.46"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Points 1Q)",
+                "hdp": 7.5,
+                "over": "1.63"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Points 1Q)",
+                "hdp": 8.5,
+                "over": "1.96"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Points 1Q)",
+                "hdp": 9.5,
+                "over": "2.30"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Points 1Q)",
+                "hdp": 10.5,
+                "over": "2.87"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Points 1Q)",
+                "hdp": 11.5,
+                "over": "3.56"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Points 1Q)",
+                "hdp": 12.5,
+                "over": "4.69"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Points 1Q)",
+                "hdp": 13.5,
+                "over": "6.11"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Points 1Q)",
+                "hdp": 14.5,
+                "over": "8.40"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Pts+Asts)",
+                "hdp": 38.5,
+                "over": "1.90",
+                "under": "1.83"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Pts+Rebs)",
+                "hdp": 43.5,
+                "over": "1.82",
+                "under": "1.91"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Pts+Rebs+Asts)",
+                "hdp": 50.5,
+                "over": "1.86",
+                "under": "1.88"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Rebounds)",
+                "hdp": 11.5,
+                "over": "1.76",
+                "under": "1.99"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.11"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "1.35"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "1.82"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "2.76"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Rebounds 1Q)",
+                "hdp": 5.5,
+                "over": "4.67"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Rebounds 1Q)",
+                "hdp": 6.5,
+                "over": "8.60"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Rebs+Asts)",
+                "hdp": 18.5,
+                "over": "1.95",
+                "under": "1.79"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Steals)",
+                "hdp": 0.5,
+                "over": "1.46"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Steals)",
+                "hdp": 1.5,
+                "over": "3.14"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Steals)",
+                "hdp": 2.5,
+                "over": "8.00"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Steals)",
+                "hdp": 3.5,
+                "over": "19.00"
+              },
+              {
+                "label": "Giannis Antetokounmpo (Triple+Double)",
+                "hdp": 0.5,
+                "over": "7.80"
+              },
+              {
+                "label": "Jay Huff (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.43",
+                "under": "1.52"
+              },
+              {
+                "label": "Jay Huff (Assists)",
+                "hdp": 1.5,
+                "over": "2.31"
+              },
+              {
+                "label": "Jay Huff (Assists)",
+                "hdp": 2.5,
+                "over": "4.99"
+              },
+              {
+                "label": "Jay Huff (Assists)",
+                "hdp": 3.5,
+                "over": "11.40"
+              },
+              {
+                "label": "Jay Huff (Assists)",
+                "hdp": 4.5,
+                "over": "25.00"
+              },
+              {
+                "label": "Jay Huff (Blocks)",
+                "hdp": 0.5,
+                "over": "1.33"
+              },
+              {
+                "label": "Jay Huff (Blocks)",
+                "hdp": 1.5,
+                "over": "2.40"
+              },
+              {
+                "label": "Jay Huff (Blocks)",
+                "hdp": 2.5,
+                "over": "5.25"
+              },
+              {
+                "label": "Jay Huff (Blocks)",
+                "hdp": 3.5,
+                "over": "12.20"
+              },
+              {
+                "label": "Jay Huff (Blocks)",
+                "hdp": 4.5,
+                "over": "23.00"
+              },
+              {
+                "label": "Jay Huff (Double+Double)",
+                "hdp": 0.5,
+                "over": "26.00"
+              },
+              {
+                "label": "Jay Huff (Points)",
+                "hdp": 7.5,
+                "over": "1.95",
+                "under": "1.82"
+              },
+              {
+                "label": "Jay Huff (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.49"
+              },
+              {
+                "label": "Jay Huff (Points 1Q)",
+                "hdp": 2.5,
+                "over": "2.06"
+              },
+              {
+                "label": "Jay Huff (Points 1Q)",
+                "hdp": 3.5,
+                "over": "3.21"
+              },
+              {
+                "label": "Jay Huff (Points 1Q)",
+                "hdp": 4.5,
+                "over": "3.93"
+              },
+              {
+                "label": "Jay Huff (Points 1Q)",
+                "hdp": 5.5,
+                "over": "6.29"
+              },
+              {
+                "label": "Jay Huff (Points 1Q)",
+                "hdp": 6.5,
+                "over": "10.00"
+              },
+              {
+                "label": "Jay Huff (Pts+Asts)",
+                "hdp": 4.5,
+                "over": "1.18"
+              },
+              {
+                "label": "Jay Huff (Pts+Asts)",
+                "hdp": 8.5,
+                "over": "1.85"
+              },
+              {
+                "label": "Jay Huff (Pts+Asts)",
+                "hdp": 9.5,
+                "over": "2.15"
+              },
+              {
+                "label": "Jay Huff (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "5.57"
+              },
+              {
+                "label": "Jay Huff (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "15.40"
+              },
+              {
+                "label": "Jay Huff (Pts+Rebs)",
+                "hdp": 11.5,
+                "over": "1.78",
+                "under": "1.97"
+              },
+              {
+                "label": "Jay Huff (Pts+Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.29"
+              },
+              {
+                "label": "Jay Huff (Pts+Rebs+Asts)",
+                "hdp": 13.5,
+                "over": "1.95"
+              },
+              {
+                "label": "Jay Huff (Pts+Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "2.22"
+              },
+              {
+                "label": "Jay Huff (Pts+Rebs+Asts)",
+                "hdp": 19.5,
+                "over": "4.88"
+              },
+              {
+                "label": "Jay Huff (Pts+Rebs+Asts)",
+                "hdp": 24.5,
+                "over": "12.00"
+              },
+              {
+                "label": "Jay Huff (Pts+Rebs+Asts)",
+                "hdp": 29.5,
+                "over": "25.00"
+              },
+              {
+                "label": "Jay Huff (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.90",
+                "under": "1.83"
+              },
+              {
+                "label": "Jay Huff (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.70"
+              },
+              {
+                "label": "Jay Huff (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "3.10"
+              },
+              {
+                "label": "Jay Huff (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "6.75"
+              },
+              {
+                "label": "Jay Huff (Steals)",
+                "hdp": 0.5,
+                "over": "2.27"
+              },
+              {
+                "label": "Jay Huff (Steals)",
+                "hdp": 1.5,
+                "over": "7.60"
+              },
+              {
+                "label": "Jay Huff (Steals)",
+                "hdp": 2.5,
+                "over": "21.00"
+              },
+              {
+                "label": "Kelly Oubre Jr. (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.21",
+                "under": "1.62"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Assists)",
+                "hdp": 1.5,
+                "over": "1.68"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Assists)",
+                "hdp": 2.5,
+                "over": "2.97"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Assists)",
+                "hdp": 3.5,
+                "over": "6.05"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Assists)",
+                "hdp": 4.5,
+                "over": "12.80"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Assists)",
+                "hdp": 5.5,
+                "over": "25.00"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Blocks)",
+                "hdp": 0.5,
+                "over": "2.35"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Blocks)",
+                "hdp": 1.5,
+                "over": "8.00"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Blocks)",
+                "hdp": 2.5,
+                "over": "23.00"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Double+Double)",
+                "hdp": 0.5,
+                "over": "30.00"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Points)",
+                "hdp": 11.5,
+                "over": "2.01",
+                "under": "1.77"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.27"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.70"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.21"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.79"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Points 1Q)",
+                "hdp": 5.5,
+                "over": "4.10"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Points 1Q)",
+                "hdp": 6.5,
+                "over": "5.74"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Points 1Q)",
+                "hdp": 7.5,
+                "over": "8.30"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Pts+Asts)",
+                "hdp": 4.5,
+                "over": "1.02"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Pts+Asts)",
+                "hdp": 9.5,
+                "over": "1.31"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Pts+Asts)",
+                "hdp": 12.5,
+                "over": "1.76"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "2.30"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "5.36"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Pts+Asts)",
+                "hdp": 24.5,
+                "over": "14.00"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Pts+Rebs)",
+                "hdp": 15.5,
+                "over": "1.91",
+                "under": "1.82"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Pts+Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.09"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Pts+Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "1.44"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Pts+Rebs+Asts)",
+                "hdp": 17.5,
+                "over": "1.91"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Pts+Rebs+Asts)",
+                "hdp": 19.5,
+                "over": "2.44"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Pts+Rebs+Asts)",
+                "hdp": 24.5,
+                "over": "5.25"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Pts+Rebs+Asts)",
+                "hdp": 29.5,
+                "over": "12.20"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Pts+Rebs+Asts)",
+                "hdp": 34.5,
+                "over": "26.00"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Rebounds)",
+                "hdp": 4.5,
+                "over": "2.21",
+                "under": "1.62"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "2.25"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "4.87"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "12.40"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Steals)",
+                "hdp": 0.5,
+                "over": "1.49"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Steals)",
+                "hdp": 1.5,
+                "over": "3.26"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Steals)",
+                "hdp": 2.5,
+                "over": "8.30"
+              },
+              {
+                "label": "Kelly Oubre Jr. (Steals)",
+                "hdp": 3.5,
+                "over": "19.40"
+              },
+              {
+                "label": "Klay Thompson (3 Point FG)",
+                "hdp": 2.5,
+                "over": "2.28",
+                "under": "1.59"
+              },
+              {
+                "label": "Klay Thompson (Points)",
+                "hdp": 8.5,
+                "over": "1.84",
+                "under": "1.93"
+              },
+              {
+                "label": "Obi Toppin (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.59",
+                "under": "2.27"
+              },
+              {
+                "label": "Obi Toppin (Assists)",
+                "hdp": 1.5,
+                "over": "1.68"
+              },
+              {
+                "label": "Obi Toppin (Assists)",
+                "hdp": 2.5,
+                "over": "2.95"
+              },
+              {
+                "label": "Obi Toppin (Assists)",
+                "hdp": 3.5,
+                "over": "5.92"
+              },
+              {
+                "label": "Obi Toppin (Assists)",
+                "hdp": 4.5,
+                "over": "12.20"
+              },
+              {
+                "label": "Obi Toppin (Assists)",
+                "hdp": 5.5,
+                "over": "22.00"
+              },
+              {
+                "label": "Obi Toppin (Double+Double)",
+                "hdp": 0.5,
+                "over": "7.60"
+              },
+              {
+                "label": "Obi Toppin (Points)",
+                "hdp": 13.5,
+                "over": "1.86",
+                "under": "1.90"
+              },
+              {
+                "label": "Obi Toppin (Pts+Asts)",
+                "hdp": 9.5,
+                "over": "1.17"
+              },
+              {
+                "label": "Obi Toppin (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "1.68"
+              },
+              {
+                "label": "Obi Toppin (Pts+Asts)",
+                "hdp": 15.5,
+                "over": "1.86"
+              },
+              {
+                "label": "Obi Toppin (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "3.04"
+              },
+              {
+                "label": "Obi Toppin (Pts+Asts)",
+                "hdp": 24.5,
+                "over": "6.64"
+              },
+              {
+                "label": "Obi Toppin (Pts+Asts)",
+                "hdp": 29.5,
+                "over": "14.40"
+              },
+              {
+                "label": "Obi Toppin (Pts+Asts)",
+                "hdp": 34.5,
+                "over": "27.00"
+              },
+              {
+                "label": "Obi Toppin (Pts+Rebs)",
+                "hdp": 19.5,
+                "over": "1.86",
+                "under": "1.87"
+              },
+              {
+                "label": "Obi Toppin (Pts+Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.03"
+              },
+              {
+                "label": "Obi Toppin (Pts+Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "1.19"
+              },
+              {
+                "label": "Obi Toppin (Pts+Rebs+Asts)",
+                "hdp": 19.5,
+                "over": "1.60"
+              },
+              {
+                "label": "Obi Toppin (Pts+Rebs+Asts)",
+                "hdp": 21.5,
+                "over": "1.86"
+              },
+              {
+                "label": "Obi Toppin (Pts+Rebs+Asts)",
+                "hdp": 24.5,
+                "over": "2.50"
+              },
+              {
+                "label": "Obi Toppin (Pts+Rebs+Asts)",
+                "hdp": 29.5,
+                "over": "4.61"
+              },
+              {
+                "label": "Obi Toppin (Pts+Rebs+Asts)",
+                "hdp": 34.5,
+                "over": "9.20"
+              },
+              {
+                "label": "Obi Toppin (Pts+Rebs+Asts)",
+                "hdp": 39.5,
+                "over": "18.00"
+              },
+              {
+                "label": "Obi Toppin (Rebounds)",
+                "hdp": 5.5,
+                "over": "1.80",
+                "under": "1.94"
+              },
+              {
+                "label": "Obi Toppin (Rebs+Asts)",
+                "hdp": 4.5,
+                "over": "1.15"
+              },
+              {
+                "label": "Obi Toppin (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.83"
+              },
+              {
+                "label": "Obi Toppin (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "3.05"
+              },
+              {
+                "label": "Obi Toppin (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "5.50"
+              },
+              {
+                "label": "Obi Toppin (Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "15.00"
+              },
+              {
+                "label": "Pascal Siakam (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "Pascal Siakam (Assists)",
+                "hdp": 3.5,
+                "over": "1.63",
+                "under": "2.19"
+              },
+              {
+                "label": "Pascal Siakam (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "2.71"
+              },
+              {
+                "label": "Pascal Siakam (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "7.20"
+              },
+              {
+                "label": "Pascal Siakam (Blocks)",
+                "hdp": 0.5,
+                "over": "3.37"
+              },
+              {
+                "label": "Pascal Siakam (Blocks)",
+                "hdp": 1.5,
+                "over": "14.20"
+              },
+              {
+                "label": "Pascal Siakam (Double+Double)",
+                "hdp": 0.5,
+                "over": "3.50"
+              },
+              {
+                "label": "Pascal Siakam (Points)",
+                "hdp": 23.5,
+                "over": "1.90",
+                "under": "1.86"
+              },
+              {
+                "label": "Pascal Siakam (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.03"
+              },
+              {
+                "label": "Pascal Siakam (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.15"
+              },
+              {
+                "label": "Pascal Siakam (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.21"
+              },
+              {
+                "label": "Pascal Siakam (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.42"
+              },
+              {
+                "label": "Pascal Siakam (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.62"
+              },
+              {
+                "label": "Pascal Siakam (Points 1Q)",
+                "hdp": 6.5,
+                "over": "1.97"
+              },
+              {
+                "label": "Pascal Siakam (Points 1Q)",
+                "hdp": 7.5,
+                "over": "2.41"
+              },
+              {
+                "label": "Pascal Siakam (Points 1Q)",
+                "hdp": 8.5,
+                "over": "3.07"
+              },
+              {
+                "label": "Pascal Siakam (Points 1Q)",
+                "hdp": 9.5,
+                "over": "4.04"
+              },
+              {
+                "label": "Pascal Siakam (Points 1Q)",
+                "hdp": 10.5,
+                "over": "5.46"
+              },
+              {
+                "label": "Pascal Siakam (Points 1Q)",
+                "hdp": 11.5,
+                "over": "7.50"
+              },
+              {
+                "label": "Pascal Siakam (Points 1Q)",
+                "hdp": 12.5,
+                "over": "10.60"
+              },
+              {
+                "label": "Pascal Siakam (Pts+Asts)",
+                "hdp": 27.5,
+                "over": "1.86",
+                "under": "1.88"
+              },
+              {
+                "label": "Pascal Siakam (Pts+Rebs)",
+                "hdp": 31.5,
+                "over": "1.94",
+                "under": "1.80"
+              },
+              {
+                "label": "Pascal Siakam (Pts+Rebs+Asts)",
+                "hdp": 35.5,
+                "over": "1.91",
+                "under": "1.82"
+              },
+              {
+                "label": "Pascal Siakam (Rebounds)",
+                "hdp": 7.5,
+                "over": "1.95",
+                "under": "1.80"
+              },
+              {
+                "label": "Pascal Siakam (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.39"
+              },
+              {
+                "label": "Pascal Siakam (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "2.18"
+              },
+              {
+                "label": "Pascal Siakam (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "4.05"
+              },
+              {
+                "label": "Pascal Siakam (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "8.90"
+              },
+              {
+                "label": "Pascal Siakam (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "1.89",
+                "under": "1.84"
+              },
+              {
+                "label": "Pascal Siakam (Steals)",
+                "hdp": 0.5,
+                "over": "1.55"
+              },
+              {
+                "label": "Pascal Siakam (Steals)",
+                "hdp": 1.5,
+                "over": "3.68"
+              },
+              {
+                "label": "Pascal Siakam (Steals)",
+                "hdp": 2.5,
+                "over": "10.10"
+              },
+              {
+                "label": "Pascal Siakam (Steals)",
+                "hdp": 3.5,
+                "over": "22.00"
+              },
+              {
+                "label": "Pascal Siakam (Triple+Double)",
+                "hdp": 0.5,
+                "over": "54.00"
+              },
+              {
+                "label": "Pelle Larsson (3 Point FG)",
+                "hdp": 0.5,
+                "over": "1.39"
+              },
+              {
+                "label": "Pelle Larsson (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.73"
+              },
+              {
+                "label": "Pelle Larsson (3 Point FG)",
+                "hdp": 2.5,
+                "over": "6.46"
+              },
+              {
+                "label": "Pelle Larsson (3 Point FG)",
+                "hdp": 3.5,
+                "over": "15.80"
+              },
+              {
+                "label": "Pelle Larsson (Assists)",
+                "hdp": 2.5,
+                "over": "1.33"
+              },
+              {
+                "label": "Pelle Larsson (Assists)",
+                "hdp": 3.5,
+                "over": "1.76"
+              },
+              {
+                "label": "Pelle Larsson (Assists)",
+                "hdp": 4.5,
+                "over": "2.62"
+              },
+              {
+                "label": "Pelle Larsson (Assists)",
+                "hdp": 5.5,
+                "over": "4.17"
+              },
+              {
+                "label": "Pelle Larsson (Assists)",
+                "hdp": 6.5,
+                "over": "7.00"
+              },
+              {
+                "label": "Pelle Larsson (Assists)",
+                "hdp": 7.5,
+                "over": "12.40"
+              },
+              {
+                "label": "Pelle Larsson (Assists)",
+                "hdp": 8.5,
+                "over": "20.80"
+              },
+              {
+                "label": "Pelle Larsson (Double+Double)",
+                "hdp": 0.5,
+                "over": "25.00"
+              },
+              {
+                "label": "Pelle Larsson (Points)",
+                "hdp": 11.5,
+                "over": "1.81",
+                "under": "1.95"
+              },
+              {
+                "label": "Pelle Larsson (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.27"
+              },
+              {
+                "label": "Pelle Larsson (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.68"
+              },
+              {
+                "label": "Pelle Larsson (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.14"
+              },
+              {
+                "label": "Pelle Larsson (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.82"
+              },
+              {
+                "label": "Pelle Larsson (Points 1Q)",
+                "hdp": 5.5,
+                "over": "4.06"
+              },
+              {
+                "label": "Pelle Larsson (Points 1Q)",
+                "hdp": 6.5,
+                "over": "5.74"
+              },
+              {
+                "label": "Pelle Larsson (Points 1Q)",
+                "hdp": 7.5,
+                "over": "8.40"
+              },
+              {
+                "label": "Pelle Larsson (Pts+Asts)",
+                "hdp": 9.5,
+                "over": "1.15"
+              },
+              {
+                "label": "Pelle Larsson (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "1.65"
+              },
+              {
+                "label": "Pelle Larsson (Pts+Asts)",
+                "hdp": 15.5,
+                "over": "1.84"
+              },
+              {
+                "label": "Pelle Larsson (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "3.16"
+              },
+              {
+                "label": "Pelle Larsson (Pts+Asts)",
+                "hdp": 24.5,
+                "over": "7.60"
+              },
+              {
+                "label": "Pelle Larsson (Pts+Asts)",
+                "hdp": 29.5,
+                "over": "18.60"
+              },
+              {
+                "label": "Pelle Larsson (Pts+Rebs)",
+                "hdp": 9.5,
+                "over": "1.15"
+              },
+              {
+                "label": "Pelle Larsson (Pts+Rebs)",
+                "hdp": 14.5,
+                "over": "1.64"
+              },
+              {
+                "label": "Pelle Larsson (Pts+Rebs)",
+                "hdp": 15.5,
+                "over": "1.81"
+              },
+              {
+                "label": "Pelle Larsson (Pts+Rebs)",
+                "hdp": 19.5,
+                "over": "3.02"
+              },
+              {
+                "label": "Pelle Larsson (Pts+Rebs)",
+                "hdp": 24.5,
+                "over": "6.89"
+              },
+              {
+                "label": "Pelle Larsson (Pts+Rebs)",
+                "hdp": 29.5,
+                "over": "16.20"
+              },
+              {
+                "label": "Pelle Larsson (Pts+Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.04"
+              },
+              {
+                "label": "Pelle Larsson (Pts+Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "1.25"
+              },
+              {
+                "label": "Pelle Larsson (Pts+Rebs+Asts)",
+                "hdp": 19.5,
+                "over": "1.83"
+              },
+              {
+                "label": "Pelle Larsson (Pts+Rebs+Asts)",
+                "hdp": 24.5,
+                "over": "3.37"
+              },
+              {
+                "label": "Pelle Larsson (Pts+Rebs+Asts)",
+                "hdp": 29.5,
+                "over": "7.30"
+              },
+              {
+                "label": "Pelle Larsson (Pts+Rebs+Asts)",
+                "hdp": 34.5,
+                "over": "16.60"
+              },
+              {
+                "label": "Pelle Larsson (Rebounds)",
+                "hdp": 2.5,
+                "over": "1.30"
+              },
+              {
+                "label": "Pelle Larsson (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.70"
+              },
+              {
+                "label": "Pelle Larsson (Rebounds)",
+                "hdp": 4.5,
+                "over": "2.44"
+              },
+              {
+                "label": "Pelle Larsson (Rebounds)",
+                "hdp": 5.5,
+                "over": "3.77"
+              },
+              {
+                "label": "Pelle Larsson (Rebounds)",
+                "hdp": 6.5,
+                "over": "6.24"
+              },
+              {
+                "label": "Pelle Larsson (Rebounds)",
+                "hdp": 7.5,
+                "over": "10.50"
+              },
+              {
+                "label": "Pelle Larsson (Rebounds)",
+                "hdp": 8.5,
+                "over": "17.40"
+              },
+              {
+                "label": "Pelle Larsson (Rebounds)",
+                "hdp": 9.5,
+                "over": "26.00"
+              },
+              {
+                "label": "Pelle Larsson (Rebs+Asts)",
+                "hdp": 4.5,
+                "over": "1.14"
+              },
+              {
+                "label": "Pelle Larsson (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.80"
+              },
+              {
+                "label": "Pelle Larsson (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "3.05"
+              },
+              {
+                "label": "Pelle Larsson (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "6.00"
+              },
+              {
+                "label": "Pelle Larsson (Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "17.00"
+              },
+              {
+                "label": "Pelle Larsson (Steals)",
+                "hdp": 0.5,
+                "over": "1.43"
+              },
+              {
+                "label": "Pelle Larsson (Steals)",
+                "hdp": 1.5,
+                "over": "2.96"
+              },
+              {
+                "label": "Pelle Larsson (Steals)",
+                "hdp": 2.5,
+                "over": "7.30"
+              },
+              {
+                "label": "Pelle Larsson (Steals)",
+                "hdp": 3.5,
+                "over": "17.60"
+              },
+              {
+                "label": "Tim Hardaway Jr. (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.68",
+                "under": "2.12"
+              },
+              {
+                "label": "Tim Hardaway Jr. (Points)",
+                "hdp": 9.5,
+                "over": "1.95",
+                "under": "1.82"
+              }
+            ]
           }
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
-          "recommended_bet": 33.35528974557971,
-          "market_edge": 0.07944061904620126,
+          "recommended_bet": 0.0,
+          "market_edge": -0.0242918847379211,
           "latent_strength_A": 3.346266748432738,
           "latent_strength_B": -13.733185111787689,
-          "form_state_A": 2,
-          "form_state_B": 0,
+          "form_state_A": 0,
+          "form_state_B": 1,
           "entropy_A": 3.321928094887362
         },
         "halves": {
@@ -36392,7 +43793,10 @@ const analyticsData = {
             "proj_ast": 2.4590761453370593,
             "status": "Questionable",
             "injury": "Toe",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 1.5,
+            "market_pts": 12.5,
+            "market_reb": 4.5
           },
           {
             "player": "Bam Adebayo",
@@ -36402,7 +43806,10 @@ const analyticsData = {
             "proj_ast": 2.754165282777506,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 3.5,
+            "market_pts": 18.5,
+            "market_reb": 9.5
           },
           {
             "player": "Davion Mitchell",
@@ -36412,7 +43819,10 @@ const analyticsData = {
             "proj_ast": 4.426337061606707,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 6.5,
+            "market_pts": 12.5,
+            "market_reb": 5.5
           },
           {
             "player": "Dru Smith",
@@ -36512,7 +43922,10 @@ const analyticsData = {
             "proj_ast": 3.3443435576584,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 8.5,
+            "market_pts": 11.5,
+            "market_reb": 9.5
           },
           {
             "player": "Simone Fontecchio",
@@ -36562,7 +43975,10 @@ const analyticsData = {
             "proj_ast": 1.2787195955752708,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 5.5,
+            "market_pts": 12.5,
+            "market_reb": 3.5
           },
           {
             "player": "Andrew Nembhard",
@@ -36572,7 +43988,10 @@ const analyticsData = {
             "proj_ast": 6.491961023689836,
             "status": "Questionable",
             "injury": "Calf",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 8.5,
+            "market_pts": 15.5,
+            "market_reb": 2.5
           },
           {
             "player": "Ben Sheppard",
@@ -36682,7 +44101,10 @@ const analyticsData = {
             "proj_ast": 1.1803565497617883,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 4.5,
+            "market_pts": 7.5,
+            "market_reb": 4.5
           },
           {
             "player": "Jeremiah Robinson-Earl",
@@ -36762,7 +44184,10 @@ const analyticsData = {
             "proj_ast": 1.573808733015718,
             "status": "Questionable",
             "injury": "Foot",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 5.5,
+            "market_pts": 13.5,
+            "market_reb": 5.5
           },
           {
             "player": "Pascal Siakam",
@@ -36772,7 +44197,10 @@ const analyticsData = {
             "proj_ast": 3.245980511844918,
             "status": "Out",
             "injury": "Knee",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 3.5,
+            "market_pts": 23.5,
+            "market_reb": 7.5
           },
           {
             "player": "Quenton Jackson",
@@ -36853,9 +44281,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.24480127872465884,
-          "6-10": 0.10556332781832549,
-          "11+": 0.17824963382012107
+          "1-5": 0.24645593756263845,
+          "6-10": 0.106350686497149,
+          "11+": 0.18030812292265766
         },
         "formA": [
           {
@@ -37211,7 +44639,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.6708546733435493,
-      "mc_win_A": 0.7234,
+      "mc_win_A": 0.7282,
       "shap_explanation": {
         "adj_ortg_10": 0.0222406117616616,
         "adj_drtg_10": 0.015384613629416606,
@@ -37254,37 +44682,1618 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 117.44627984818642,
-          "ptsB": 120.10744836513338,
-          "total": 237.5537282133198,
-          "spread": 2.6611685169469563,
-          "win_prob_A": 51.78979246518725,
+          "ptsA": 116.89627984818644,
+          "ptsB": 120.25744836513338,
+          "total": 237.15372821331982,
+          "spread": 3.361168516946956,
+          "win_prob_A": 48.920304970784386,
           "ml_prob_A": 0.5891783783539806,
-          "mc_win_A": 0.507,
-          "base_win_prob_A": 0.41375418258577557,
-          "market_prob_A": 0.4559585492227979,
+          "mc_win_A": 0.4968,
+          "base_win_prob_A": 0.3920582300599226,
+          "market_prob_A": 0.3827160493827161,
           "market": {
             "ml": {
-              "home": "2.10",
-              "away": "1.76"
+              "home": "2.50",
+              "away": "1.55"
             },
             "spread": {
-              "hdp": 2.5,
-              "home": "1.90",
-              "away": "1.90"
+              "hdp": 4.5,
+              "home": "1.86",
+              "away": "1.95"
             },
             "total": {
-              "hdp": 233.5,
-              "over": "1.86",
-              "under": "1.95"
+              "hdp": 231.5,
+              "over": "1.90",
+              "under": "1.90"
             },
-            "props": []
+            "props": [
+              {
+                "label": "Aaron Gordon (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.85",
+                "under": "1.88"
+              },
+              {
+                "label": "Aaron Gordon (Assists)",
+                "hdp": 2.5,
+                "over": "1.72",
+                "under": "2.04"
+              },
+              {
+                "label": "Aaron Gordon (Double+Double)",
+                "hdp": 0.5,
+                "over": "10.30"
+              },
+              {
+                "label": "Aaron Gordon (Points)",
+                "hdp": 14.5,
+                "over": "1.93",
+                "under": "1.84"
+              },
+              {
+                "label": "Aaron Gordon (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.17"
+              },
+              {
+                "label": "Aaron Gordon (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.48"
+              },
+              {
+                "label": "Aaron Gordon (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.76"
+              },
+              {
+                "label": "Aaron Gordon (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.23"
+              },
+              {
+                "label": "Aaron Gordon (Points 1Q)",
+                "hdp": 5.5,
+                "over": "3.01"
+              },
+              {
+                "label": "Aaron Gordon (Points 1Q)",
+                "hdp": 6.5,
+                "over": "4.07"
+              },
+              {
+                "label": "Aaron Gordon (Points 1Q)",
+                "hdp": 7.5,
+                "over": "5.80"
+              },
+              {
+                "label": "Aaron Gordon (Points 1Q)",
+                "hdp": 8.5,
+                "over": "8.50"
+              },
+              {
+                "label": "Aaron Gordon (Pts+Asts)",
+                "hdp": 17.5,
+                "over": "1.90",
+                "under": "1.83"
+              },
+              {
+                "label": "Aaron Gordon (Pts+Rebs)",
+                "hdp": 20.5,
+                "over": "1.95",
+                "under": "1.79"
+              },
+              {
+                "label": "Aaron Gordon (Pts+Rebs+Asts)",
+                "hdp": 23.5,
+                "over": "1.96",
+                "under": "1.78"
+              },
+              {
+                "label": "Aaron Gordon (Rebounds)",
+                "hdp": 5.5,
+                "over": "1.88",
+                "under": "1.86"
+              },
+              {
+                "label": "Aaron Gordon (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.78"
+              },
+              {
+                "label": "Aaron Gordon (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "3.38"
+              },
+              {
+                "label": "Aaron Gordon (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "7.70"
+              },
+              {
+                "label": "Aaron Gordon (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "1.91",
+                "under": "1.82"
+              },
+              {
+                "label": "Aaron Gordon (Steals)",
+                "hdp": 0.5,
+                "over": "1.72"
+              },
+              {
+                "label": "Aaron Gordon (Steals)",
+                "hdp": 1.5,
+                "over": "4.43"
+              },
+              {
+                "label": "Aaron Gordon (Steals)",
+                "hdp": 2.5,
+                "over": "13.00"
+              },
+              {
+                "label": "Cameron Johnson (3 Point FG)",
+                "hdp": 2.5,
+                "over": "2.47",
+                "under": "1.51"
+              },
+              {
+                "label": "Cameron Johnson (Double+Double)",
+                "hdp": 0.5,
+                "over": "42.00"
+              },
+              {
+                "label": "Cameron Johnson (Points)",
+                "hdp": 11.5,
+                "over": "1.98",
+                "under": "1.80"
+              },
+              {
+                "label": "Cameron Johnson (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.40"
+              },
+              {
+                "label": "Cameron Johnson (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.76"
+              },
+              {
+                "label": "Cameron Johnson (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.76"
+              },
+              {
+                "label": "Cameron Johnson (Points 1Q)",
+                "hdp": 4.5,
+                "over": "3.21"
+              },
+              {
+                "label": "Cameron Johnson (Points 1Q)",
+                "hdp": 5.5,
+                "over": "4.90"
+              },
+              {
+                "label": "Cameron Johnson (Points 1Q)",
+                "hdp": 6.5,
+                "over": "8.00"
+              },
+              {
+                "label": "Cameron Johnson (Points 1Q)",
+                "hdp": 7.5,
+                "over": "10.20"
+              },
+              {
+                "label": "Cameron Johnson (Pts+Rebs)",
+                "hdp": 15.5,
+                "over": "1.96",
+                "under": "1.78"
+              },
+              {
+                "label": "Cameron Johnson (Rebounds)",
+                "hdp": 2.5,
+                "over": "1.30"
+              },
+              {
+                "label": "Cameron Johnson (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.73"
+              },
+              {
+                "label": "Cameron Johnson (Rebounds)",
+                "hdp": 4.5,
+                "over": "2.55"
+              },
+              {
+                "label": "Cameron Johnson (Rebounds)",
+                "hdp": 5.5,
+                "over": "4.06"
+              },
+              {
+                "label": "Cameron Johnson (Rebounds)",
+                "hdp": 6.5,
+                "over": "6.77"
+              },
+              {
+                "label": "Cameron Johnson (Rebounds)",
+                "hdp": 7.5,
+                "over": "11.60"
+              },
+              {
+                "label": "Cameron Johnson (Rebounds)",
+                "hdp": 8.5,
+                "over": "20.20"
+              },
+              {
+                "label": "Cameron Johnson (Rebounds)",
+                "hdp": 9.5,
+                "over": "29.00"
+              },
+              {
+                "label": "Christian Braun (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.19",
+                "under": "1.63"
+              },
+              {
+                "label": "Christian Braun (Double+Double)",
+                "hdp": 0.5,
+                "over": "19.00"
+              },
+              {
+                "label": "Christian Braun (Points)",
+                "hdp": 12.5,
+                "over": "1.90",
+                "under": "1.86"
+              },
+              {
+                "label": "Christian Braun (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.22"
+              },
+              {
+                "label": "Christian Braun (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.60"
+              },
+              {
+                "label": "Christian Braun (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.99"
+              },
+              {
+                "label": "Christian Braun (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.52"
+              },
+              {
+                "label": "Christian Braun (Points 1Q)",
+                "hdp": 5.5,
+                "over": "3.60"
+              },
+              {
+                "label": "Christian Braun (Points 1Q)",
+                "hdp": 6.5,
+                "over": "4.99"
+              },
+              {
+                "label": "Christian Braun (Points 1Q)",
+                "hdp": 7.5,
+                "over": "7.30"
+              },
+              {
+                "label": "Christian Braun (Pts+Rebs)",
+                "hdp": 17.5,
+                "over": "1.92",
+                "under": "1.81"
+              },
+              {
+                "label": "Christian Braun (Rebounds)",
+                "hdp": 4.5,
+                "over": "1.85",
+                "under": "1.88"
+              },
+              {
+                "label": "Christian Braun (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "2.22"
+              },
+              {
+                "label": "Christian Braun (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "4.88"
+              },
+              {
+                "label": "Christian Braun (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "12.80"
+              },
+              {
+                "label": "Collin Gillespie (3 Point FG)",
+                "hdp": 2.5,
+                "over": "2.22",
+                "under": "1.61"
+              },
+              {
+                "label": "Collin Gillespie (Assists)",
+                "hdp": 3.5,
+                "over": "2.20",
+                "under": "1.63"
+              },
+              {
+                "label": "Collin Gillespie (Points)",
+                "hdp": 9.5,
+                "over": "1.85",
+                "under": "1.91"
+              },
+              {
+                "label": "Collin Gillespie (Pts+Asts)",
+                "hdp": 13.5,
+                "over": "1.97",
+                "under": "1.78"
+              },
+              {
+                "label": "Collin Gillespie (Pts+Rebs)",
+                "hdp": 12.5,
+                "over": "1.77",
+                "under": "1.98"
+              },
+              {
+                "label": "Collin Gillespie (Pts+Rebs+Asts)",
+                "hdp": 16.5,
+                "over": "1.91",
+                "under": "1.82"
+              },
+              {
+                "label": "Collin Gillespie (Rebounds)",
+                "hdp": 3.5,
+                "over": "2.29",
+                "under": "1.58"
+              },
+              {
+                "label": "Collin Gillespie (Rebs+Asts)",
+                "hdp": 6.5,
+                "over": "1.96",
+                "under": "1.79"
+              },
+              {
+                "label": "Collin Gillespie (Steals)",
+                "hdp": 1.5,
+                "over": "2.29",
+                "under": "1.58"
+              },
+              {
+                "label": "DeMar DeRozan (3 Point FG)",
+                "hdp": 0.5,
+                "over": "1.82",
+                "under": "1.91"
+              },
+              {
+                "label": "DeMar DeRozan (Assists)",
+                "hdp": 2.5,
+                "over": "1.58",
+                "under": "2.29"
+              },
+              {
+                "label": "DeMar DeRozan (Points)",
+                "hdp": 14.5,
+                "over": "1.90",
+                "under": "1.86"
+              },
+              {
+                "label": "DeMar DeRozan (Pts+Asts)",
+                "hdp": 17.5,
+                "over": "1.86",
+                "under": "1.87"
+              },
+              {
+                "label": "DeMar DeRozan (Pts+Rebs)",
+                "hdp": 17.5,
+                "over": "1.92",
+                "under": "1.82"
+              },
+              {
+                "label": "DeMar DeRozan (Pts+Rebs+Asts)",
+                "hdp": 20.5,
+                "over": "1.89",
+                "under": "1.85"
+              },
+              {
+                "label": "DeMar DeRozan (Rebounds)",
+                "hdp": 2.5,
+                "over": "1.78",
+                "under": "1.96"
+              },
+              {
+                "label": "DeMar DeRozan (Rebs+Asts)",
+                "hdp": 5.5,
+                "over": "1.76",
+                "under": "2.00"
+              },
+              {
+                "label": "Devin Booker (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.77",
+                "under": "1.98"
+              },
+              {
+                "label": "Devin Booker (Assists)",
+                "hdp": 5.5,
+                "over": "1.77",
+                "under": "1.98"
+              },
+              {
+                "label": "Devin Booker (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.71"
+              },
+              {
+                "label": "Devin Booker (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "3.27"
+              },
+              {
+                "label": "Devin Booker (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "7.60"
+              },
+              {
+                "label": "Devin Booker (Blocks)",
+                "hdp": 0.5,
+                "over": "3.09"
+              },
+              {
+                "label": "Devin Booker (Blocks)",
+                "hdp": 1.5,
+                "over": "12.80"
+              },
+              {
+                "label": "Devin Booker (Double+Double)",
+                "hdp": 0.5,
+                "over": "8.10"
+              },
+              {
+                "label": "Devin Booker (Points)",
+                "hdp": 22.5,
+                "over": "1.86",
+                "under": "1.90"
+              },
+              {
+                "label": "Devin Booker (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.05"
+              },
+              {
+                "label": "Devin Booker (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.17"
+              },
+              {
+                "label": "Devin Booker (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.26"
+              },
+              {
+                "label": "Devin Booker (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.46"
+              },
+              {
+                "label": "Devin Booker (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.71"
+              },
+              {
+                "label": "Devin Booker (Points 1Q)",
+                "hdp": 6.5,
+                "over": "2.07"
+              },
+              {
+                "label": "Devin Booker (Points 1Q)",
+                "hdp": 7.5,
+                "over": "2.59"
+              },
+              {
+                "label": "Devin Booker (Points 1Q)",
+                "hdp": 8.5,
+                "over": "3.31"
+              },
+              {
+                "label": "Devin Booker (Points 1Q)",
+                "hdp": 9.5,
+                "over": "4.43"
+              },
+              {
+                "label": "Devin Booker (Points 1Q)",
+                "hdp": 10.5,
+                "over": "6.04"
+              },
+              {
+                "label": "Devin Booker (Points 1Q)",
+                "hdp": 11.5,
+                "over": "8.50"
+              },
+              {
+                "label": "Devin Booker (Pts+Asts)",
+                "hdp": 28.5,
+                "over": "1.85",
+                "under": "1.89"
+              },
+              {
+                "label": "Devin Booker (Pts+Rebs)",
+                "hdp": 26.5,
+                "over": "1.81",
+                "under": "1.92"
+              },
+              {
+                "label": "Devin Booker (Pts+Rebs+Asts)",
+                "hdp": 32.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "Devin Booker (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.67",
+                "under": "2.12"
+              },
+              {
+                "label": "Devin Booker (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "2.53"
+              },
+              {
+                "label": "Devin Booker (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "5.95"
+              },
+              {
+                "label": "Devin Booker (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.76",
+                "under": "1.99"
+              },
+              {
+                "label": "Devin Booker (Steals)",
+                "hdp": 0.5,
+                "over": "1.64"
+              },
+              {
+                "label": "Devin Booker (Steals)",
+                "hdp": 1.5,
+                "over": "3.92"
+              },
+              {
+                "label": "Devin Booker (Steals)",
+                "hdp": 2.5,
+                "over": "11.20"
+              },
+              {
+                "label": "Devin Booker (Steals)",
+                "hdp": 3.5,
+                "over": "25.00"
+              },
+              {
+                "label": "Dillon Brooks (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.55",
+                "under": "2.37"
+              },
+              {
+                "label": "Dillon Brooks (Assists)",
+                "hdp": 2.5,
+                "over": "2.13"
+              },
+              {
+                "label": "Dillon Brooks (Assists)",
+                "hdp": 3.5,
+                "over": "3.74"
+              },
+              {
+                "label": "Dillon Brooks (Assists)",
+                "hdp": 4.5,
+                "over": "7.30"
+              },
+              {
+                "label": "Dillon Brooks (Assists)",
+                "hdp": 5.5,
+                "over": "14.60"
+              },
+              {
+                "label": "Dillon Brooks (Assists)",
+                "hdp": 6.5,
+                "over": "27.00"
+              },
+              {
+                "label": "Dillon Brooks (Double+Double)",
+                "hdp": 0.5,
+                "over": "33.00"
+              },
+              {
+                "label": "Dillon Brooks (Points)",
+                "hdp": 16.5,
+                "over": "1.88",
+                "under": "1.88"
+              },
+              {
+                "label": "Dillon Brooks (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.10"
+              },
+              {
+                "label": "Dillon Brooks (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.32"
+              },
+              {
+                "label": "Dillon Brooks (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.50"
+              },
+              {
+                "label": "Dillon Brooks (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.81"
+              },
+              {
+                "label": "Dillon Brooks (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.32"
+              },
+              {
+                "label": "Dillon Brooks (Points 1Q)",
+                "hdp": 6.5,
+                "over": "2.96"
+              },
+              {
+                "label": "Dillon Brooks (Points 1Q)",
+                "hdp": 7.5,
+                "over": "4.03"
+              },
+              {
+                "label": "Dillon Brooks (Points 1Q)",
+                "hdp": 8.5,
+                "over": "5.52"
+              },
+              {
+                "label": "Dillon Brooks (Points 1Q)",
+                "hdp": 9.5,
+                "over": "7.70"
+              },
+              {
+                "label": "Dillon Brooks (Pts+Asts)",
+                "hdp": 9.5,
+                "over": "1.07"
+              },
+              {
+                "label": "Dillon Brooks (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "1.32"
+              },
+              {
+                "label": "Dillon Brooks (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "1.96"
+              },
+              {
+                "label": "Dillon Brooks (Pts+Asts)",
+                "hdp": 24.5,
+                "over": "3.67"
+              },
+              {
+                "label": "Dillon Brooks (Pts+Asts)",
+                "hdp": 29.5,
+                "over": "7.90"
+              },
+              {
+                "label": "Dillon Brooks (Pts+Asts)",
+                "hdp": 34.5,
+                "over": "17.60"
+              },
+              {
+                "label": "Dillon Brooks (Pts+Rebs)",
+                "hdp": 20.5,
+                "over": "1.87",
+                "under": "1.86"
+              },
+              {
+                "label": "Dillon Brooks (Pts+Rebs+Asts)",
+                "hdp": 22.5,
+                "over": "1.78",
+                "under": "1.96"
+              },
+              {
+                "label": "Dillon Brooks (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.75",
+                "under": "2.00"
+              },
+              {
+                "label": "Dillon Brooks (Rebs+Asts)",
+                "hdp": 4.5,
+                "over": "1.32"
+              },
+              {
+                "label": "Dillon Brooks (Rebs+Asts)",
+                "hdp": 6.5,
+                "over": "2.05"
+              },
+              {
+                "label": "Dillon Brooks (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "2.80"
+              },
+              {
+                "label": "Dillon Brooks (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "6.00"
+              },
+              {
+                "label": "Dillon Brooks (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "13.00"
+              },
+              {
+                "label": "Dillon Brooks (Steals)",
+                "hdp": 0.5,
+                "over": "1.38"
+              },
+              {
+                "label": "Dillon Brooks (Steals)",
+                "hdp": 1.5,
+                "over": "2.72"
+              },
+              {
+                "label": "Dillon Brooks (Steals)",
+                "hdp": 2.5,
+                "over": "6.60"
+              },
+              {
+                "label": "Dillon Brooks (Steals)",
+                "hdp": 3.5,
+                "over": "15.60"
+              },
+              {
+                "label": "Jalen Green (3 Point FG)",
+                "hdp": 2.5,
+                "over": "2.34",
+                "under": "1.56"
+              },
+              {
+                "label": "Jalen Green (Assists)",
+                "hdp": 3.5,
+                "over": "2.12",
+                "under": "1.68"
+              },
+              {
+                "label": "Jalen Green (Blocks)",
+                "hdp": 0.5,
+                "over": "2.61"
+              },
+              {
+                "label": "Jalen Green (Blocks)",
+                "hdp": 1.5,
+                "over": "10.20"
+              },
+              {
+                "label": "Jalen Green (Blocks)",
+                "hdp": 2.5,
+                "over": "27.00"
+              },
+              {
+                "label": "Jalen Green (Double+Double)",
+                "hdp": 0.5,
+                "over": "28.00"
+              },
+              {
+                "label": "Jalen Green (Points)",
+                "hdp": 14.5,
+                "over": "1.79",
+                "under": "1.99"
+              },
+              {
+                "label": "Jalen Green (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.17"
+              },
+              {
+                "label": "Jalen Green (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.46"
+              },
+              {
+                "label": "Jalen Green (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.78"
+              },
+              {
+                "label": "Jalen Green (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.14"
+              },
+              {
+                "label": "Jalen Green (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.92"
+              },
+              {
+                "label": "Jalen Green (Points 1Q)",
+                "hdp": 6.5,
+                "over": "3.87"
+              },
+              {
+                "label": "Jalen Green (Points 1Q)",
+                "hdp": 7.5,
+                "over": "5.29"
+              },
+              {
+                "label": "Jalen Green (Points 1Q)",
+                "hdp": 8.5,
+                "over": "7.70"
+              },
+              {
+                "label": "Jalen Green (Points 1Q)",
+                "hdp": 9.5,
+                "over": "10.90"
+              },
+              {
+                "label": "Jalen Green (Pts+Asts)",
+                "hdp": 18.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Jalen Green (Pts+Rebs)",
+                "hdp": 19.5,
+                "over": "1.95",
+                "under": "1.79"
+              },
+              {
+                "label": "Jalen Green (Pts+Rebs+Asts)",
+                "hdp": 22.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "Jalen Green (Rebounds)",
+                "hdp": 4.5,
+                "over": "2.17",
+                "under": "1.64"
+              },
+              {
+                "label": "Jalen Green (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "2.20"
+              },
+              {
+                "label": "Jalen Green (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "4.77"
+              },
+              {
+                "label": "Jalen Green (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "12.20"
+              },
+              {
+                "label": "Jalen Green (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.88",
+                "under": "1.85"
+              },
+              {
+                "label": "Jalen Green (Steals)",
+                "hdp": 0.5,
+                "over": "1.44"
+              },
+              {
+                "label": "Jalen Green (Steals)",
+                "hdp": 1.5,
+                "over": "3.06"
+              },
+              {
+                "label": "Jalen Green (Steals)",
+                "hdp": 2.5,
+                "over": "7.50"
+              },
+              {
+                "label": "Jalen Green (Steals)",
+                "hdp": 3.5,
+                "over": "17.80"
+              },
+              {
+                "label": "Jamal Murray (3 Point FG)",
+                "hdp": 2.5,
+                "over": "1.62",
+                "under": "2.21"
+              },
+              {
+                "label": "Jamal Murray (Assists)",
+                "hdp": 6.5,
+                "over": "2.09",
+                "under": "1.69"
+              },
+              {
+                "label": "Jamal Murray (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.89"
+              },
+              {
+                "label": "Jamal Murray (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "3.87"
+              },
+              {
+                "label": "Jamal Murray (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "9.70"
+              },
+              {
+                "label": "Jamal Murray (Blocks)",
+                "hdp": 0.5,
+                "over": "2.36"
+              },
+              {
+                "label": "Jamal Murray (Blocks)",
+                "hdp": 1.5,
+                "over": "8.30"
+              },
+              {
+                "label": "Jamal Murray (Blocks)",
+                "hdp": 2.5,
+                "over": "24.00"
+              },
+              {
+                "label": "Jamal Murray (Double+Double)",
+                "hdp": 0.5,
+                "over": "6.26"
+              },
+              {
+                "label": "Jamal Murray (Points)",
+                "hdp": 22.5,
+                "over": "1.89",
+                "under": "1.88"
+              },
+              {
+                "label": "Jamal Murray (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.06"
+              },
+              {
+                "label": "Jamal Murray (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.18"
+              },
+              {
+                "label": "Jamal Murray (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.32"
+              },
+              {
+                "label": "Jamal Murray (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.49"
+              },
+              {
+                "label": "Jamal Murray (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.80"
+              },
+              {
+                "label": "Jamal Murray (Points 1Q)",
+                "hdp": 6.5,
+                "over": "2.17"
+              },
+              {
+                "label": "Jamal Murray (Points 1Q)",
+                "hdp": 7.5,
+                "over": "2.68"
+              },
+              {
+                "label": "Jamal Murray (Points 1Q)",
+                "hdp": 8.5,
+                "over": "3.48"
+              },
+              {
+                "label": "Jamal Murray (Points 1Q)",
+                "hdp": 9.5,
+                "over": "4.58"
+              },
+              {
+                "label": "Jamal Murray (Points 1Q)",
+                "hdp": 10.5,
+                "over": "6.20"
+              },
+              {
+                "label": "Jamal Murray (Points 1Q)",
+                "hdp": 11.5,
+                "over": "8.50"
+              },
+              {
+                "label": "Jamal Murray (Pts+Asts)",
+                "hdp": 28.5,
+                "over": "1.81",
+                "under": "1.92"
+              },
+              {
+                "label": "Jamal Murray (Pts+Rebs)",
+                "hdp": 26.5,
+                "over": "1.81",
+                "under": "1.92"
+              },
+              {
+                "label": "Jamal Murray (Pts+Rebs+Asts)",
+                "hdp": 33.5,
+                "over": "1.90",
+                "under": "1.83"
+              },
+              {
+                "label": "Jamal Murray (Rebounds)",
+                "hdp": 4.5,
+                "over": "2.05",
+                "under": "1.71"
+              },
+              {
+                "label": "Jamal Murray (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "2.33"
+              },
+              {
+                "label": "Jamal Murray (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "5.32"
+              },
+              {
+                "label": "Jamal Murray (Rebs+Asts)",
+                "hdp": 10.5,
+                "over": "1.86",
+                "under": "1.87"
+              },
+              {
+                "label": "Jamal Murray (Steals)",
+                "hdp": 0.5,
+                "over": "1.48"
+              },
+              {
+                "label": "Jamal Murray (Steals)",
+                "hdp": 1.5,
+                "over": "3.29"
+              },
+              {
+                "label": "Jamal Murray (Steals)",
+                "hdp": 2.5,
+                "over": "8.50"
+              },
+              {
+                "label": "Jamal Murray (Steals)",
+                "hdp": 3.5,
+                "over": "19.80"
+              },
+              {
+                "label": "Jamal Murray (Triple+Double)",
+                "hdp": 0.5,
+                "over": "56.00"
+              },
+              {
+                "label": "Jordan Goodwin (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.19",
+                "under": "1.63"
+              },
+              {
+                "label": "Jordan Goodwin (Assists)",
+                "hdp": 1.5,
+                "over": "1.56",
+                "under": "2.34"
+              },
+              {
+                "label": "Jordan Goodwin (Double+Double)",
+                "hdp": 0.5,
+                "over": "27.00"
+              },
+              {
+                "label": "Jordan Goodwin (Points)",
+                "hdp": 6.5,
+                "over": "1.86",
+                "under": "1.91"
+              },
+              {
+                "label": "Jordan Goodwin (Pts+Asts)",
+                "hdp": 8.5,
+                "over": "1.76",
+                "under": "1.99"
+              },
+              {
+                "label": "Jordan Goodwin (Pts+Rebs)",
+                "hdp": 10.5,
+                "over": "1.76",
+                "under": "1.99"
+              },
+              {
+                "label": "Jordan Goodwin (Pts+Rebs+Asts)",
+                "hdp": 13.5,
+                "over": "1.95",
+                "under": "1.80"
+              },
+              {
+                "label": "Jordan Goodwin (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.63",
+                "under": "2.20"
+              },
+              {
+                "label": "Jordan Goodwin (Rebs+Asts)",
+                "hdp": 6.5,
+                "over": "2.05",
+                "under": "1.71"
+              },
+              {
+                "label": "Khaman Maluach (3 Point FG)",
+                "hdp": 0.5,
+                "over": "2.93"
+              },
+              {
+                "label": "Khaman Maluach (3 Point FG)",
+                "hdp": 1.5,
+                "over": "11.60"
+              },
+              {
+                "label": "Khaman Maluach (Blocks)",
+                "hdp": 1.5,
+                "over": "2.21",
+                "under": "1.62"
+              },
+              {
+                "label": "Khaman Maluach (Double+Double)",
+                "hdp": 0.5,
+                "over": "4.90"
+              },
+              {
+                "label": "Khaman Maluach (Points)",
+                "hdp": 8.5,
+                "over": "1.98",
+                "under": "1.80"
+              },
+              {
+                "label": "Khaman Maluach (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.41"
+              },
+              {
+                "label": "Khaman Maluach (Points 1Q)",
+                "hdp": 2.5,
+                "over": "2.40"
+              },
+              {
+                "label": "Khaman Maluach (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.88"
+              },
+              {
+                "label": "Khaman Maluach (Points 1Q)",
+                "hdp": 4.5,
+                "over": "4.95"
+              },
+              {
+                "label": "Khaman Maluach (Points 1Q)",
+                "hdp": 5.5,
+                "over": "7.20"
+              },
+              {
+                "label": "Khaman Maluach (Pts+Rebs)",
+                "hdp": 16.5,
+                "over": "1.86",
+                "under": "1.86"
+              },
+              {
+                "label": "Khaman Maluach (Rebounds)",
+                "hdp": 7.5,
+                "over": "1.73",
+                "under": "2.03"
+              },
+              {
+                "label": "Khaman Maluach (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.25"
+              },
+              {
+                "label": "Khaman Maluach (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "1.76"
+              },
+              {
+                "label": "Khaman Maluach (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "2.84"
+              },
+              {
+                "label": "Khaman Maluach (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "5.22"
+              },
+              {
+                "label": "Khaman Maluach (Rebounds 1Q)",
+                "hdp": 5.5,
+                "over": "10.80"
+              },
+              {
+                "label": "Khaman Maluach (Steals)",
+                "hdp": 0.5,
+                "over": "1.66"
+              },
+              {
+                "label": "Khaman Maluach (Steals)",
+                "hdp": 1.5,
+                "over": "4.08"
+              },
+              {
+                "label": "Khaman Maluach (Steals)",
+                "hdp": 2.5,
+                "over": "11.60"
+              },
+              {
+                "label": "Khaman Maluach (Steals)",
+                "hdp": 3.5,
+                "over": "25.00"
+              },
+              {
+                "label": "Miles Bridges (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.67",
+                "under": "2.13"
+              },
+              {
+                "label": "Miles Bridges (Assists)",
+                "hdp": 2.5,
+                "over": "1.79",
+                "under": "1.95"
+              },
+              {
+                "label": "Miles Bridges (Blocks)",
+                "hdp": 0.5,
+                "over": "2.13"
+              },
+              {
+                "label": "Miles Bridges (Blocks)",
+                "hdp": 1.5,
+                "over": "6.68"
+              },
+              {
+                "label": "Miles Bridges (Blocks)",
+                "hdp": 2.5,
+                "over": "19.20"
+              },
+              {
+                "label": "Miles Bridges (Double+Double)",
+                "hdp": 0.5,
+                "over": "7.50"
+              },
+              {
+                "label": "Miles Bridges (Points)",
+                "hdp": 15.5,
+                "over": "1.86",
+                "under": "1.90"
+              },
+              {
+                "label": "Miles Bridges (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.17"
+              },
+              {
+                "label": "Miles Bridges (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.50"
+              },
+              {
+                "label": "Miles Bridges (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.78"
+              },
+              {
+                "label": "Miles Bridges (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.26"
+              },
+              {
+                "label": "Miles Bridges (Points 1Q)",
+                "hdp": 5.5,
+                "over": "3.10"
+              },
+              {
+                "label": "Miles Bridges (Points 1Q)",
+                "hdp": 6.5,
+                "over": "4.14"
+              },
+              {
+                "label": "Miles Bridges (Points 1Q)",
+                "hdp": 7.5,
+                "over": "5.91"
+              },
+              {
+                "label": "Miles Bridges (Points 1Q)",
+                "hdp": 8.5,
+                "over": "8.90"
+              },
+              {
+                "label": "Miles Bridges (Pts+Asts)",
+                "hdp": 18.5,
+                "over": "1.85",
+                "under": "1.88"
+              },
+              {
+                "label": "Miles Bridges (Pts+Rebs)",
+                "hdp": 21.5,
+                "over": "1.80",
+                "under": "1.95"
+              },
+              {
+                "label": "Miles Bridges (Pts+Rebs+Asts)",
+                "hdp": 24.5,
+                "over": "1.82",
+                "under": "1.91"
+              },
+              {
+                "label": "Miles Bridges (Rebounds)",
+                "hdp": 5.5,
+                "over": "1.68",
+                "under": "2.11"
+              },
+              {
+                "label": "Miles Bridges (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.69"
+              },
+              {
+                "label": "Miles Bridges (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "3.07"
+              },
+              {
+                "label": "Miles Bridges (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "6.73"
+              },
+              {
+                "label": "Miles Bridges (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "1.77",
+                "under": "1.98"
+              },
+              {
+                "label": "Miles Bridges (Steals)",
+                "hdp": 0.5,
+                "over": "1.57"
+              },
+              {
+                "label": "Miles Bridges (Steals)",
+                "hdp": 1.5,
+                "over": "3.77"
+              },
+              {
+                "label": "Miles Bridges (Steals)",
+                "hdp": 2.5,
+                "over": "10.60"
+              },
+              {
+                "label": "Miles Bridges (Steals)",
+                "hdp": 3.5,
+                "over": "23.00"
+              },
+              {
+                "label": "Nikola Jokic (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.75",
+                "under": "2.00"
+              },
+              {
+                "label": "Nikola Jokic (Assists)",
+                "hdp": 9.5,
+                "over": "1.95",
+                "under": "1.80"
+              },
+              {
+                "label": "Nikola Jokic (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.18"
+              },
+              {
+                "label": "Nikola Jokic (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "1.56"
+              },
+              {
+                "label": "Nikola Jokic (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "2.44"
+              },
+              {
+                "label": "Nikola Jokic (Assists 1Q)",
+                "hdp": 4.5,
+                "over": "4.41"
+              },
+              {
+                "label": "Nikola Jokic (Assists 1Q)",
+                "hdp": 5.5,
+                "over": "9.00"
+              },
+              {
+                "label": "Nikola Jokic (Blocks)",
+                "hdp": 0.5,
+                "over": "1.43"
+              },
+              {
+                "label": "Nikola Jokic (Blocks)",
+                "hdp": 1.5,
+                "over": "2.96"
+              },
+              {
+                "label": "Nikola Jokic (Blocks)",
+                "hdp": 2.5,
+                "over": "7.10"
+              },
+              {
+                "label": "Nikola Jokic (Blocks)",
+                "hdp": 3.5,
+                "over": "16.80"
+              },
+              {
+                "label": "Nikola Jokic (Double+Double)",
+                "hdp": 0.5,
+                "over": "1.19"
+              },
+              {
+                "label": "Nikola Jokic (Points)",
+                "hdp": 25.5,
+                "over": "1.81",
+                "under": "1.96"
+              },
+              {
+                "label": "Nikola Jokic (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.09"
+              },
+              {
+                "label": "Nikola Jokic (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.12"
+              },
+              {
+                "label": "Nikola Jokic (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.26"
+              },
+              {
+                "label": "Nikola Jokic (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.36"
+              },
+              {
+                "label": "Nikola Jokic (Points 1Q)",
+                "hdp": 6.5,
+                "over": "1.59"
+              },
+              {
+                "label": "Nikola Jokic (Points 1Q)",
+                "hdp": 7.5,
+                "over": "1.82"
+              },
+              {
+                "label": "Nikola Jokic (Points 1Q)",
+                "hdp": 8.5,
+                "over": "2.23"
+              },
+              {
+                "label": "Nikola Jokic (Points 1Q)",
+                "hdp": 9.5,
+                "over": "2.74"
+              },
+              {
+                "label": "Nikola Jokic (Points 1Q)",
+                "hdp": 10.5,
+                "over": "3.49"
+              },
+              {
+                "label": "Nikola Jokic (Points 1Q)",
+                "hdp": 11.5,
+                "over": "4.51"
+              },
+              {
+                "label": "Nikola Jokic (Points 1Q)",
+                "hdp": 12.5,
+                "over": "5.98"
+              },
+              {
+                "label": "Nikola Jokic (Points 1Q)",
+                "hdp": 13.5,
+                "over": "8.10"
+              },
+              {
+                "label": "Nikola Jokic (Points 1Q)",
+                "hdp": 14.5,
+                "over": "11.00"
+              },
+              {
+                "label": "Nikola Jokic (Pts+Asts)",
+                "hdp": 35.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "Nikola Jokic (Pts+Rebs)",
+                "hdp": 38.5,
+                "over": "1.83",
+                "under": "1.90"
+              },
+              {
+                "label": "Nikola Jokic (Pts+Rebs+Asts)",
+                "hdp": 48.5,
+                "over": "1.86",
+                "under": "1.87"
+              },
+              {
+                "label": "Nikola Jokic (Rebounds)",
+                "hdp": 12.5,
+                "over": "1.97",
+                "under": "1.78"
+              },
+              {
+                "label": "Nikola Jokic (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.06"
+              },
+              {
+                "label": "Nikola Jokic (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "1.19"
+              },
+              {
+                "label": "Nikola Jokic (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "1.46"
+              },
+              {
+                "label": "Nikola Jokic (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "1.98"
+              },
+              {
+                "label": "Nikola Jokic (Rebounds 1Q)",
+                "hdp": 5.5,
+                "over": "2.95"
+              },
+              {
+                "label": "Nikola Jokic (Rebounds 1Q)",
+                "hdp": 6.5,
+                "over": "4.84"
+              },
+              {
+                "label": "Nikola Jokic (Rebounds 1Q)",
+                "hdp": 7.5,
+                "over": "8.50"
+              },
+              {
+                "label": "Nikola Jokic (Rebs+Asts)",
+                "hdp": 21.5,
+                "over": "1.79",
+                "under": "1.95"
+              },
+              {
+                "label": "Nikola Jokic (Steals)",
+                "hdp": 1.5,
+                "over": "2.41",
+                "under": "1.52"
+              },
+              {
+                "label": "Nikola Jokic (Triple+Double)",
+                "hdp": 0.5,
+                "over": "2.26"
+              }
+            ]
           }
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
-          "recommended_bet": 19.905827674757326,
-          "market_edge": 0.06193937542907457,
+          "recommended_bet": 37.16793737826827,
+          "market_edge": 0.10648700032512776,
           "latent_strength_A": -1.164924748401413,
           "latent_strength_B": 5.837411202872655,
           "form_state_A": 0,
@@ -37338,7 +46347,10 @@ const analyticsData = {
             "proj_ast": 5.246643619962516,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 3.5,
+            "market_pts": 9.5,
+            "market_reb": 3.5
           },
           {
             "player": "Devin Booker",
@@ -37348,7 +46360,10 @@ const analyticsData = {
             "proj_ast": 4.423640699184082,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 5.5,
+            "market_pts": 22.5,
+            "market_reb": 3.5
           },
           {
             "player": "Dillon Brooks",
@@ -37358,7 +46373,10 @@ const analyticsData = {
             "proj_ast": 2.0575073019460848,
             "status": "Out",
             "injury": "Hand",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 6.5,
+            "market_pts": 16.5,
+            "market_reb": 3.5
           },
           {
             "player": "Grayson Allen",
@@ -37398,7 +46416,10 @@ const analyticsData = {
             "proj_ast": 2.983385587821823,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 3.5,
+            "market_pts": 14.5,
+            "market_reb": 4.5
           },
           {
             "player": "Jamaree Bouyea",
@@ -37418,7 +46439,10 @@ const analyticsData = {
             "proj_ast": 1.8517565717514763,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 1.5,
+            "market_pts": 6.5,
+            "market_reb": 3.5
           },
           {
             "player": "Khaman Maluach",
@@ -37428,7 +46452,9 @@ const analyticsData = {
             "proj_ast": 0.2057507301946085,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_pts": 8.5,
+            "market_reb": 7.5
           },
           {
             "player": "Koby Brea",
@@ -37518,7 +46544,10 @@ const analyticsData = {
             "proj_ast": 3.9092638736975607,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 2.5,
+            "market_pts": 14.5,
+            "market_reb": 5.5
           },
           {
             "player": "Bruce Brown",
@@ -37538,7 +46567,9 @@ const analyticsData = {
             "proj_ast": 2.4690087623353016,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_pts": 11.5,
+            "market_reb": 9.5
           },
           {
             "player": "Christian Braun",
@@ -37548,7 +46579,9 @@ const analyticsData = {
             "proj_ast": 2.983385587821823,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_pts": 12.5,
+            "market_reb": 4.5
           },
           {
             "player": "Curtis Jones",
@@ -37608,7 +46641,10 @@ const analyticsData = {
             "proj_ast": 5.6581450803517335,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 6.5,
+            "market_pts": 22.5,
+            "market_reb": 4.5
           },
           {
             "player": "Jonas Valan\u010di\u016bnas",
@@ -37729,9 +46765,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.1314730180930377,
-          "6-10": 0.055721721929726284,
-          "11+": 0.08541886031664266
+          "1-5": 0.12404122427137593,
+          "6-10": 0.05265003554404343,
+          "11+": 0.08135846735022989
         },
         "formA": [
           {
@@ -38087,7 +47123,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5891783783539806,
-      "mc_win_A": 0.507,
+      "mc_win_A": 0.4968,
       "shap_explanation": {
         "adj_ortg_10": 0.03694596405277281,
         "adj_drtg_10": -0.002315887252538715,
@@ -38130,40 +47166,1924 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 115.59804501884534,
-          "ptsB": 120.01825891906901,
-          "total": 235.61630393791435,
-          "spread": 4.420213900223685,
-          "win_prob_A": 42.43134109185726,
+          "ptsA": 114.59304501884533,
+          "ptsB": 120.62325891906902,
+          "total": 235.21630393791435,
+          "spread": 6.030213900223689,
+          "win_prob_A": 40.25913717503918,
           "ml_prob_A": 0.4568779119608263,
-          "mc_win_A": 0.3118,
-          "base_win_prob_A": 0.3602437782436073,
-          "market_prob_A": 0.48818897637795283,
+          "mc_win_A": 0.3004,
+          "base_win_prob_A": 0.31451355602276443,
+          "market_prob_A": 0.4358974358974359,
           "market": {
             "ml": {
-              "home": "1.95",
-              "away": "1.86"
+              "home": "2.20",
+              "away": "1.70"
             },
             "spread": {
-              "hdp": 1.5,
+              "hdp": 3.5,
               "home": "1.86",
               "away": "1.95"
             },
             "total": {
-              "hdp": 236.5,
+              "hdp": 234.5,
               "over": "1.90",
               "under": "1.90"
             },
-            "props": []
+            "props": [
+              {
+                "label": "Al Horford (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.69",
+                "under": "1.44"
+              },
+              {
+                "label": "Al Horford (Assists)",
+                "hdp": 1.5,
+                "over": "1.71"
+              },
+              {
+                "label": "Al Horford (Assists)",
+                "hdp": 2.5,
+                "over": "3.01"
+              },
+              {
+                "label": "Al Horford (Assists)",
+                "hdp": 3.5,
+                "over": "5.92"
+              },
+              {
+                "label": "Al Horford (Assists)",
+                "hdp": 4.5,
+                "over": "12.60"
+              },
+              {
+                "label": "Al Horford (Assists)",
+                "hdp": 5.5,
+                "over": "23.00"
+              },
+              {
+                "label": "Al Horford (Blocks)",
+                "hdp": 0.5,
+                "over": "1.78"
+              },
+              {
+                "label": "Al Horford (Blocks)",
+                "hdp": 1.5,
+                "over": "4.58"
+              },
+              {
+                "label": "Al Horford (Blocks)",
+                "hdp": 2.5,
+                "over": "12.60"
+              },
+              {
+                "label": "Al Horford (Blocks)",
+                "hdp": 3.5,
+                "over": "26.00"
+              },
+              {
+                "label": "Al Horford (Points)",
+                "hdp": 5.5,
+                "over": "1.93",
+                "under": "1.84"
+              },
+              {
+                "label": "Al Horford (Pts+Asts)",
+                "hdp": 4.5,
+                "over": "1.28"
+              },
+              {
+                "label": "Al Horford (Pts+Asts)",
+                "hdp": 7.5,
+                "over": "1.91"
+              },
+              {
+                "label": "Al Horford (Pts+Asts)",
+                "hdp": 9.5,
+                "over": "2.74"
+              },
+              {
+                "label": "Al Horford (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "8.00"
+              },
+              {
+                "label": "Al Horford (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "21.00"
+              },
+              {
+                "label": "Al Horford (Pts+Rebs)",
+                "hdp": 9.5,
+                "over": "1.95",
+                "under": "1.80"
+              },
+              {
+                "label": "Al Horford (Pts+Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "1.97",
+                "under": "1.78"
+              },
+              {
+                "label": "Al Horford (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.86",
+                "under": "1.87"
+              },
+              {
+                "label": "Austin Reaves (3 Point FG)",
+                "hdp": 2.5,
+                "over": "2.39",
+                "under": "1.54"
+              },
+              {
+                "label": "Austin Reaves (Assists)",
+                "hdp": 5.5,
+                "over": "1.71",
+                "under": "2.06"
+              },
+              {
+                "label": "Austin Reaves (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.78"
+              },
+              {
+                "label": "Austin Reaves (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "3.42"
+              },
+              {
+                "label": "Austin Reaves (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "8.10"
+              },
+              {
+                "label": "Austin Reaves (Blocks)",
+                "hdp": 0.5,
+                "over": "2.03"
+              },
+              {
+                "label": "Austin Reaves (Blocks)",
+                "hdp": 1.5,
+                "over": "6.14"
+              },
+              {
+                "label": "Austin Reaves (Blocks)",
+                "hdp": 2.5,
+                "over": "18.00"
+              },
+              {
+                "label": "Austin Reaves (Double+Double)",
+                "hdp": 0.5,
+                "over": "7.20"
+              },
+              {
+                "label": "Austin Reaves (Points)",
+                "hdp": 23.5,
+                "over": "1.83",
+                "under": "1.94"
+              },
+              {
+                "label": "Austin Reaves (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.06"
+              },
+              {
+                "label": "Austin Reaves (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.21"
+              },
+              {
+                "label": "Austin Reaves (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.31"
+              },
+              {
+                "label": "Austin Reaves (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.57"
+              },
+              {
+                "label": "Austin Reaves (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.86"
+              },
+              {
+                "label": "Austin Reaves (Points 1Q)",
+                "hdp": 6.5,
+                "over": "2.32"
+              },
+              {
+                "label": "Austin Reaves (Points 1Q)",
+                "hdp": 7.5,
+                "over": "2.96"
+              },
+              {
+                "label": "Austin Reaves (Points 1Q)",
+                "hdp": 8.5,
+                "over": "3.86"
+              },
+              {
+                "label": "Austin Reaves (Points 1Q)",
+                "hdp": 9.5,
+                "over": "5.27"
+              },
+              {
+                "label": "Austin Reaves (Points 1Q)",
+                "hdp": 10.5,
+                "over": "7.30"
+              },
+              {
+                "label": "Austin Reaves (Points 1Q)",
+                "hdp": 11.5,
+                "over": "10.30"
+              },
+              {
+                "label": "Austin Reaves (Pts+Asts)",
+                "hdp": 29.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "Austin Reaves (Pts+Rebs)",
+                "hdp": 28.5,
+                "over": "1.93",
+                "under": "1.81"
+              },
+              {
+                "label": "Austin Reaves (Pts+Rebs+Asts)",
+                "hdp": 34.5,
+                "over": "1.89",
+                "under": "1.84"
+              },
+              {
+                "label": "Austin Reaves (Rebounds)",
+                "hdp": 4.5,
+                "over": "2.21",
+                "under": "1.62"
+              },
+              {
+                "label": "Austin Reaves (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "2.73"
+              },
+              {
+                "label": "Austin Reaves (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "7.10"
+              },
+              {
+                "label": "Austin Reaves (Rebs+Asts)",
+                "hdp": 10.5,
+                "over": "2.05",
+                "under": "1.71"
+              },
+              {
+                "label": "Austin Reaves (Steals)",
+                "hdp": 1.5,
+                "over": "2.65",
+                "under": "1.44"
+              },
+              {
+                "label": "Austin Reaves (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "1.77",
+                "under": "1.97"
+              },
+              {
+                "label": "Austin Reaves (Triple+Double)",
+                "hdp": 0.5,
+                "over": "60.00"
+              },
+              {
+                "label": "Brandin Podziemski (3 Point FG)",
+                "hdp": 2.5,
+                "over": "2.34",
+                "under": "1.56"
+              },
+              {
+                "label": "Brandin Podziemski (Assists)",
+                "hdp": 3.5,
+                "over": "2.03",
+                "under": "1.73"
+              },
+              {
+                "label": "Brandin Podziemski (Double+Double)",
+                "hdp": 0.5,
+                "over": "10.80"
+              },
+              {
+                "label": "Brandin Podziemski (Points)",
+                "hdp": 15.5,
+                "over": "1.86",
+                "under": "1.90"
+              },
+              {
+                "label": "Brandin Podziemski (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.14"
+              },
+              {
+                "label": "Brandin Podziemski (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.39"
+              },
+              {
+                "label": "Brandin Podziemski (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.64"
+              },
+              {
+                "label": "Brandin Podziemski (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.01"
+              },
+              {
+                "label": "Brandin Podziemski (Points 1Q)",
+                "hdp": 5.5,
+                "over": "2.67"
+              },
+              {
+                "label": "Brandin Podziemski (Points 1Q)",
+                "hdp": 6.5,
+                "over": "3.46"
+              },
+              {
+                "label": "Brandin Podziemski (Points 1Q)",
+                "hdp": 7.5,
+                "over": "4.78"
+              },
+              {
+                "label": "Brandin Podziemski (Points 1Q)",
+                "hdp": 8.5,
+                "over": "6.74"
+              },
+              {
+                "label": "Brandin Podziemski (Points 1Q)",
+                "hdp": 9.5,
+                "over": "9.40"
+              },
+              {
+                "label": "Brandin Podziemski (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "1.96",
+                "under": "1.78"
+              },
+              {
+                "label": "Brandin Podziemski (Pts+Rebs)",
+                "hdp": 20.5,
+                "over": "1.79",
+                "under": "1.96"
+              },
+              {
+                "label": "Brandin Podziemski (Pts+Rebs+Asts)",
+                "hdp": 24.5,
+                "over": "1.87",
+                "under": "1.86"
+              },
+              {
+                "label": "Brandin Podziemski (Rebounds)",
+                "hdp": 5.5,
+                "over": "2.04",
+                "under": "1.72"
+              },
+              {
+                "label": "Brandin Podziemski (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "2.04"
+              },
+              {
+                "label": "Brandin Podziemski (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "4.16"
+              },
+              {
+                "label": "Brandin Podziemski (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "10.10"
+              },
+              {
+                "label": "Brandin Podziemski (Rebs+Asts)",
+                "hdp": 8.5,
+                "over": "1.78",
+                "under": "1.96"
+              },
+              {
+                "label": "Brandin Podziemski (Steals)",
+                "hdp": 0.5,
+                "over": "1.31"
+              },
+              {
+                "label": "Brandin Podziemski (Steals)",
+                "hdp": 1.5,
+                "over": "2.41"
+              },
+              {
+                "label": "Brandin Podziemski (Steals)",
+                "hdp": 2.5,
+                "over": "5.58"
+              },
+              {
+                "label": "Brandin Podziemski (Steals)",
+                "hdp": 3.5,
+                "over": "13.20"
+              },
+              {
+                "label": "Brandin Podziemski (Steals)",
+                "hdp": 4.5,
+                "over": "25.00"
+              },
+              {
+                "label": "Collin Sexton (3 Point FG)",
+                "hdp": 0.5,
+                "over": "1.22"
+              },
+              {
+                "label": "Collin Sexton (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.94"
+              },
+              {
+                "label": "Collin Sexton (3 Point FG)",
+                "hdp": 2.5,
+                "over": "3.66"
+              },
+              {
+                "label": "Collin Sexton (3 Point FG)",
+                "hdp": 3.5,
+                "over": "7.60"
+              },
+              {
+                "label": "Collin Sexton (3 Point FG)",
+                "hdp": 4.5,
+                "over": "15.60"
+              },
+              {
+                "label": "Collin Sexton (3 Point FG)",
+                "hdp": 5.5,
+                "over": "27.00"
+              },
+              {
+                "label": "Collin Sexton (Assists)",
+                "hdp": 2.5,
+                "over": "2.08"
+              },
+              {
+                "label": "Collin Sexton (Assists)",
+                "hdp": 3.5,
+                "over": "3.53"
+              },
+              {
+                "label": "Collin Sexton (Assists)",
+                "hdp": 4.5,
+                "over": "6.51"
+              },
+              {
+                "label": "Collin Sexton (Assists)",
+                "hdp": 5.5,
+                "over": "11.80"
+              },
+              {
+                "label": "Collin Sexton (Assists)",
+                "hdp": 6.5,
+                "over": "22.00"
+              },
+              {
+                "label": "Collin Sexton (Points)",
+                "hdp": 5.5,
+                "over": "1.10"
+              },
+              {
+                "label": "Collin Sexton (Points)",
+                "hdp": 7.5,
+                "over": "1.23"
+              },
+              {
+                "label": "Collin Sexton (Points)",
+                "hdp": 9.5,
+                "over": "1.42"
+              },
+              {
+                "label": "Collin Sexton (Points)",
+                "hdp": 11.5,
+                "over": "1.72"
+              },
+              {
+                "label": "Collin Sexton (Points)",
+                "hdp": 12.5,
+                "over": "1.93"
+              },
+              {
+                "label": "Collin Sexton (Points)",
+                "hdp": 14.5,
+                "over": "2.49"
+              },
+              {
+                "label": "Collin Sexton (Points)",
+                "hdp": 17.5,
+                "over": "3.83"
+              },
+              {
+                "label": "Collin Sexton (Points)",
+                "hdp": 19.5,
+                "over": "5.35"
+              },
+              {
+                "label": "Collin Sexton (Points)",
+                "hdp": 24.5,
+                "over": "12.80"
+              },
+              {
+                "label": "Collin Sexton (Points)",
+                "hdp": 29.5,
+                "over": "26.00"
+              },
+              {
+                "label": "Collin Sexton (Pts+Asts)",
+                "hdp": 9.5,
+                "over": "1.21"
+              },
+              {
+                "label": "Collin Sexton (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "1.81"
+              },
+              {
+                "label": "Collin Sexton (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "3.31"
+              },
+              {
+                "label": "Collin Sexton (Pts+Asts)",
+                "hdp": 24.5,
+                "over": "7.10"
+              },
+              {
+                "label": "Collin Sexton (Pts+Asts)",
+                "hdp": 29.5,
+                "over": "15.20"
+              },
+              {
+                "label": "Collin Sexton (Pts+Asts)",
+                "hdp": 34.5,
+                "over": "26.00"
+              },
+              {
+                "label": "Collin Sexton (Pts+Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.14"
+              },
+              {
+                "label": "Collin Sexton (Pts+Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "1.54"
+              },
+              {
+                "label": "Collin Sexton (Pts+Rebs+Asts)",
+                "hdp": 16.5,
+                "over": "1.86"
+              },
+              {
+                "label": "Collin Sexton (Pts+Rebs+Asts)",
+                "hdp": 19.5,
+                "over": "2.55"
+              },
+              {
+                "label": "Collin Sexton (Pts+Rebs+Asts)",
+                "hdp": 24.5,
+                "over": "4.97"
+              },
+              {
+                "label": "Collin Sexton (Pts+Rebs+Asts)",
+                "hdp": 29.5,
+                "over": "10.30"
+              },
+              {
+                "label": "Collin Sexton (Pts+Rebs+Asts)",
+                "hdp": 34.5,
+                "over": "19.80"
+              },
+              {
+                "label": "Collin Sexton (Steals)",
+                "hdp": 0.5,
+                "over": "1.42"
+              },
+              {
+                "label": "Collin Sexton (Steals)",
+                "hdp": 1.5,
+                "over": "2.83"
+              },
+              {
+                "label": "Collin Sexton (Steals)",
+                "hdp": 2.5,
+                "over": "6.71"
+              },
+              {
+                "label": "Collin Sexton (Steals)",
+                "hdp": 3.5,
+                "over": "15.40"
+              },
+              {
+                "label": "De'Anthony Melton (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.44",
+                "under": "1.52"
+              },
+              {
+                "label": "De'Anthony Melton (Assists)",
+                "hdp": 2.5,
+                "over": "2.33",
+                "under": "1.56"
+              },
+              {
+                "label": "De'Anthony Melton (Points)",
+                "hdp": 9.5,
+                "over": "1.90",
+                "under": "1.86"
+              },
+              {
+                "label": "De'Anthony Melton (Pts+Asts)",
+                "hdp": 11.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "De'Anthony Melton (Pts+Rebs)",
+                "hdp": 12.5,
+                "over": "1.82",
+                "under": "1.91"
+              },
+              {
+                "label": "De'Anthony Melton (Pts+Rebs+Asts)",
+                "hdp": 15.5,
+                "over": "1.98",
+                "under": "1.77"
+              },
+              {
+                "label": "De'Anthony Melton (Rebounds)",
+                "hdp": 3.5,
+                "over": "2.31",
+                "under": "1.57"
+              },
+              {
+                "label": "De'Anthony Melton (Rebs+Asts)",
+                "hdp": 5.5,
+                "over": "2.00",
+                "under": "1.75"
+              },
+              {
+                "label": "De'Anthony Melton (Steals)",
+                "hdp": 0.5,
+                "over": "1.30"
+              },
+              {
+                "label": "De'Anthony Melton (Steals)",
+                "hdp": 1.5,
+                "over": "2.34"
+              },
+              {
+                "label": "De'Anthony Melton (Steals)",
+                "hdp": 2.5,
+                "over": "4.98"
+              },
+              {
+                "label": "De'Anthony Melton (Steals)",
+                "hdp": 3.5,
+                "over": "11.20"
+              },
+              {
+                "label": "De'Anthony Melton (Steals)",
+                "hdp": 4.5,
+                "over": "22.00"
+              },
+              {
+                "label": "Draymond Green (3 Point FG)",
+                "hdp": 0.5,
+                "over": "1.46",
+                "under": "2.60"
+              },
+              {
+                "label": "Draymond Green (Assists)",
+                "hdp": 5.5,
+                "over": "1.66",
+                "under": "2.14"
+              },
+              {
+                "label": "Draymond Green (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.55"
+              },
+              {
+                "label": "Draymond Green (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "2.68"
+              },
+              {
+                "label": "Draymond Green (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "5.51"
+              },
+              {
+                "label": "Draymond Green (Assists 1Q)",
+                "hdp": 4.5,
+                "over": "13.60"
+              },
+              {
+                "label": "Draymond Green (Double+Double)",
+                "hdp": 0.5,
+                "over": "10.30"
+              },
+              {
+                "label": "Draymond Green (Points)",
+                "hdp": 6.5,
+                "over": "2.03",
+                "under": "1.76"
+              },
+              {
+                "label": "Draymond Green (Pts+Asts)",
+                "hdp": 12.5,
+                "over": "1.88",
+                "under": "1.85"
+              },
+              {
+                "label": "Draymond Green (Pts+Rebs)",
+                "hdp": 11.5,
+                "over": "1.76",
+                "under": "2.00"
+              },
+              {
+                "label": "Draymond Green (Pts+Rebs+Asts)",
+                "hdp": 18.5,
+                "over": "1.89",
+                "under": "1.84"
+              },
+              {
+                "label": "Draymond Green (Rebounds)",
+                "hdp": 5.5,
+                "over": "1.82",
+                "under": "1.92"
+              },
+              {
+                "label": "Draymond Green (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.72"
+              },
+              {
+                "label": "Draymond Green (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "3.19"
+              },
+              {
+                "label": "Draymond Green (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "7.00"
+              },
+              {
+                "label": "Draymond Green (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "1.78",
+                "under": "1.96"
+              },
+              {
+                "label": "Draymond Green (Triple+Double)",
+                "hdp": 0.5,
+                "over": "39.00"
+              },
+              {
+                "label": "Georges Niang (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.86",
+                "under": "1.86"
+              },
+              {
+                "label": "Georges Niang (Assists)",
+                "hdp": 1.5,
+                "over": "1.94"
+              },
+              {
+                "label": "Georges Niang (Assists)",
+                "hdp": 2.5,
+                "over": "3.72"
+              },
+              {
+                "label": "Georges Niang (Assists)",
+                "hdp": 3.5,
+                "over": "8.10"
+              },
+              {
+                "label": "Georges Niang (Assists)",
+                "hdp": 4.5,
+                "over": "17.60"
+              },
+              {
+                "label": "Georges Niang (Assists)",
+                "hdp": 5.5,
+                "over": "30.00"
+              },
+              {
+                "label": "Georges Niang (Points)",
+                "hdp": 7.5,
+                "over": "1.88",
+                "under": "1.88"
+              },
+              {
+                "label": "Georges Niang (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.51"
+              },
+              {
+                "label": "Georges Niang (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.92"
+              },
+              {
+                "label": "Georges Niang (Points 1Q)",
+                "hdp": 3.5,
+                "over": "3.31"
+              },
+              {
+                "label": "Georges Niang (Points 1Q)",
+                "hdp": 4.5,
+                "over": "3.71"
+              },
+              {
+                "label": "Georges Niang (Points 1Q)",
+                "hdp": 5.5,
+                "over": "5.55"
+              },
+              {
+                "label": "Georges Niang (Points 1Q)",
+                "hdp": 6.5,
+                "over": "9.70"
+              },
+              {
+                "label": "Georges Niang (Pts+Asts)",
+                "hdp": 4.5,
+                "over": "1.16"
+              },
+              {
+                "label": "Georges Niang (Pts+Asts)",
+                "hdp": 9.5,
+                "over": "2.00"
+              },
+              {
+                "label": "Georges Niang (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "4.90"
+              },
+              {
+                "label": "Georges Niang (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "13.00"
+              },
+              {
+                "label": "Georges Niang (Pts+Rebs)",
+                "hdp": 10.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Georges Niang (Pts+Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "1.76",
+                "under": "1.99"
+              },
+              {
+                "label": "Georges Niang (Rebounds)",
+                "hdp": 2.5,
+                "over": "1.77",
+                "under": "1.98"
+              },
+              {
+                "label": "Luka Doncic (3 Point FG)",
+                "hdp": 4.5,
+                "over": "2.23",
+                "under": "1.61"
+              },
+              {
+                "label": "Luka Doncic (Assists)",
+                "hdp": 7.5,
+                "over": "1.74",
+                "under": "2.01"
+              },
+              {
+                "label": "Luka Doncic (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.23"
+              },
+              {
+                "label": "Luka Doncic (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "1.72"
+              },
+              {
+                "label": "Luka Doncic (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "2.89"
+              },
+              {
+                "label": "Luka Doncic (Assists 1Q)",
+                "hdp": 4.5,
+                "over": "5.67"
+              },
+              {
+                "label": "Luka Doncic (Assists 1Q)",
+                "hdp": 5.5,
+                "over": "12.80"
+              },
+              {
+                "label": "Luka Doncic (Double+Double)",
+                "hdp": 0.5,
+                "over": "2.13"
+              },
+              {
+                "label": "Luka Doncic (Points)",
+                "hdp": 35.5,
+                "over": "1.94",
+                "under": "1.82"
+              },
+              {
+                "label": "Luka Doncic (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.04"
+              },
+              {
+                "label": "Luka Doncic (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.06"
+              },
+              {
+                "label": "Luka Doncic (Points 1Q)",
+                "hdp": 6.5,
+                "over": "1.10"
+              },
+              {
+                "label": "Luka Doncic (Points 1Q)",
+                "hdp": 7.5,
+                "over": "1.16"
+              },
+              {
+                "label": "Luka Doncic (Points 1Q)",
+                "hdp": 8.5,
+                "over": "1.23"
+              },
+              {
+                "label": "Luka Doncic (Points 1Q)",
+                "hdp": 9.5,
+                "over": "1.33"
+              },
+              {
+                "label": "Luka Doncic (Points 1Q)",
+                "hdp": 10.5,
+                "over": "1.45"
+              },
+              {
+                "label": "Luka Doncic (Points 1Q)",
+                "hdp": 11.5,
+                "over": "1.60"
+              },
+              {
+                "label": "Luka Doncic (Points 1Q)",
+                "hdp": 12.5,
+                "over": "1.80"
+              },
+              {
+                "label": "Luka Doncic (Points 1Q)",
+                "hdp": 13.5,
+                "over": "2.07"
+              },
+              {
+                "label": "Luka Doncic (Points 1Q)",
+                "hdp": 14.5,
+                "over": "2.41"
+              },
+              {
+                "label": "Luka Doncic (Points 1Q)",
+                "hdp": 15.5,
+                "over": "2.83"
+              },
+              {
+                "label": "Luka Doncic (Pts+Asts)",
+                "hdp": 43.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Luka Doncic (Pts+Rebs)",
+                "hdp": 42.5,
+                "over": "1.89",
+                "under": "1.84"
+              },
+              {
+                "label": "Luka Doncic (Pts+Rebs+Asts)",
+                "hdp": 50.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "Luka Doncic (Rebounds)",
+                "hdp": 7.5,
+                "over": "2.05",
+                "under": "1.72"
+              },
+              {
+                "label": "Luka Doncic (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.34"
+              },
+              {
+                "label": "Luka Doncic (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "2.04"
+              },
+              {
+                "label": "Luka Doncic (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "3.69"
+              },
+              {
+                "label": "Luka Doncic (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "7.90"
+              },
+              {
+                "label": "Luka Doncic (Rebs+Asts)",
+                "hdp": 15.5,
+                "over": "1.95",
+                "under": "1.80"
+              },
+              {
+                "label": "Luka Doncic (Steals)",
+                "hdp": 1.5,
+                "over": "1.76",
+                "under": "1.99"
+              },
+              {
+                "label": "Luka Doncic (Triple+Double)",
+                "hdp": 0.5,
+                "over": "8.20"
+              },
+              {
+                "label": "Matisse Thybulle (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.36",
+                "under": "1.55"
+              },
+              {
+                "label": "Matisse Thybulle (Points)",
+                "hdp": 6.5,
+                "over": "1.84",
+                "under": "1.93"
+              },
+              {
+                "label": "Matisse Thybulle (Pts+Rebs)",
+                "hdp": 9.5,
+                "over": "1.98",
+                "under": "1.78"
+              },
+              {
+                "label": "Matisse Thybulle (Rebounds)",
+                "hdp": 2.5,
+                "over": "2.15",
+                "under": "1.65"
+              },
+              {
+                "label": "Matisse Thybulle (Steals)",
+                "hdp": 1.5,
+                "over": "1.76",
+                "under": "1.98"
+              },
+              {
+                "label": "Quentin Grimes (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.75",
+                "under": "1.42"
+              },
+              {
+                "label": "Quentin Grimes (Assists)",
+                "hdp": 2.5,
+                "over": "2.36",
+                "under": "1.55"
+              },
+              {
+                "label": "Quentin Grimes (Points)",
+                "hdp": 7.5,
+                "over": "1.80",
+                "under": "1.98"
+              },
+              {
+                "label": "Quentin Grimes (Pts+Asts)",
+                "hdp": 10.5,
+                "over": "1.98",
+                "under": "1.77"
+              },
+              {
+                "label": "Quentin Grimes (Pts+Rebs)",
+                "hdp": 11.5,
+                "over": "1.99",
+                "under": "1.76"
+              },
+              {
+                "label": "Quentin Grimes (Pts+Rebs+Asts)",
+                "hdp": 13.5,
+                "over": "1.91",
+                "under": "1.83"
+              },
+              {
+                "label": "Quentin Grimes (Rebounds)",
+                "hdp": 2.5,
+                "over": "1.59",
+                "under": "2.26"
+              },
+              {
+                "label": "Quentin Grimes (Rebs+Asts)",
+                "hdp": 5.5,
+                "over": "2.06",
+                "under": "1.71"
+              },
+              {
+                "label": "Sandro Mamukelashvili (3 Point FG)",
+                "hdp": 0.5,
+                "over": "1.46",
+                "under": "2.63"
+              },
+              {
+                "label": "Sandro Mamukelashvili (Assists)",
+                "hdp": 1.5,
+                "over": "1.86"
+              },
+              {
+                "label": "Sandro Mamukelashvili (Assists)",
+                "hdp": 2.5,
+                "over": "3.38"
+              },
+              {
+                "label": "Sandro Mamukelashvili (Assists)",
+                "hdp": 3.5,
+                "over": "7.10"
+              },
+              {
+                "label": "Sandro Mamukelashvili (Assists)",
+                "hdp": 4.5,
+                "over": "14.80"
+              },
+              {
+                "label": "Sandro Mamukelashvili (Assists)",
+                "hdp": 5.5,
+                "over": "27.00"
+              },
+              {
+                "label": "Sandro Mamukelashvili (Blocks)",
+                "hdp": 0.5,
+                "over": "2.26"
+              },
+              {
+                "label": "Sandro Mamukelashvili (Blocks)",
+                "hdp": 1.5,
+                "over": "7.10"
+              },
+              {
+                "label": "Sandro Mamukelashvili (Blocks)",
+                "hdp": 2.5,
+                "over": "20.00"
+              },
+              {
+                "label": "Sandro Mamukelashvili (Double+Double)",
+                "hdp": 0.5,
+                "over": "23.00"
+              },
+              {
+                "label": "Sandro Mamukelashvili (Points)",
+                "hdp": 8.5,
+                "over": "1.81",
+                "under": "1.96"
+              },
+              {
+                "label": "Sandro Mamukelashvili (Pts+Asts)",
+                "hdp": 4.5,
+                "over": "1.10"
+              },
+              {
+                "label": "Sandro Mamukelashvili (Pts+Asts)",
+                "hdp": 9.5,
+                "over": "1.65"
+              },
+              {
+                "label": "Sandro Mamukelashvili (Pts+Asts)",
+                "hdp": 10.5,
+                "over": "1.85"
+              },
+              {
+                "label": "Sandro Mamukelashvili (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "3.28"
+              },
+              {
+                "label": "Sandro Mamukelashvili (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "7.70"
+              },
+              {
+                "label": "Sandro Mamukelashvili (Pts+Asts)",
+                "hdp": 24.5,
+                "over": "18.00"
+              },
+              {
+                "label": "Sandro Mamukelashvili (Pts+Rebs)",
+                "hdp": 12.5,
+                "over": "1.78",
+                "under": "1.97"
+              },
+              {
+                "label": "Sandro Mamukelashvili (Pts+Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "1.84",
+                "under": "1.90"
+              },
+              {
+                "label": "Sandro Mamukelashvili (Rebounds)",
+                "hdp": 3.5,
+                "over": "1.65",
+                "under": "2.16"
+              },
+              {
+                "label": "Stephen Curry (3 Point FG)",
+                "hdp": 3.5,
+                "over": "1.80",
+                "under": "1.95"
+              },
+              {
+                "label": "Stephen Curry (Assists)",
+                "hdp": 4.5,
+                "over": "2.00",
+                "under": "1.75"
+              },
+              {
+                "label": "Stephen Curry (Assists 1Q)",
+                "hdp": 1.5,
+                "over": "1.98"
+              },
+              {
+                "label": "Stephen Curry (Assists 1Q)",
+                "hdp": 2.5,
+                "over": "4.26"
+              },
+              {
+                "label": "Stephen Curry (Assists 1Q)",
+                "hdp": 3.5,
+                "over": "11.20"
+              },
+              {
+                "label": "Stephen Curry (Double+Double)",
+                "hdp": 0.5,
+                "over": "22.00"
+              },
+              {
+                "label": "Stephen Curry (Points)",
+                "hdp": 25.5,
+                "over": "1.91",
+                "under": "1.85"
+              },
+              {
+                "label": "Stephen Curry (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.04"
+              },
+              {
+                "label": "Stephen Curry (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.14"
+              },
+              {
+                "label": "Stephen Curry (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.25"
+              },
+              {
+                "label": "Stephen Curry (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.38"
+              },
+              {
+                "label": "Stephen Curry (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.66"
+              },
+              {
+                "label": "Stephen Curry (Points 1Q)",
+                "hdp": 6.5,
+                "over": "1.97"
+              },
+              {
+                "label": "Stephen Curry (Points 1Q)",
+                "hdp": 7.5,
+                "over": "2.43"
+              },
+              {
+                "label": "Stephen Curry (Points 1Q)",
+                "hdp": 8.5,
+                "over": "3.12"
+              },
+              {
+                "label": "Stephen Curry (Points 1Q)",
+                "hdp": 9.5,
+                "over": "4.02"
+              },
+              {
+                "label": "Stephen Curry (Points 1Q)",
+                "hdp": 10.5,
+                "over": "5.32"
+              },
+              {
+                "label": "Stephen Curry (Points 1Q)",
+                "hdp": 11.5,
+                "over": "7.30"
+              },
+              {
+                "label": "Stephen Curry (Points 1Q)",
+                "hdp": 12.5,
+                "over": "10.50"
+              },
+              {
+                "label": "Stephen Curry (Pts+Asts)",
+                "hdp": 29.5,
+                "over": "1.80",
+                "under": "1.95"
+              },
+              {
+                "label": "Stephen Curry (Pts+Rebs)",
+                "hdp": 28.5,
+                "over": "1.86",
+                "under": "1.87"
+              },
+              {
+                "label": "Stephen Curry (Pts+Rebs+Asts)",
+                "hdp": 33.5,
+                "over": "1.91",
+                "under": "1.83"
+              },
+              {
+                "label": "Stephen Curry (Rebounds)",
+                "hdp": 3.5,
+                "over": "2.25",
+                "under": "1.60"
+              },
+              {
+                "label": "Stephen Curry (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.81",
+                "under": "1.92"
+              },
+              {
+                "label": "Stephen Curry (Steals)",
+                "hdp": 1.5,
+                "over": "2.80",
+                "under": "1.41"
+              },
+              {
+                "label": "Walker Kessler (Assists)",
+                "hdp": 1.5,
+                "over": "1.72"
+              },
+              {
+                "label": "Walker Kessler (Assists)",
+                "hdp": 2.5,
+                "over": "3.10"
+              },
+              {
+                "label": "Walker Kessler (Assists)",
+                "hdp": 3.5,
+                "over": "6.45"
+              },
+              {
+                "label": "Walker Kessler (Assists)",
+                "hdp": 4.5,
+                "over": "14.00"
+              },
+              {
+                "label": "Walker Kessler (Assists)",
+                "hdp": 5.5,
+                "over": "25.00"
+              },
+              {
+                "label": "Walker Kessler (Blocks)",
+                "hdp": 1.5,
+                "over": "1.68",
+                "under": "2.09"
+              },
+              {
+                "label": "Walker Kessler (Double+Double)",
+                "hdp": 0.5,
+                "over": "2.01"
+              },
+              {
+                "label": "Walker Kessler (Points)",
+                "hdp": 13.5,
+                "over": "1.82",
+                "under": "1.94"
+              },
+              {
+                "label": "Walker Kessler (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.18"
+              },
+              {
+                "label": "Walker Kessler (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.64"
+              },
+              {
+                "label": "Walker Kessler (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.78"
+              },
+              {
+                "label": "Walker Kessler (Points 1Q)",
+                "hdp": 4.5,
+                "over": "2.73"
+              },
+              {
+                "label": "Walker Kessler (Points 1Q)",
+                "hdp": 5.5,
+                "over": "3.29"
+              },
+              {
+                "label": "Walker Kessler (Points 1Q)",
+                "hdp": 6.5,
+                "over": "5.28"
+              },
+              {
+                "label": "Walker Kessler (Points 1Q)",
+                "hdp": 7.5,
+                "over": "7.10"
+              },
+              {
+                "label": "Walker Kessler (Pts+Asts)",
+                "hdp": 9.5,
+                "over": "1.16"
+              },
+              {
+                "label": "Walker Kessler (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "1.66"
+              },
+              {
+                "label": "Walker Kessler (Pts+Asts)",
+                "hdp": 15.5,
+                "over": "1.84"
+              },
+              {
+                "label": "Walker Kessler (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "3.11"
+              },
+              {
+                "label": "Walker Kessler (Pts+Asts)",
+                "hdp": 24.5,
+                "over": "7.00"
+              },
+              {
+                "label": "Walker Kessler (Pts+Asts)",
+                "hdp": 29.5,
+                "over": "17.00"
+              },
+              {
+                "label": "Walker Kessler (Pts+Rebs)",
+                "hdp": 24.5,
+                "over": "1.92",
+                "under": "1.82"
+              },
+              {
+                "label": "Walker Kessler (Pts+Rebs+Asts)",
+                "hdp": 25.5,
+                "over": "1.80",
+                "under": "1.95"
+              },
+              {
+                "label": "Walker Kessler (Rebounds)",
+                "hdp": 9.5,
+                "over": "1.74",
+                "under": "2.03"
+              },
+              {
+                "label": "Walker Kessler (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.22"
+              },
+              {
+                "label": "Walker Kessler (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "1.65"
+              },
+              {
+                "label": "Walker Kessler (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "2.55"
+              },
+              {
+                "label": "Walker Kessler (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "4.42"
+              },
+              {
+                "label": "Walker Kessler (Rebounds 1Q)",
+                "hdp": 5.5,
+                "over": "8.40"
+              },
+              {
+                "label": "Walker Kessler (Rebs+Asts)",
+                "hdp": 7.5,
+                "over": "1.14"
+              },
+              {
+                "label": "Walker Kessler (Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.35"
+              },
+              {
+                "label": "Walker Kessler (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "1.76"
+              },
+              {
+                "label": "Walker Kessler (Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "3.30"
+              },
+              {
+                "label": "Walker Kessler (Rebs+Asts)",
+                "hdp": 17.5,
+                "over": "7.50"
+              },
+              {
+                "label": "Walker Kessler (Rebs+Asts)",
+                "hdp": 19.5,
+                "over": "13.00"
+              },
+              {
+                "label": "Walker Kessler (Rebs+Asts)",
+                "hdp": 21.5,
+                "over": "21.00"
+              },
+              {
+                "label": "Yaxel Lendeborg (3 Point FG)",
+                "hdp": 1.5,
+                "over": "1.86",
+                "under": "1.87"
+              },
+              {
+                "label": "Yaxel Lendeborg (Assists)",
+                "hdp": 3.5,
+                "over": "1.72",
+                "under": "2.04"
+              },
+              {
+                "label": "Yaxel Lendeborg (Blocks)",
+                "hdp": 0.5,
+                "over": "1.81"
+              },
+              {
+                "label": "Yaxel Lendeborg (Blocks)",
+                "hdp": 1.5,
+                "over": "4.80"
+              },
+              {
+                "label": "Yaxel Lendeborg (Blocks)",
+                "hdp": 2.5,
+                "over": "14.20"
+              },
+              {
+                "label": "Yaxel Lendeborg (Double+Double)",
+                "hdp": 0.5,
+                "over": "3.53"
+              },
+              {
+                "label": "Yaxel Lendeborg (Points)",
+                "hdp": 19.5,
+                "over": "1.88",
+                "under": "1.88"
+              },
+              {
+                "label": "Yaxel Lendeborg (Points 1Q)",
+                "hdp": 2.5,
+                "over": "1.11"
+              },
+              {
+                "label": "Yaxel Lendeborg (Points 1Q)",
+                "hdp": 3.5,
+                "over": "1.15"
+              },
+              {
+                "label": "Yaxel Lendeborg (Points 1Q)",
+                "hdp": 4.5,
+                "over": "1.31"
+              },
+              {
+                "label": "Yaxel Lendeborg (Points 1Q)",
+                "hdp": 5.5,
+                "over": "1.45"
+              },
+              {
+                "label": "Yaxel Lendeborg (Points 1Q)",
+                "hdp": 6.5,
+                "over": "1.74"
+              },
+              {
+                "label": "Yaxel Lendeborg (Points 1Q)",
+                "hdp": 7.5,
+                "over": "2.06"
+              },
+              {
+                "label": "Yaxel Lendeborg (Points 1Q)",
+                "hdp": 8.5,
+                "over": "2.57"
+              },
+              {
+                "label": "Yaxel Lendeborg (Points 1Q)",
+                "hdp": 9.5,
+                "over": "3.26"
+              },
+              {
+                "label": "Yaxel Lendeborg (Points 1Q)",
+                "hdp": 10.5,
+                "over": "4.28"
+              },
+              {
+                "label": "Yaxel Lendeborg (Points 1Q)",
+                "hdp": 11.5,
+                "over": "5.66"
+              },
+              {
+                "label": "Yaxel Lendeborg (Points 1Q)",
+                "hdp": 12.5,
+                "over": "7.60"
+              },
+              {
+                "label": "Yaxel Lendeborg (Points 1Q)",
+                "hdp": 13.5,
+                "over": "10.40"
+              },
+              {
+                "label": "Yaxel Lendeborg (Pts+Asts)",
+                "hdp": 23.5,
+                "over": "1.86",
+                "under": "1.87"
+              },
+              {
+                "label": "Yaxel Lendeborg (Pts+Rebs)",
+                "hdp": 27.5,
+                "over": "1.91",
+                "under": "1.82"
+              },
+              {
+                "label": "Yaxel Lendeborg (Pts+Rebs+Asts)",
+                "hdp": 31.5,
+                "over": "1.90",
+                "under": "1.84"
+              },
+              {
+                "label": "Yaxel Lendeborg (Rebounds)",
+                "hdp": 7.5,
+                "over": "1.94",
+                "under": "1.80"
+              },
+              {
+                "label": "Yaxel Lendeborg (Rebounds 1Q)",
+                "hdp": 1.5,
+                "over": "1.30"
+              },
+              {
+                "label": "Yaxel Lendeborg (Rebounds 1Q)",
+                "hdp": 2.5,
+                "over": "1.88"
+              },
+              {
+                "label": "Yaxel Lendeborg (Rebounds 1Q)",
+                "hdp": 3.5,
+                "over": "3.15"
+              },
+              {
+                "label": "Yaxel Lendeborg (Rebounds 1Q)",
+                "hdp": 4.5,
+                "over": "6.27"
+              },
+              {
+                "label": "Yaxel Lendeborg (Rebounds 1Q)",
+                "hdp": 5.5,
+                "over": "13.80"
+              },
+              {
+                "label": "Yaxel Lendeborg (Rebs+Asts)",
+                "hdp": 11.5,
+                "over": "1.97",
+                "under": "1.78"
+              },
+              {
+                "label": "Yaxel Lendeborg (Steals)",
+                "hdp": 0.5,
+                "over": "1.31"
+              },
+              {
+                "label": "Yaxel Lendeborg (Steals)",
+                "hdp": 1.5,
+                "over": "2.37"
+              },
+              {
+                "label": "Yaxel Lendeborg (Steals)",
+                "hdp": 2.5,
+                "over": "5.37"
+              },
+              {
+                "label": "Yaxel Lendeborg (Steals)",
+                "hdp": 3.5,
+                "over": "12.80"
+              },
+              {
+                "label": "Yaxel Lendeborg (Steals)",
+                "hdp": 4.5,
+                "over": "25.00"
+              },
+              {
+                "label": "Yaxel Lendeborg (Steals+Blocks)",
+                "hdp": 1.5,
+                "over": "1.55"
+              },
+              {
+                "label": "Yaxel Lendeborg (Steals+Blocks)",
+                "hdp": 2.5,
+                "over": "2.60"
+              },
+              {
+                "label": "Yaxel Lendeborg (Steals+Blocks)",
+                "hdp": 3.5,
+                "over": "5.00"
+              },
+              {
+                "label": "Yaxel Lendeborg (Steals+Blocks)",
+                "hdp": 4.5,
+                "over": "10.50"
+              },
+              {
+                "label": "Yaxel Lendeborg (Triple+Double)",
+                "hdp": 0.5,
+                "over": "58.00"
+              },
+              {
+                "label": "Ziaire Williams (3 Point FG)",
+                "hdp": 1.5,
+                "over": "2.55",
+                "under": "1.48"
+              },
+              {
+                "label": "Ziaire Williams (Assists)",
+                "hdp": 1.5,
+                "over": "2.41"
+              },
+              {
+                "label": "Ziaire Williams (Assists)",
+                "hdp": 2.5,
+                "over": "5.34"
+              },
+              {
+                "label": "Ziaire Williams (Assists)",
+                "hdp": 3.5,
+                "over": "12.40"
+              },
+              {
+                "label": "Ziaire Williams (Assists)",
+                "hdp": 4.5,
+                "over": "26.00"
+              },
+              {
+                "label": "Ziaire Williams (Points)",
+                "hdp": 8.5,
+                "over": "1.78",
+                "under": "2.00"
+              },
+              {
+                "label": "Ziaire Williams (Points 1Q)",
+                "hdp": 1.5,
+                "over": "1.43"
+              },
+              {
+                "label": "Ziaire Williams (Points 1Q)",
+                "hdp": 2.5,
+                "over": "2.05"
+              },
+              {
+                "label": "Ziaire Williams (Points 1Q)",
+                "hdp": 3.5,
+                "over": "2.92"
+              },
+              {
+                "label": "Ziaire Williams (Points 1Q)",
+                "hdp": 4.5,
+                "over": "3.85"
+              },
+              {
+                "label": "Ziaire Williams (Points 1Q)",
+                "hdp": 5.5,
+                "over": "6.11"
+              },
+              {
+                "label": "Ziaire Williams (Points 1Q)",
+                "hdp": 6.5,
+                "over": "9.30"
+              },
+              {
+                "label": "Ziaire Williams (Pts+Asts)",
+                "hdp": 4.5,
+                "over": "1.09"
+              },
+              {
+                "label": "Ziaire Williams (Pts+Asts)",
+                "hdp": 9.5,
+                "over": "1.69"
+              },
+              {
+                "label": "Ziaire Williams (Pts+Asts)",
+                "hdp": 10.5,
+                "over": "1.93"
+              },
+              {
+                "label": "Ziaire Williams (Pts+Asts)",
+                "hdp": 14.5,
+                "over": "3.75"
+              },
+              {
+                "label": "Ziaire Williams (Pts+Asts)",
+                "hdp": 19.5,
+                "over": "10.30"
+              },
+              {
+                "label": "Ziaire Williams (Pts+Asts)",
+                "hdp": 24.5,
+                "over": "25.00"
+              },
+              {
+                "label": "Ziaire Williams (Pts+Rebs)",
+                "hdp": 11.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "Ziaire Williams (Pts+Rebs+Asts)",
+                "hdp": 4.5,
+                "over": "1.02"
+              },
+              {
+                "label": "Ziaire Williams (Pts+Rebs+Asts)",
+                "hdp": 9.5,
+                "over": "1.30"
+              },
+              {
+                "label": "Ziaire Williams (Pts+Rebs+Asts)",
+                "hdp": 13.5,
+                "over": "1.96"
+              },
+              {
+                "label": "Ziaire Williams (Pts+Rebs+Asts)",
+                "hdp": 14.5,
+                "over": "2.22"
+              },
+              {
+                "label": "Ziaire Williams (Pts+Rebs+Asts)",
+                "hdp": 19.5,
+                "over": "5.10"
+              },
+              {
+                "label": "Ziaire Williams (Pts+Rebs+Asts)",
+                "hdp": 24.5,
+                "over": "12.80"
+              },
+              {
+                "label": "Ziaire Williams (Pts+Rebs+Asts)",
+                "hdp": 29.5,
+                "over": "26.00"
+              },
+              {
+                "label": "Ziaire Williams (Rebounds)",
+                "hdp": 2.5,
+                "over": "1.81",
+                "under": "1.93"
+              },
+              {
+                "label": "Ziaire Williams (Steals)",
+                "hdp": 1.5,
+                "over": "2.13",
+                "under": "1.66"
+              }
+            ]
           }
         },
         "advanced": {
           "blowout_risk": 0.11853559847642359,
           "recommended_bet": 0.0,
-          "market_edge": -0.06387556545938017,
+          "market_edge": -0.03330606414704412,
           "latent_strength_A": -2.8732842108687136,
           "latent_strength_B": 6.870047814537148,
-          "form_state_A": 2,
+          "form_state_A": 0,
           "form_state_B": 1,
           "entropy_A": 3.321928094887362
         },
@@ -38204,7 +49124,10 @@ const analyticsData = {
             "proj_ast": 3.4163522862781726,
             "status": "Out",
             "injury": "Calf",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 5.5,
+            "market_pts": 5.5,
+            "market_reb": 3.5
           },
           {
             "player": "Brandin Podziemski",
@@ -38214,7 +49137,10 @@ const analyticsData = {
             "proj_ast": 4.421161782242342,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 3.5,
+            "market_pts": 15.5,
+            "market_reb": 5.5
           },
           {
             "player": "Buddy Hield",
@@ -38234,7 +49160,10 @@ const analyticsData = {
             "proj_ast": 3.0144284878925056,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 2.5,
+            "market_pts": 9.5,
+            "market_reb": 3.5
           },
           {
             "player": "Draymond Green",
@@ -38244,7 +49173,10 @@ const analyticsData = {
             "proj_ast": 6.430780774170678,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 5.5,
+            "market_pts": 6.5,
+            "market_reb": 5.5
           },
           {
             "player": "Gary Payton II",
@@ -38384,7 +49316,10 @@ const analyticsData = {
             "proj_ast": 5.42597127820651,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 4.5,
+            "market_pts": 25.5,
+            "market_reb": 3.5
           },
           {
             "player": "Trayce Jackson-Davis",
@@ -38424,7 +49359,10 @@ const analyticsData = {
             "proj_ast": 5.42597127820651,
             "status": "Active",
             "injury": "",
-            "market_line": null
+            "market_line": null,
+            "market_ast": 5.5,
+            "market_pts": 23.5,
+            "market_reb": 4.5
           },
           {
             "player": "Bronny James",
@@ -38635,9 +49573,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.11323585392210025,
-          "6-10": 0.04816989481216141,
-          "11+": 0.07533406734859212
+          "1-5": 0.09789499766040897,
+          "6-10": 0.0417805112291291,
+          "11+": 0.06652876795204862
         },
         "formA": [
           {
@@ -38993,7 +49931,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.4568779119608263,
-      "mc_win_A": 0.3118,
+      "mc_win_A": 0.3004,
       "shap_explanation": {
         "adj_ortg_10": 0.0052622339993824594,
         "adj_drtg_10": -0.03395788092310028,
@@ -39036,14 +49974,14 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 114.61802426972582,
-          "ptsB": 117.97586989237472,
+          "ptsA": 113.91802426972582,
+          "ptsB": 118.67586989237472,
           "total": 232.59389416210053,
-          "spread": 3.3578456226488953,
-          "win_prob_A": 45.15933966508071,
+          "spread": 4.757845622648901,
+          "win_prob_A": 43.59790710842858,
           "ml_prob_A": 0.4967707785261934,
-          "mc_win_A": 0.4278,
-          "base_win_prob_A": 0.3921600246257014,
+          "mc_win_A": 0.4124,
+          "base_win_prob_A": 0.35037893940396364,
           "market_prob_A": null,
           "market": {
             "ml": {
@@ -39068,7 +50006,7 @@ const analyticsData = {
           "market_edge": null,
           "latent_strength_A": -6.1037482940050465,
           "latent_strength_B": 1.2594966904526308,
-          "form_state_A": 2,
+          "form_state_A": 0,
           "form_state_B": 1,
           "entropy_A": 3.321928094887362
         },
@@ -39550,9 +50488,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.12407597331851059,
-          "6-10": 0.052664416330492105,
-          "11+": 0.0813776093231033
+          "1-5": 0.10990754376347041,
+          "6-10": 0.04678654306308234,
+          "11+": 0.07344915475716429
         },
         "formA": [
           {
@@ -39908,7 +50846,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.4967707785261934,
-      "mc_win_A": 0.4278,
+      "mc_win_A": 0.4124,
       "shap_explanation": {
         "adj_ortg_10": -0.0008133716291938242,
         "adj_drtg_10": -0.03917044015251335,
@@ -39951,14 +50889,14 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 123.3835587509585,
-          "ptsB": 104.79042193267117,
+          "ptsA": 122.6835587509585,
+          "ptsB": 105.49042193267117,
           "total": 228.17398068362968,
-          "spread": -18.593136818287334,
-          "win_prob_A": 71.99269909213278,
+          "spread": -17.19313681828733,
+          "win_prob_A": 71.32954032209851,
           "ml_prob_A": 0.60546396668294,
-          "mc_win_A": 0.712,
-          "base_win_prob_A": 0.9159833585995263,
+          "mc_win_A": 0.7018,
+          "base_win_prob_A": 0.9006780662650501,
           "market_prob_A": null,
           "market": {
             "ml": {
@@ -39983,7 +50921,7 @@ const analyticsData = {
           "market_edge": null,
           "latent_strength_A": 8.583838975026982,
           "latent_strength_B": -6.388660634860212,
-          "form_state_A": 2,
+          "form_state_A": 0,
           "form_state_B": 0,
           "entropy_A": 3.321928094887362
         },
@@ -40485,9 +51423,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.2648567368533924,
-          "6-10": 0.11560490564991618,
-          "11+": 0.20995840522315073
+          "1-5": 0.26251266083599917,
+          "6-10": 0.11432330334108012,
+          "11+": 0.20475939937344537
         },
         "formA": [
           {
@@ -40843,7 +51781,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.60546396668294,
-      "mc_win_A": 0.712,
+      "mc_win_A": 0.7018,
       "shap_explanation": {
         "adj_ortg_10": 0.017649928449816627,
         "adj_drtg_10": 0.0450370629275578,
@@ -40886,14 +51824,14 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 115.73081446729539,
-          "ptsB": 121.18911038203305,
+          "ptsA": 116.08081446729538,
+          "ptsB": 120.83911038203306,
           "total": 236.91992484932842,
-          "spread": 5.458295914737661,
-          "win_prob_A": 43.42062098966022,
+          "spread": 4.758295914737673,
+          "win_prob_A": 44.06845120506492,
           "ml_prob_A": 0.5335494979675853,
-          "mc_win_A": 0.3416,
-          "base_win_prob_A": 0.330371536376032,
+          "mc_win_A": 0.344,
+          "base_win_prob_A": 0.3503658768895217,
           "market_prob_A": null,
           "market": {
             "ml": {
@@ -40918,8 +51856,8 @@ const analyticsData = {
           "market_edge": null,
           "latent_strength_A": 4.366050665867785,
           "latent_strength_B": 11.188497712009733,
-          "form_state_A": 1,
-          "form_state_B": 2,
+          "form_state_A": 0,
+          "form_state_B": 0,
           "entropy_A": 3.321928094887362
         },
         "halves": {
@@ -41390,9 +52328,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.10318932453683717,
-          "6-10": 0.043989398288564595,
-          "11+": 0.06960170763103282
+          "1-5": 0.10990314351861152,
+          "6-10": 0.04678471313150598,
+          "11+": 0.07344665355394911
         },
         "formA": [
           {
@@ -41748,7 +52686,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5335494979675853,
-      "mc_win_A": 0.3416,
+      "mc_win_A": 0.344,
       "shap_explanation": {
         "adj_ortg_10": 0.02679119028974881,
         "adj_drtg_10": 0.00401042342931504,
@@ -41791,14 +52729,14 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 120.54393129808446,
-          "ptsB": 119.38865618575417,
+          "ptsA": 120.89393129808445,
+          "ptsB": 119.03865618575416,
           "total": 239.93258748383863,
-          "spread": -1.155275112330287,
-          "win_prob_A": 50.39829497319741,
+          "spread": -1.8552751123302897,
+          "win_prob_A": 51.11330076591054,
           "ml_prob_A": 0.4961723629279717,
-          "mc_win_A": 0.4724,
-          "base_win_prob_A": 0.5380558942266273,
+          "mc_win_A": 0.4742,
+          "base_win_prob_A": 0.5606894206503986,
           "market_prob_A": null,
           "market": {
             "ml": {
@@ -41823,8 +52761,8 @@ const analyticsData = {
           "market_edge": null,
           "latent_strength_A": -8.587878479366402,
           "latent_strength_B": -6.94613037736287,
-          "form_state_A": 0,
-          "form_state_B": 1,
+          "form_state_A": 2,
+          "form_state_B": 2,
           "entropy_A": 3.321928094887362
         },
         "halves": {
@@ -42395,9 +53333,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.17257957869173718,
-          "6-10": 0.0729055190057512,
-          "11+": 0.10983263876169384
+          "1-5": 0.17905607593666853,
+          "6-10": 0.07575718661003004,
+          "11+": 0.115059485746835
         },
         "formA": [
           {
@@ -42753,7 +53691,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.4961723629279717,
-      "mc_win_A": 0.4724,
+      "mc_win_A": 0.4742,
       "shap_explanation": {
         "adj_ortg_10": -0.002674149131173351,
         "adj_drtg_10": -0.031018420065178347,
@@ -42796,14 +53734,14 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 112.92758966578782,
-          "ptsB": 120.85154114979129,
-          "total": 233.7791308155791,
-          "spread": 7.923951484003467,
-          "win_prob_A": 36.9442735928627,
+          "ptsA": 112.57758966578783,
+          "ptsB": 121.2015411497913,
+          "total": 233.77913081557912,
+          "spread": 8.62395148400347,
+          "win_prob_A": 36.61377279136945,
           "ml_prob_A": 0.46116639537239307,
-          "mc_win_A": 0.2964,
-          "base_win_prob_A": 0.26526512747476816,
+          "mc_win_A": 0.3052,
+          "base_win_prob_A": 0.24838176742499318,
           "market_prob_A": null,
           "market": {
             "ml": {
@@ -42829,7 +53767,7 @@ const analyticsData = {
           "latent_strength_A": -9.425415769640134,
           "latent_strength_B": 5.505910660887272,
           "form_state_A": 2,
-          "form_state_B": 0,
+          "form_state_B": 1,
           "entropy_A": 3.321928094887362
         },
         "halves": {
@@ -43310,9 +54248,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.08162685218667023,
-          "6-10": 0.0349674512440643,
-          "11+": 0.05685168639998466
+          "1-5": 0.07611138374073055,
+          "6-10": 0.03264856853281425,
+          "11+": 0.05348662330931707
         },
         "formA": [
           {
@@ -43668,7 +54606,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.46116639537239307,
-      "mc_win_A": 0.2964,
+      "mc_win_A": 0.3052,
       "shap_explanation": {
         "adj_ortg_10": -0.025114159000173615,
         "adj_drtg_10": -0.0540694850852492,
@@ -43711,14 +54649,14 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 123.13961763014716,
-          "ptsB": 111.64848079172134,
+          "ptsA": 122.43961763014715,
+          "ptsB": 112.34848079172134,
           "total": 234.78809842186848,
-          "spread": -11.491136838425817,
-          "win_prob_A": 65.61109994759245,
+          "spread": -10.091136838425811,
+          "win_prob_A": 64.82033189399313,
           "ml_prob_A": 0.5696294670369488,
-          "mc_win_A": 0.6368,
-          "base_win_prob_A": 0.8131208865248333,
+          "mc_win_A": 0.64,
+          "base_win_prob_A": 0.7846286180715227,
           "market_prob_A": null,
           "market": {
             "ml": {
@@ -43743,8 +54681,8 @@ const analyticsData = {
           "market_edge": null,
           "latent_strength_A": 11.701044463567804,
           "latent_strength_B": -1.9556884864469732,
-          "form_state_A": 1,
-          "form_state_B": 1,
+          "form_state_A": 0,
+          "form_state_B": 2,
           "entropy_A": 3.321928094887362
         },
         "halves": {
@@ -44205,9 +55143,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.24495854112228896,
-          "6-10": 0.10563799986938284,
-          "11+": 0.17844317283188932
+          "1-5": 0.23833969340911246,
+          "6-10": 0.10252028184742296,
+          "11+": 0.1706241804837822
         },
         "formA": [
           {
@@ -44563,7 +55501,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.5696294670369488,
-      "mc_win_A": 0.6368,
+      "mc_win_A": 0.64,
       "shap_explanation": {
         "adj_ortg_10": 0.009291141474469952,
         "adj_drtg_10": 0.014167410659510864,
@@ -44606,14 +55544,14 @@ const analyticsData = {
       "is_odds_fallback": true,
       "prediction": {
         "main": {
-          "ptsA": 110.37877248878559,
-          "ptsB": 116.73708019945857,
+          "ptsA": 110.72877248878558,
+          "ptsB": 116.38708019945858,
           "total": 227.11585268824416,
-          "spread": 6.358307710672989,
-          "win_prob_A": 37.29053686627773,
+          "spread": 5.658307710673,
+          "win_prob_A": 37.66529436757421,
           "ml_prob_A": 0.4086804274611702,
-          "mc_win_A": 0.3844,
-          "base_win_prob_A": 0.3056171831073074,
+          "mc_win_A": 0.3744,
+          "base_win_prob_A": 0.32477576648385675,
           "market_prob_A": null,
           "market": {
             "ml": {
@@ -44638,7 +55576,7 @@ const analyticsData = {
           "market_edge": null,
           "latent_strength_A": -3.0522040387036955,
           "latent_strength_B": 6.1475816204586655,
-          "form_state_A": 0,
+          "form_state_A": 1,
           "form_state_B": 2,
           "entropy_A": 3.321928094887362
         },
@@ -45040,9 +55978,9 @@ const analyticsData = {
           }
         },
         "margins": {
-          "1-5": 0.09493673671399844,
-          "6-10": 0.04054450054812362,
-          "11+": 0.06479572264853085
+          "1-5": 0.10131803689298134,
+          "6-10": 0.0432091271586001,
+          "11+": 0.06851973763683761
         },
         "formA": [
           {
@@ -45398,7 +56336,7 @@ const analyticsData = {
         "time": "TBD"
       },
       "ml_prob_A": 0.4086804274611702,
-      "mc_win_A": 0.3844,
+      "mc_win_A": 0.3744,
       "shap_explanation": {
         "adj_ortg_10": -0.02237753321382243,
         "adj_drtg_10": -0.04160776158772421,
@@ -45429,6 +56367,3696 @@ const analyticsData = {
       "is_b2b_away": 0,
       "rest_home": 230,
       "rest_away": 229
+    },
+    {
+      "matchId": "odds_73719476",
+      "matchTime": 1793565000,
+      "gameStatus": "08:30 PM ET",
+      "homeTeam": "ORL",
+      "awayTeam": "BOS",
+      "homeName": "Orlando Magic",
+      "awayName": "Boston Celtics",
+      "is_odds_fallback": true,
+      "prediction": {
+        "main": {
+          "ptsA": 114.9761696151027,
+          "ptsB": 115.15878873734384,
+          "total": 230.13495835244655,
+          "spread": 0.1826191222411353,
+          "win_prob_A": 50.917338235218445,
+          "ml_prob_A": 0.5371849195871543,
+          "mc_win_A": 0.462,
+          "base_win_prob_A": 0.4939364085286907,
+          "market_prob_A": null,
+          "market": {
+            "ml": {
+              "home": null,
+              "away": null
+            },
+            "spread": {
+              "hdp": null,
+              "home": null,
+              "away": null
+            },
+            "total": {
+              "hdp": null,
+              "over": null,
+              "under": null
+            }
+          }
+        },
+        "advanced": {
+          "blowout_risk": 0.11853559847642359,
+          "recommended_bet": 0.0,
+          "market_edge": null,
+          "latent_strength_A": 3.8521453438927282,
+          "latent_strength_B": 7.091850752870968,
+          "form_state_A": 2,
+          "form_state_B": 0,
+          "entropy_A": 3.321928094887362
+        },
+        "halves": {
+          "h1_ptsA": 56.79744988352447,
+          "h1_ptsB": 57.3700292926988,
+          "h2_ptsA": 56.79744988352447,
+          "h2_ptsB": 57.3700292926988
+        },
+        "quarters": [
+          {
+            "q": 1,
+            "ptsA": 28.398724941762236,
+            "ptsB": 28.6850146463494
+          },
+          {
+            "q": 2,
+            "ptsA": 28.398724941762236,
+            "ptsB": 28.6850146463494
+          },
+          {
+            "q": 3,
+            "ptsA": 28.398724941762236,
+            "ptsB": 28.6850146463494
+          },
+          {
+            "q": 4,
+            "ptsA": 28.398724941762236,
+            "ptsB": 28.6850146463494
+          }
+        ],
+        "players": [
+          {
+            "player": "Anthony Black",
+            "team": "ORL",
+            "proj_pts": 11.497459056952597,
+            "proj_reb": 2.8050976184343535,
+            "proj_ast": 2.514915106182524,
+            "status": "Doubtful",
+            "injury": "Abdomen",
+            "market_line": null
+          },
+          {
+            "player": "Desmond Bane",
+            "team": "ORL",
+            "proj_pts": 19.867609250414088,
+            "proj_reb": 3.6756451551898426,
+            "proj_ast": 4.642920196029275,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Franz Wagner",
+            "team": "ORL",
+            "proj_pts": 16.740300386922982,
+            "proj_reb": 4.352737683777446,
+            "proj_ast": 2.8050976184343535,
+            "status": "Doubtful",
+            "injury": "Ankle",
+            "market_line": null
+          },
+          {
+            "player": "Goga Bitadze",
+            "team": "ORL",
+            "proj_pts": 4.231064932958556,
+            "proj_reb": 2.99855262660224,
+            "proj_ast": 0.870547536755489,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jalen Suggs",
+            "team": "ORL",
+            "proj_pts": 13.888930540798738,
+            "proj_reb": 3.7723726592737856,
+            "proj_ast": 5.320012724616878,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jamal Cain",
+            "team": "ORL",
+            "proj_pts": 3.0353291910354856,
+            "proj_reb": 1.4509125612591485,
+            "proj_ast": 0.48363752041971614,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jase Richardson",
+            "team": "ORL",
+            "proj_pts": 2.2075121389348986,
+            "proj_reb": 0.48363752041971614,
+            "proj_ast": 0.9672750408394323,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jett Howard",
+            "team": "ORL",
+            "proj_pts": 6.806495761715937,
+            "proj_reb": 2.901825122518297,
+            "proj_ast": 0.9672750408394323,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jevon Carter",
+            "team": "ORL",
+            "proj_pts": 7.0824347790828,
+            "proj_reb": 2.224732593930694,
+            "proj_ast": 2.8050976184343535,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jonathan Isaac",
+            "team": "ORL",
+            "proj_pts": 1.3796950868343116,
+            "proj_reb": 2.224732593930694,
+            "proj_ast": 0.5803650245036593,
+            "status": "Out",
+            "injury": "Knee",
+            "market_line": null
+          },
+          {
+            "player": "Moritz Wagner",
+            "team": "ORL",
+            "proj_pts": 5.702739692248488,
+            "proj_reb": 4.352737683777446,
+            "proj_ast": 0.6770925285876026,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Noah Penda",
+            "team": "ORL",
+            "proj_pts": 2.7593901736686233,
+            "proj_reb": 3.2887351388540695,
+            "proj_ast": 1.3541850571752052,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Orlando Robinson",
+            "team": "ORL",
+            "proj_pts": 1.6096442679733636,
+            "proj_reb": 0.9672750408394323,
+            "proj_ast": 0.7254562806295742,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Paolo Banchero",
+            "team": "ORL",
+            "proj_pts": 23.454816476183296,
+            "proj_reb": 9.092385383890663,
+            "proj_ast": 4.546192691945332,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Tristan da Silva",
+            "team": "ORL",
+            "proj_pts": 13.06111348869815,
+            "proj_reb": 5.416740228700821,
+            "proj_ast": 2.3214600980146374,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Tyus Jones",
+            "team": "ORL",
+            "proj_pts": 1.655634104201174,
+            "proj_reb": 0.870547536755489,
+            "proj_ast": 1.9345500816788646,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Wendell Carter Jr.",
+            "team": "ORL",
+            "proj_pts": 11.681418401863837,
+            "proj_reb": 6.867652789959969,
+            "proj_ast": 2.1280050898467513,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Amari Williams",
+            "team": "BOS",
+            "proj_pts": 1.3661881777797538,
+            "proj_reb": 1.9345500816788646,
+            "proj_ast": 0.48363752041971614,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Anfernee Simons",
+            "team": "BOS",
+            "proj_pts": 15.392386802985223,
+            "proj_reb": 2.6116426102664674,
+            "proj_ast": 1.741095073510978,
+            "status": "Out",
+            "injury": "Wrist",
+            "market_line": null
+          },
+          {
+            "player": "Baylor Scheierman",
+            "team": "BOS",
+            "proj_pts": 8.197129066678523,
+            "proj_reb": 5.416740228700821,
+            "proj_ast": 2.7083701143504104,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Chris Boucher",
+            "team": "BOS",
+            "proj_pts": 2.125181609879617,
+            "proj_reb": 1.9345500816788646,
+            "proj_ast": 0.3224250136131441,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Dalano Banton",
+            "team": "BOS",
+            "proj_pts": 1.8215842370396715,
+            "proj_reb": 0.19345500816788647,
+            "proj_ast": 0.7738200326715459,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Derrick White",
+            "team": "BOS",
+            "proj_pts": 17.851525522988783,
+            "proj_reb": 4.256010179693503,
+            "proj_ast": 5.416740228700821,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Hugo Gonz\u00e1lez",
+            "team": "BOS",
+            "proj_pts": 5.009356651859097,
+            "proj_reb": 4.062555171525616,
+            "proj_ast": 0.6770925285876026,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jaylen Brown",
+            "team": "BOS",
+            "proj_pts": 22.22332769188399,
+            "proj_reb": 6.964380294043912,
+            "proj_ast": 6.28728776545631,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jayson Tatum",
+            "team": "BOS",
+            "proj_pts": 18.215842370396715,
+            "proj_reb": 7.931655334883344,
+            "proj_ast": 4.256010179693503,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "John Tonje",
+            "team": "BOS",
+            "proj_pts": 0.6071947456798905,
+            "proj_reb": 0.6448500272262881,
+            "proj_ast": 0.3224250136131441,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jordan Walsh",
+            "team": "BOS",
+            "proj_pts": 3.3699308385233926,
+            "proj_reb": 2.8050976184343535,
+            "proj_ast": 0.19345500816788647,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Josh Minott",
+            "team": "BOS",
+            "proj_pts": 2.1859010844476057,
+            "proj_reb": 1.0640025449233756,
+            "proj_ast": 0.19345500816788647,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Luka Garza",
+            "team": "BOS",
+            "proj_pts": 5.920148770378932,
+            "proj_reb": 2.8050976184343535,
+            "proj_ast": 0.870547536755489,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Max Shulga",
+            "team": "BOS",
+            "proj_pts": 0.0,
+            "proj_reb": 0.0,
+            "proj_ast": 0.0,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Neemias Queta",
+            "team": "BOS",
+            "proj_pts": 9.563317244458275,
+            "proj_reb": 7.544745318547571,
+            "proj_ast": 1.4509125612591485,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Nikola Vu\u010devi\u0107",
+            "team": "BOS",
+            "proj_pts": 9.38115882075431,
+            "proj_reb": 6.577470277708139,
+            "proj_ast": 1.741095073510978,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Payton Pritchard",
+            "team": "BOS",
+            "proj_pts": 11.202743057793981,
+            "proj_reb": 3.2887351388540695,
+            "proj_ast": 4.836375204197162,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Ron Harper Jr.",
+            "team": "BOS",
+            "proj_pts": 4.462881380747196,
+            "proj_reb": 1.1607300490073187,
+            "proj_ast": 0.5803650245036593,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Sam Hauser",
+            "team": "BOS",
+            "proj_pts": 8.379287490382488,
+            "proj_reb": 4.642920196029275,
+            "proj_ast": 1.3541850571752052,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Xavier Tillman",
+            "team": "BOS",
+            "proj_pts": 1.4572673896317374,
+            "proj_reb": 1.3541850571752052,
+            "proj_ast": 0.29018251225182967,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          }
+        ],
+        "factors": {
+          "teamA": {
+            "efg": 0.5409368307683738,
+            "tov": 0.11518806144149815,
+            "orb": 0.22970050542329642,
+            "ftr": 0.33329123097914437,
+            "sos": -0.47402304588076155,
+            "rest": 229,
+            "is_b2b": 0,
+            "ml_influence": {
+              "roll_efg_pct_10": 0.006189153353313656,
+              "roll_tov_pct_10": 0.02136280507797878,
+              "roll_orb_pct_10": -0.004771563041496165,
+              "roll_ft_rate_10": 0.008287072395632152,
+              "p_tov": -0.005316803781070547
+            }
+          },
+          "teamB": {
+            "efg": 0.5555151899161151,
+            "tov": 0.1159373669197821,
+            "orb": 0.2848773247368937,
+            "ftr": 0.23009417581054165,
+            "sos": -1.1461543075564808,
+            "rest": 230,
+            "is_b2b": 0
+          }
+        },
+        "margins": {
+          "1-5": 0.15939677536597138,
+          "6-10": 0.06719130229100055,
+          "11+": 0.10007851429035912
+        },
+        "formA": [
+          {
+            "date": "2026-03-01",
+            "opponent": "DET",
+            "result": "L",
+            "score": "92-106",
+            "quarters": [
+              23,
+              23,
+              23,
+              23
+            ],
+            "halves": [
+              46,
+              46
+            ]
+          },
+          {
+            "date": "2026-03-03",
+            "opponent": "WAS",
+            "result": "W",
+            "score": "126-109",
+            "quarters": [
+              31,
+              31,
+              31,
+              31
+            ],
+            "halves": [
+              62,
+              62
+            ]
+          },
+          {
+            "date": "2026-03-05",
+            "opponent": "DAL",
+            "result": "W",
+            "score": "115-114",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-07",
+            "opponent": "MIN",
+            "result": "W",
+            "score": "119-92",
+            "quarters": [
+              29,
+              29,
+              29,
+              29
+            ],
+            "halves": [
+              58,
+              58
+            ]
+          },
+          {
+            "date": "2026-03-08",
+            "opponent": "MIL",
+            "result": "W",
+            "score": "130-91",
+            "quarters": [
+              32,
+              32,
+              32,
+              32
+            ],
+            "halves": [
+              64,
+              64
+            ]
+          },
+          {
+            "date": "2026-03-11",
+            "opponent": "CLE",
+            "result": "W",
+            "score": "128-122",
+            "quarters": [
+              32,
+              32,
+              32,
+              32
+            ],
+            "halves": [
+              64,
+              64
+            ]
+          },
+          {
+            "date": "2026-03-12",
+            "opponent": "WAS",
+            "result": "W",
+            "score": "136-131",
+            "quarters": [
+              34,
+              34,
+              34,
+              34
+            ],
+            "halves": [
+              68,
+              68
+            ]
+          },
+          {
+            "date": "2026-03-14",
+            "opponent": "MIA",
+            "result": "W",
+            "score": "121-117",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          },
+          {
+            "date": "2026-03-16",
+            "opponent": "ATL",
+            "result": "L",
+            "score": "112-124",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-17",
+            "opponent": "OKC",
+            "result": "L",
+            "score": "108-113",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          }
+        ],
+        "formB": [
+          {
+            "date": "2026-02-27",
+            "opponent": "BKN",
+            "result": "W",
+            "score": "148-111",
+            "quarters": [
+              37,
+              37,
+              37,
+              37
+            ],
+            "halves": [
+              74,
+              74
+            ]
+          },
+          {
+            "date": "2026-03-01",
+            "opponent": "PHI",
+            "result": "W",
+            "score": "114-98",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-02",
+            "opponent": "MIL",
+            "result": "W",
+            "score": "108-81",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-04",
+            "opponent": "CHA",
+            "result": "L",
+            "score": "89-118",
+            "quarters": [
+              22,
+              22,
+              22,
+              22
+            ],
+            "halves": [
+              44,
+              44
+            ]
+          },
+          {
+            "date": "2026-03-06",
+            "opponent": "DAL",
+            "result": "W",
+            "score": "120-100",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          },
+          {
+            "date": "2026-03-08",
+            "opponent": "CLE",
+            "result": "W",
+            "score": "109-98",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-10",
+            "opponent": "SAS",
+            "result": "L",
+            "score": "116-125",
+            "quarters": [
+              29,
+              29,
+              29,
+              29
+            ],
+            "halves": [
+              58,
+              58
+            ]
+          },
+          {
+            "date": "2026-03-12",
+            "opponent": "OKC",
+            "result": "L",
+            "score": "102-104",
+            "quarters": [
+              25,
+              25,
+              25,
+              25
+            ],
+            "halves": [
+              50,
+              50
+            ]
+          },
+          {
+            "date": "2026-03-14",
+            "opponent": "WAS",
+            "result": "W",
+            "score": "111-100",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-16",
+            "opponent": "PHX",
+            "result": "W",
+            "score": "120-112",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          }
+        ],
+        "shap_explanation": {
+          "adj_ortg_10": 0.0264162630351143,
+          "adj_drtg_10": 0.026740965543516067,
+          "adj_pace_10": -0.0094618158754146,
+          "net_rating": -0.0045326089258303885,
+          "roll_efg_pct_10": 0.006189153353313656,
+          "roll_tov_pct_10": 0.02136280507797878,
+          "roll_orb_pct_10": -0.004771563041496165,
+          "roll_ft_rate_10": 0.008287072395632152,
+          "sos_10": -0.00680797704268727,
+          "is_b2b": -8.829062609265748e-06,
+          "p_pts": 0.013157476782631185,
+          "p_reb": 0.02752026685521798,
+          "p_ast": -0.00025167381469003657,
+          "p_stl": 0.012120948046919154,
+          "p_blk": 0.0035960372099305003,
+          "p_tov": -0.005316803781070547,
+          "p_pf": -0.00648243284193974,
+          "p_pm": -0.005166257787915071,
+          "p_usage": 0.013474887930702693,
+          "p_eff": 0.00033638861746453585,
+          "opp_adj_ortg_10": -0.06346864815654456,
+          "opp_adj_drtg_10": -0.04176074730985462,
+          "opp_sos_10": 0.0030531957563697176,
+          "opp_is_b2b": -0.000981079943678651
+        },
+        "match_id": "odds_73719476",
+        "time": "TBD"
+      },
+      "ml_prob_A": 0.5371849195871543,
+      "mc_win_A": 0.462,
+      "shap_explanation": {
+        "adj_ortg_10": 0.0264162630351143,
+        "adj_drtg_10": 0.026740965543516067,
+        "adj_pace_10": -0.0094618158754146,
+        "net_rating": -0.0045326089258303885,
+        "roll_efg_pct_10": 0.006189153353313656,
+        "roll_tov_pct_10": 0.02136280507797878,
+        "roll_orb_pct_10": -0.004771563041496165,
+        "roll_ft_rate_10": 0.008287072395632152,
+        "sos_10": -0.00680797704268727,
+        "is_b2b": -8.829062609265748e-06,
+        "p_pts": 0.013157476782631185,
+        "p_reb": 0.02752026685521798,
+        "p_ast": -0.00025167381469003657,
+        "p_stl": 0.012120948046919154,
+        "p_blk": 0.0035960372099305003,
+        "p_tov": -0.005316803781070547,
+        "p_pf": -0.00648243284193974,
+        "p_pm": -0.005166257787915071,
+        "p_usage": 0.013474887930702693,
+        "p_eff": 0.00033638861746453585,
+        "opp_adj_ortg_10": -0.06346864815654456,
+        "opp_adj_drtg_10": -0.04176074730985462,
+        "opp_sos_10": 0.0030531957563697176,
+        "opp_is_b2b": -0.000981079943678651
+      },
+      "is_b2b_home": 0,
+      "is_b2b_away": 0,
+      "rest_home": 229,
+      "rest_away": 230
+    },
+    {
+      "matchId": "odds_73719478",
+      "matchTime": 1793570400,
+      "gameStatus": "10:00 PM ET",
+      "homeTeam": "IND",
+      "awayTeam": "BKN",
+      "homeName": "Indiana Pacers",
+      "awayName": "Brooklyn Nets",
+      "is_odds_fallback": true,
+      "prediction": {
+        "main": {
+          "ptsA": 116.71959385965224,
+          "ptsB": 117.51707883048152,
+          "total": 234.23667269013376,
+          "spread": 0.7974849708292879,
+          "win_prob_A": 48.98680404046053,
+          "ml_prob_A": 0.5101079612714242,
+          "mc_win_A": 0.4636,
+          "base_win_prob_A": 0.47364686589631066,
+          "market_prob_A": null,
+          "market": {
+            "ml": {
+              "home": null,
+              "away": null
+            },
+            "spread": {
+              "hdp": null,
+              "home": null,
+              "away": null
+            },
+            "total": {
+              "hdp": null,
+              "over": null,
+              "under": null
+            }
+          }
+        },
+        "advanced": {
+          "blowout_risk": 0.11853559847642359,
+          "recommended_bet": 0.0,
+          "market_edge": null,
+          "latent_strength_A": -13.733185111787689,
+          "latent_strength_B": -13.547446377571957,
+          "form_state_A": 1,
+          "form_state_B": 2,
+          "entropy_A": 3.321928094887362
+        },
+        "halves": {
+          "h1_ptsA": 57.937187934812506,
+          "h1_ptsB": 58.281148410254374,
+          "h2_ptsA": 57.937187934812506,
+          "h2_ptsB": 58.281148410254374
+        },
+        "quarters": [
+          {
+            "q": 1,
+            "ptsA": 28.968593967406253,
+            "ptsB": 29.140574205127187
+          },
+          {
+            "q": 2,
+            "ptsA": 28.968593967406253,
+            "ptsB": 29.140574205127187
+          },
+          {
+            "q": 3,
+            "ptsA": 28.968593967406253,
+            "ptsB": 29.140574205127187
+          },
+          {
+            "q": 4,
+            "ptsA": 28.968593967406253,
+            "ptsB": 29.140574205127187
+          }
+        ],
+        "players": [
+          {
+            "player": "Aaron Nesmith",
+            "team": "IND",
+            "proj_pts": 12.861691253601846,
+            "proj_reb": 2.6890501496646673,
+            "proj_ast": 1.2947278498385435,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Andrew Nembhard",
+            "team": "IND",
+            "proj_pts": 16.43438326849125,
+            "proj_reb": 2.2906723497143457,
+            "proj_ast": 6.573233699180297,
+            "status": "Questionable",
+            "injury": "Calf",
+            "market_line": null
+          },
+          {
+            "player": "Ben Sheppard",
+            "team": "IND",
+            "proj_pts": 7.655768603334432,
+            "proj_reb": 2.788644599652247,
+            "proj_ast": 1.4939167498137038,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Bennedict Mathurin",
+            "team": "IND",
+            "proj_pts": 16.332306353780123,
+            "proj_reb": 4.780533599403852,
+            "proj_ast": 2.4898612496895063,
+            "status": "Out",
+            "injury": "Toe",
+            "market_line": null
+          },
+          {
+            "player": "Cody Martin",
+            "team": "IND",
+            "proj_pts": 1.7863460074447008,
+            "proj_reb": 3.485805749565309,
+            "proj_ast": 0.4979722499379013,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Ethan Thompson",
+            "team": "IND",
+            "proj_pts": 5.512153394400792,
+            "proj_reb": 1.6931056497888644,
+            "proj_ast": 1.195133399850963,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Garrison Mathews",
+            "team": "IND",
+            "proj_pts": 7.0433071150676785,
+            "proj_reb": 1.3943222998261235,
+            "proj_ast": 0.7967555999006422,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Isaiah Jackson",
+            "team": "IND",
+            "proj_pts": 3.164384356044899,
+            "proj_reb": 3.9837779995032103,
+            "proj_ast": 0.6971611499130618,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Ivica Zubac",
+            "team": "IND",
+            "proj_pts": 11.534691362357211,
+            "proj_reb": 9.959444998758025,
+            "proj_ast": 1.4939167498137038,
+            "status": "Questionable",
+            "injury": "Head",
+            "market_line": null
+          },
+          {
+            "player": "Jalen Slawson",
+            "team": "IND",
+            "proj_pts": 5.3590380223341025,
+            "proj_reb": 3.9837779995032103,
+            "proj_ast": 2.738847374658457,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "James Wiseman",
+            "team": "IND",
+            "proj_pts": 3.317499728111587,
+            "proj_reb": 1.9918889997516052,
+            "proj_ast": 0.7469583749068519,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jarace Walker",
+            "team": "IND",
+            "proj_pts": 14.903229547824361,
+            "proj_reb": 6.274450349217556,
+            "proj_ast": 3.1870223996025686,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jay Huff",
+            "team": "IND",
+            "proj_pts": 12.657537424179596,
+            "proj_reb": 3.9837779995032103,
+            "proj_ast": 1.195133399850963,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jeremiah Robinson-Earl",
+            "team": "IND",
+            "proj_pts": 4.185153503156156,
+            "proj_reb": 4.282561349465951,
+            "proj_ast": 0.4979722499379013,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Johnny Furphy",
+            "team": "IND",
+            "proj_pts": 4.797614991422911,
+            "proj_reb": 5.577289199304494,
+            "proj_ast": 2.2906723497143457,
+            "status": "Out For Season",
+            "injury": "Knee",
+            "market_line": null
+          },
+          {
+            "player": "Kam Jones",
+            "team": "IND",
+            "proj_pts": 6.5329225415120495,
+            "proj_reb": 2.2906723497143457,
+            "proj_ast": 4.880128049391433,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Kobe Brown",
+            "team": "IND",
+            "proj_pts": 7.96199934746781,
+            "proj_reb": 3.88418354951563,
+            "proj_ast": 1.195133399850963,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Mac McClung",
+            "team": "IND",
+            "proj_pts": 6.4648712650379645,
+            "proj_reb": 1.3279259998344033,
+            "proj_ast": 0.3319814999586008,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Micah Potter",
+            "team": "IND",
+            "proj_pts": 11.738845191779463,
+            "proj_reb": 4.481750249441111,
+            "proj_ast": 0.9959444998758026,
+            "status": "Questionable",
+            "injury": "Triceps",
+            "market_line": null
+          },
+          {
+            "player": "Monte Morris",
+            "team": "IND",
+            "proj_pts": 3.0623074413337728,
+            "proj_reb": 1.161935249855103,
+            "proj_ast": 1.4939167498137038,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Obi Toppin",
+            "team": "IND",
+            "proj_pts": 7.553691688623307,
+            "proj_reb": 3.6849946495404695,
+            "proj_ast": 1.5935111998012843,
+            "status": "Questionable",
+            "injury": "Foot",
+            "market_line": null
+          },
+          {
+            "player": "Pascal Siakam",
+            "team": "IND",
+            "proj_pts": 25.11092101893694,
+            "proj_reb": 5.278505849341753,
+            "proj_ast": 3.2866168495901484,
+            "status": "Out",
+            "injury": "Knee",
+            "market_line": null
+          },
+          {
+            "player": "Quenton Jackson",
+            "team": "IND",
+            "proj_pts": 7.96199934746781,
+            "proj_reb": 2.788644599652247,
+            "proj_ast": 3.1870223996025686,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "RayJ Dennis",
+            "team": "IND",
+            "proj_pts": 2.858153611911521,
+            "proj_reb": 1.195133399850963,
+            "proj_ast": 0.9959444998758026,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "T.J. McConnell",
+            "team": "IND",
+            "proj_pts": 8.574460835734564,
+            "proj_reb": 2.191077899726766,
+            "proj_ast": 5.577289199304494,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Taelon Peter",
+            "team": "IND",
+            "proj_pts": 8.064076262178936,
+            "proj_reb": 1.9918889997516052,
+            "proj_ast": 1.6931056497888644,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Tony Bradley",
+            "team": "IND",
+            "proj_pts": 3.7768458443116537,
+            "proj_reb": 3.1870223996025686,
+            "proj_ast": 0.4979722499379013,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Ben Saraf",
+            "team": "BKN",
+            "proj_pts": 7.865206954590953,
+            "proj_reb": 1.195133399850963,
+            "proj_ast": 3.78458909952805,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Cam Thomas",
+            "team": "BKN",
+            "proj_pts": 10.62865804674453,
+            "proj_reb": 1.7927000997764446,
+            "proj_ast": 3.9837779995032103,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Chaney Johnson",
+            "team": "BKN",
+            "proj_pts": 7.440060632721171,
+            "proj_reb": 4.780533599403852,
+            "proj_ast": 1.195133399850963,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Danny Wolf",
+            "team": "BKN",
+            "proj_pts": 12.329243334223655,
+            "proj_reb": 6.174855899229976,
+            "proj_ast": 2.8882390496398274,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Day'Ron Sharpe",
+            "team": "BKN",
+            "proj_pts": 10.84123120767942,
+            "proj_reb": 6.374044799205137,
+            "proj_ast": 2.589455699677087,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Drake Powell",
+            "team": "BKN",
+            "proj_pts": 6.058335086644383,
+            "proj_reb": 1.4939167498137038,
+            "proj_ast": 1.095538949863383,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "E.J. Liddell",
+            "team": "BKN",
+            "proj_pts": 3.1885974140233593,
+            "proj_reb": 2.0914834497391857,
+            "proj_ast": 0.7967555999006422,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Egor D\u00ebmin",
+            "team": "BKN",
+            "proj_pts": 9.990938563939858,
+            "proj_reb": 3.3862112995777287,
+            "proj_ast": 3.1870223996025686,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Grant Nelson",
+            "team": "BKN",
+            "proj_pts": 4.517179669866425,
+            "proj_reb": 1.4939167498137038,
+            "proj_ast": 1.2449306248447531,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jalen Wilson",
+            "team": "BKN",
+            "proj_pts": 4.782896121035039,
+            "proj_reb": 1.5935111998012843,
+            "proj_ast": 0.4979722499379013,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Josh Minott",
+            "team": "BKN",
+            "proj_pts": 6.483481408514163,
+            "proj_reb": 1.6931056497888644,
+            "proj_ast": 0.3983777999503211,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Malachi Smith",
+            "team": "BKN",
+            "proj_pts": 3.7200303163605857,
+            "proj_reb": 3.485805749565309,
+            "proj_ast": 2.4898612496895063,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Michael Porter Jr.",
+            "team": "BKN",
+            "proj_pts": 23.383047702837967,
+            "proj_reb": 6.772422599155457,
+            "proj_ast": 2.589455699677087,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Nic Claxton",
+            "team": "BKN",
+            "proj_pts": 9.884651983472414,
+            "proj_reb": 6.0752614492423955,
+            "proj_ast": 3.3862112995777287,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Noah Clowney",
+            "team": "BKN",
+            "proj_pts": 11.691523851418983,
+            "proj_reb": 3.78458909952805,
+            "proj_ast": 1.5935111998012843,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Nolan Traore",
+            "team": "BKN",
+            "proj_pts": 9.778365403004967,
+            "proj_reb": 1.5935111998012843,
+            "proj_ast": 3.2866168495901484,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Ochai Agbaji",
+            "team": "BKN",
+            "proj_pts": 6.9086277303839445,
+            "proj_reb": 1.892294549764025,
+            "proj_ast": 0.6971611499130618,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Terance Mann",
+            "team": "BKN",
+            "proj_pts": 7.333774052253726,
+            "proj_reb": 2.589455699677087,
+            "proj_ast": 2.2906723497143457,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Tyrese Martin",
+            "team": "BKN",
+            "proj_pts": 6.058335086644383,
+            "proj_reb": 2.0914834497391857,
+            "proj_ast": 0.4979722499379013,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Tyson Etienne",
+            "team": "BKN",
+            "proj_pts": 5.739475345242047,
+            "proj_reb": 0.8963500498882223,
+            "proj_ast": 0.9959444998758026,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Ziaire Williams",
+            "team": "BKN",
+            "proj_pts": 9.990938563939858,
+            "proj_reb": 1.5935111998012843,
+            "proj_ast": 1.5935111998012843,
+            "status": "Questionable",
+            "injury": "Foot",
+            "market_line": null
+          }
+        ],
+        "factors": {
+          "teamA": {
+            "efg": 0.5337413513020539,
+            "tov": 0.1288105340852691,
+            "orb": 0.21230642267672045,
+            "ftr": 0.24102422875184773,
+            "sos": 1.1798270763639958,
+            "rest": 229,
+            "is_b2b": 0,
+            "ml_influence": {
+              "roll_efg_pct_10": 0.0023938576910576613,
+              "roll_tov_pct_10": 0.005417420610130357,
+              "roll_orb_pct_10": -0.01654272770320816,
+              "roll_ft_rate_10": -0.002938768012537238,
+              "p_tov": -0.01381886316094949
+            }
+          },
+          "teamB": {
+            "efg": 0.518543216502516,
+            "tov": 0.16343091093443315,
+            "orb": 0.24259716544606674,
+            "ftr": 0.2931798691011724,
+            "sos": 5.017274364988298,
+            "rest": 230,
+            "is_b2b": 0
+          }
+        },
+        "margins": {
+          "1-5": 0.15226091246676976,
+          "6-10": 0.06427123557570079,
+          "11+": 0.09642174113906968
+        },
+        "formA": [
+          {
+            "date": "2026-02-26",
+            "opponent": "CHA",
+            "result": "L",
+            "score": "109-133",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-01",
+            "opponent": "MEM",
+            "result": "L",
+            "score": "106-125",
+            "quarters": [
+              26,
+              26,
+              26,
+              26
+            ],
+            "halves": [
+              52,
+              52
+            ]
+          },
+          {
+            "date": "2026-03-04",
+            "opponent": "LAC",
+            "result": "L",
+            "score": "107-130",
+            "quarters": [
+              26,
+              26,
+              26,
+              26
+            ],
+            "halves": [
+              52,
+              52
+            ]
+          },
+          {
+            "date": "2026-03-06",
+            "opponent": "LAL",
+            "result": "L",
+            "score": "117-128",
+            "quarters": [
+              29,
+              29,
+              29,
+              29
+            ],
+            "halves": [
+              58,
+              58
+            ]
+          },
+          {
+            "date": "2026-03-08",
+            "opponent": "POR",
+            "result": "L",
+            "score": "111-131",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-10",
+            "opponent": "SAC",
+            "result": "L",
+            "score": "109-114",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-12",
+            "opponent": "PHX",
+            "result": "L",
+            "score": "108-123",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-13",
+            "opponent": "NYK",
+            "result": "L",
+            "score": "92-101",
+            "quarters": [
+              23,
+              23,
+              23,
+              23
+            ],
+            "halves": [
+              46,
+              46
+            ]
+          },
+          {
+            "date": "2026-03-15",
+            "opponent": "MIL",
+            "result": "L",
+            "score": "123-134",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          },
+          {
+            "date": "2026-03-17",
+            "opponent": "NYK",
+            "result": "L",
+            "score": "110-136",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          }
+        ],
+        "formB": [
+          {
+            "date": "2026-02-27",
+            "opponent": "BOS",
+            "result": "L",
+            "score": "111-148",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-01",
+            "opponent": "CLE",
+            "result": "L",
+            "score": "102-106",
+            "quarters": [
+              25,
+              25,
+              25,
+              25
+            ],
+            "halves": [
+              50,
+              50
+            ]
+          },
+          {
+            "date": "2026-03-03",
+            "opponent": "MIA",
+            "result": "L",
+            "score": "98-124",
+            "quarters": [
+              24,
+              24,
+              24,
+              24
+            ],
+            "halves": [
+              48,
+              48
+            ]
+          },
+          {
+            "date": "2026-03-05",
+            "opponent": "MIA",
+            "result": "L",
+            "score": "110-126",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-07",
+            "opponent": "DET",
+            "result": "W",
+            "score": "107-105",
+            "quarters": [
+              26,
+              26,
+              26,
+              26
+            ],
+            "halves": [
+              52,
+              52
+            ]
+          },
+          {
+            "date": "2026-03-09",
+            "opponent": "MEM",
+            "result": "W",
+            "score": "126-115",
+            "quarters": [
+              31,
+              31,
+              31,
+              31
+            ],
+            "halves": [
+              62,
+              62
+            ]
+          },
+          {
+            "date": "2026-03-10",
+            "opponent": "DET",
+            "result": "L",
+            "score": "100-138",
+            "quarters": [
+              25,
+              25,
+              25,
+              25
+            ],
+            "halves": [
+              50,
+              50
+            ]
+          },
+          {
+            "date": "2026-03-12",
+            "opponent": "ATL",
+            "result": "L",
+            "score": "97-108",
+            "quarters": [
+              24,
+              24,
+              24,
+              24
+            ],
+            "halves": [
+              48,
+              48
+            ]
+          },
+          {
+            "date": "2026-03-14",
+            "opponent": "PHI",
+            "result": "L",
+            "score": "97-104",
+            "quarters": [
+              24,
+              24,
+              24,
+              24
+            ],
+            "halves": [
+              48,
+              48
+            ]
+          },
+          {
+            "date": "2026-03-16",
+            "opponent": "POR",
+            "result": "L",
+            "score": "95-114",
+            "quarters": [
+              23,
+              23,
+              23,
+              23
+            ],
+            "halves": [
+              46,
+              46
+            ]
+          }
+        ],
+        "shap_explanation": {
+          "adj_ortg_10": -0.02273060629981529,
+          "adj_drtg_10": -0.05596031066942672,
+          "adj_pace_10": 0.005202588134142161,
+          "net_rating": 0.0009324622786477121,
+          "roll_efg_pct_10": 0.0023938576910576613,
+          "roll_tov_pct_10": 0.005417420610130357,
+          "roll_orb_pct_10": -0.01654272770320816,
+          "roll_ft_rate_10": -0.002938768012537238,
+          "sos_10": 0.005088113729645869,
+          "is_b2b": 0.0006453473759933104,
+          "p_pts": 0.006020613292827335,
+          "p_reb": 0.014948177149658938,
+          "p_ast": 2.3105853415472667e-07,
+          "p_stl": 0.0026729311397605217,
+          "p_blk": 0.0006140391055571115,
+          "p_tov": -0.01381886316094949,
+          "p_pf": -0.018502542598376692,
+          "p_pm": -0.0009370401665027828,
+          "p_usage": 0.006063728521709209,
+          "p_eff": 0.005092623805745262,
+          "opp_adj_ortg_10": 0.01721491306244861,
+          "opp_adj_drtg_10": 0.05322126871375474,
+          "opp_sos_10": -0.0054827918458248345,
+          "opp_is_b2b": -0.0024466013671519704
+        },
+        "match_id": "odds_73719478",
+        "time": "TBD"
+      },
+      "ml_prob_A": 0.5101079612714242,
+      "mc_win_A": 0.4636,
+      "shap_explanation": {
+        "adj_ortg_10": -0.02273060629981529,
+        "adj_drtg_10": -0.05596031066942672,
+        "adj_pace_10": 0.005202588134142161,
+        "net_rating": 0.0009324622786477121,
+        "roll_efg_pct_10": 0.0023938576910576613,
+        "roll_tov_pct_10": 0.005417420610130357,
+        "roll_orb_pct_10": -0.01654272770320816,
+        "roll_ft_rate_10": -0.002938768012537238,
+        "sos_10": 0.005088113729645869,
+        "is_b2b": 0.0006453473759933104,
+        "p_pts": 0.006020613292827335,
+        "p_reb": 0.014948177149658938,
+        "p_ast": 2.3105853415472667e-07,
+        "p_stl": 0.0026729311397605217,
+        "p_blk": 0.0006140391055571115,
+        "p_tov": -0.01381886316094949,
+        "p_pf": -0.018502542598376692,
+        "p_pm": -0.0009370401665027828,
+        "p_usage": 0.006063728521709209,
+        "p_eff": 0.005092623805745262,
+        "opp_adj_ortg_10": 0.01721491306244861,
+        "opp_adj_drtg_10": 0.05322126871375474,
+        "opp_sos_10": -0.0054827918458248345,
+        "opp_is_b2b": -0.0024466013671519704
+      },
+      "is_b2b_home": 0,
+      "is_b2b_away": 0,
+      "rest_home": 229,
+      "rest_away": 230
+    },
+    {
+      "matchId": "odds_73719480",
+      "matchTime": 1793583000,
+      "gameStatus": "01:30 AM ET",
+      "homeTeam": "GSW",
+      "awayTeam": "LAC",
+      "homeName": "Golden State Warriors",
+      "awayName": "LA Clippers",
+      "is_odds_fallback": true,
+      "prediction": {
+        "main": {
+          "ptsA": 117.44415963955258,
+          "ptsB": 121.84896919836551,
+          "total": 239.2931288379181,
+          "spread": 4.404809558812929,
+          "win_prob_A": 40.97709615085482,
+          "ml_prob_A": 0.4647236151308962,
+          "mc_win_A": 0.346,
+          "base_win_prob_A": 0.3606971798103338,
+          "market_prob_A": null,
+          "market": {
+            "ml": {
+              "home": null,
+              "away": null
+            },
+            "spread": {
+              "hdp": null,
+              "home": null,
+              "away": null
+            },
+            "total": {
+              "hdp": null,
+              "over": null,
+              "under": null
+            }
+          }
+        },
+        "advanced": {
+          "blowout_risk": 0.11853559847642359,
+          "recommended_bet": 0.0,
+          "market_edge": null,
+          "latent_strength_A": -2.8732842108687136,
+          "latent_strength_B": 4.390603830960883,
+          "form_state_A": 0,
+          "form_state_B": 1,
+          "entropy_A": 3.321928094887362
+        },
+        "halves": {
+          "h1_ptsA": 58.00858723648486,
+          "h1_ptsB": 60.73797718247418,
+          "h2_ptsA": 58.00858723648486,
+          "h2_ptsB": 60.73797718247418
+        },
+        "quarters": [
+          {
+            "q": 1,
+            "ptsA": 29.00429361824243,
+            "ptsB": 30.36898859123709
+          },
+          {
+            "q": 2,
+            "ptsA": 29.00429361824243,
+            "ptsB": 30.36898859123709
+          },
+          {
+            "q": 3,
+            "ptsA": 29.00429361824243,
+            "ptsB": 30.36898859123709
+          },
+          {
+            "q": 4,
+            "ptsA": 29.00429361824243,
+            "ptsB": 30.36898859123709
+          }
+        ],
+        "players": [
+          {
+            "player": "Al Horford",
+            "team": "GSW",
+            "proj_pts": 10.396823272400704,
+            "proj_reb": 5.22204063977824,
+            "proj_ast": 3.4144111875473104,
+            "status": "Out",
+            "injury": "Calf",
+            "market_line": null
+          },
+          {
+            "player": "Brandin Podziemski",
+            "team": "GSW",
+            "proj_pts": 17.427056151833565,
+            "proj_reb": 6.627974658180073,
+            "proj_ast": 4.418649772120049,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Buddy Hield",
+            "team": "GSW",
+            "proj_pts": 10.396823272400704,
+            "proj_reb": 2.4101726029745723,
+            "proj_ast": 1.807629452230929,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "De'Anthony Melton",
+            "team": "GSW",
+            "proj_pts": 18.219195067825996,
+            "proj_reb": 3.9165304798336797,
+            "proj_ast": 3.012715753718215,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Draymond Green",
+            "team": "GSW",
+            "proj_pts": 8.713528075916782,
+            "proj_reb": 5.523312215150061,
+            "proj_ast": 6.427126941265526,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Gary Payton II",
+            "team": "GSW",
+            "proj_pts": 12.674222655878955,
+            "proj_reb": 5.121616781320966,
+            "proj_ast": 2.008477169145477,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Gui Santos",
+            "team": "GSW",
+            "proj_pts": 15.743760955349638,
+            "proj_reb": 6.125855365893704,
+            "proj_ast": 4.418649772120049,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jimmy Butler III",
+            "team": "GSW",
+            "proj_pts": 20.79364654480141,
+            "proj_reb": 5.422888356692788,
+            "proj_ast": 4.8203452059491445,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jonathan Kuminga",
+            "team": "GSW",
+            "proj_pts": 8.0204065244234,
+            "proj_reb": 4.619497489034596,
+            "proj_ast": 1.908053310688203,
+            "status": "Out",
+            "injury": "Knee",
+            "market_line": null
+          },
+          {
+            "player": "Kristaps Porzi\u0146\u0123is",
+            "team": "GSW",
+            "proj_pts": 15.34769149735342,
+            "proj_reb": 3.5148350460045843,
+            "proj_ast": 2.1089010276027507,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "LJ Cryer",
+            "team": "GSW",
+            "proj_pts": 6.931215514933803,
+            "proj_reb": 1.6737309742878974,
+            "proj_ast": 0.5579103247626325,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Malevy Leons",
+            "team": "GSW",
+            "proj_pts": 3.366590392967847,
+            "proj_reb": 2.4101726029745723,
+            "proj_ast": 0.8033908676581908,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Moses Moody",
+            "team": "GSW",
+            "proj_pts": 15.545726226351528,
+            "proj_reb": 4.016954338290954,
+            "proj_ast": 2.510596461431846,
+            "status": "Out",
+            "injury": "Wrist",
+            "market_line": null
+          },
+          {
+            "player": "Nate Williams",
+            "team": "GSW",
+            "proj_pts": 5.817270164319441,
+            "proj_reb": 1.6318876999307,
+            "proj_ast": 0.7531789384295537,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Omer Yurtseven",
+            "team": "GSW",
+            "proj_pts": 0.9901736449905433,
+            "proj_reb": 2.008477169145477,
+            "proj_ast": 0.5021192922863692,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Pat Spencer",
+            "team": "GSW",
+            "proj_pts": 8.416475982419618,
+            "proj_reb": 2.4101726029745723,
+            "proj_ast": 4.117378196748227,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Quinten Post",
+            "team": "GSW",
+            "proj_pts": 8.812545440415835,
+            "proj_reb": 5.322464498235513,
+            "proj_ast": 1.7072055937736552,
+            "status": "Questionable",
+            "injury": "Foot",
+            "market_line": null
+          },
+          {
+            "player": "Seth Curry",
+            "team": "GSW",
+            "proj_pts": 6.683672103686167,
+            "proj_reb": 1.5063578768591075,
+            "proj_ast": 1.7574175230022921,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Stephen Curry",
+            "team": "GSW",
+            "proj_pts": 22.57595910578439,
+            "proj_reb": 2.711444178346394,
+            "proj_ast": 5.422888356692788,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Trayce Jackson-Davis",
+            "team": "GSW",
+            "proj_pts": 2.5744514769754128,
+            "proj_reb": 1.0042385845727384,
+            "proj_ast": 0.5021192922863692,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Will Richard",
+            "team": "GSW",
+            "proj_pts": 6.832198150434749,
+            "proj_reb": 3.3139873290900366,
+            "proj_ast": 1.5063578768591075,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Bennedict Mathurin",
+            "team": "LAC",
+            "proj_pts": 19.715232717682746,
+            "proj_reb": 5.824583790521882,
+            "proj_ast": 1.7072055937736552,
+            "status": "Out",
+            "injury": "Toe",
+            "market_line": null
+          },
+          {
+            "player": "Bogdan Bogdanovi\u0107",
+            "team": "LAC",
+            "proj_pts": 6.199119565869317,
+            "proj_reb": 2.309748744517298,
+            "proj_ast": 2.1089010276027507,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Bradley Beal",
+            "team": "LAC",
+            "proj_pts": 8.29936772479772,
+            "proj_reb": 0.8368654871439487,
+            "proj_ast": 1.6737309742878974,
+            "status": "Out For Season",
+            "injury": "Hip",
+            "market_line": null
+          },
+          {
+            "player": "Brook Lopez",
+            "team": "LAC",
+            "proj_pts": 10.365740913420826,
+            "proj_reb": 3.615258904461858,
+            "proj_ast": 1.7072055937736552,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Cam Christie",
+            "team": "LAC",
+            "proj_pts": 1.524373663738357,
+            "proj_reb": 0.9038147261154645,
+            "proj_ast": 0.5021192922863692,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Chris Paul",
+            "team": "LAC",
+            "proj_pts": 3.1503722383926043,
+            "proj_reb": 1.7072055937736552,
+            "proj_ast": 2.912291895260941,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Dalano Banton",
+            "team": "LAC",
+            "proj_pts": 3.048747327476714,
+            "proj_reb": 0.5021192922863692,
+            "proj_ast": 1.0042385845727384,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Darius Garland",
+            "team": "LAC",
+            "proj_pts": 20.73148182684165,
+            "proj_reb": 2.2093248860600245,
+            "proj_ast": 6.7283985166373474,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Derrick Jones Jr.",
+            "team": "LAC",
+            "proj_pts": 11.788489666243292,
+            "proj_reb": 4.016954338290954,
+            "proj_ast": 1.2050863014872861,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Isaiah Jackson",
+            "team": "LAC",
+            "proj_pts": 6.808869031364661,
+            "proj_reb": 4.619497489034596,
+            "proj_ast": 1.30551015994456,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Ivica Zubac",
+            "team": "LAC",
+            "proj_pts": 12.601488953570417,
+            "proj_reb": 12.05086301487286,
+            "proj_ast": 1.5063578768591075,
+            "status": "Questionable",
+            "injury": "Head",
+            "market_line": null
+          },
+          {
+            "player": "Jahmyl Telfort",
+            "team": "LAC",
+            "proj_pts": 0.12703113864486307,
+            "proj_reb": 0.3765894692147769,
+            "proj_ast": 0.1255298230715923,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "James Harden",
+            "team": "LAC",
+            "proj_pts": 24.59322844164549,
+            "proj_reb": 5.121616781320966,
+            "proj_ast": 8.736875685782824,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "John Collins",
+            "team": "LAC",
+            "proj_pts": 14.633987171888226,
+            "proj_reb": 6.427126941265526,
+            "proj_ast": 1.2050863014872861,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jordan Miller",
+            "team": "LAC",
+            "proj_pts": 11.991739488075075,
+            "proj_reb": 2.912291895260941,
+            "proj_ast": 3.4144111875473104,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Kawhi Leonard",
+            "team": "LAC",
+            "proj_pts": 30.792348007514807,
+            "proj_reb": 6.326703082808252,
+            "proj_ast": 3.615258904461858,
+            "status": "Questionable",
+            "injury": "Ankle",
+            "market_line": null
+          },
+          {
+            "player": "Kobe Brown",
+            "team": "LAC",
+            "proj_pts": 2.3373729510654804,
+            "proj_reb": 1.1046624430300123,
+            "proj_ast": 0.5021192922863692,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Kobe Sanders",
+            "team": "LAC",
+            "proj_pts": 7.520243407775894,
+            "proj_reb": 1.908053310688203,
+            "proj_ast": 1.30551015994456,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Kris Dunn",
+            "team": "LAC",
+            "proj_pts": 6.808869031364661,
+            "proj_reb": 4.719921347491871,
+            "proj_ast": 4.016954338290954,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Nicolas Batum",
+            "team": "LAC",
+            "proj_pts": 2.7438725947290425,
+            "proj_reb": 1.807629452230929,
+            "proj_ast": 1.2050863014872861,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Norchad Omier",
+            "team": "LAC",
+            "proj_pts": 2.709997624423745,
+            "proj_reb": 1.3389847794303178,
+            "proj_ast": 0.33474619485757945,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Patrick Baldwin Jr.",
+            "team": "LAC",
+            "proj_pts": 5.0812455457945225,
+            "proj_reb": 0.5021192922863692,
+            "proj_ast": 0.0,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "RayJ Dennis",
+            "team": "LAC",
+            "proj_pts": 2.032498218317809,
+            "proj_reb": 0.9038147261154645,
+            "proj_ast": 0.5021192922863692,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Sean Pedulla",
+            "team": "LAC",
+            "proj_pts": 6.097494654953428,
+            "proj_reb": 1.0042385845727384,
+            "proj_ast": 3.012715753718215,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "TyTy Washington Jr.",
+            "team": "LAC",
+            "proj_pts": 2.145414786002132,
+            "proj_reb": 0.22316412990505297,
+            "proj_ast": 1.2274027144777915,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Yanic Konan Niederh\u00e4user",
+            "team": "LAC",
+            "proj_pts": 7.012118853196442,
+            "proj_reb": 5.121616781320966,
+            "proj_ast": 0.4016954338290954,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          }
+        ],
+        "factors": {
+          "teamA": {
+            "efg": 0.5309610017743458,
+            "tov": 0.12095294231821625,
+            "orb": 0.2981287556929685,
+            "ftr": 0.19842393388600962,
+            "sos": -1.1071306320688743,
+            "rest": 231,
+            "is_b2b": 0,
+            "ml_influence": {
+              "roll_efg_pct_10": -0.006105279859074102,
+              "roll_tov_pct_10": 0.010531402081714703,
+              "roll_orb_pct_10": 0.002460135551049234,
+              "roll_ft_rate_10": -0.0013775293792237164,
+              "p_tov": -0.011791345064731047
+            }
+          },
+          "teamB": {
+            "efg": 0.5780380005774381,
+            "tov": 0.09988052785624454,
+            "orb": 0.2504721507438899,
+            "ftr": 0.3242163734971018,
+            "sos": -0.24137154569838107,
+            "rest": 231,
+            "is_b2b": 0
+          }
+        },
+        "margins": {
+          "1-5": 0.11338907912034143,
+          "6-10": 0.048233541927788774,
+          "11+": 0.0754205084172074
+        },
+        "formA": [
+          {
+            "date": "2026-02-25",
+            "opponent": "MEM",
+            "result": "W",
+            "score": "133-112",
+            "quarters": [
+              33,
+              33,
+              33,
+              33
+            ],
+            "halves": [
+              66,
+              66
+            ]
+          },
+          {
+            "date": "2026-02-28",
+            "opponent": "LAL",
+            "result": "L",
+            "score": "101-129",
+            "quarters": [
+              25,
+              25,
+              25,
+              25
+            ],
+            "halves": [
+              50,
+              50
+            ]
+          },
+          {
+            "date": "2026-03-02",
+            "opponent": "LAC",
+            "result": "L",
+            "score": "101-114",
+            "quarters": [
+              25,
+              25,
+              25,
+              25
+            ],
+            "halves": [
+              50,
+              50
+            ]
+          },
+          {
+            "date": "2026-03-05",
+            "opponent": "HOU",
+            "result": "W",
+            "score": "115-113",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-07",
+            "opponent": "OKC",
+            "result": "L",
+            "score": "97-104",
+            "quarters": [
+              24,
+              24,
+              24,
+              24
+            ],
+            "halves": [
+              48,
+              48
+            ]
+          },
+          {
+            "date": "2026-03-09",
+            "opponent": "UTA",
+            "result": "L",
+            "score": "116-119",
+            "quarters": [
+              29,
+              29,
+              29,
+              29
+            ],
+            "halves": [
+              58,
+              58
+            ]
+          },
+          {
+            "date": "2026-03-10",
+            "opponent": "CHI",
+            "result": "L",
+            "score": "124-130",
+            "quarters": [
+              31,
+              31,
+              31,
+              31
+            ],
+            "halves": [
+              62,
+              62
+            ]
+          },
+          {
+            "date": "2026-03-13",
+            "opponent": "MIN",
+            "result": "L",
+            "score": "117-127",
+            "quarters": [
+              29,
+              29,
+              29,
+              29
+            ],
+            "halves": [
+              58,
+              58
+            ]
+          },
+          {
+            "date": "2026-03-15",
+            "opponent": "NYK",
+            "result": "L",
+            "score": "107-110",
+            "quarters": [
+              26,
+              26,
+              26,
+              26
+            ],
+            "halves": [
+              52,
+              52
+            ]
+          },
+          {
+            "date": "2026-03-16",
+            "opponent": "WAS",
+            "result": "W",
+            "score": "125-117",
+            "quarters": [
+              31,
+              31,
+              31,
+              31
+            ],
+            "halves": [
+              62,
+              62
+            ]
+          }
+        ],
+        "formB": [
+          {
+            "date": "2026-03-01",
+            "opponent": "NOP",
+            "result": "W",
+            "score": "137-117",
+            "quarters": [
+              34,
+              34,
+              34,
+              34
+            ],
+            "halves": [
+              68,
+              68
+            ]
+          },
+          {
+            "date": "2026-03-02",
+            "opponent": "GSW",
+            "result": "W",
+            "score": "114-101",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-04",
+            "opponent": "IND",
+            "result": "W",
+            "score": "130-107",
+            "quarters": [
+              32,
+              32,
+              32,
+              32
+            ],
+            "halves": [
+              64,
+              64
+            ]
+          },
+          {
+            "date": "2026-03-06",
+            "opponent": "SAS",
+            "result": "L",
+            "score": "112-116",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-07",
+            "opponent": "MEM",
+            "result": "W",
+            "score": "123-120",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          },
+          {
+            "date": "2026-03-09",
+            "opponent": "NYK",
+            "result": "W",
+            "score": "126-118",
+            "quarters": [
+              31,
+              31,
+              31,
+              31
+            ],
+            "halves": [
+              62,
+              62
+            ]
+          },
+          {
+            "date": "2026-03-11",
+            "opponent": "MIN",
+            "result": "W",
+            "score": "153-128",
+            "quarters": [
+              38,
+              38,
+              38,
+              38
+            ],
+            "halves": [
+              76,
+              76
+            ]
+          },
+          {
+            "date": "2026-03-13",
+            "opponent": "CHI",
+            "result": "W",
+            "score": "119-108",
+            "quarters": [
+              29,
+              29,
+              29,
+              29
+            ],
+            "halves": [
+              58,
+              58
+            ]
+          },
+          {
+            "date": "2026-03-14",
+            "opponent": "SAC",
+            "result": "L",
+            "score": "109-118",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-16",
+            "opponent": "SAS",
+            "result": "L",
+            "score": "115-119",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          }
+        ],
+        "shap_explanation": {
+          "adj_ortg_10": 0.002329469959293249,
+          "adj_drtg_10": -0.03423618001545421,
+          "adj_pace_10": -0.00144311807860646,
+          "net_rating": -0.00960392561424257,
+          "roll_efg_pct_10": -0.006105279859074102,
+          "roll_tov_pct_10": 0.010531402081714703,
+          "roll_orb_pct_10": 0.002460135551049234,
+          "roll_ft_rate_10": -0.0013775293792237164,
+          "sos_10": -0.007986882780459724,
+          "is_b2b": 0.0005260797810569784,
+          "p_pts": 0.009336053962491491,
+          "p_reb": 0.025221778162872254,
+          "p_ast": 0.005550087104605694,
+          "p_stl": 0.018179074894683112,
+          "p_blk": 0.0032125040832369223,
+          "p_tov": -0.011791345064731047,
+          "p_pf": -0.007043927374035448,
+          "p_pm": -0.004558167882900648,
+          "p_usage": -0.00361523429233344,
+          "p_eff": -0.004289213209796543,
+          "opp_adj_ortg_10": -0.04230232857087685,
+          "opp_adj_drtg_10": -0.004081949934515023,
+          "opp_sos_10": 0.0036384055077675016,
+          "opp_is_b2b": -0.0017661949997383887
+        },
+        "match_id": "odds_73719480",
+        "time": "TBD"
+      },
+      "ml_prob_A": 0.4647236151308962,
+      "mc_win_A": 0.346,
+      "shap_explanation": {
+        "adj_ortg_10": 0.002329469959293249,
+        "adj_drtg_10": -0.03423618001545421,
+        "adj_pace_10": -0.00144311807860646,
+        "net_rating": -0.00960392561424257,
+        "roll_efg_pct_10": -0.006105279859074102,
+        "roll_tov_pct_10": 0.010531402081714703,
+        "roll_orb_pct_10": 0.002460135551049234,
+        "roll_ft_rate_10": -0.0013775293792237164,
+        "sos_10": -0.007986882780459724,
+        "is_b2b": 0.0005260797810569784,
+        "p_pts": 0.009336053962491491,
+        "p_reb": 0.025221778162872254,
+        "p_ast": 0.005550087104605694,
+        "p_stl": 0.018179074894683112,
+        "p_blk": 0.0032125040832369223,
+        "p_tov": -0.011791345064731047,
+        "p_pf": -0.007043927374035448,
+        "p_pm": -0.004558167882900648,
+        "p_usage": -0.00361523429233344,
+        "p_eff": -0.004289213209796543,
+        "opp_adj_ortg_10": -0.04230232857087685,
+        "opp_adj_drtg_10": -0.004081949934515023,
+        "opp_sos_10": 0.0036384055077675016,
+        "opp_is_b2b": -0.0017661949997383887
+      },
+      "is_b2b_home": 0,
+      "is_b2b_away": 0,
+      "rest_home": 231,
+      "rest_away": 231
+    },
+    {
+      "matchId": "odds_73719482",
+      "matchTime": 1793584800,
+      "gameStatus": "02:00 AM ET",
+      "homeTeam": "LAL",
+      "awayTeam": "TOR",
+      "homeName": "Los Angeles Lakers",
+      "awayName": "Toronto Raptors",
+      "is_odds_fallback": true,
+      "prediction": {
+        "main": {
+          "ptsA": 119.98116440890446,
+          "ptsB": 112.83868241357314,
+          "total": 232.8198468224776,
+          "spread": -7.142481995331323,
+          "win_prob_A": 62.93742824460248,
+          "ml_prob_A": 0.5811678216875523,
+          "mc_win_A": 0.6214,
+          "base_win_prob_A": 0.7150345720074955,
+          "market_prob_A": null,
+          "market": {
+            "ml": {
+              "home": null,
+              "away": null
+            },
+            "spread": {
+              "hdp": null,
+              "home": null,
+              "away": null
+            },
+            "total": {
+              "hdp": null,
+              "over": null,
+              "under": null
+            }
+          }
+        },
+        "advanced": {
+          "blowout_risk": 0.11853559847642359,
+          "recommended_bet": 0.0,
+          "market_edge": null,
+          "latent_strength_A": 6.870047814537148,
+          "latent_strength_B": 1.9461049922231322,
+          "form_state_A": 1,
+          "form_state_B": 1,
+          "entropy_A": 3.321928094887362
+        },
+        "halves": {
+          "h1_ptsA": 59.058297283367786,
+          "h1_ptsB": 56.451626127871016,
+          "h2_ptsA": 59.058297283367786,
+          "h2_ptsB": 56.451626127871016
+        },
+        "quarters": [
+          {
+            "q": 1,
+            "ptsA": 29.529148641683893,
+            "ptsB": 28.225813063935508
+          },
+          {
+            "q": 2,
+            "ptsA": 29.529148641683893,
+            "ptsB": 28.225813063935508
+          },
+          {
+            "q": 3,
+            "ptsA": 29.529148641683893,
+            "ptsB": 28.225813063935508
+          },
+          {
+            "q": 4,
+            "ptsA": 29.529148641683893,
+            "ptsB": 28.225813063935508
+          }
+        ],
+        "players": [
+          {
+            "player": "Adou Thiero",
+            "team": "LAL",
+            "proj_pts": 1.7532472550038232,
+            "proj_reb": 1.3902416918210037,
+            "proj_ast": 0.4965148899360728,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Austin Reaves",
+            "team": "LAL",
+            "proj_pts": 20.746759184211907,
+            "proj_reb": 4.170725075463012,
+            "proj_ast": 5.362360811309586,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Bronny James",
+            "team": "LAL",
+            "proj_pts": 3.0194813836176952,
+            "proj_reb": 0.4965148899360728,
+            "proj_ast": 1.2909387138337893,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Chris Ma\u00f1on",
+            "team": "LAL",
+            "proj_pts": 0.32467541759330054,
+            "proj_reb": 0.9930297798721456,
+            "proj_ast": 0.16550496331202424,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Christian Koloko",
+            "team": "LAL",
+            "proj_pts": 0.0,
+            "proj_reb": 0.4965148899360728,
+            "proj_ast": 0.0,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Dalton Knecht",
+            "team": "LAL",
+            "proj_pts": 1.9480525055598035,
+            "proj_reb": 0.9930297798721456,
+            "proj_ast": 0.29790893396164364,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Deandre Ayton",
+            "team": "LAL",
+            "proj_pts": 8.766236275019116,
+            "proj_reb": 7.7456322830027355,
+            "proj_ast": 0.7944238238977165,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Drew Timme",
+            "team": "LAL",
+            "proj_pts": 3.409091884729656,
+            "proj_reb": 1.0923327578593602,
+            "proj_ast": 0.4965148899360728,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Gabe Vincent",
+            "team": "LAL",
+            "proj_pts": 3.993507636397597,
+            "proj_reb": 0.893726801884931,
+            "proj_ast": 1.0923327578593602,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jake LaRavia",
+            "team": "LAL",
+            "proj_pts": 5.74675489140142,
+            "proj_reb": 3.4756042295525096,
+            "proj_ast": 1.787453603769862,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jarred Vanderbilt",
+            "team": "LAL",
+            "proj_pts": 1.7532472550038232,
+            "proj_reb": 2.681180405654793,
+            "proj_ast": 0.7944238238977165,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jaxson Hayes",
+            "team": "LAL",
+            "proj_pts": 6.2337680177913715,
+            "proj_reb": 4.170725075463012,
+            "proj_ast": 0.6951208459105018,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Kobe Bufkin",
+            "team": "LAL",
+            "proj_pts": 2.922078758339705,
+            "proj_reb": 0.7944238238977165,
+            "proj_ast": 0.39721191194885824,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "LeBron James",
+            "team": "LAL",
+            "proj_pts": 18.701304053374113,
+            "proj_reb": 5.362360811309586,
+            "proj_ast": 5.958178679232874,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Luka Don\u010di\u0107",
+            "team": "LAL",
+            "proj_pts": 32.62987946812671,
+            "proj_reb": 8.639359084887666,
+            "proj_ast": 7.646329305015521,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Luke Kennard",
+            "team": "LAL",
+            "proj_pts": 8.474028399185144,
+            "proj_reb": 1.8867565817570766,
+            "proj_ast": 2.085362537731506,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Marcus Smart",
+            "team": "LAL",
+            "proj_pts": 10.227275654188968,
+            "proj_reb": 2.383271471693149,
+            "proj_ast": 2.681180405654793,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Maxi Kleber",
+            "team": "LAL",
+            "proj_pts": 2.5324682572277446,
+            "proj_reb": 2.1846655157187205,
+            "proj_ast": 0.29790893396164364,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Nick Smith Jr.",
+            "team": "LAL",
+            "proj_pts": 2.240260381393774,
+            "proj_reb": 0.29790893396164364,
+            "proj_ast": 0.7944238238977165,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Rui Hachimura",
+            "team": "LAL",
+            "proj_pts": 9.545457277243038,
+            "proj_reb": 2.482574449680364,
+            "proj_ast": 0.7944238238977165,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "A.J. Lawson",
+            "team": "TOR",
+            "proj_pts": 2.9870704800531227,
+            "proj_reb": 1.588847647795433,
+            "proj_ast": 0.29790893396164364,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Alijah Martin",
+            "team": "TOR",
+            "proj_pts": 1.6802271450298814,
+            "proj_reb": 0.29790893396164364,
+            "proj_ast": 0.19860595597442912,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Brandon Ingram",
+            "team": "TOR",
+            "proj_pts": 20.162725740358578,
+            "proj_reb": 5.263057833322371,
+            "proj_ast": 3.7735131635141532,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Chucky Hepburn",
+            "team": "TOR",
+            "proj_pts": 0.0,
+            "proj_reb": 0.4965148899360728,
+            "proj_ast": 0.9930297798721456,
+            "status": "Out",
+            "injury": "Knee",
+            "market_line": null
+          },
+          {
+            "player": "Collin Murray-Boyles",
+            "team": "TOR",
+            "proj_pts": 7.374330247631146,
+            "proj_reb": 4.369331031437441,
+            "proj_ast": 1.9860595597442912,
+            "status": "Doubtful",
+            "injury": "Thumb",
+            "market_line": null
+          },
+          {
+            "player": "Garrett Temple",
+            "team": "TOR",
+            "proj_pts": 0.2800378575049802,
+            "proj_reb": 0.19860595597442912,
+            "proj_ast": 0.29790893396164364,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Gradey Dick",
+            "team": "TOR",
+            "proj_pts": 4.760643577584664,
+            "proj_reb": 1.588847647795433,
+            "proj_ast": 0.4965148899360728,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Immanuel Quickley",
+            "team": "TOR",
+            "proj_pts": 15.402082162773914,
+            "proj_reb": 3.177695295590866,
+            "proj_ast": 5.858875701245659,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Ja'Kobe Walter",
+            "team": "TOR",
+            "proj_pts": 5.787449055102925,
+            "proj_reb": 2.482574449680364,
+            "proj_ast": 1.1916357358465746,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jakob Poeltl",
+            "team": "TOR",
+            "proj_pts": 10.268054775182609,
+            "proj_reb": 7.7456322830027355,
+            "proj_ast": 2.1846655157187205,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jamal Shead",
+            "team": "TOR",
+            "proj_pts": 5.507411197597945,
+            "proj_reb": 1.6881506257826475,
+            "proj_ast": 3.4756042295525096,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jamison Battle",
+            "team": "TOR",
+            "proj_pts": 2.146956907538182,
+            "proj_reb": 1.6881506257826475,
+            "proj_ast": 0.29790893396164364,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Jonathan Mogbo",
+            "team": "TOR",
+            "proj_pts": 0.6534216675116206,
+            "proj_reb": 1.588847647795433,
+            "proj_ast": 0.29790893396164364,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Mo Bamba",
+            "team": "TOR",
+            "proj_pts": 0.0,
+            "proj_reb": 0.9930297798721456,
+            "proj_ast": 0.0,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Ochai Agbaji",
+            "team": "TOR",
+            "proj_pts": 4.480605720079684,
+            "proj_reb": 1.787453603769862,
+            "proj_ast": 0.4965148899360728,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "RJ Barrett",
+            "team": "TOR",
+            "proj_pts": 20.536109550365218,
+            "proj_reb": 6.057481657220087,
+            "proj_ast": 2.482574449680364,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Sandro Mamukelashvili",
+            "team": "TOR",
+            "proj_pts": 6.814254532621185,
+            "proj_reb": 4.2700280534502255,
+            "proj_ast": 1.1916357358465746,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Scottie Barnes",
+            "team": "TOR",
+            "proj_pts": 14.561968590258973,
+            "proj_reb": 4.766542943386298,
+            "proj_ast": 3.9721191194885823,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          },
+          {
+            "player": "Trayce Jackson-Davis",
+            "team": "TOR",
+            "proj_pts": 1.4935352400265614,
+            "proj_reb": 2.383271471693149,
+            "proj_ast": 0.4965148899360728,
+            "status": "Active",
+            "injury": "",
+            "market_line": null
+          }
+        ],
+        "factors": {
+          "teamA": {
+            "efg": 0.5780753275432202,
+            "tov": 0.11158933678254193,
+            "orb": 0.23518860635575844,
+            "ftr": 0.2616055945202051,
+            "sos": -2.7034910652100628,
+            "rest": 231,
+            "is_b2b": 0,
+            "ml_influence": {
+              "roll_efg_pct_10": 0.00449614822879866,
+              "roll_tov_pct_10": 0.013843034203929249,
+              "roll_orb_pct_10": -0.00915949422819807,
+              "roll_ft_rate_10": -0.0011889350781636664,
+              "p_tov": -0.002420251441609622
+            }
+          },
+          "teamB": {
+            "efg": 0.5427073718696395,
+            "tov": 0.11476880066085389,
+            "orb": 0.23069259181487606,
+            "ftr": 0.27086597908029403,
+            "sos": 3.047519908876628,
+            "rest": 232,
+            "is_b2b": 0
+          }
+        },
+        "margins": {
+          "1-5": 0.22106685847047253,
+          "6-10": 0.09455706350789451,
+          "11+": 0.15242679326061698
+        },
+        "formA": [
+          {
+            "date": "2026-02-28",
+            "opponent": "GSW",
+            "result": "W",
+            "score": "129-101",
+            "quarters": [
+              32,
+              32,
+              32,
+              32
+            ],
+            "halves": [
+              64,
+              64
+            ]
+          },
+          {
+            "date": "2026-03-01",
+            "opponent": "SAC",
+            "result": "W",
+            "score": "128-104",
+            "quarters": [
+              32,
+              32,
+              32,
+              32
+            ],
+            "halves": [
+              64,
+              64
+            ]
+          },
+          {
+            "date": "2026-03-03",
+            "opponent": "NOP",
+            "result": "W",
+            "score": "110-101",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-05",
+            "opponent": "DEN",
+            "result": "L",
+            "score": "113-120",
+            "quarters": [
+              28,
+              28,
+              28,
+              28
+            ],
+            "halves": [
+              56,
+              56
+            ]
+          },
+          {
+            "date": "2026-03-06",
+            "opponent": "IND",
+            "result": "W",
+            "score": "128-117",
+            "quarters": [
+              32,
+              32,
+              32,
+              32
+            ],
+            "halves": [
+              64,
+              64
+            ]
+          },
+          {
+            "date": "2026-03-08",
+            "opponent": "NYK",
+            "result": "W",
+            "score": "110-97",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-10",
+            "opponent": "MIN",
+            "result": "W",
+            "score": "120-106",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          },
+          {
+            "date": "2026-03-12",
+            "opponent": "CHI",
+            "result": "W",
+            "score": "142-130",
+            "quarters": [
+              35,
+              35,
+              35,
+              35
+            ],
+            "halves": [
+              70,
+              70
+            ]
+          },
+          {
+            "date": "2026-03-14",
+            "opponent": "DEN",
+            "result": "W",
+            "score": "127-125",
+            "quarters": [
+              31,
+              31,
+              31,
+              31
+            ],
+            "halves": [
+              62,
+              62
+            ]
+          },
+          {
+            "date": "2026-03-16",
+            "opponent": "HOU",
+            "result": "W",
+            "score": "100-92",
+            "quarters": [
+              25,
+              25,
+              25,
+              25
+            ],
+            "halves": [
+              50,
+              50
+            ]
+          }
+        ],
+        "formB": [
+          {
+            "date": "2026-02-24",
+            "opponent": "OKC",
+            "result": "L",
+            "score": "107-116",
+            "quarters": [
+              26,
+              26,
+              26,
+              26
+            ],
+            "halves": [
+              52,
+              52
+            ]
+          },
+          {
+            "date": "2026-02-25",
+            "opponent": "SAS",
+            "result": "L",
+            "score": "107-110",
+            "quarters": [
+              26,
+              26,
+              26,
+              26
+            ],
+            "halves": [
+              52,
+              52
+            ]
+          },
+          {
+            "date": "2026-02-28",
+            "opponent": "WAS",
+            "result": "W",
+            "score": "134-125",
+            "quarters": [
+              33,
+              33,
+              33,
+              33
+            ],
+            "halves": [
+              66,
+              66
+            ]
+          },
+          {
+            "date": "2026-03-03",
+            "opponent": "NYK",
+            "result": "L",
+            "score": "95-111",
+            "quarters": [
+              23,
+              23,
+              23,
+              23
+            ],
+            "halves": [
+              46,
+              46
+            ]
+          },
+          {
+            "date": "2026-03-05",
+            "opponent": "MIN",
+            "result": "L",
+            "score": "107-115",
+            "quarters": [
+              26,
+              26,
+              26,
+              26
+            ],
+            "halves": [
+              52,
+              52
+            ]
+          },
+          {
+            "date": "2026-03-08",
+            "opponent": "DAL",
+            "result": "W",
+            "score": "122-92",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          },
+          {
+            "date": "2026-03-10",
+            "opponent": "HOU",
+            "result": "L",
+            "score": "99-113",
+            "quarters": [
+              24,
+              24,
+              24,
+              24
+            ],
+            "halves": [
+              48,
+              48
+            ]
+          },
+          {
+            "date": "2026-03-11",
+            "opponent": "NOP",
+            "result": "L",
+            "score": "111-122",
+            "quarters": [
+              27,
+              27,
+              27,
+              27
+            ],
+            "halves": [
+              54,
+              54
+            ]
+          },
+          {
+            "date": "2026-03-13",
+            "opponent": "PHX",
+            "result": "W",
+            "score": "122-115",
+            "quarters": [
+              30,
+              30,
+              30,
+              30
+            ],
+            "halves": [
+              60,
+              60
+            ]
+          },
+          {
+            "date": "2026-03-15",
+            "opponent": "DET",
+            "result": "W",
+            "score": "119-108",
+            "quarters": [
+              29,
+              29,
+              29,
+              29
+            ],
+            "halves": [
+              58,
+              58
+            ]
+          }
+        ],
+        "shap_explanation": {
+          "adj_ortg_10": 0.0347651108136462,
+          "adj_drtg_10": 0.030870593936566593,
+          "adj_pace_10": 0.006519663692294415,
+          "net_rating": -0.010578118850543774,
+          "roll_efg_pct_10": 0.00449614822879866,
+          "roll_tov_pct_10": 0.013843034203929249,
+          "roll_orb_pct_10": -0.00915949422819807,
+          "roll_ft_rate_10": -0.0011889350781636664,
+          "sos_10": 0.002794095405433552,
+          "is_b2b": 0.00034923397058577165,
+          "p_pts": 0.001318615766425708,
+          "p_reb": 0.006537763285152067,
+          "p_ast": -0.011022853047768707,
+          "p_stl": 0.0025855161667674054,
+          "p_blk": 0.006721356835162879,
+          "p_tov": -0.002420251441609622,
+          "p_pf": -0.0024082814032037447,
+          "p_pm": -0.0035464691718723883,
+          "p_usage": 0.0015034347747830167,
+          "p_eff": 0.00798635730069016,
+          "opp_adj_ortg_10": 0.003507084479732896,
+          "opp_adj_drtg_10": -0.021120056704189663,
+          "opp_sos_10": -0.0038925486524831856,
+          "opp_is_b2b": -0.0012330740387355376
+        },
+        "match_id": "odds_73719482",
+        "time": "TBD"
+      },
+      "ml_prob_A": 0.5811678216875523,
+      "mc_win_A": 0.6214,
+      "shap_explanation": {
+        "adj_ortg_10": 0.0347651108136462,
+        "adj_drtg_10": 0.030870593936566593,
+        "adj_pace_10": 0.006519663692294415,
+        "net_rating": -0.010578118850543774,
+        "roll_efg_pct_10": 0.00449614822879866,
+        "roll_tov_pct_10": 0.013843034203929249,
+        "roll_orb_pct_10": -0.00915949422819807,
+        "roll_ft_rate_10": -0.0011889350781636664,
+        "sos_10": 0.002794095405433552,
+        "is_b2b": 0.00034923397058577165,
+        "p_pts": 0.001318615766425708,
+        "p_reb": 0.006537763285152067,
+        "p_ast": -0.011022853047768707,
+        "p_stl": 0.0025855161667674054,
+        "p_blk": 0.006721356835162879,
+        "p_tov": -0.002420251441609622,
+        "p_pf": -0.0024082814032037447,
+        "p_pm": -0.0035464691718723883,
+        "p_usage": 0.0015034347747830167,
+        "p_eff": 0.00798635730069016,
+        "opp_adj_ortg_10": 0.003507084479732896,
+        "opp_adj_drtg_10": -0.021120056704189663,
+        "opp_sos_10": -0.0038925486524831856,
+        "opp_is_b2b": -0.0012330740387355376
+      },
+      "is_b2b_home": 0,
+      "is_b2b_away": 0,
+      "rest_home": 231,
+      "rest_away": 232
     }
   ]
 };
